@@ -44,29 +44,4 @@
   </div>
 </section>
 
-{{/* ── LOG SECTION — uncomment when ready ── }}
-<section class="sc-log">
-  <div class="lh">
-    <span class="lt">Log</span>
-    <span class="ls">&mdash; essays by month</span>
-    <a href="{{ "/posts/" | relURL }}" class="ll">Full archive &rarr;</a>
-  </div>
-  <div class="lmonths">
-    {{ range ($posts.GroupByDate "January 2006") }}
-    <div class="lm">
-      <div class="lmn">{{ .Key }}</div>
-      {{ range .Pages }}
-      <div class="le">
-        {{ range .Params.categories }}
-        <span class="le-pill pill-{{ . | lower | urlize }}">{{ . }}</span>
-        {{ end }}
-        <span class="let">{{ .Title }}</span>
-      </div>
-      {{ end }}
-    </div>
-    {{ end }}
-  </div>
-</section>
-{{ end }}
-
 {{ end }}
