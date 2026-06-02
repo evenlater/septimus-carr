@@ -11,7 +11,7 @@ imagePosition: "center"
 
 
 >“I have tried … to avoid unnecessary dwelling on my own feelings, or my own needs, or my own—oh dear—character. … I now wonder …whether all writing has a tendency to flow like a river towards the writer’s body and the writer’s own experience.”
-{{<cite>}}- A.S. Byatt, *The Biographer’s Tale*{{</cite>}}
+<cite>- A.S. Byatt, *The Biographer’s Tale*</cite>
 
 The gradual acceptance of self-revelation is a rite of passage for many introverted authors, a fact I contemplated while reading the introduction to *Selected Stories* of Anton Chekhov, a short fiction compilation translated by Richard Pevear and Larissa Volokhonsky. “He constantly portrayed himself in his work,” asserts Pevear, “and constantly denied it.” The necessity of exposure is explored in Chekhov’s plays, too. In the opening scene of *The Seagull*, Konstantin Treplev is an explosively insecure dramatist who writes inscrutable symbolist poetry to experience the rewards of self-expression without the risks of self-revelation. By the end of the play, he has matured into a short story writer heavily influenced by his rival Boris Trigorin, a novelist so addicted to self-exposure that he can’t take a walk without being tortured by ideas for autobiographical stories. Chekhov had more in common with Treplev than Trigorin. He too was uncomfortable with dwelling on his own—oh dear—character. He would have hated me for saying this, but to read the thirty *Selected Stories* that span from an 1883 comic trifle to a 1903 meditation on mortality is to gain a fuller understanding of Chekhov. Despite his desire to hide behind his pen, the author cannot help revealing at least six distinct versions of himself.
 
