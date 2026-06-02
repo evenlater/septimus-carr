@@ -1,6 +1,6 @@
 baseURL = 'https://www.septimuscarr.com/'
 title = 'Septimus Carr'
-languageCode = 'en-us'
+locale = 'en-us'
 paginate = 12
 
 [params]
