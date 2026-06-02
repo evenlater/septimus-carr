@@ -1,0 +1,107 @@
+{{ define "main" }}
+
+{{/* ── STICKY READING BAR ── */}}
+<div class="sticky" id="sticky">
+  <img src="{{ "img/logo.png" | relURL }}" class="sticky-logo" alt="{{ .Site.Title }}">
+  <span class="sticky-title">{{ .Title }}</span>
+  <a href="{{ "/posts/" | relURL }}" class="sticky-back">&#8592; All Essays</a>
+  <div class="progress-bar" id="progressBar"></div>
+</div>
+
+{{/* ── COVER IMAGE ── */}}
+{{ with .Params.image }}
+<div class="cover-wrap">
+  <img src="{{ . }}" class="cover-img"
+       style="object-position:{{ with $.Params.imagePosition }}{{ . }}{{ else }}center{{ end }}"
+       alt="{{ $.Title }}">
+</div>
+{{ end }}
+
+{{/* ── ARTICLE ── */}}
+<div class="article-outer">
+  <div class="article-inner" id="articleTop">
+
+    <div class="art-meta">
+      {{ range .Params.categories }}
+      <span class="pill pill-{{ . | lower | urlize }}">{{ . }}</span>
+      {{ end }}
+      <span class="meta-dot">&middot;</span>
+      <span class="art-date">{{ .Date.Format "January 2, 2006" }}</span>
+      <span class="meta-dot">&middot;</span>
+      <span class="art-read">{{ math.Round (div (countwords .Content) 200.0) }} min read</span>
+    </div>
+
+    <h1 class="art-title">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="art-sub">{{ . }}</p>{{ end }}
+    <div class="art-byline">By {{ .Site.Params.author }}</div>
+    <hr class="art-rule">
+
+    <div class="article-body" id="articleBody">
+      {{ .Content }}
+    </div>
+
+    <div class="art-end">&#9670; &#9670; &#9670;</div>
+
+  </div>
+</div>
+
+{{/* ── RELATED ESSAYS ── */}}
+{{ $related := where .Site.RegularPages "Params.categories" "intersect" .Params.categories }}
+{{ $related = where $related "Permalink" "!=" .Permalink }}
+{{ $related = $related.ByDate.Reverse | first 3 }}
+{{ if $related }}
+<div class="related">
+  <div class="rel-head">
+    <span>Related Essays</span>
+    <div class="rel-rule"></div>
+    <a href="{{ "/posts/" | relURL }}" class="va">View All</a>
+  </div>
+  <div class="rel-grid">
+    {{ range $related }}
+    <a href="{{ .Permalink }}" class="rel-card">
+      <div class="rel-thumb">
+        {{ with .Params.image }}
+        <img src="{{ . }}" class="rel-img" alt="{{ $.Title }}" loading="lazy">
+        {{ else }}
+        <div class="rel-img ci-placeholder"></div>
+        {{ end }}
+      </div>
+      <div class="rel-pills">
+        {{ range .Params.categories }}
+        <span class="pill pill-{{ . | lower | urlize }}">{{ . }}</span>
+        {{ end }}
+      </div>
+      <div class="rel-title">{{ .Title }}</div>
+      <div class="rel-date">{{ .Date.Format "January 2, 2006" }}</div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+{{/* ── SUBSCRIBE CTA ── */}}
+<div class="subscribe-cta">
+  <img src="{{ "img/logo.png" | relURL }}" class="cta-logo" alt="{{ .Site.Title }}">
+  <span class="cta-tag">{{ .Site.Params.tagline }}</span>
+  <p class="cta-text">New essays on fiction, opera, drama, and the occasional argument with a dead composer. Free to read, free to subscribe.</p>
+  <a href="{{ .Site.Params.substack }}" target="_blank" rel="noopener" class="cta-btn">Subscribe on Substack</a>
+</div>
+
+{{/* ── PROGRESS + STICKY JS ── */}}
+<script>
+(function(){
+  var sticky = document.getElementById('sticky');
+  var bar    = document.getElementById('progressBar');
+  var body   = document.getElementById('articleBody');
+  if (!sticky || !bar || !body) return;
+  window.addEventListener('scroll', function(){
+    var y   = window.scrollY;
+    sticky.classList.toggle('show', y > 320);
+    var top = body.offsetTop;
+    var h   = body.offsetHeight;
+    var vh  = window.innerHeight;
+    bar.style.width = Math.min(100, Math.max(0, (y - top + vh * .5) / h * 100)) + '%';
+  });
+})();
+</script>
+{{ end }}

@@ -1,0 +1,72 @@
+{{ define "main" }}
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $posts = $posts.ByDate.Reverse }}
+
+{{/* ── FEATURED ESSAY ── */}}
+{{ with index $posts 0 }}
+<div class="sc-feat">
+  <div class="fi-wrap">
+    {{ with .Params.image }}
+    <img src="{{ . }}" class="fi"
+         style="object-position:{{ with $.Params.imagePosition }}{{ . }}{{ else }}center{{ end }}"
+         alt="{{ $.Title }}">
+    {{ else }}
+    <div class="fi fi-placeholder"></div>
+    {{ end }}
+    <div class="fi-sep"></div>
+  </div>
+  <div class="ft">
+    <div class="el">Featured Essay</div>
+    <h1 class="ft-title">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="ft-sub">{{ . }}</p>{{ end }}
+    <div class="ft-meta">
+      <span>{{ .Date.Format "January 2, 2006" }}</span>
+      {{ range .Params.categories }}
+      <span class="ft-pill">{{ . }}</span>
+      {{ end }}
+    </div>
+    <a href="{{ .Permalink }}" class="rl">Read Essay</a>
+  </div>
+</div>
+{{ end }}
+
+{{/* ── RECENT ESSAYS GRID ── */}}
+<section class="sc-recent">
+  <div class="sh">
+    <span class="sl">Recent Essays</span>
+    <div class="sr2"></div>
+    <a href="{{ "/posts/" | relURL }}" class="va">View All</a>
+  </div>
+  <div class="sg">
+    {{ range after 1 (first 7 $posts) }}
+    {{ partial "card.html" . }}
+    {{ end }}
+  </div>
+</section>
+
+{{/* ── LOG SECTION — uncomment when ready ── }}
+<section class="sc-log">
+  <div class="lh">
+    <span class="lt">Log</span>
+    <span class="ls">&mdash; essays by month</span>
+    <a href="{{ "/posts/" | relURL }}" class="ll">Full archive &rarr;</a>
+  </div>
+  <div class="lmonths">
+    {{ range ($posts.GroupByDate "January 2006") }}
+    <div class="lm">
+      <div class="lmn">{{ .Key }}</div>
+      {{ range .Pages }}
+      <div class="le">
+        {{ range .Params.categories }}
+        <span class="le-pill pill-{{ . | lower | urlize }}">{{ . }}</span>
+        {{ end }}
+        <span class="let">{{ .Title }}</span>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ end }}

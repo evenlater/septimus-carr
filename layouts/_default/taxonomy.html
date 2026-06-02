@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="arch-header">
+  <h1 class="arch-title">Categories</h1>
+</div>
+<div class="arch-body" style="padding-top:40px">
+  {{ range .Data.Terms.Alphabetical }}
+  <a href="{{ .Page.Permalink }}" style="display:inline-block;margin:0 12px 12px 0">
+    <span class="pill pill-{{ .Page.Title | lower | urlize }}" style="font-size:13px;padding:5px 14px">
+      {{ .Page.Title }} ({{ .Count }})
+    </span>
+  </a>
+  {{ end }}
+</div>
+{{ end }}

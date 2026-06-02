@@ -1,0 +1,22 @@
+{{ define "main" }}
+{{ $posts := .Pages.ByDate.Reverse }}
+
+<div class="arch-header">
+  <h1 class="arch-title">Archive</h1>
+  <span class="arch-count">{{ len $posts }} {{ if eq (len $posts) 1 }}essay{{ else }}essays{{ end }}</span>
+</div>
+
+<div class="arch-body">
+  {{ range $posts.GroupByDate "2006" }}
+  <div class="year-div">
+    <span class="year-label"><em>{{ .Key }}</em></span>
+    <div class="year-rule"></div>
+  </div>
+  <div class="sg">
+    {{ range .Pages }}
+    {{ partial "card.html" . }}
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

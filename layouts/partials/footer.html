@@ -1,0 +1,11 @@
+<footer class="sc-foot">
+  <img src="{{ "img/logo.png" | relURL }}" class="flogo-img" alt="{{ .Site.Title }}">
+  <div class="flinks">
+    <a href="{{ .Site.Params.substack }}" target="_blank" rel="noopener">Substack</a>
+    <a href="{{ .Site.Params.goodreads }}" target="_blank" rel="noopener">Goodreads</a>
+    <a href="{{ "/about/" | relURL }}">Contact</a>
+    {{ with .Site.Params.stagesscreens }}
+    <a href="{{ . }}" target="_blank" rel="noopener" class="f-joint">Stages &amp; Screens &#8599;</a>
+    {{ end }}
+  </div>
+</footer>

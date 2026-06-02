@@ -1,0 +1,27 @@
+baseURL = 'https://www.septimuscarr.com/'
+title = 'Septimus Carr'
+languageCode = 'en-us'
+paginate = 12
+
+[params]
+  description  = 'Longform Literary Intersections'
+  author       = 'Septimus Carr'
+  tagline      = 'Longform Literary Intersections'
+  substack     = 'https://septimuscarr.substack.com'
+  goodreads    = 'https://www.goodreads.com/review/list/septimuscarr'
+  stagesscreens = 'https://stagesandscreens.com'
+  # categoryOrder controls nav sequence; add new categories here too
+  categoryOrder = ['Classics','Fiction','Drama','Essays','Nonfiction','Opera']
+
+[taxonomies]
+  category = 'categories'
+
+[outputs]
+  home     = ['HTML','RSS']
+  page     = ['HTML']
+  section  = ['HTML','RSS']
+  taxonomy = ['HTML']
+  term     = ['HTML']
+
+[markup.goldmark.renderer]
+  unsafe = true
