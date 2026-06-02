@@ -3,7 +3,7 @@ title: "Six Chekhovs"
 date: 2026-04-29
 draft: false
 categories: ["Classics"]
-subtitle: 'Self-revelation in *The *Selected Stories* of Anton Chekhov*
+subtitle: "Self-Revelation in the Selected Short Stories of Anton Chekhov"subtitle: 'Self-revelation in *The Selected Stories of Anton Chekhov*
 image: "https://substackcdn.com/image/fetch/$s_!t0Fg!,w_1250,h_703,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6bdd040-abf4-4c58-8580-8ac2aa8bff29_1731x909.png"
 imagePosition: "center"
 ---
