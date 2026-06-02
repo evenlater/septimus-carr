@@ -2,7 +2,7 @@
 title: "Risotto Night with the Verdis"
 date: 2026-05-29
 draft: false
-categories: ["Fiction"]["Opera"]
+categories: ["Fiction","Opera"]
 subtitle: '"The Queen of the Night" Channels the Grand Silliness of Opera'
 image: "https://substack-post-media.s3.amazonaws.com/public/images/dfca9d28-573a-49c9-8a70-e84e495a3545_1731x909.png"
 imagePosition: "center"
