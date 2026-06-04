@@ -3,9 +3,9 @@ title: "In Defense of Latter Morrison"
 date: 2026-06-03
 draft: false
 categories: ["Fiction"]
-subtitle: "God Help the Child, Morrison's Last Novel, Is a 21st-century update of The Bluest Eye, Her First"
-image: "/img/Pecola and Bride.png"
-imagePosition: "Center"
+subtitle: "God Help the Child as Unofficial Sequel to The Bluest Eye"
+image: "/img/rive\Documents\Evan\Reviews\Morrison\Pecola and Bride.png"
+imagePosition: "Top"
 ---
 
 > Henry: I suppose that’s the fate of all us artists.

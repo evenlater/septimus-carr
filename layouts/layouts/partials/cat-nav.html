@@ -1,0 +1,33 @@
+{{ $currentCat := "" }}
+{{ if eq .Kind "term" }}{{ $currentCat = .Title }}{{ end }}
+
+<div class="cat-outer">
+  <span class="cat-tagline">{{ .Site.Params.tagline }}</span>
+  <button class="cat-arr" id="caLeft">&#8249;</button>
+  <nav class="cat-scroll" id="catScroll">
+    <a href="{{ "/" | relURL }}"
+       class="cat-a nav-all{{ if or .IsHome (eq .Kind "section") }} active{{ end }}">All</a>
+    {{ range .Site.Params.categoryOrder }}
+      {{ $name := . }}
+      {{ $slug := . | lower | urlize }}
+      <a href="{{ printf "/categories/%s/" $slug | relURL }}"
+         class="cat-a nav-{{ $slug }}{{ if eq $name $currentCat }} active{{ end }}">{{ $name }}</a>
+    {{ end }}
+  </nav>
+  <button class="cat-arr" id="caRight">&#8250;</button>
+</div>
+<script>
+(function(){
+  var cs=document.getElementById('catScroll'),
+      cl=document.getElementById('caLeft'),
+      cr=document.getElementById('caRight');
+  function u(){
+    cl.style.opacity=cs.scrollLeft>8?'1':'.3';
+    cr.style.opacity=cs.scrollLeft<cs.scrollWidth-cs.clientWidth-8?'1':'.3';
+  }
+  cs.addEventListener('scroll',u);
+  cl.addEventListener('click',function(){cs.scrollBy({left:-180,behavior:'smooth'});});
+  cr.addEventListener('click',function(){cs.scrollBy({left:180,behavior:'smooth'});});
+  u();
+})();
+</script>

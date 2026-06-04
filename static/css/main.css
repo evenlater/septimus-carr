@@ -33,6 +33,17 @@ body {
   color: #EAE4F4;
   text-decoration: none;
 }
+/* ── Tagline in category nav strip ── paste into main.css or _additions.css */
+.cat-tagline {
+  font-size: 9px;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: #C4A055;
+  padding: 0 4px 0 10px;
+  white-space: nowrap;
+  flex-shrink: 0;
+  align-self: center;
+}
 .logo-wrap { display: flex; flex-direction: column; text-decoration: none; }
 .logo-img  { height: 40px; width: auto; mix-blend-mode: screen; display: block; margin-bottom: -4px; }
 .logo-tag  { font-size: 9px; letter-spacing: .22em; text-transform: uppercase; color: #C4A055; padding-left: 3px; }
