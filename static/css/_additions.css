@@ -1,0 +1,11 @@
+/* ── Tagline in category nav strip ── paste into main.css or _additions.css */
+.cat-tagline {
+  font-size: 9px;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: #C4A055;
+  padding: 0 4px 0 10px;
+  white-space: nowrap;
+  flex-shrink: 0;
+  align-self: center;
+}
