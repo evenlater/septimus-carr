@@ -34,8 +34,37 @@
     <h1 class="art-title">{{ .Title }}</h1>
     {{ with .Params.subtitle }}<p class="art-sub">{{ . }}</p>{{ end }}
     <div class="art-byline">By {{ .Site.Params.author }}</div>
+
+    {{/* ── PLATFORM LINKS ── */}}
+    {{ if or .Params.links.substack .Params.links.goodreads .Params.links.reddit .Params.links.fable }}
+    <div class="art-platforms">
+      <span class="art-platforms-label">Also on</span>
+      {{ with .Params.links.substack }}<a href="{{ . }}" target="_blank" rel="noopener">Substack</a>{{ end }}
+      {{ with .Params.links.goodreads }}<a href="{{ . }}" target="_blank" rel="noopener">Goodreads</a>{{ end }}
+      {{ with .Params.links.reddit }}<a href="{{ . }}" target="_blank" rel="noopener">Reddit</a>{{ end }}
+      {{ with .Params.links.fable }}<a href="{{ . }}" target="_blank" rel="noopener">Fable</a>{{ end }}
+    </div>
+    {{ end }}
+
     <hr class="art-rule">
 
+    {{/* ── BOOK METADATA CARD ── */}}
+    {{ with .Params.book }}{{ if or .title .author .isbn }}
+    <div class="book-meta">
+      {{ $bcover := "" }}
+      {{ if .cover }}{{ $bcover = .cover }}{{ else if .isbn }}{{ $bcover = printf "https://covers.openlibrary.org/b/isbn/%s-M.jpg" .isbn }}{{ end }}
+      {{ if $bcover }}<img src="{{ $bcover }}" class="book-cover" alt="{{ .title }}" loading="lazy">{{ end }}
+      <div class="book-info">
+        {{ with .title }}<div class="book-title"><em>{{ . }}</em></div>{{ end }}
+        <div class="book-author">
+          {{ with .author }}{{ . }}{{ end }}{{ with .year }}&ensp;&middot;&ensp;{{ . }}{{ end }}
+        </div>
+        {{ with .isbn }}<div class="book-isbn">ISBN&ensp;{{ . }}</div>{{ end }}
+      </div>
+    </div>
+    {{ end }}{{ end }}
+
+    {{/* ── ESSAY BODY ── */}}
     <div class="article-body" id="articleBody">
       {{ .Content }}
     </div>
