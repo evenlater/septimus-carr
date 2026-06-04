@@ -188,7 +188,7 @@ body {
 /* ── Article: body typography ─────────────────────────────── */
 .article-body { font-size: 19px; line-height: 1.72; }
 .article-body p { margin-bottom: 1.5em; }
-.article-body p:first-child::first-letter {
+.article-body > p:first-of-type::first-letter {
   font-family: 'Cormorant Garamond', Georgia, serif;
   font-size: 4.2em; font-weight: 400; float: left;
   line-height: .78; margin: 6px 8px -4px 0; color: #2A0E38;
@@ -210,7 +210,7 @@ body {
 
 1. DROP CAP — change the selector so it skips opening blockquote epigraphs
    and applies only to the first direct <p> child of the article body.
-   Find:   .article-body p:first-child::first-letter {
+   Find:   .article-body > p:first-of-type::first-letter {
    Replace with the rule below.                                            */
 
 .article-body > p:first-of-type::first-letter {
@@ -232,7 +232,7 @@ blockquote {
   line-height: 1.68;
 }
 blockquote cite {
-  display: block; margin-top: 10px; font-size: 13px;
+  display: block; margin-top: 10px; font-size: 20px;
   font-style: normal; letter-spacing: .1em; text-transform: uppercase; color: #A09488;
 }
 

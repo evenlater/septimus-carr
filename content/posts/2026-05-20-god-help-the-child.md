@@ -4,13 +4,12 @@ date: 2026-06-03
 draft: false
 categories: ["Fiction"]
 subtitle: "God Help the Child as Unofficial Sequel to The Bluest Eye"
-image: "/img/rive\Documents\Evan\Reviews\Morrison\Pecola and Bride.png"
-imagePosition: "Top"
+image: "/img/pecola-and-Bride.png"
 book:
-author:
-year:
-isbn: "0307740927"
-cover: 
+  author: "Toni Morrison"
+  year: "2015"
+  isbn: "0307740927"
+  cover: ""
 ---
 
 <blockquote> Henry: I suppose that’s the fate of all us artists.<br>

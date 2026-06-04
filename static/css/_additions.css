@@ -54,7 +54,7 @@
   .art-byline { color: #555; }
   .art-rule   { border-color: #aaa; }
   .article-body { font-size: 12pt; }
-  .article-body p:first-child::first-letter { color: black; }
+  .article-body > p:first-of-type::first-letter { color: black; }
 
   .section-head { color: black; font-size: 15pt; break-after: avoid; }
   .section-head::before { color: #888; }
