@@ -2,9 +2,9 @@
 title: "In Defense of Latter Morrison"
 date: 2026-06-03
 draft: false
-categories: [""Fiction""]
+categories: ["Fiction"]
 subtitle: "God Help the Child, Morrison's Last Novel, Is a 21st-century update of The Bluest Eye, Her First"
-image: "#https://substackcdn.com/image/fetch/$s_!TUcN!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F646940b5-c13a-44aa-9596-ce7d9cfbe2ed_1537x1023.png#"
+image: "C:\Dev\septimus-carr\septimus-carr\static\img\rive\Documents\Evan\Reviews\Morrison\Pecola and Bride.png"
 imagePosition: "Center"
 ---
 
