@@ -206,15 +206,41 @@ body {
   margin-bottom: 16px; letter-spacing: 10px; font-style: normal;
 }
 
-/* ── Article: blockquote ──────────────────────────────────── */
+/* ── Paste these into main.css, replacing the matching existing rules ──────
+
+1. DROP CAP — change the selector so it skips opening blockquote epigraphs
+   and applies only to the first direct <p> child of the article body.
+   Find:   .article-body p:first-child::first-letter {
+   Replace with the rule below.                                            */
+
+.article-body > p:first-of-type::first-letter {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 4.2em; font-weight: 400; float: left;
+  line-height: .78; margin: 6px 8px -4px 0; color: #2A0E38;
+}
+
+/* 2. BLOCKQUOTE — larger, slightly darker, more breathing room.
+   Find the existing blockquote { ... } rule and replace entirely.        */
+
 blockquote {
-  border-left: 2px solid #C4A055; margin: 36px 0;
-  padding: 2px 0 2px 28px; font-style: italic;
-  color: #3A3028; font-size: 18px; line-height: 1.65;
+  border-left: 2px solid #C4A055;
+  margin: 40px 0;
+  padding: 4px 0 4px 28px;
+  font-style: italic;
+  color: #2A2018;
+  font-size: 20px;
+  line-height: 1.68;
 }
 blockquote cite {
-  display: block; margin-top: 8px; font-size: 13px;
+  display: block; margin-top: 10px; font-size: 13px;
   font-style: normal; letter-spacing: .1em; text-transform: uppercase; color: #A09488;
+}
+
+/* ── Also add this for the tagline (if not already in _additions.css) ── */
+.cat-tagline {
+  font-size: 9px; letter-spacing: .22em; text-transform: uppercase;
+  color: #C4A055; padding: 0 4px 0 10px; white-space: nowrap;
+  flex-shrink: 0; align-self: center;
 }
 
 /* ── Article: pull quote ──────────────────────────────────── */

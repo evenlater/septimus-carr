@@ -1,3 +1,73 @@
+/* ── Platform links (article page) ────────────────────────── */
+.art-platforms {
+  display: flex; align-items: center; gap: 10px;
+  flex-wrap: wrap; margin-bottom: 22px;
+}
+.art-platforms-label {
+  font-size: 10px; letter-spacing: .18em; text-transform: uppercase; color: #A09488;
+}
+.art-platforms a {
+  font-size: 10px; letter-spacing: .16em; text-transform: uppercase;
+  color: #C4A055; text-decoration: none; transition: color .2s;
+}
+.art-platforms a:hover { color: #1C1410; }
+.art-platforms a + a::before { content: '\00B7'; margin-right: 10px; color: #D0C8BC; }
+
+/* ── Book metadata card ────────────────────────────────────── */
+.book-meta {
+  display: flex; gap: 20px; align-items: flex-start;
+  padding: 20px 0; margin-bottom: 36px;
+  border-top: 1px solid #E2D9CC; border-bottom: 1px solid #E2D9CC;
+}
+.book-cover {
+  width: 64px; height: auto; flex-shrink: 0;
+  box-shadow: 2px 3px 8px rgba(0,0,0,.15);
+}
+.book-info { flex: 1; }
+.book-title {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 18px; color: #1C1410; margin-bottom: 5px; line-height: 1.3;
+}
+.book-author {
+  font-size: 14px; color: #6A5E54; margin-bottom: 5px;
+}
+.book-isbn {
+  font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: #A09488;
+}
+
+/* ── Print styles ──────────────────────────────────────────── */
+@media print {
+  .sticky, .sc-head, .cat-outer, .related,
+  .subscribe-cta, .sc-foot, .art-platforms { display: none !important; }
+
+  body {
+    background: white; color: black;
+    font-family: Georgia, serif; font-size: 12pt; line-height: 1.65;
+  }
+  .cover-wrap { max-height: 220px; page-break-after: avoid; }
+  .cover-img  { max-height: 220px; object-fit: contain; }
+  .article-outer { background: white; padding-bottom: 0; }
+  .article-inner { max-width: 100%; padding: 0; }
+
+  .art-title  { font-size: 24pt; color: black; }
+  .art-sub    { font-size: 14pt; color: #333; }
+  .art-byline { color: #555; }
+  .art-rule   { border-color: #aaa; }
+  .article-body { font-size: 12pt; }
+  .article-body p:first-child::first-letter { color: black; }
+
+  .section-head { color: black; font-size: 15pt; break-after: avoid; }
+  .section-head::before { color: #888; }
+
+  blockquote { border-left-color: #aaa; color: #333; }
+  .pull-quote { border-color: #aaa; color: #333; font-size: 15pt; }
+  .art-end    { color: #888; }
+
+  .pill { background: white !important; color: black !important; border: 1px solid #aaa; }
+  .book-cover { box-shadow: none; }
+  a { color: black; text-decoration: none; }
+  h1, h2 { break-after: avoid; }
+}
 /* ── Tagline in category nav strip ── paste into main.css or _additions.css */
 .cat-tagline {
   font-size: 9px;
@@ -9,3 +79,4 @@
   flex-shrink: 0;
   align-self: center;
 }
+ 

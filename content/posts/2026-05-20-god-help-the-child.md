@@ -4,13 +4,18 @@ date: 2026-06-03
 draft: false
 categories: ["Fiction"]
 subtitle: "God Help the Child as Unofficial Sequel to The Bluest Eye"
-image: "/img/Pecola-and-Bride.png"
+image: "/img/rive\Documents\Evan\Reviews\Morrison\Pecola and Bride.png"
 imagePosition: "Top"
+book:
+author:
+year:
+isbn: "0307740927"
+cover: 
 ---
 
-> Henry: I suppose that’s the fate of all us artists.<br>
-> Debbie: Death?<br>
-> Henry: People saying they preferred the early stuff.<br>
+> Henry: I suppose that’s the fate of all us artists.
+> Debbie: Death?
+> Henry: People saying they preferred the early stuff.
 > <cite>Tom Stoppard, *The Real Thing*</cite>
 
 Toni Morrison’s “early stuff” occupies a stratum in world literature that is difficult for any writer to live up to. This week, The Guardian’s panel of 172 literary luminaries declared Morrison’s *Beloved* the second greatest novel in the artform’s history, placing her work above that of every fictionist who ever lived apart from George Eliot. Hardly surprising, then, that Morrison received fewer adulatory notices at 84 years of age than she did at her zenith. Still, I can’t help feeling almost personally affronted by the myopic ingratitude of some of the elite critics tasked with assessing *God Help the Child*, the eleventh and final novel (she was working on a twelfth when she died) by this generation’s literary doyenne. Kara Walker of The New York Times compared it to reality TV and dismissed it as a “curt fable” aimed at provoking “outrage.” The Independent complained Morrison’s characters were “prototypes for an idea rather than real people.” In The Washington Post, Ron Charles was by turns tone-deaf (“the novel rolls along from trauma to trauma, throwing off wisdom like Mardi Gras bling”) and snarky (“If thoughts like that strike you as both fresh and somehow eternal, you’re in luck: There are a lot of them here”), at one point helpfully pointing out that “You not the woman I want” was “a jarring bit of Ebonics” in the mouth of a character with academic bona fides, as though America’s most celebrated poet of everyday speech had accidentally misplaced a helping verb. Charles managed one salient insight in dispensing his breathtakingly disrespectful review: “Because her latest work offers curious reflections of where she began in *The Bluest Eye*, it’s tempting to read *God Help the Child* as a capstone of her jeweled career.” In context, this observation was merely another opportunity to insult a national treasure, but he was right about the shared genetic tissue tying Morrison’s 1970 debut, about a Black child who longs to look whiter, to her 2015 swansong, about a dark-skinned woman who outlives the consensus that Black is ugly.
