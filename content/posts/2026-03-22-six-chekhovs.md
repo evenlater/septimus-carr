@@ -9,7 +9,7 @@ imagePosition: "Center"
 book:
  author:
   year:
-  isbn: "OL6785018M"
+  isbn: "0553381008"
   cover: 
 ---
 
@@ -49,7 +49,7 @@ However, Chekhov was more than a compassionate observer; he put his convictions 
 Chekhov once confessed that he strove to “squeeze the serf out of myself.” The novelist Elif Batuman observes that Chekhov, whose grandfather was a forced laborer, never understood the Tolstoyan demand that the intelligentsia embrace poverty. Rather, Chekhov wished to encourage the peasants to embrace education. Chekhov expresses this view in a remarkable passage from “The House with the Mezzanine: An Artist’s Story” that shows his vision of a more equitable society:
 
 >Imagine that all of us, rich and poor, work only three hours a day, and the rest of our time is left free. Imagine, too, that in order to depend still less on our bodies and to work less, we invent machines to work for us, and try to reduce the number of our needs to the minimum…. What a lot of free time we’d have in the end! All of us together would devote this leisure to the arts and sciences.
->Anton Chekhov, “The House with the Mezzanine: An Artist’s Story”
+><cite>Anton Chekhov, “The House with the Mezzanine: An Artist’s Story”</cite>
  
 This quote reveals that we have been anticipating the “leisure society” for a century and a half. Economist John Maynard Keynes famously predicted a 15-hour work week on the eve of the Great Depression. Today, artificial intelligence advocates suggest that work may soon be optional. Chekhov would have been more concerned about preventing the mass economic displacement of workers than accumulating leisure time for his own class. This belief in social justice appears repeatedly in *Selected Stories*, from the peasant Varka who murders the exhausting baby in her charge to the declaration in “In Exile” that “people can live in Siberia, too. Li-i-ive!” Perhaps the strongest statement of Chekhov’s commitment to economic equality comes in “A Medical Case.” In it, a doctor admires a woman for losing sleep over her position as a factory owner and rich heiress. The author suggests that his generation’s conscience augured well for the coming decades. Of course, those decades brought the Russian Revolution, with its concomitant chaos and disillusionment. Chekhov’s heiress inhabited a historical island in the shadow of a tsunami, but she inspires in him a cautious meliorism.
 
