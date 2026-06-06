@@ -2,13 +2,13 @@
 title: "Six Chekhovs"
 date: 2026-03-22
 draft: false
-categories: ["Classics","Drama","Shorts"]
-subtitle: "Self-Revelation in the <em>Selected Stories of Anton Chekhov</em>"
+categories: ["Classics","Drama"]
+subtitle: "Self-Revelation in the Selected Stories of Anton Chekhov"
 image: "/img/SIX CHEKHOVS NO TITLE.png"
 imagePosition: "Center"
 book:
-  author:
-  year:
+  author: "Anton Chekhov"
+  year: "2000"
   isbn: "0553381008"
   cover: 
 ---
@@ -20,10 +20,9 @@ The gradual acceptance of self-revelation is a rite of passage for many introver
  
 I have known Chekhov for decades through his four masterpieces of dramatic literature, and it is shocking to me that it took me this long to read even one of his short stories. I first read *Three Sisters* as a college sophomore, and—like so many others—I failed to grasp his greatness through the page. It was probably my first experience of Russian literature, and I was daunted by the sheer number of characters, each with patronymics and copious nicknames. It was Constance Garnett’s stiff Victorian translation. Everybody was so godawful unhappy. But when I saw Andre Gregory’s 1994 film *Vanya on 42nd Street* at the Barbican movie theater in London, with its world-class actors (Wallace Shawn, Julianne Moore, Brooke Smith), each marinated in character through years of private rehearsals, tightrope-walking the comedy and despair in David Mamet’s lively translation, I became a Chekhov fan for life. To this day, that *Vanya* is my favorite and most watched film of all time. You can chart your own age and personal growth by how you relate to the characters over the years. In my first screening, when Yelena blunderingly interrogated Astrov about his feelings for Sonya, it felt uncomfortably close to my own undergraduate romantic blunders. Seven years later, I showed the film to undergrads I was directing in *The Seagull*, and my Arkadina told me it was the first time she understood her role. Then, to revisit the film at the exact age of Uncle Vanya and measure his famously wasted life against my own—what a gratifying and slightly mortifying experience. I should have raced to the short stories then, just to see what else Chekhov had up his sleeve, but I was still foolish and unaccustomed to reading short stories.
 
-{{< pull-quote >}}Today, artificial intelligence advocates suggest that work may soon be optional. Chekhov would have been more concerned about preventing the mass economic displacement of workers than accumulating leisure time for his own class.{{< /pull-quote >}}
+{{< pull-quote >}}The atheist Chekhov is unquestionably one of the most Christian poets in world literature.{{< /pull-quote >}}
 
-{{< section-head >}}
-CHEKHOV THE ARTIST{{< /section-head >}}
+{{< section-head >}}CHEKHOV THE ARTIST{{< /section-head >}}
 
 Now that I have, I am struck by the counterpoint between, on one hand, his utter rejection of artistic vanity and, on the other, his reverence for craft and the sheer guts it takes to try. “A Boring Story” introduces the opinionated pedant Nikolai Stepanovich, whose impending mortality is teaching him the worthlessness of his literary and theatrical judgments. This is juxtaposed with the soulful artistic appreciation of his actress daughter Katya. Like Nina in *The Seagull*, Katya begins her career with an open heart only to be crushed by awareness of her own paucity of talent. Still, she possesses an artistic wisdom that her father can only envy. After Chekhov’s death, his friend Aleksandr Kuprin described how “shyly and coldly he regarded praises lavished on him.” Chekhov couldn’t bear literary pretension. But his description of a monk’s religious poetry in “Easter Night” speaks volumes about the depth of his love for written expression:
  
@@ -32,7 +31,7 @@ Now that I have, I am struck by the counterpoint between, on one hand, his utter
  
 Again and again, artistic accomplishment is outweighed by kindness in these stories. In “The Fidget,” a housewife discovers her own potential as a painter only to realize that her artistically oblivious husband is a far superior human being.
 
-CHEKHOV THE SAINT
+{{< section-head >}}CHEKHOV THE SAINT{{< /section-head >}}
  
 The emphasis on human kindness is often framed in directly Christian terms in *Selected Stories*, which surprised me given Chekhov’s reputation as a materialist. Consider his own self-description in a letter to a friend:
 
@@ -45,12 +44,12 @@ Theology does not play a major role in the plays, apart from Sonya’s moving de
 
 However, Chekhov was more than a compassionate observer; he put his convictions into action as a doctor. Grossman alluded to the writer’s scientific side by calling him “a probing Darwinist with the love of St. Francis of Assisi for every living creature.” Chekhov’s purpose for practicing medicine was to serve, not to cash in, for he profited far more from his literary works than his medical ones. Nowhere in the short stories does this Chekhov come through more clearly than in “Ward No. 6,” about the director of a mental hospital. The depiction of mental illness here is sophisticated and accurate. Chekhov describes a patient who suffers from feelings of terror and shame because he fears people perceive him as a murderer, despite being innocent of any actual crime. Chekhov’s description of the duality of paranoia, its capacity to hold two realities at once, is penetrating: “Ivan Dmitrich knew very well that they had come to reset the stove in the kitchen, but fear whispered to him that they were policemen disguised as stovemakers.” The head doctor is eventually committed as a patient himself partly because he is kind to Ivan Dmitrich. This reframing of madness comes up again in “The Black Monk,” when a student receives treatment for his hallucinations only to retort, “Why, why did you have me treated? … I was losing my mind, I had megalomania, but I was gay, lively, and even happy, I was interesting and original. Now I’ve become more solid and reasonable, but as a result I’m just like everybody else.” If being sane meant losing empathy and imagination, Chekhov wanted no part of it.
  
-CHEKHOV THE GRANDSON OF A SERF
+{{< section-head >}}CHEKHOV THE GRANDSON OF A SERF{{< /section-head >}}
 
 Chekhov once confessed that he strove to “squeeze the serf out of myself.” The novelist Elif Batuman observes that Chekhov, whose grandfather was a forced laborer, never understood the Tolstoyan demand that the intelligentsia embrace poverty. Rather, Chekhov wished to encourage the peasants to embrace education. Chekhov expresses this view in a remarkable passage from “The House with the Mezzanine: An Artist’s Story” that shows his vision of a more equitable society:
 
 >Imagine that all of us, rich and poor, work only three hours a day, and the rest of our time is left free. Imagine, too, that in order to depend still less on our bodies and to work less, we invent machines to work for us, and try to reduce the number of our needs to the minimum…. What a lot of free time we’d have in the end! All of us together would devote this leisure to the arts and sciences.
->Anton Chekhov, “The House with the Mezzanine: An Artist’s Story”
+><cite>Anton Chekhov, “The House with the Mezzanine: An Artist’s Story”</cite>
  
 This quote reveals that we have been anticipating the “leisure society” for a century and a half. Economist John Maynard Keynes famously predicted a 15-hour work week on the eve of the Great Depression. Today, artificial intelligence advocates suggest that work may soon be optional. Chekhov would have been more concerned about preventing the mass economic displacement of workers than accumulating leisure time for his own class. This belief in social justice appears repeatedly in *Selected Stories*, from the peasant Varka who murders the exhausting baby in her charge to the declaration in “In Exile” that “people can live in Siberia, too. Li-i-ive!” Perhaps the strongest statement of Chekhov’s commitment to economic equality comes in “A Medical Case.” In it, a doctor admires a woman for losing sleep over her position as a factory owner and rich heiress. The author suggests that his generation’s conscience augured well for the coming decades. Of course, those decades brought the Russian Revolution, with its concomitant chaos and disillusionment. Chekhov’s heiress inhabited a historical island in the shadow of a tsunami, but she inspires in him a cautious meliorism.
 
