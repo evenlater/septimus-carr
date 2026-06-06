@@ -1,10 +1,10 @@
 ﻿---
 title: "Six Chekhovs"
-date: 2026-06-05
+date: 2026-03-22
 draft: false
 categories: ["Classics","Drama","Shorts"]
 subtitle: "Self-Revelation in the <em>Selected Stories of Anton Chekhov</em>"
-image: "/img/Documents\Evan\Reviews\Chekhov\SIX CHEKHOVS NO TITLE.png"
+image: "/img/SIX CHEKHOVS NO TITLE.png"
 imagePosition: "Center"
 book:
  author:

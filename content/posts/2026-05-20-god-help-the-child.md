@@ -1,10 +1,10 @@
 ﻿---
 title: "In Defense of Latter Morrison"
-date: 2026-06-05
+date: 2026-05-20
 draft: false
 categories: ["Fiction"]
 subtitle: "God Help the Child as Unofficial Sequel to The Bluest Eye"
-image: "/img/rive/Documents/Evan/Reviews/Morrison/Pecola-and-Bride.png"
+image: "/img/Pecola-and-Bride.png"
 imagePosition: "Top"
 book:
  author:
