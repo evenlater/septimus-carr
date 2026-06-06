@@ -2,14 +2,14 @@
 title: "Six Chekhovs"
 date: 2026-03-22
 draft: false
-categories: ["Classics","Drama","Shorts"]
-subtitle: "Self-Revelation in the <em>Selected Stories of Anton Chekhov</em>"
+categories: ["Classics","Drama"]
+subtitle: "Self-Revelation in the "Selected Stories of Anton Chekhov"
 image: "/img/SIX CHEKHOVS NO TITLE.png"
 imagePosition: "Center"
 book:
  author:
   year:
-  isbn: "0553381008"
+  isbn: "9780553381009"
   cover: 
 ---
 
