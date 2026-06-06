@@ -37,7 +37,7 @@ CHEKHOV THE SAINT
 The emphasis on human kindness is often framed in directly Christian terms in *Selected Stories*, which surprised me given Chekhov’s reputation as a materialist. Consider his own self-description in a letter to a friend:
 
 >As yet I have no political, religious and philosophical view of the universe; I change it every month and will be compelled to limit myself solely to description of how my chief characters make love, get married, give birth, meet death, and how they talk.
-><cite>Anton Chekhov, Letter to D. V. Grigorovich, 9 October 1888 in Avrahm Yarmolinsky’s <em>Letters of Anton Chekhov</em>
+><cite>Anton Chekhov, Letter to D. V. Grigorovich, 9 October 1888 in Avrahm Yarmolinsky’s <em>Letters of Anton Chekhov</em></cite>
 
 Theology does not play a major role in the plays, apart from Sonya’s moving declaration of faith at the end of *Uncle Vanya*: “We shall see heaven shining like a jewel. We shall see evil and all our pain disappear in the great pity that shall enfold the world.” But Chekhov’s Orthodox upbringing manifests itself in story after story. His ultimate denial of God’s existence—he reminds us in “The Student” that Saint Peter made a similar denial in the Gospel—did nothing to diminish his fundamental Christian values. Like Jesus, Chekhov abhorred Pharisaic piety. In the story “Pankikhida,” an outraged priest scolds a bereaved father who eulogizes his daughter as a “harlot” because she was an actress. With characteristic humor and compassion, Chekhov sides with the suffering mourner who uses the wrong language over the punitive prelate who is technically right. This is why Jewish critic Leonid Grossman declared that “the atheist Chekhov is unquestionably one of the most Christian poets in world literature.”
 
