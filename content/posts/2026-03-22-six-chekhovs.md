@@ -9,7 +9,7 @@ imagePosition: "Center"
 book:
  author:
   year:
-  isbn: "0553381008"
+  isbn: "OL6785018M"
   cover: 
 ---
 
@@ -22,8 +22,7 @@ I have known Chekhov for decades through his four masterpieces of dramatic liter
 
 {{< pull-quote >}}Today, artificial intelligence advocates suggest that work may soon be optional. Chekhov would have been more concerned about preventing the mass economic displacement of workers than accumulating leisure time for his own class.{{< /pull-quote >}}
 
-{{< section-head >}}
-CHEKHOV THE ARTIST{{< /section-head >}}
+{{< section-head >}}CHEKHOV THE ARTIST{{< /section-head >}}
 
 Now that I have, I am struck by the counterpoint between, on one hand, his utter rejection of artistic vanity and, on the other, his reverence for craft and the sheer guts it takes to try. “A Boring Story” introduces the opinionated pedant Nikolai Stepanovich, whose impending mortality is teaching him the worthlessness of his literary and theatrical judgments. This is juxtaposed with the soulful artistic appreciation of his actress daughter Katya. Like Nina in *The Seagull*, Katya begins her career with an open heart only to be crushed by awareness of her own paucity of talent. Still, she possesses an artistic wisdom that her father can only envy. After Chekhov’s death, his friend Aleksandr Kuprin described how “shyly and coldly he regarded praises lavished on him.” Chekhov couldn’t bear literary pretension. But his description of a monk’s religious poetry in “Easter Night” speaks volumes about the depth of his love for written expression:
  
@@ -32,7 +31,7 @@ Now that I have, I am struck by the counterpoint between, on one hand, his utter
  
 Again and again, artistic accomplishment is outweighed by kindness in these stories. In “The Fidget,” a housewife discovers her own potential as a painter only to realize that her artistically oblivious husband is a far superior human being.
 
-CHEKHOV THE SAINT
+{{< section-head >}}CHEKHOV THE SAINT{{< /section-head >}}
  
 The emphasis on human kindness is often framed in directly Christian terms in *Selected Stories*, which surprised me given Chekhov’s reputation as a materialist. Consider his own self-description in a letter to a friend:
 
@@ -45,7 +44,7 @@ Theology does not play a major role in the plays, apart from Sonya’s moving de
 
 However, Chekhov was more than a compassionate observer; he put his convictions into action as a doctor. Grossman alluded to the writer’s scientific side by calling him “a probing Darwinist with the love of St. Francis of Assisi for every living creature.” Chekhov’s purpose for practicing medicine was to serve, not to cash in, for he profited far more from his literary works than his medical ones. Nowhere in the short stories does this Chekhov come through more clearly than in “Ward No. 6,” about the director of a mental hospital. The depiction of mental illness here is sophisticated and accurate. Chekhov describes a patient who suffers from feelings of terror and shame because he fears people perceive him as a murderer, despite being innocent of any actual crime. Chekhov’s description of the duality of paranoia, its capacity to hold two realities at once, is penetrating: “Ivan Dmitrich knew very well that they had come to reset the stove in the kitchen, but fear whispered to him that they were policemen disguised as stovemakers.” The head doctor is eventually committed as a patient himself partly because he is kind to Ivan Dmitrich. This reframing of madness comes up again in “The Black Monk,” when a student receives treatment for his hallucinations only to retort, “Why, why did you have me treated? … I was losing my mind, I had megalomania, but I was gay, lively, and even happy, I was interesting and original. Now I’ve become more solid and reasonable, but as a result I’m just like everybody else.” If being sane meant losing empathy and imagination, Chekhov wanted no part of it.
  
-CHEKHOV THE GRANDSON OF A SERF
+{{< section-head >}}CHEKHOV THE GRANDSON OF A SERF{{< /section-head >}}
 
 Chekhov once confessed that he strove to “squeeze the serf out of myself.” The novelist Elif Batuman observes that Chekhov, whose grandfather was a forced laborer, never understood the Tolstoyan demand that the intelligentsia embrace poverty. Rather, Chekhov wished to encourage the peasants to embrace education. Chekhov expresses this view in a remarkable passage from “The House with the Mezzanine: An Artist’s Story” that shows his vision of a more equitable society:
 
