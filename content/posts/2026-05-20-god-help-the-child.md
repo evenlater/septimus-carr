@@ -7,7 +7,7 @@ subtitle: "God Help the Child as Unofficial Sequel to The Bluest Eye"
 image: "/img/Pecola-and-Bride.png"
 imagePosition: "Top"
 book:
- author:
+  author:
   year:
   isbn: "0307740927"
   cover: 

@@ -7,7 +7,7 @@ subtitle: "Self-Revelation in the Selected Stories of Anton Chekhov"
 image: "/img/SIX CHEKHOVS NO TITLE.png"
 imagePosition: "Center"
 book:
- author:
+  author:
   year:
   isbn: "0553381008"
   cover: 
@@ -20,7 +20,7 @@ The gradual acceptance of self-revelation is a rite of passage for many introver
  
 I have known Chekhov for decades through his four masterpieces of dramatic literature, and it is shocking to me that it took me this long to read even one of his short stories. I first read *Three Sisters* as a college sophomore, and—like so many others—I failed to grasp his greatness through the page. It was probably my first experience of Russian literature, and I was daunted by the sheer number of characters, each with patronymics and copious nicknames. It was Constance Garnett’s stiff Victorian translation. Everybody was so godawful unhappy. But when I saw Andre Gregory’s 1994 film *Vanya on 42nd Street* at the Barbican movie theater in London, with its world-class actors (Wallace Shawn, Julianne Moore, Brooke Smith), each marinated in character through years of private rehearsals, tightrope-walking the comedy and despair in David Mamet’s lively translation, I became a Chekhov fan for life. To this day, that *Vanya* is my favorite and most watched film of all time. You can chart your own age and personal growth by how you relate to the characters over the years. In my first screening, when Yelena blunderingly interrogated Astrov about his feelings for Sonya, it felt uncomfortably close to my own undergraduate romantic blunders. Seven years later, I showed the film to undergrads I was directing in *The Seagull*, and my Arkadina told me it was the first time she understood her role. Then, to revisit the film at the exact age of Uncle Vanya and measure his famously wasted life against my own—what a gratifying and slightly mortifying experience. I should have raced to the short stories then, just to see what else Chekhov had up his sleeve, but I was still foolish and unaccustomed to reading short stories.
 
-{{< pull-quote >}}Today, artificial intelligence advocates suggest that work may soon be optional. Chekhov would have been more concerned about preventing the mass economic displacement of workers than accumulating leisure time for his own class.{{< /pull-quote >}}
+{{< pull-quote >}}T“the atheist Chekhov is unquestionably one of the most Christian poets in world literature.{{< /pull-quote >}}
 
 {{< section-head >}}CHEKHOV THE ARTIST{{< /section-head >}}
 
