@@ -7,6 +7,7 @@ subtitle: "Self-Revelation in the Selected Stories of Anton Chekhov"
 image: "/img/SIX CHEKHOVS NO TITLE.png"
 imagePosition: "Center"
 book:
+  title: "Selected Stories of Anton Chekov"
   author: "Anton Chekhov"
   year: "2000"
   isbn: "0553381008"

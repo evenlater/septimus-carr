@@ -6,7 +6,8 @@ categories: ["Fiction"]
 subtitle: "God Help the Child as Unofficial Sequel to The Bluest Eye"
 image: "/img/Pecola-and-Bride.png"
 imagePosition: "Top"
-book:"God Help the Child"
+book:
+  title:"God Help the Child"
   author: "Toni Morrison"
   year: "2015"
   isbn: "0307740927"
