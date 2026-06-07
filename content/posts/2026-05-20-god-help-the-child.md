@@ -12,6 +12,9 @@ book:
   year: "2015"
   isbn: "0307740927"
   cover: 
+links:
+  goodreads: "https://www.goodreads.com/review/show/8616336127"
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1tikci8/in_defense_of_latter_toni_morrison_god_help_the/"
 ---
 
 <blockquote> Henry: I suppose that’s the fate of all us artists.<br>

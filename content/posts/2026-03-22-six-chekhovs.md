@@ -12,6 +12,10 @@ book:
   year: "2000"
   isbn: "0553381008"
   cover: 
+links:
+  substack: "https://open.substack.com/pub/septimuscarr/p/six-chekhovs?r=2ry7vb&utm_campaign=post&utm_medium=web"
+  goodreads: "https://www.goodreads.com/review/show/8179696002"
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1s0pain/six_chekhovs_selfrevelation_in_his_short_stories/"
 ---
 
 > “I have tried … to avoid unnecessary dwelling on my own feelings, or my own needs, or my own—oh dear—character. … I now wonder …whether all writing has a tendency to flow like a river towards the writer’s body and the writer’s own experience.” 
