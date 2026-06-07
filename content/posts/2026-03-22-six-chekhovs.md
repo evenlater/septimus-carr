@@ -4,7 +4,7 @@ date: 2026-03-22
 draft: false
 categories: ["Classics","Drama"]
 subtitle: "Self-Revelation in the Selected Stories of Anton Chekhov"
-image: "/img/SIX CHEKHOVS NO TITLE.png"
+image: "/img/six-chekhovs.png"
 imagePosition: "Center"
 book:
   title: "Selected Stories of Anton Chekov"
