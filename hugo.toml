@@ -9,7 +9,7 @@ paginate = 12
   tagline      = 'Longform Literary Intersections'
   substack     = 'https://septimuscarr.substack.com'
   goodreads    = 'https://www.goodreads.com/review/list/septimuscarr'
-  stagesscreens = 'https://stagesandscreens.com'
+  stagesscreens = 'https://stagesandscreens.blogspot.com/'
   # categoryOrder controls nav sequence; add new categories here too
   categoryOrder = ['Classics','Fiction','Drama','Essays','Nonfiction','Opera']
 
