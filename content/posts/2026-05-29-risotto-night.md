@@ -10,7 +10,7 @@ book:
   title: "The Queen of the Night"
   author: "Alexander Chee"
   year: "2016"
-  isbn: "9780544925472"
+  isbn: "0718185323"
   cover: 
 ---
 
