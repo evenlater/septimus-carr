@@ -7,7 +7,7 @@ subtitle: '"The Queen of the Night" Channels the Grand Silliness of Opera'
 image: "/img/soprano.png"
 imagePosition: "center"
 book: 
-  title:"The Queen of the Night"
+  title: "The Queen of the Night"
   author: "Alexander Chee"
   year: "2016"
   isbn: "0544925475"
