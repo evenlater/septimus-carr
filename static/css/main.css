@@ -35,7 +35,7 @@ body {
 }
 .logo-wrap { display: flex; flex-direction: column; text-decoration: none; }
 .logo-img  { width: 300px; height: auto; mix-blend-mode: screen; display: block; margin-bottom: -4px; }
-.logo-tag  { font-size: 7px; letter-spacing: .22em; text-transform: uppercase; color: #C4A055; padding-left: 3px; }
+.logo-tag  { font-size: 11px; letter-spacing: .22em; text-transform: uppercase; color: #C4A055; padding-left: 3px; }
 .sc-nav    { display: flex; gap: 2px; align-items: center; }
 .sc-nav a  { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: #C8C0DC;
              text-decoration: none; padding: 6px 11px; transition: color .2s; }
