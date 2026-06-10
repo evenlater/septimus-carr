@@ -12,12 +12,6 @@ book:
   year: "2022"
   isbn: "0593541820"
   cover:   
-book:
-  title: "The Trick of It"
-  author: "Michael Frayn"
-  year: "2022"
-  isbn: "0312421443"
-  cover: 
 links:
   substack: "https://septimuscarr.substack.com/p/hornby-frayn"
 ---
