@@ -55,5 +55,5 @@ Hornby’s 2009 novel *Juliet, Naked* treads much of the same territory in a pop
 
 Loving art, high or low, is not the same thing as crafting one’s thoughts about art, and analyzing art is not the same thing as creating it. In the last two years alone, I’ve consumed 100 books. Artistic consumption does fuel one’s creative appetite, and now I try to write these essays to ensure I am intellectually engaged with the books. Hell, I write them to make sure I am intellectually engaged with life at all. For a chronic consumer and one-time wannabe creator, that is almost but not quite a Shallow Lad Deepens narrative.
 
-Touché, Hornby. You may have won this round. But I’ll be back.
+Touché, Hornby.
 
