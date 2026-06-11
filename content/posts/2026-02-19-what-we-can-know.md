@@ -15,7 +15,7 @@ book:
 links:
   substack: "https://www.reddit.com/r/TrueLit/comments/1t86i9s/ian_mcewans_what_we_can_know_is_a_tellall/"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1t86i9s/ian_mcewans_what_we_can_know_is_a_tellall/"
-  goodreads: "https://www.reddit.com/r/TrueLit/comments/1t86i9s/ian_mcewans_what_we_can_know_is_a_tellall/"  
+  goodreads: "https://www.goodreads.com/review/show/8357288941"  
 ---
 
 I sometimes regret not having read Ian McEwan’s 2001 novel  *Atonement* . Director Joe Wright’s 2007 film adaptation, which I have seen, deftly explores the fine line between commonplace childhood self-absorption and casually cruel deceit with lasting consequences. It leaves an impression of masterful, must-read source material that may lose its power on the page once you’ve taken the journey on screen. That sense of missed opportunity even motivated me to check out McEwan’s Kafkaesque novella* The Cockroach a couple years back, but that was, um, not a comparable experiece. When I heard that his 2025 novel *What We Can Know* was his best reviewed since  *Atonement* , it made sense to grab the newcomer in hardcover before Matin Freeman and Sally Hawkins are cast as its dual narrators in some future film version. The decision paid dividends. McEwan’s tragicomic novel is a finely calibrated indictment of the present from the perspective of a compromised future.
