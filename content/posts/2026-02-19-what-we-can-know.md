@@ -5,7 +5,7 @@ draft: false
 categories: ["Fiction"]
 subtitle: "\"What We Can Know\" Is a Damning Tell-all Biography of Our Reckless Generation"
 image: "/img/what-we-can-know.jpg"
-imagePosition: "Top"
+imagePosition: "Center"
 book:
   author: "Ian McEwan"
   year: "2025"
