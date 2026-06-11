@@ -10,7 +10,7 @@ book:
   title: "What We Can Know"
   author: "Ian McEwan"
   year: "2025"
-  isbn: "978-0593804728"
+  isbn: "9780593804728"
   cover: 
 ---
 
