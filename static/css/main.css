@@ -24,7 +24,7 @@ body {
 
 /* ── Site header ──────────────────────────────────────────── */
 .sc-head {
-  padding: 1.2rem 3rem;
+  padding: 0.5rem 3rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
