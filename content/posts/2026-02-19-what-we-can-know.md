@@ -1,13 +1,13 @@
 ﻿---
-title: "Ian McEwan: Who Cares About These Awful People?"
+title: "Who Cares About These Awful People?"
 date: 2026-02-19
 draft: false
 categories: ["Fiction"]
 subtitle: "\"What We Can Know\" Is a Damning Tell-all Biography of Our Reckless Generation"
-image: "/img/what-we-can-know"
+image: "/img/what-we-can-know.jpg"
 imagePosition: "Top"
 book:
-  author: "Ian McEwaa"
+  author: "Ian McEwan"
   year: "2025"
   isbn: "0593804724"
   cover: 
