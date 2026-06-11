@@ -10,7 +10,7 @@ book:
   title: "What We Can Know"
   author: "Ian McEwan"
   year: "2025"
-  isbn: "9780593804728"
+  isbn: "9781787335745"
   cover:
 links:
   substack: "https://www.reddit.com/r/TrueLit/comments/1t86i9s/ian_mcewans_what_we_can_know_is_a_tellall/"
