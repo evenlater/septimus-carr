@@ -7,9 +7,10 @@ subtitle: "\"What We Can Know\" Is a Damning Tell-all Biography of Our Reckless 
 image: "/img/know.jpg"
 imagePosition: "Center"
 book:
+  title: "What We Can Know"
   author: "Ian McEwan"
   year: "2025"
-  isbn: "0593804724"
+  isbn: "978-0593804728"
   cover: 
 ---
 
