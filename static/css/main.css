@@ -235,7 +235,17 @@ blockquote cite {
   display: block; margin-top: 10px; font-size: 20px;
   font-style: normal; letter-spacing: .1em; text-transform: uppercase; color: #A09488;
 }
-
+   
+.article-body h2 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-style: italic; font-weight: 400; font-size: 26px;
+  text-align: center; color: #1C1410; margin: 56px 0 32px;
+}
+.article-body h2::before {
+  content: '\25C6 \25C6 \25C6';
+  display: block; font-size: 12px; color: #C4A055;
+  margin-bottom: 16px; letter-spacing: 10px; font-style: normal;
+}
 /* ── Also add this for the tagline (if not already in _additions.css) ── */
 .cat-tagline {
   font-size: 9px; letter-spacing: .22em; text-transform: uppercase;
