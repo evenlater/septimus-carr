@@ -1,7 +1,7 @@
 ---
 title: "About Septimus Carr"
 date: 2026-06-11
-image: "/img/performative.png"
+image: "/img/books.png"
 imagePosition: "bottom"
 ---
 
