@@ -21,11 +21,11 @@ Other books are believed to have followed.
 </figure>
 
 <div class="about-nav">
-  <a href="/posts/six-chekhovs/" class="about-nav-card">
+  <a href="/posts/six-chekhovs.md" class="about-nav-card">
     <span class="about-nav-title">Six Chekhovs</span>
     <span class="about-nav-caption">Start here for capstone content.</span>
   </a>
-  <a href="/posts/hornby-frayn/" class="about-nav-card">
+  <a href="/posts/hornby-frayn.md" class="about-nav-card">
     <span class="about-nav-title">Shallow Lads and Narcissistic Dons</span>
     <span class="about-nav-caption">Some biographical context.</span>
   </a>
