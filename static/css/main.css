@@ -325,6 +325,14 @@ blockquote cite {
 .about-performance img {
   max-height: 520px;
 }
+.about-performance figcaption {
+  font-size: 0.78rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #C4A055;
+  margin-top: 0.6rem;
+  text-align: right;
+}
 
 /* ── About page: nav cards ────────────────────────────────── */
 .about-nav {
