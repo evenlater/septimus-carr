@@ -1,0 +1,53 @@
+/* ── About page: performance photo ───────────────────────── */
+.about-performance {
+  margin: 2.5rem 0;
+  width: 100%;
+}
+.about-performance img {
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  object-position: center bottom;
+  display: block;
+}
+.about-performance figcaption {
+  font-size: 0.78rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #C4A055;
+  margin-top: 0.6rem;
+  text-align: right;
+}
+
+/* ── About page: nav cards ────────────────────────────────── */
+.about-nav {
+  display: flex;
+  gap: 1.2rem;
+  margin: 3rem 0 1rem;
+}
+.about-nav-card {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1.2rem 1.4rem;
+  background: rgba(42, 14, 56, 0.6);
+  border-left: 3px solid #C4A055;
+  text-decoration: none;
+  transition: background .2s;
+}
+.about-nav-card:hover {
+  background: rgba(42, 14, 56, 0.9);
+}
+.about-nav-title {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-style: italic;
+  font-size: 1.15rem;
+  color: #EAE4F4;
+}
+.about-nav-caption {
+  font-size: 0.72rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: #C4A055;
+}
