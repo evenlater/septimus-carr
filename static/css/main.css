@@ -334,6 +334,7 @@ blockquote cite {
 }
 .about-performance img {
   max-height: 650px;
+  object-position: center center;
 }
 .about-performance figcaption {
   font-size: 0.78rem;
@@ -341,7 +342,7 @@ blockquote cite {
   text-transform: uppercase;
   color: #C4A055;
   margin-top: 0.6rem;
-  text-align: left;
+  text-align: center;
   padding-left: 2rem;
 }
 /* ── About page: nav cards ────────────────────────────────── */
