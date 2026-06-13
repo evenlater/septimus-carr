@@ -328,6 +328,12 @@ blockquote cite {
   object-position: center center;
   display: block;
 }
+.about-performance {
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: calc(-1 * ((100vw - 100%) / 2));
+  margin-right: calc(-1 * ((100vw - 100%) / 2));
+}
 .about-performance figcaption {
   font-size: 0.78rem;
   letter-spacing: .1em;
