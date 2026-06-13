@@ -323,12 +323,21 @@ blockquote cite {
   margin-left: calc(-1 * ((100vw - 100%) / 2));
   margin-right: calc(-1 * ((100vw - 100%) / 2));
 }
+.about-performance {
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: calc(-50vw + 50%);
+}
 .about-performance img {
-  max-height: 620px;
+  max-height: 650px;
 }
 .about-performance figcaption {
+  font-size: 0.78rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #C4A055;
+  margin-top: 0.6rem;
   text-align: left;
-  padding-left: 1.5rem;
 }
 
 /* ── About page: nav cards ────────────────────────────────── */
