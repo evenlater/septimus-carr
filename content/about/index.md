@@ -17,7 +17,6 @@ Other books are believed to have followed.
 
 <figure class="about-performance">
   <img src="/img/performative.png" alt="Standing ovation at the Metropolitan Opera" />
-  <figcaption>A recent evening at the Metropolitan Opera.</figcaption>
 </figure>
 
 <div class="about-nav">
