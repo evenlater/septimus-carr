@@ -324,27 +324,6 @@ blockquote cite {
   margin-left: calc(-1 * ((100vw - 100%) / 2));
   margin-right: calc(-1 * ((100vw - 100%) / 2));
 }
-.about-performance figcaption {
-  font-size: 0.78rem;
-  letter-spacing: .1em;
-  text-transform: uppercase;
-  color: #C4A055;
-  margin-top: 0.6rem;
-  text-align: right;
-}
-.about-performance img {
-  max-height: 650px;
-  object-position: center center;
-}
-.about-performance figcaption {
-  font-size: 0.78rem;
-  letter-spacing: .1em;
-  text-transform: uppercase;
-  color: #C4A055;
-  margin-top: 0.6rem;
-  text-align: center;
-  padding-left: 2rem;
-}
 /* ── About page: nav cards ────────────────────────────────── */
 .about-nav {
   display: flex;
