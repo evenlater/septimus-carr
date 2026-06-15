@@ -50,18 +50,26 @@
 
     {{/* ── BOOK METADATA CARD ── */}}
     {{ with .Params.book }}{{ if or .title .author .isbn }}
-    <div class="book-meta">
-      {{ $bcover := "" }}
-      {{ if .cover }}{{ $bcover = .cover }}{{ else if .isbn }}{{ $bcover = printf "https://covers.openlibrary.org/b/isbn/%s-M.jpg" .isbn }}{{ end }}
-      {{ if $bcover }}<img src="{{ $bcover }}" class="book-cover" alt="{{ .title }}" loading="lazy">{{ end }}
-      <div class="book-info">
-        {{ with .title }}<div class="book-title"><em>{{ . }}</em></div>{{ end }}
-        <div class="book-author">
-          {{ with .author }}{{ . }}{{ end }}{{ with .year }}&ensp;&middot;&ensp;{{ . }}{{ end }}
-        </div>
-        {{ with .isbn }}<div class="book-isbn">ISBN&ensp;{{ . }}</div>{{ end }}
-      </div>
+<div class="book-meta-wrapper{{ if not .Params.isbn2 }} single{{ end }}">
+  <div class="book-meta">
+    <img class="book-cover" src="...isbn1..." />
+    <div>
+      <div class="book-title">{{ .Params.title }}</div>
+      <div class="book-author">{{ .Params.author }}</div>
+      <div class="book-isbn">{{ .Params.isbn }}</div>
     </div>
+  </div>
+  {{ if .Params.isbn2 }}
+  <div class="book-meta">
+    <img class="book-cover" src="...isbn2..." />
+    <div>
+      <div class="book-title">{{ .Params.title2 }}</div>
+      <div class="book-author">{{ .Params.author2 }}</div>
+      <div class="book-isbn">{{ .Params.isbn2 }}</div>
+    </div>
+  </div>
+  {{ end }}
+</div>
     {{ end }}{{ end }}
 
     {{/* ── ESSAY BODY ── */}}

@@ -12,6 +12,12 @@ book:
   year: "2022"
   isbn: "0593541820"
   cover:   
+book2:
+  title2: "The Trick of It"
+  author2: "Michael Frayn"
+  year2: "1989"
+  isbn2: "0312421443"
+  cover2:   
 links:
   substack: "https://septimuscarr.substack.com/p/shallow-lads-and-narcissistic-dons"
   goodreads: "https://www.goodreads.com/review/show/8643868377?book_show_action=false"
