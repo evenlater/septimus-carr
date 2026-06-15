@@ -10,7 +10,7 @@ book:
   title: "The Lisbon Traviata"
   author: "Terrence McNally"
   year: "1986"
-  isbn: "OL2481589M"
+  isbn: "0822206730"
   cover: 
 ---
 
