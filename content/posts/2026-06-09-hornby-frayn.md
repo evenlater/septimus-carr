@@ -12,7 +12,6 @@ book:
   year: "2022"
   isbn: "0593541820"
   cover:   
-book2:
   title2: "The Trick of It"
   author2: "Michael Frayn"
   year2: "1989"
