@@ -5,7 +5,7 @@ draft: false
 categories: ["Drama","Opera"]
 subtitle: "Vincenzo Bellini and Gioachino Rossini in Terrence McNally’s \"Golden Age\""
 image: "/img/golden-age.jpg"
-imagePosition: "Top"
+imagePosition: "Center"
 book:
   title: "Golden Age"
   author: "Terrence McNally"
@@ -20,7 +20,7 @@ links:
 
 “Howdy” is the obliviously unpunctuated salutation winking blithely down the 4,000-foot drop to the Lilliputian futility of the Statue of Liberty. If I squint just so through the uncomprehending Tuesday morning splendor, I can spot a smudgy trace of galloping oncoming death.
 
-![Manhattan](img/spirit.jpg)
+![Manhattan](/img/spirit.jpg)
 
 March 3, 2020. My 89-year-old father is still recovering from the 3am start, but I’m barreling through La Guardia like the Budget Rental Car office is about to close up shop. It’s not a business trip, but it certainly is not leisure. A friend needs help moving out of downtown Manhattan. We have one day to help, and no lodging booked for the night. I have two part-time jobs, so I am not being paid for the time off, and there is no remote work option. I am inwardly calculating the temporal cost of a Chinatown lunch. My brother has other ideas. That night, *Agrippina* will be the fifth, count them, fifth production of a Georg Frideric Handel opera in the 137-year history of the Metropolitan Opera, but I don’t know from opera yet. To me, the bigger draw is the first preview performance of *Who’s Afraid of Virginia Woolf?* with Laurie Metcalf and Rupert Everett as the bilious couple playing drinking games for keeps in the 1962 drama that Edward Albee based partly on his relationship with Terrence McNally. Put a pin in that one. It will be performed only nine times before it is swallowed by history. Across the East River at St. Anne’s Warehouse, Ethiopian-Irish actress Ruth Negga is reprising her cunning, boyish turn in the incense-soaked *Hamlet* I saw alone at Dublin’s Gate Theatre in 2018. The realization that I’ll never get another chance to share that indelible memory will eventually fester smartingly, after the New York Times declares it the best play of the abbreviated year. But on March 3, I am only dimly aware of the looming specter that awaits the world. Today, New York Governor Andrew Cuomo will announce confirmation of the state’s first recorded case of person-to-person spread of the “novel coronavirus.” In a matter of days, Bellevue Hospital, where I briefly parked our Jeep Compass, will be the site of a makeshift morgue. The notoriously compressed city will confirm nearly 18,000 cases before the end of the month, making New York the epicenter of a global pandemic. Chinatown will combat the entrenched misperception that the spread started here. That is the real reason to rush my elderly father out of Manhattan and sacrifice precious indulgences in a beautiful cultural life that will soon cease to exist anywhere on the globe. But on March 3, I’m just impatient. Forget the Chinatown lunch; it’s faster to eat at a halal cart.
 
@@ -43,7 +43,7 @@ McNally’s portrait of Bellini is to some degree autobiographical. McNally neve
 
 The youthful McNally apparently resembled Bellini physically as well. Consider Ferris’s description of Bellini:
 
-![Vincenzo Bellini](img/Lucchini-Bellini.jpg)
+![Vincenzo Bellini](/img/Lucchini-Bellini.jpg)
 
 > Bellini was affable, sincere, honest, and affectionate. Nature gave him a beautiful and ingenuous face, noble features, large, clear blue eyes, and abundant light hair. His countenance instantly won on the regards of all that met him.
 ><cite>George T. Ferris, <em>Great Musical Composers German, French, and Italian</em></cite>
@@ -52,6 +52,8 @@ Compare that with Edward Albee’s description of his first encounter with McNal
 
 > “I noticed this nineteen-year-old, a ravishing-looking blond kid lurking around the place. I found out he was a college student named Terrence McNally who wanted to be a playwright. Well, Terrence and I started talking and the next thing I knew, so to speak, we were living together.” 
 > <cite>Edward Albee in Mel Gussow’s <em>Edward Albee: A Singular Journey</em></cite>
+
+![Terrence McNally](/img/mcnally.jpg)
 
 At the time, McNally was on a sort of pilgrimage to New York City from his hometown of Corpus Christi, Texas, where there were few out gay men and few opera fans with voluminous vinyl collections.
 
@@ -87,10 +89,11 @@ Despite his terminal illness, the composer keeps the proceedings lively througho
 
 Vincenzo Bellini was 33, the age at which Jesus died. The same age of demise as John Belushi and Chris Farley and Sam Cooke, a change is gonna come. Folk singer David Wilcox is no Bellini, but he did write these memorable lyrics in 1997:
 
-> In the big boring middle of our long book of life
-> After the twist has been told
-> If you don't die in glory at the age of Christ
-> Then your story is just getting old
+> In the big boring middle of our long book of life<br>
+> After the twist has been told<br>
+> If you don't die in glory at the age of Christ<br>
+> Then your story is just getting old<br>
+> <cite>David Wilcox, "Glory"</cite>
 
 Rossini was 43 when Bellini died. He would live for exactly 33 more years. I’m not making this up. No one knoweth the hour, but Bel Canto was already dead, the incandescent torch passed to the more restrained, more psychologically sophisticated Giuseppe Verdi. In *Golden Age*, the 22-year-old Verdi attends *I Puritani* to pay homage to a dying legend. "He'll need another name for the theatre," grouses Rossini, aging into obscurity. "Giuseppe Verdi, it sounds like a farmer."
 
@@ -107,5 +110,7 @@ That hour knoweth no man, but it is March 24, and it is 10:45 AM in Sarasota.
 >Gaetano Donizetti is everything I detest in this business: banal melodies, orchestrations that would embarrass a student, toadying up to the impresarios, brown-nosing the press. The only reason he’s here tonight is to see me fail…. And yet, he’s a fellow composer. He knows how hard and long the distance is from this *(He points to his heart.)* to this *(He points to his head.)* to there. *(He points to the stage.)* We are brothers that way. This is the most beautiful tenor aria ever written. I would give the entire score of *The Pirate* to have written it. *(He begins to play and sing “Una furtiva lagrima (A furtive tear).” It doesn’t matter how badly he sings.
 ><cite>Vincenzo Bellini in Terrence McNally’s *Golden Age*</cite>	
 
-September 26, 2021. Sunday at 2pm. The usher reviewing our dogeared vaccination cards at the Civic Opera House in Chicago is masked to the nines, but there is an unusual pep to her salutation that hints at giddy relief. “Howdy,” I wish she had blithely chirped. That would be fitting end to a triple decker story in which everything rhymes. As I am handed a letter sized program brimming with the kind of operatic minutia Terrence used to declaim on classical radio, I cheerfully rhyme the story to myself in a Chef Boyardee accent. Bellllla. Bruuutta. Rossiiiiini. Belliiiiini. McNaaaally, In March 2020, I didn’t know from any of this. Chastened for my indulgent distraction by a near collision with the exponentially multiplying walkers, canes, and N95s, I lead my 90-year-old father to the claustrophobic elevator. On the sixth floor, the first live opera I have ever seen is a well-constructed Bel Canto farce dressed in Fellini hoop skirts. But it is tenor Charles Castronovo’s “Una furtiva lagrima” and the subsequent bellowing cheers that will stay with me until death comes galloping. Tomorrow, Chris Jones in the *Chicago Tribune* will write that “the building was listening to his voice along with his audience, and he was repaying its favor in rapturous kind…. It exemplified what so many people have missed during the pandemic about hearing their favorite music sung live.” Beauty is back. Belllla.
+September 26, 2021. Sunday at 2pm. The usher reviewing our dogeared vaccination cards at the Civic Opera House in Chicago is masked to the nines, but there is an unusual pep to her salutation that hints at giddy relief. “Howdy,” I wish she had blithely chirped. That would be fitting end to a triple decker story in which everything rhymes. As I am handed a letter sized program brimming with the kind of operatic minutia Terrence used to declaim on classical radio, I cheerfully rhyme the story to myself in a Chef Boyardee accent. Bellllla. Bruuutta. Rossiiiiini. Belliiiiini. McNaaaally, In March 2020, I didn’t know from any of this. Chastened for my indulgent distraction by a near collision with the exponentially multiplying walkers, canes, and N95s, I lead my 90-year-old father to the claustrophobic elevator. On the sixth floor, the first live opera I have ever seen is a well-constructed Bel Canto farce dressed in Fellini hoop skirts. But it is tenor Charles Castronovo’s “Una furtiva lagrima” and the subsequent bellowing cheers that will stay with me until death comes galloping. Tomorrow, Chris Jones in the *Chicago Tribune* will write that “the building was listening to his voice along with his audience, and he was repaying its favor in rapturous kind…. It exemplified what so many people have missed during the pandemic about hearing their favorite music sung live.” 
+
+Beauty is back. Belllla.
 
