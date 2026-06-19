@@ -20,7 +20,7 @@ links:
 
 “Howdy” is the obliviously unpunctuated salutation winking blithely down the 4,000-foot drop to the Lilliputian futility of the Statue of Liberty. If I squint just so through the uncomprehending Tuesday morning splendor, I can spot a smudgy trace of galloping oncoming death.
 
-![Manhattan](/img/spirit.jpg)
+{{< figure src="img/spirit.jpg" alt="Manhattan" width="600" >}}
 
 March 3, 2020. My 89-year-old father is still recovering from the 3am start, but I’m barreling through La Guardia like the Budget Rental Car office is about to close up shop. It’s not a business trip, but it certainly is not leisure. A friend needs help moving out of downtown Manhattan. We have one day to help, and no lodging booked for the night. I have two part-time jobs, so I am not being paid for the time off, and there is no remote work option. I am inwardly calculating the temporal cost of a Chinatown lunch. My brother has other ideas. That night, *Agrippina* will be the fifth, count them, fifth production of a Georg Frideric Handel opera in the 137-year history of the Metropolitan Opera, but I don’t know from opera yet. To me, the bigger draw is the first preview performance of *Who’s Afraid of Virginia Woolf?* with Laurie Metcalf and Rupert Everett as the bilious couple playing drinking games for keeps in the 1962 drama that Edward Albee based partly on his relationship with Terrence McNally. Put a pin in that one. It will be performed only nine times before it is swallowed by history. Across the East River at St. Anne’s Warehouse, Ethiopian-Irish actress Ruth Negga is reprising her cunning, boyish turn in the incense-soaked *Hamlet* I saw alone at Dublin’s Gate Theatre in 2018. The realization that I’ll never get another chance to share that indelible memory will eventually fester smartingly, after the New York Times declares it the best play of the abbreviated year. But on March 3, I am only dimly aware of the looming specter that awaits the world. Today, New York Governor Andrew Cuomo will announce confirmation of the state’s first recorded case of person-to-person spread of the “novel coronavirus.” In a matter of days, Bellevue Hospital, where I briefly parked our Jeep Compass, will be the site of a makeshift morgue. The notoriously compressed city will confirm nearly 18,000 cases before the end of the month, making New York the epicenter of a global pandemic. Chinatown will combat the entrenched misperception that the spread started here. That is the real reason to rush my elderly father out of Manhattan and sacrifice precious indulgences in a beautiful cultural life that will soon cease to exist anywhere on the globe. But on March 3, I’m just impatient. Forget the Chinatown lunch; it’s faster to eat at a halal cart.
 
@@ -43,6 +43,7 @@ McNally’s portrait of Bellini is to some degree autobiographical. McNally neve
 
 The youthful McNally apparently resembled Bellini physically as well. Consider Ferris’s description of Bellini:
 
+{{< figure src="img/Lucchini-Bellini.jpg" alt="Bellini" width="600" >}}
 ![Vincenzo Bellini](/img/Lucchini-Bellini.jpg)
 
 > Bellini was affable, sincere, honest, and affectionate. Nature gave him a beautiful and ingenuous face, noble features, large, clear blue eyes, and abundant light hair. His countenance instantly won on the regards of all that met him.
@@ -53,7 +54,7 @@ Compare that with Edward Albee’s description of his first encounter with McNal
 > “I noticed this nineteen-year-old, a ravishing-looking blond kid lurking around the place. I found out he was a college student named Terrence McNally who wanted to be a playwright. Well, Terrence and I started talking and the next thing I knew, so to speak, we were living together.” 
 > <cite>Edward Albee in Mel Gussow’s <em>Edward Albee: A Singular Journey</em></cite>
 
-![Terrence McNally](/img/mcnally.jpg)
+{{< figure src="img/mcnally.jpg" alt="McNally" width="600" >}}
 
 At the time, McNally was on a sort of pilgrimage to New York City from his hometown of Corpus Christi, Texas, where there were few out gay men and few opera fans with voluminous vinyl collections.
 
