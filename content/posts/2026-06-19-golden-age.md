@@ -5,7 +5,7 @@ draft: false
 categories: ["Drama","Opera"]
 subtitle: "Vincenzo Bellini and Gioachino Rossini in Terrence McNally’s \"Golden Age\""
 image: "/img/golden-age.jpg"
-imagePosition: "Center"
+imagePosition: "Top"
 book:
   title: "Golden Age"
   author: "Terrence McNally"
