@@ -13,8 +13,10 @@ book:
   isbn: "0061719528"
   cover: 
 links:
-  substack: "https://septimuscarr.substack.com/p/not-about-newton"  goodreads: "https://www.goodreads.com/review/show/8488565341"  reddit: "https://www.reddit.com/r/nonfictionbooks/comments/1sadnnd/review_clumsy_subtitling_and_the_clockwork/"---
-
+  substack: "https://septimuscarr.substack.com/p/not-about-newton"  
+  goodreads: "https://www.goodreads.com/review/show/8488565341"  
+  reddit: "https://www.reddit.com/r/nonfictionbooks/comments/1sadnnd/review_clumsy_subtitling_and_the_clockwork/"---
+---
 >“There’s a tendency in publishing today to affix grandiose subtitles to every nonfiction book that exists. The formula goes a little something like this: ‘Cool Phrase [colon] Promise that book will A.) Change Your Life, B.) Show How America Changed, or C.) Explain Everything.’ Subtitle grandiosity is a relatively new thing, meant to make books obvious so they can be easily pitched and marketed. There’s a logic to it. Theoretically, subtitles should make it easier for readers to select books. Instead of having to skim an article or book jacket flap, all we have to do is read the subtitle. Supposedly, then, we’ll know what the book is about. However, these subtitles are ridiculously misleading.”
 ><cite>- Alex Kalamaroff, “Death By Subtitle: How Extravagantly Fallacious Subtitles Are Ruining Books” (2012)</cite>
 
