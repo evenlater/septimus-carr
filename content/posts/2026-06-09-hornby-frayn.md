@@ -11,7 +11,7 @@ book:
   author: "Nick Hornby"
   year: "2022"
   isbn: "0593541820"
-  cover:   
+  cover: "/img/dickens-prince-cover.jpg"
   title2: "The Trick of It"
   author2: "Michael Frayn"
   year2: "1989"
