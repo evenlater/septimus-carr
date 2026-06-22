@@ -11,12 +11,12 @@ book:
   author: "Haruki Murakami"
   year: "1993"
   isbn: "0679743464"
-  cover: 
+  cover: "/img/hardboiled-cover.jpg"
   title2: "End of the World and Hard-Boiled Wonderland"
   author2: "Haruki Murakami"
   year2: "2024"
   isbn2: "0593320026"
-  cover2: 
+  cover2: "/img/end-cover.jpg"
 links:
   goodreads: "https://www.goodreads.com/book/show/10374.Hard_Boiled_Wonderland_and_the_End_of_the_World"  
   reddit: "https://www.reddit.com/r/TrueLit/comments/1rv6221/splitting_the_baby_edition_anxiety_and_haruki/"

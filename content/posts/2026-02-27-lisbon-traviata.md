@@ -11,7 +11,7 @@ book:
   author: "Terrence McNally"
   year: "1986"
   isbn: "0822206730"
-  cover: 
+  cover: "/img/lisbon-traviata-cover.jpg"
 links:
   substack: "https://septimuscarr.substack.com/p/opera-as-obsession"
   goodreads: "https://www.goodreads.com/review/show/8394576434"
