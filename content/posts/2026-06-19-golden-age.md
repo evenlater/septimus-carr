@@ -11,7 +11,7 @@ book:
   author: "Terrence McNally"
   year: "2012"
   isbn: "0822228610"
-  cover: 
+  cover: "/img/golden-age-cover.jpg"
 links:
 ---
 
