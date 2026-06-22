@@ -52,7 +52,7 @@
 {{ with .Params.book }}
 <div class="book-meta-wrapper{{ if not .isbn2 }} single{{ end }}">
   <div class="book-meta">
-    <img class="book-cover" src="https://covers.openlibrary.org/b/isbn/{{ .isbn }}-M.jpg" />
+    <img class="book-cover" src="{{ if .cover }}{{ .cover }}{{ else }}https://covers.openlibrary.org/b/isbn/{{ .isbn }}-M.jpg{{ end }}" />
     <div>
       <div class="book-title">{{ .title }}</div>
 	  <div class="book-year">{{ .year }}</div>
@@ -62,7 +62,7 @@
   </div>
   {{ if .isbn2 }}
   <div class="book-meta">
-    <img class="book-cover" src="https://covers.openlibrary.org/b/isbn/{{ .isbn2 }}-M.jpg" />
+    <img class="book-cover" src="{{ if .cover2 }}{{ .cover2 }}{{ else }}https://covers.openlibrary.org/b/isbn/{{ .isbn2 }}-M.jpg{{ end }}" />
     <div>
       <div class="book-title">{{ .title2 }}</div>
 	  <div class="book-year">{{ .year2 }}</div>
