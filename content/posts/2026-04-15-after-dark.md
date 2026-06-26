@@ -4,7 +4,7 @@ date: 2026-04-15
 draft: false
 categories: ["Fiction"]
 subtitle: "Haruki Murakami at the Height of His Powers"
-image: "/img/after-dark.png"
+image: "/img/after-dark.avif"
 imagePosition: "Top"
 book:
   title: "After Dark"
