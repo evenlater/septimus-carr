@@ -183,16 +183,17 @@ body {
              line-height: 1.06; color: #1C1410; margin-bottom: 16px; }
 .art-sub   { font-style: italic; font-size: 20px; color: #5A4E44; line-height: 1.4; margin-bottom: 22px; }
 .art-byline { font-size: 11px; letter-spacing: .2em; text-transform: uppercase; color: #C4A055; margin-bottom: 22px; }
-.art-photocredit { font-size: 0.8rem;  font-style: italic;  color: #C4A055; margin-top: -0.5rem;  margin-bottom: rem;  letter-spacing: 0.01em; }
+.art-photocredit { font-size: 0.8rem; font-style: italic; color: #A09488; margin-top: -0.5rem; margin-bottom: 14px; letter-spacing: 0.01em; }
 
 .art-photocredit a {
-  color: #a8763e; /* your gold accent — swap for your actual hex if different */
+  color: #A09488;
   text-decoration: none;
-  border-bottom: 1px solid currentColor;
+  border-bottom: 1px solid #D0C8BC;
 }
 
 .art-photocredit a:hover {
-  opacity: 0.75;
+  color: #C4A055;
+  border-bottom-color: #C4A055;
 }
 .art-rule  { border: none; border-top: 1px solid #C4A055; margin-bottom: 40px; opacity: .5; }
 
@@ -367,4 +368,3 @@ blockquote cite {
   text-transform: uppercase;
   color: #C4A055;
 }
-
