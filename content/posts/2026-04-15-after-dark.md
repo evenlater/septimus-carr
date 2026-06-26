@@ -4,7 +4,7 @@ date: 2026-04-15
 draft: false
 categories: ["Fiction"]
 subtitle: "Haruki Murakami at the Height of His Powers"
-photocredit: "Lianhao Qu, <a href="https://unsplash.com/@lianhao" target="_blank">Unsplash</a>"
+photocredit: 'Lianhao Qu, <a href="https://unsplash.com/@lianhao" target="_blank">Unsplash</a>'
 image: "/img/after-dark.avif"
 imagePosition: "Bottom"
 imageAlt: "A long-exposure night shot of Front Street in Toronto, with light trails from passing traffic and the CN Tower visible in the distance."
