@@ -13,7 +13,7 @@
 <div class="cover-wrap">
   <img src="{{ . }}" class="cover-img"
        style="object-position:{{ with $.Params.imagePosition }}{{ . }}{{ else }}center{{ end }}"
-       alt="{{ $.Title }}">
+       alt="{{ $.Params.ImageAlt }}">
 </div>
 {{ end }}
 
@@ -34,6 +34,7 @@
     <h1 class="art-title">{{ .Title }}</h1>
     {{ with .Params.subtitle }}<p class="art-sub">{{ . }}</p>{{ end }}
     <div class="art-byline">By {{ .Site.Params.author }}</div>
+	<div class="art-photocredit">Photo By {{ .Params.art-photocredit }}</div>
 
     {{/* ── PLATFORM LINKS ── */}}
     {{ if or .Params.links.substack .Params.links.goodreads .Params.links.reddit .Params.links.fable }}

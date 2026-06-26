@@ -4,8 +4,10 @@ date: 2026-04-15
 draft: false
 categories: ["Fiction"]
 subtitle: "Haruki Murakami at the Height of His Powers"
+photocredit: "Lianhao Qu, <a href="https://unsplash.com/@lianhao" target="_blank">Unsplash</a>"
 image: "/img/after-dark.avif"
 imagePosition: "Bottom"
+imageAlt: "A long-exposure night shot of Front Street in Toronto, with light trails from passing traffic and the CN Tower visible in the distance."
 book:
   title: "After Dark"
   author: "Haruki Murakami"
@@ -15,7 +17,7 @@ book:
 links:
   substack: "https://septimuscarr.substack.com/p/defying-the-caveman-brain"
   goodreads: "https://www.goodreads.com/review/show/8513181043"
-  reddit: "https://www.reddit.com/r/murakami/comments/1smqyq8/defying_the_caveman_brain_haruki_murakami_at_his/"
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1smp4eq/defying_the_caveman_brain_haruki_murakami_at_his/"
 ---
 
 <blockquote>“When it’s dark, it really makes you tired, doesn’t it?”<br>
