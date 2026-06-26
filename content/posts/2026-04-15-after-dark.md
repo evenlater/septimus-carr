@@ -5,7 +5,7 @@ draft: false
 categories: ["Fiction"]
 subtitle: "Haruki Murakami at the Height of His Powers"
 image: "/img/after-dark.avif"
-imagePosition: "Top"
+imagePosition: "center"
 book:
   title: "After Dark"
   author: "Haruki Murakami"
