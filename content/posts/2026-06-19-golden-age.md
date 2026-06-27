@@ -15,6 +15,7 @@ book:
   isbn: "0822228610"
   cover: "/img/golden-age-cover.jpg"
 links:
+  substack: "https://septimuscarr.substack.com/p/bella-vita-brutta-morte"
 ---
 
 >"But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son."

@@ -9,9 +9,10 @@ paginate = 12
   tagline      = 'Longform Literary Intersections'
   substack     = 'https://septimuscarr.substack.com'
   goodreads    = 'https://www.goodreads.com/user/show/186362129-septimus-carr'
-  stagesscreens = 'https://stagesandscreens.blogspot.com/'
+  siblingcontent = 'https://stagesandscreens.blogspot.com/'
   # categoryOrder controls nav sequence; add new categories here too
   categoryOrder = ['Classics','Fiction','Drama','Essays','Nonfiction','Opera']
+  cusdisID = "49375ae2-0bed-45fd-a0cd-3eb99d120ffe"
 
 [taxonomies]
   category = 'categories'

@@ -29,3 +29,5 @@ Other books are believed to have followed.
     <span class="about-nav-caption">Some biographical context.</span>
   </a>
 </div>
+
+<p class="about-contact">Correspondence to <a href="mailto:septimus@septimuscarr.com">septimus@septimuscarr.com</a>.</p>
