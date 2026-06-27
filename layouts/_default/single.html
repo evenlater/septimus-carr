@@ -85,6 +85,25 @@
   </div>
 </div>
 
+{{/* ── COMMENTS (Cusdis) ── */}}
+{{ with .Site.Params.cusdisID }}
+<div class="art-comments">
+  <div class="rel-head">
+    <span>Comments</span>
+    <div class="rel-rule"></div>
+  </div>
+  <div id="cusdis_thread"
+       data-host="https://cusdis.com"
+       data-app-id="{{ . }}"
+       data-page-id="{{ $.RelPermalink }}"
+       data-page-url="{{ $.Permalink }}"
+       data-page-title="{{ $.Title }}"
+       data-theme="auto">
+  </div>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+</div>
+{{ end }}
+
 {{/* ── RELATED ESSAYS ── */}}
 {{ $related := where .Site.RegularPages "Params.categories" "intersect" .Params.categories }}
 {{ $related = where $related "Permalink" "!=" .Permalink }}
