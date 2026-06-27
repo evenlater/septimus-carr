@@ -1,0 +1,23 @@
+<footer class="sc-foot">
+  <img src="{{ "img/logo.png" | relURL }}" class="flogo-img" alt="{{ .Site.Title }}">
+  <div class="flinks">
+    <a href="{{ .Site.Params.substack }}" target="_blank" rel="noopener">Substack</a>
+    <a href="{{ .Site.Params.goodreads }}" target="_blank" rel="noopener">Goodreads</a>
+    <a href="{{ "/about/" | relURL }}">Contact</a>
+    <a href="#" class="js-email" data-u="septimus" data-d="septimuscarr.com"></a>
+    {{ with .Site.Params.stagesscreens }}
+    <a href="{{ . }}" target="_blank" rel="noopener" class="f-joint">Stages &amp; Screens &#8599;</a>
+    {{ end }}
+  </div>
+</footer>
+
+{{/* ── EMAIL DE-OBFUSCATION (runs site-wide; also covers .js-email links elsewhere, e.g. the About page) ── */}}
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('.js-email').forEach(function (el) {
+    var addr = el.getAttribute('data-u') + '@' + el.getAttribute('data-d');
+    el.href = 'mailto:' + addr;
+    el.textContent = addr;
+  });
+});
+</script>
