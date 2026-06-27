@@ -30,4 +30,4 @@ Other books are believed to have followed.
   </a>
 </div>
 
-<p class="about-contact">Correspondence to <a href="mailto:septimus@septimuscarr.com">septimus@septimuscarr.com</a>.</p>
+<p class="about-contact">Correspondence to <a href="#" class="js-email" data-u="septimus" data-d="septimuscarr.com"></a>.</p>
