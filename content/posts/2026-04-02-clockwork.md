@@ -5,7 +5,7 @@ draft: false
 categories: ["Nonfiction"]
 subtitle: "Edward Dolnick's \"The Clockwork Universe\" Is Three Good Books with Four Bad Titles"
 image: "/img/clockwork.jpg"
-imagePosition: "Top"
+imagePosition: "Center"
 book:
   title: "The Clockwork universe: Isaac Newton, the Royal Society, and the birth of the modern world"
   author: "Edward Dolnick"
