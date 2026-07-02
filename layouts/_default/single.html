@@ -37,7 +37,7 @@
 	<div class="art-photocredit">{{ .Params.photocredit | safeHTML }}</div>
 
     {{/* ── PLATFORM LINKS ── */}}
-    {{ if or .Params.links.substack .Params.links.goodreads .Params.links.reddit .Params.links.fable }}
+    {{ if or .Params.links.substack .Params.links.medium .Params.links.goodreads .Params.links.reddit .Params.links.fable }}
     <div class="art-platforms">
       <span class="art-platforms-label">Also on</span>
       {{ with .Params.links.substack }}<a href="{{ . }}" target="_blank" rel="noopener">Substack</a>{{ end }}
