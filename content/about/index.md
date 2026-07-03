@@ -24,6 +24,10 @@ Other books are believed to have followed.
     <span class="about-nav-title">Six Chekhovs</span>
     <span class="about-nav-caption">Start here for capstone content.</span>
   </a>
+    <a href="/posts/2026-07-01-stoppard/" class="about-nav-card">
+    <span class="about-nav-title">The Man Who Gave a Name to a Theater - And Me</span>
+    <span class="about-nav-caption">Explains the *nom de plume*</span>
+  </a>
   <a href="/posts/2026-06-09-hornby-frayn/" class="about-nav-card">
     <span class="about-nav-title">Shallow Lads and Narcissistic Dons</span>
     <span class="about-nav-caption">Some biographical context.</span>
