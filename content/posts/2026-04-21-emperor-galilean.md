@@ -4,7 +4,7 @@ date: 2026-04-21
 draft: false
 categories: ["Drama","Classics"]
 subtitle: "Grappling with irreconcilable tensions between \"Emperor and Galilean\""
-image: "/img/ibsen.jpb.jpg"
+image: "/img/ibsen.jpg"
 imagePosition: "Center"
 book:
   title: "Emperor and Galilean"
