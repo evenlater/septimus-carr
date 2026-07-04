@@ -8,10 +8,10 @@ image: "/img/ibsen.jpg"
 imagePosition: "Center"
 book:
   title: "Emperor and Galilean"
-  author: "Henrik Ibsen in a new version by Ben Power"
+  author: "Henrik Ibsen"
   year: "2016"
   isbn: "9781780017501"
-  cover: 
+  cover: "/img/emperor-galilean-cover.jpg"
 links:
   substack: "https://septimuscarr.substack.com/p/henrik-ibsen-and-the-two-christianities"
   goodreads: "https://www.goodreads.com/review/show/8357573946"
