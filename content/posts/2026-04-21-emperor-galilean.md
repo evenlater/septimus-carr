@@ -44,7 +44,7 @@ Elsewhere in the play, Maximus frames this choice as trifold, suggesting that Ju
 JULIAN. Wasn’t Socrates beautiful in the Symposium? What about Achilles? Heracles? Odysseus!<br>
 GREGORY. Poetry! You mistake poetry for reality.<br>
 JULIAN. Then look at our Scriptures. There was beauty in Eden and we called it sin. There was beauty in Sodom and Gomorrah and we said it was so ugly that God was forced to destroy it. That’s our truth. Our truth is the enemy of beauty.<br>
-<cite>Henrik Ibsen, <em>Emperor and Galilean</em></cite></blockbuster>
+<cite>Henrik Ibsen, <em>Emperor and Galilean</em></cite></blockquote>
 
 After a few perfunctory allusions to antiquity, Ibsen retreats to more comfortable terrain for a Norwegian raised in the Lutheran church.
 
