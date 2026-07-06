@@ -3,7 +3,7 @@ title: "Rasp and Snarl"
 date: 2026-07-06
 draft: false
 categories: ["Nonfiction"]
-subtitle: "Searching for Bob Dylan and Richard Thompson in Their Memoirs"
+subtitle: "Finding Bob Dylan and Richard Thompson in Their Memoirs"
 image: "/img/dylan-thompson.png"
 imagePosition: "Top"
 book:
