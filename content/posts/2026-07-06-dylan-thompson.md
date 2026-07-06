@@ -1,9 +1,9 @@
 ﻿---
-title: "Bob Dylan and Richard Thompson Find Their Voice"
+title: "Rasp and Snarl"
 date: 2026-07-06
 draft: false
 categories: ["Nonfiction"]
-subtitle: "Folk Star Memoirs"
+subtitle: "Searching for Bob Dylan and Richard Thompson in Their Memoirs"
 image: "/img/dylan-thompson.png"
 imagePosition: "Top"
 book:
@@ -41,7 +41,7 @@ To say that *Chronicles, Volume One* is sometimes astonishingly revealing is not
 
 ## THOMPSON:<br>THE PRICE YOU PAY FOR THE CHAINS YOU REFUSE
 
-By my count, *Beeswing* contains only three passages of varying length that feel like risky self-exposure. The first is a heartfelt description of a 1969 touring accident that ended the lives of a bandmate and a girlfriend for whom his feelings were uncomfortably casual. “I had known her for barely two weeks when she died, and I’m not sure I could have let her run our lives much longer,” he writes. “Her death froze our romance in midstream, so for a while it seemed more important than it really was.” The second is an account of his unexpected 1970s conversion to Islam. “I had never thought of myself as an alcoholic, but my consumption had risen as the years went by, and for a year I had been drinking solitarily and secretly,” he confesses. “When I started praying, I gave up drinking immediately—stopped on a sixpence.” The third is a passing anecdote, almost a throwaway, in which he declines an invitation to Paul MCartney’s 26th birthday party. It is 1968, and the Beatles are at their artistic zenith, and dissolution is fast approaching. “It shows how much of a musical snob I was at the time that I decided not to go—to me the Beatles were a ‘pop’ band and not to be taken seriously,” he discloses. This is the only glimpse we get of this side of the youthful Thompson: judgmental and arrogant, but stonily principled in his misguided way. When the author expresses a desire to give his younger incarnation “a good shake” and an admonition to “get down there and enjoy himself,” it feels moving but pat and mild. What happened to the snarl that young man drafted into his songs?   
+By my count, *Beeswing* contains only three passages of varying length that feel like risky self-exposure. The first is a heartfelt description of a 1969 touring accident that ended the lives of a bandmate and a girlfriend for whom his feelings were uncomfortably casual. “I had known her for barely two weeks when she died, and I’m not sure I could have let her run our lives much longer,” he writes. “Her death froze our romance in midstream, so for a while it seemed more important than it really was.” The second is an account of his unexpected 1970s conversion to Islam. “I had never thought of myself as an alcoholic, but my consumption had risen as the years went by, and for a year I had been drinking solitarily and secretly,” he confesses. “When I started praying, I gave up drinking immediately—stopped on a sixpence.” The third is a passing anecdote, almost a throwaway, in which he declines an invitation to Paul MCartney’s 26th birthday party. It is 1968, the Beatles are at their artistic zenith, and dissolution is fast approaching. “It shows how much of a musical snob I was at the time that I decided not to go—to me the Beatles were a ‘pop’ band and not to be taken seriously,” he discloses. This is the only glimpse we get of this side of the youthful Thompson: judgmental and arrogant, but stonily principled in his misguided way. When the author expresses a desire to give his younger incarnation “a good shake” and an admonition to “get down there and enjoy himself,” it feels moving but pat and mild. What happened to the snarl that young man drafted into his songs?   
 
 ## DYLAN:<br>I’LL KNOW MYSELF WELL BEFORE I START SINGIN’
 
