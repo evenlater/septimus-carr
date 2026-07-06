@@ -1,7 +1,7 @@
 ﻿---
 title: "Bob Dylan and Richard Thompson Find Their Voice"
 date: 2026-07-06
-draft: true
+draft: false
 categories: ["Nonfiction"]
 subtitle: "Folk Star Memoirs"
 image: "/img/dylan-thompson.png"
