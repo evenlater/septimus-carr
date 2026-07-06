@@ -5,7 +5,7 @@ draft: false
 categories: ["Nonfiction"]
 subtitle: "Folk Star Memoirs"
 image: "/img/dylan-thompson.png"
-imagePosition: "Center"
+imagePosition: "Top"
 book:
   title: "Chronicles Volume One"
   author: "Bob Dylan"
