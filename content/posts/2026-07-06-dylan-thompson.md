@@ -82,7 +82,7 @@ In chapter four, Dylan is touring with Tom Petty. The man who’d opened for MLK
 
 At some point in Dylan’s recorded catalogue, his voice acquires a different rasp than one that made him famous. Is that the “vocal technique” he describes so pointedly in the memoir? The inauthentic voice he could no longer perform, was that also an adopted “vocal technique”? Was the voice that inspired the Vietnam protests and Woodstock a phony character voice? A bit of hustler hokum? 
 
-What causes me to reject this hypothesis, what restores my faith in Dylan's core authenticity, is the unmistakable truth of his lyrics from “A Hard Rain’s A-Gonna Fall” to “Dignity” to “I Contain Multitudes.” When I consider the honesty of his lyrical expression, I realize that his book never casts him in grandiose inflation. It merely reports his hustler tendencies openly, unapologetically, and without the whiff of settled platitude that dominates *Beeswing*.      
+What causes me to reject this hypothesis, what restores my faith in Dylan's core authenticity, is the unmistakable truth of his lyrics from “A Hard Rain’s A-Gonna Fall” to “Dignity” to “I Contain Multitudes.” Maybe the singing voice was real; maybe it wasn't. The mind behind the songs is unimpeachable. When I juxtapose his autobiography with his honest lyrics, I realize that the book never casts him in grandiose inflation. It merely reports his hustler tendencies openly, unapologetically, and without the whiff of settled platitude that dominates *Beeswing*.      
 
 
 
