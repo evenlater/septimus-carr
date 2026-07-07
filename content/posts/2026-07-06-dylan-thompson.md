@@ -41,7 +41,7 @@ Self-revelation in a Thompson song often comes laced with a rabid bite.
 
 Those familiar with these songs likely crack open his first memoir, *Beeswing: Losing My Way and Finding My Voice 1967-1975*, expecting him to report his early adventures with an acidic, take-no-prisoners wit. But that voice appears so fleetingly amid the book’s blandly detailed reminiscences that I finished the book feeling I had less sense of Thompson’s personality than I had coming in.
 
-## <b>DYLAN</b><br>"I Contain Multitudes"
+## <b>DYLAN</b><br>"Gonna Change My Way of Thinking"
 
 Unlike Thompson, Bob Dylan has never been given to portraiture. His early folk songs, the ones that catapulted him from Midwestern obscurity to a lonely position as the most identifiable singing voice of his generation, seemed to have a single narrator who was old-soul wise, righteously indignant, socially compassionate. 
 
@@ -102,7 +102,15 @@ In chapter four, Dylan is touring with Tom Petty. The man who’d opened for MLK
 
 At some point in Dylan’s recorded catalogue, his voice acquires a different rasp than one that made him famous. Is that the “vocal technique” he describes so pointedly in the memoir? The inauthentic voice he could no longer perform, was that also an adopted “vocal technique”? Was the voice that inspired the Vietnam protests and Woodstock a phony character voice? A bit of hustler hokum? 
 
-What causes me to reject this hypothesis, what restores my faith in Dylan's core authenticity, is the unmistakable truth of his lyrics from “A Hard Rain’s A-Gonna Fall” to “Dignity” to “I Contain Multitudes.” Maybe the singing voice was real; maybe it wasn't. The mind behind the songs is unimpeachable. When I juxtapose his autobiography with his honest lyrics, I realize that the book never casts him in grandiose inflation. It merely reports his hustler tendencies openly, unapologetically, and without the whiff of settled platitude that dominates *Beeswing*.      
+## <b>DYLAN AND THOMPSON</b><br>"I Contain Multitudes"
+
+When I finally scratched "Dylan concert" off my bucket list on November 17, 2021, he did not make an effort to convince me of his authenticity. A recent matriculant to the octogenarian club, he mustered only comment to the audience all evening, a few minutes before its conclusion. A tossed off pleasantry about his fondness for Chicago, as if we were pulling teeth. Coincidentally, I'd seen Thompson two weeks earlier, witty and gracious as always and evidently more invested in reading excerpts from the memoir than in logging another fleet, fretboard-traversing "Valerie" solo. We applauded the latter, but he waved us off peremptorily. "Please don't. It's too easy." 
+
+Judging from *Chronicles Volume 1*, none of it comes easy to Dylan. Those anguished paragraphs about the songs that refused to escape his larynx because they no longer felt true: most people just sing. Despite the huckster instinct, Dylan's commitment to truth bleeds from his lyrics. 
+
+>"I’ll keep the path open - the path in my mind / I’ll see to it that there’s no love left behind / I play Beethoven sonatas Chopin’s preludes . . . I contain multitudes"
+
+Maybe the singing voice was real; maybe it wasn't. His mind is unimpeachable. When I juxtapose his autobiography with the plain honesty of his songs, I realize that the book never casts him in grandiose inflation. It merely reports his hustler tendencies openly, unapologetically, and without the whiff of settled platitude that dominates *Beeswing*.      
 
 
 
