@@ -108,7 +108,7 @@ When I finally scratched "Dylan concert" off my bucket list on November 17, 2021
 
 Coincidentally, I'd seen Thompson two weeks earlier, witty and gracious as always and evidently more invested in reading excerpts from the memoir than in logging another fleet, fretboard-traversing "Valerie" solo. We applauded the latter, but he waved us off peremptorily. "Please don't. It's too easy." 
 
-Judging from *Chronicles Volume 1*, none of it comes easy to Dylan. Those anguished paragraphs about the songs that refused to escape his larynx because they no longer felt true: most people just sing. Despite the huckster instinct, Dylan's commitment to truth bleeds from his lyrics. 
+Judging from *Chronicles Volume One*, none of it comes easy to Dylan. Those anguished paragraphs about the songs that refused to escape his larynx because they no longer felt true: most people just sing. Despite the huckster instinct, Dylan's commitment to truth bleeds from his lyrics. 
 
 >"I’ll keep the path open - the path in my mind / I’ll see to it that there’s no love left behind / I play Beethoven sonatas Chopin’s preludes . . . I contain multitudes"
 
