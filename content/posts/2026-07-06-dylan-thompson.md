@@ -104,11 +104,11 @@ At some point in Dylan’s recorded catalogue, his voice acquires a different ra
 
 ## <b>DYLAN AND THOMPSON</b><br>"I Contain Multitudes"
 
-When I finally scratched "Dylan concert" off my bucket list on November 17, 2021, he did not make an effort to convince me of his authenticity. A recent matriculant to the octogenarian club, he mustered only one comment to the audience all evening, a few minutes before its conclusion. A tossed off pleasantry about his fondness for Chicago, as if we were pulling teeth. 
+When I finally scratched "Dylan concert" off my bucket list on November 17, 2021, he did not make an effort to convince me of his authenticity. The octogenarian plowed indefatigably through his new record, *Rough and Rowdy Ways*, mustering only one tossed off grudging pleasantry at the end of the evening, as if we were pulling teeth. Instead he let sharp new compositions like "Goodbye Jimmy Reed" do the talking.
 
 >"You won't amount too much, the people all said / 'Cause I didn't play guitar behind my head / Never pandered, never acted proud / Never took off my shoes, throw 'em in the crowd"
 
-Coincidentally, I'd seen Thompson two weeks earlier, witty and gracious as always and evidently more invested in reading excerpts from the memoir than in logging another fleet, fretboard-traversing "Valerie" solo. We applauded the latter, but he waved us off peremptorily. "Please don't. It's too easy." 
+Coincidentally, I'd seen Richard Thompson two weeks earlier, witty and gracious as always and evidently more invested in reading excerpts from the memoir than in logging another fleet, fretboard-traversing "Valerie" solo. We applauded the latter, but he waved us off peremptorily. "Please don't. It's too easy." 
 
 Judging from *Chronicles Volume One*, none of it comes easy to Dylan. Those anguished paragraphs about the songs that refused to escape his larynx because they no longer felt true: Most people just sing. Despite the huckster instinct, Dylan's commitment to truth bleeds from his lyrics. 
 
