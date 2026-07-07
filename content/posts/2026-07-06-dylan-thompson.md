@@ -104,15 +104,15 @@ At some point in Dylan’s recorded catalogue, his voice acquires a different ra
 
 ## <b>DYLAN AND THOMPSON</b><br>"I Contain Multitudes"
 
-When I finally scratched "Dylan concert" off my bucket list on November 17, 2021, he did not make an effort to convince me of his authenticity. The octogenarian plowed indefatigably through his new record, *Rough and Rowdy Ways*, mustering only one tossed off grudging pleasantry at the end of the evening, as if we were pulling teeth. Instead he let sharp new compositions like "I Contain Multitudes" and "Goodbye Jimmy Reed" do the talking.
+When I finally scratched "Dylan concert" off my bucket list on November 17, 2021, he did not make an effort to convince me of his authenticity. The octogenarian plowed indefatigably through his new record, *Rough and Rowdy Ways*, mustering only one grudging pleasantry at the end of the evening, as if we were pulling teeth. Instead he let sharp new compositions like "I Contain Multitudes" and "Goodbye Jimmy Reed" do the talking.
 
->"You won't amount too much, the people all said / 'Cause I didn't play guitar behind my head / Never pandered, never acted proud / Never took off my shoes, throw 'em in the crowd"
+>You won't amount too much, the people all said / 'Cause I didn't play guitar behind my head / Never pandered, never acted proud / Never took off my shoes, throw 'em in the crowd
 
 Coincidentally, I'd seen Richard Thompson two weeks earlier, witty and gracious as always and evidently more invested in reading excerpts from the memoir than in logging another fleet, fretboard-traversing "Valerie" solo. We applauded the latter, but he waved us off peremptorily. "Please don't. It's too easy." 
 
 Judging from *Chronicles Volume One*, none of it comes easy to Dylan. Those anguished paragraphs about the songs that refused to escape his larynx because they no longer felt true: Most people just sing. Despite the huckster instinct, Dylan's commitment to truth bleeds from his lyrics. 
 
->"I’ll keep the path open - the path in my mind / I’ll see to it that there’s no love left behind / I play Beethoven sonatas Chopin’s preludes . . . I contain multitudes"
+>I’ll keep the path open - the path in my mind / I’ll see to it that there’s no love left behind / I play Beethoven sonatas Chopin’s preludes . . . I contain multitudes
 
 Maybe the singing voice was real; maybe it wasn't. His mind is unimpeachable. When I juxtapose his autobiography with the plain honesty of his songs, I realize that the book never casts him in grandiose inflation. It merely reports his hustler tendencies openly, unapologetically, and without the whiff of settled platitude that dominates *Beeswing*.      
 
