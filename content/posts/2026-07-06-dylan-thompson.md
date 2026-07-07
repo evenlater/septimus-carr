@@ -22,6 +22,7 @@ links:
   substack: ""
   medium: ""
   goodreads: ""
+  reddit: ""
 ---
 
 
@@ -29,15 +30,15 @@ links:
 
 Richard Thompson has always had a knack for rendering entrenched defiance and regret in the sparsely worded lightning flashes that three-minute pop song structure affords. 
 
->“And now you dare mock the Singing Bobby / I’ll find the door, take your bullies off me / A sweeter age it was that loved me well” 
+>And now you dare mock the Singing Bobby / I’ll find the door, take your bullies off me / A sweeter age it was that loved me well 
 
 His characters tend to be loners baring glimpses of their fiercely guarded souls. 
 
->“As long as there’s no price on love I’ll stay / And you wouldn’t want me any other way” 
+>As long as there’s no price on love I’ll stay / And you wouldn’t want me any other way” 
 
 Self-revelation in a Thompson song often comes laced with a rabid bite. 
 
->“I feel so good, I'm gonna make somebody pay tonight / I'm old enough to sin but I'm too young to vote / Society been dragging on the tail of my coat” 
+>I feel so good, I'm gonna make somebody pay tonight / I'm old enough to sin but I'm too young to vote / Society been dragging on the tail of my coat
 
 Those familiar with these songs likely crack open his first memoir, *Beeswing: Losing My Way and Finding My Voice 1967-1975*, expecting him to report his early adventures with an acidic, take-no-prisoners wit. But that voice appears so fleetingly amid the book’s blandly detailed reminiscences that I finished the book feeling I had less sense of Thompson’s personality than I had coming in.
 
@@ -45,11 +46,11 @@ Those familiar with these songs likely crack open his first memoir, *Beeswing: L
 
 Unlike Thompson, Bob Dylan has never been given to portraiture. His early folk songs, the ones that catapulted him from Midwestern obscurity to a lonely position as the most identifiable singing voice of his generation, seemed to have a single narrator who was old-soul wise, righteously indignant, socially compassionate. 
 
->“Your sons and your daughters / are beyond your command / Your old road is rapidly agin’ / Please get out of the new one if you can’t lend your hand” 
+>Your sons and your daughters / are beyond your command / Your old road is rapidly agin’ / Please get out of the new one if you can’t lend your hand
 
 Dylan’s 2004 memoir *Chronicles Volume One*, a nondescript title of as-yet-unrealized ambition (we’re still waiting for Volume 2), documents the way that lyrical persona shifted into cagily diffuse verse in his later work. 
 
->“All the people we used to know / They're an illusion to me now / Some are mathematicians / Some are carpenter's wives / Don't know how it all got started / I don't know what they're doing with their lives” 
+>All the people we used to know / They're an illusion to me now / Some are mathematicians / Some are carpenter's wives / Don't know how it all got started / I don't know what they're doing with their lives 
 
 What is remarkable about the memoir is that its narrator bears little resemblance to either of those personas but is nonetheless reluctantly, grudgingly candid, as if some unidentified force was pulling the author’s teeth into pained self-revelation.  
 
