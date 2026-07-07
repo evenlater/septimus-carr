@@ -82,7 +82,7 @@ Even after his most vulnerable passages, Thompson the memoirist pokes his head b
 >Linda and I had three kids—Kamila was born in 1982—and we felt overwhelmed at the time, but I should never have neglected Jesse; it was immature and irresponsible. We get on well now—as I do with all five of my talented children and six grandchildren.
 ><cite>Richard Thompson, <em>Beeswing</em></cite>
 
-Remove a couple words and this frank admission reads like a family Christmas letter. It’s not that Thompson owes his audience “salt for the memory, black for the years, black as forever, mascara tears,” but the emotional breech between the Christmas letter confession and the Thompson lyrics I just quoted could swallow the British Isles. 
+Trim a few words and it reads like a family Christmas letter. It’s not that Thompson owes his audience “salt for the memory, black for the years, black as forever, mascara tears,” but the emotional breech between the Christmas letter confession and the Thompson lyrics I just quoted could swallow the British Isles. 
 
 ## <b>DYLAN</b><br>"Things Have Changed"
 
