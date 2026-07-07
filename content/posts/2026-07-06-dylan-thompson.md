@@ -19,10 +19,10 @@ book:
   isbn2: "0312421443"
   cover2: "/img/beeswing-cover.jpg"
 links:
-  substack: ""
+  substack: "https://septimuscarr.substack.com/p/rasp-and-snarl"
   medium: ""
-  goodreads: ""
-  reddit: ""
+  goodreads: "https://www.goodreads.com/review/show/8749300798"
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1upscgr/rasp_and_snarl_finding_bob_dylan_and_richard/"
 ---
 
 
