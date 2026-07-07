@@ -104,7 +104,7 @@ At some point in Dylan’s recorded catalogue, his voice acquires a different ra
 
 ## <b>DYLAN AND THOMPSON</b><br>"I Contain Multitudes"
 
-When I finally scratched "Dylan concert" off my bucket list on November 17, 2021, he did not make an effort to convince me of his authenticity. The octogenarian plowed indefatigably through his new record, *Rough and Rowdy Ways*, mustering only one tossed off grudging pleasantry at the end of the evening, as if we were pulling teeth. Instead he let sharp new compositions like "Goodbye Jimmy Reed" do the talking.
+When I finally scratched "Dylan concert" off my bucket list on November 17, 2021, he did not make an effort to convince me of his authenticity. The octogenarian plowed indefatigably through his new record, *Rough and Rowdy Ways*, mustering only one tossed off grudging pleasantry at the end of the evening, as if we were pulling teeth. Instead he let sharp new compositions like "I Contain Multitudes" and "Goodbye Jimmy Reed" do the talking.
 
 >"You won't amount too much, the people all said / 'Cause I didn't play guitar behind my head / Never pandered, never acted proud / Never took off my shoes, throw 'em in the crowd"
 
