@@ -33,7 +33,7 @@ On the cover of Dylan’s 1963 debut, a girlish youth and a youthful girl huddle
 >As Harry Jackson, a cowboy singer and a painter has exclaimed: “He’s so goddamned real, it’s unbelievable.” The irrepressible <b>reality</b> of Bob Dylan is a compound of spontaneity, candor, slicing wit and an uncommonly perceptive eye and ear.
 ><cite>Nat Hentoff, Back cover of <em>The Freewheelin' Bob Dylan</em></cite>
 
-<img src="/img/freewheelin.jpg" alt="The Freewheelin' Bob Dylan album cover" width="600">
+<img src="/img/freewheelin.jpg" alt="The Freewheelin' Bob Dylan album cover" width="600"><br>
 
 I got to know Richard Thompson through mix tapes. In high school, we’d jumble 45 RPM favorites and compact disc discoveries onto 90-minute cassette tapes sequenced with auteur pretensions.
 
