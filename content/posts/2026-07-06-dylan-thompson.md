@@ -4,10 +4,10 @@ date: 2026-07-08
 draft: false
 categories: ["Nonfiction"]
 subtitle: "The Memoirs of Two Folk Rock Giants Recast Their Public Façades"
-image: "/img/dylan-thompson.png"
+image: "/img/dylan-thompson2.png"
 imagealt: "Black-and-white photos of young Bob Dylan in a posed portrait beside Richard Thompson performing live on acoustic guitar."
 imagePosition: "Top"
-photocredit: "Bob Dylan in 1965, sourced from Wikimedia (Daniel Kramer,Albert Grossman Management). Richard Thonpson in 1982, sourced from Wikimedia (Tony Rees)."
+photocredit: "Bob Dylan in 1965, sourced from Wikimedia (Daniel Kramer,Albert Grossman Management). Richard Thompson in 1982, sourced from Wikimedia (Tony Rees)."
 book:
   title: "Chronicles Volume One"
   author: "Bob Dylan"
@@ -31,6 +31,9 @@ In the days when “vinyl collections” were the only kind, I’d flip through 
 On the cover of Dylan’s 1963 debut, a girlish youth and a youthful girl huddled down a wintry city street. That babyface didn’t seem a remotely plausible match to the hoarse wisdom within. But the promo copy on the back cover claimed authenticity:
 
 >As Harry Jackson, a cowboy singer and a painter has exclaimed: “He’s so goddamned real, it’s unbelievable.” The irrepressible <b>reality</b> of Bob Dylan is a compound of spontaneity, candor, slicing wit and an uncommonly perceptive eye and ear.
+><cite>Nat Hentoff, Back cover of <em>The Freewheelin' Bob Dylan</em></cite>
+
+<img src="/img/freewheelin.jpg" alt="The Freewheelin' Bob Dylan album cover" width="600">
 
 I got to know Richard Thompson through mix tapes. In high school, we’d jumble 45 RPM favorites and compact disc discoveries onto 90-minute cassette tapes sequenced with auteur pretensions.
 
@@ -48,7 +51,7 @@ Popular music is a blind date. The singer flatters you with practiced intimate �
 
 Reading a memoir is marital therapy. The singer relitigates old transgressions. Sometimes shouts, sometimes strives to charm his way out of the doghouse. I was utterly surprised by the distinct ways Dylan and Thompson recast their public façades to preserve their relationships with their fans.
 
-## THOMPSON: “It’ll Be Me”
+## <b>THOMPSON:</b><br>“It’ll Be Me”
 
 Richard Thompson has always had a knack for rendering entrenched defiance and regret in the sparsely worded lightning flashes that three-minute pop song structure affords.
 
@@ -64,7 +67,7 @@ Self-revelation in a Thompson song often comes laced with a rabid bite.
 
 Knowing the songs, I expected Thompson to report his early adventures with an acidic, take-no-prisoners wit. But that voice appears so fleetingly amid the book’s blandly detailed reminiscences that I finished it with less sense of his personality than I’d had coming in.
 
-## DYLAN: “Gonna Change My Way of Thinking”
+## <b>DYLAN:</b><br>“Gonna Change My Way of Thinking”
 
 Unlike Thompson, Bob Dylan has never been given to portraiture. His early folk songs, the ones that catapulted him from Midwestern obscurity to become the premiere singer of his generation, seemed to have a single narrator who was old-soul wise, righteously indignant, socially compassionate.
 
@@ -76,7 +79,7 @@ Dylan’s 2004 memoir *Chronicles Volume One*, a nondescript title of as-yet-unr
 
 What strikes me about the memoir is that its narrator bears little resemblance to either of those personas but is nonetheless grudgingly candid, as if some unidentified force was pulling his teeth into pained self-revelation.
 
-## THOMPSON: “Drifting Through the Days”
+## <b>THOMPSON:</b><br>“Drifting Through the Days”
 
 To say that Beeswing is stylistically cautious is not to say that it is dull. The book is a breezily enjoyable and informative first try at authorship. Thompson shares recollections like a favorite uncle reflecting on the good old days: charming, well-spoken, chockfull of insights into his era and vocation.
 
@@ -84,7 +87,7 @@ These are the years in which Thompson co-founded the legendary British folk-rock
 
 A traditional chronological structure ushers Thompson from a “very shy” suburban kid who found the guitar enabled self-expression to a “socially inept” solo artist writing songs “for pleasure, but also to understand [myself] and decode life.” His thoughts are more coherently articulated then Dylan’s, but the latter’s rough musings contain more diamonds.
 
-## DYLAN: “You Wanna Ramble”
+## <b>DYLAN:</b><br>“You Wanna Ramble”
 
 To say that *Chronicles Volume One* is astonishingly revealing is not to say that it is always fascinating. The prose is plainspoken, sometimes prickly. He almost apologizes for his intelligence. This is not the kind of writing you would expect from a man who won the Nobel Prize for Literature.
 
@@ -94,7 +97,7 @@ Just when you are nodding into nostalgia-induced slumber, he drops a stunning di
 
 Not a voting man? Goldwater? These are jarring self-descriptions from the writer of “Blowin’ in the Wind,” the frontman of the 1960s hippie protest movement.
 
-## THOMPSON: “Saving the Good Stuff for You”
+## <br>THOMPSON:</b><br>“Saving the Good Stuff for You”
 
 By my count, *Beeswing* contains only three passages of varying length that feel like risky self-exposure. The first is a heartfelt description of a 1969 touring accident that ended the lives of a bandmate and a girlfriend for whom his feelings were uncomfortably casual. “Her death froze our romance in midstream, so for a while it seemed more important than it really was.”
 
@@ -104,7 +107,7 @@ The third is a throwaway anecdote in which he declines an invitation to Paul MCa
 
 This is the only glimpse we get of this side of the youthful Thompson: judgmental and arrogant yet stonily principled. When the author expresses a desire to give his younger incarnation “a good shake” and an admonition to “get down there and enjoy himself,” it feels moving but pat. What happened to the snarl that young man drafted into his songs?
 
-## DYLAN: “What Good Am I?”
+## <b>DYLAN:</b><br>“What Good Am I?”
 
 You have to wade through pages of banality to accumulate a meaningful self-portrait of Dylan, and even then the brushwork is prevaricating and elusive. But the questions I was asking about him as I read his testimony bowled me over.
 
@@ -117,22 +120,24 @@ In the same paragraph, Dylan embodies Caulfield values and embraces his own phon
 But one sentence later, Mr. “The Times They Are A-Changin’” denies that song’s entire premise like Peter before the rooster crows:
 
 >I didn’t know what age of history we were in nor what the truth of it was. Nobody bothered with that. If you told the truth, that was all well and good and if you told the un-truth, that was all well and good.
+><cite>Bob Dylan, <em>Chronicles Volume One</em></cite>
 
 Much of the book describes Dylan’s struggle to escape the political shadow he’d cast. “Joan Baez recorded a protest song about me that was getting big play,” he reports in chapter three. “[She was] challenging me to get with it — come out and take charge, lead the masses — be an advocate, lead the crusade.” He tries to tell The New York Times that he had never been a spokesman for any cause. The paper runs the interview with the headline, “Spokesman Denies That He’s a Spokesman.”
 
 Dylan treats these pressures as external, presenting himself as a humble, misunderstood musician. This feels like a small copout to me. He’d adopted Woody Guthrie’s agenda. He’d sung protests songs with Baez. He’d opened for Martin Luther King, Jr.’s “I Have a Dream” speech. Was that too “pure hokum”?
 
-## THOMPSON: “Keep Your Distance”
+## <b>THOMPSON:</b><br>“Keep Your Distance”
 
 Even after his most vulnerable passages, Thompson the memoirist keeps poking his head back into its tortoise shell. The wrenching dissolution of his relationship with wife and folk partner Linda Thompson is reduced to a tepid disclosure: “We emerged as substantially different people, and I am guilty of falling out of love.”
 
 Two paragraphs down, Richard races through a confession that he neglected his firstborn:
 
 >Linda and I had three kids — Kamila was born in 1982 — and we felt overwhelmed at the time, but I should never have neglected Jesse; it was immature and irresponsible. We get on well now — as I do with all five of my talented children and six grandchildren.
+><cite>Richard Thompson, <em>Beeswing</em></cite>
 
 Trim a few words and it reads like a family Christmas letter. It’s not that Thompson owes his audience “salt for the memory, black for the years, black as forever, mascara tears,” but the emotional breech between the Christmas letter and the lyrics I just quoted could swallow the British Isles.
 
-## DYLAN: “Things Have Changed”
+## <b>DYLAN:</b><br>“Things Have Changed”
 
 *Chronicles* skips over the peak of Dylan’s fame, focusing instead on its sepia-toned Gaslight Café prelude and its agonizing paparazzi aftermath. The book’s ellipsis is bridged in my Gen X imagination by “The Lamenting of the 12-Bar Blues,” an old Dylan-inspired folk bootleg performed by Luka Bloom, a favorite Irish folkie of mine. The song depicts a trad troubadour who refuses to accede to constant requests for covers of “the most famous singer in the world:”
 
@@ -151,8 +156,7 @@ In chapter four, Dylan is touring with Tom Petty. The man who’d opened for MLK
 
 At some point in Dylan’s recorded catalog, his voice acquires a different rasp than one that made him famous. Is that the moment he adopted this “vocal technique”? The inauthentic voice he could no longer perform — was that his famous rasp? Was the voice that inspired Woodstock and the Vietnam protests a phony character voice? A bit of hustler hokum?
 
-## DYLAN AND THOMPSON:
-## “I Contain Multitudes”
+## <b>DYLAN AND THOMPSON:</b><br>“I Contain Multitudes”
 
 When I finally scratched “Dylan concert” off my bucket list on November 17, 2021, he did not make an effort to convince me of his authenticity. The octogenarian plowed indefatigably through his new record, Rough and Rowdy Ways, mustering only one grudging pleasantry, as if we were pulling teeth. Instead, he let sharp new compositions like “Goodbye Jimmy Reed” do the talking.
 
@@ -174,4 +178,4 @@ We’re working through it.
 
 *Beeswing* was inconclusive on whether Thompson’s fractured songwriting and concert personas were “False or True.” He’s a gentleman, but I can’t quite shake my disappointment that he recast himself as the very milquetoast softie that my friend turned to “Psycho Street” to reject.
 
-Dylan’s braver self-reckoning in Chronicles shattered my image of Seeger by way of Dean. I suspect he is a puffed-up suburbanite with little consistent core. But as long as he keeps writing homespun verse with gutting moral clarity, I won’t kick him out of bed.
+Dylan’s braver self-reckoning in *Chronicles* shattered my image of Seeger by way of Dean. I suspect he is a puffed-up suburbanite with little consistent core. But as long as he keeps writing homespun verse with gutting moral clarity, I won’t kick him out of bed.
