@@ -97,7 +97,7 @@ Just when you are nodding into nostalgia-induced slumber, he drops a stunning di
 
 Not a voting man? Goldwater? These are jarring self-descriptions from the writer of “Blowin’ in the Wind,” the frontman of the 1960s hippie protest movement.
 
-## <br>THOMPSON:</b><br>“Saving the Good Stuff for You”
+## <b>THOMPSON:</b><br>“Saving the Good Stuff for You”
 
 By my count, *Beeswing* contains only three passages of varying length that feel like risky self-exposure. The first is a heartfelt description of a 1969 touring accident that ended the lives of a bandmate and a girlfriend for whom his feelings were uncomfortably casual. “Her death froze our romance in midstream, so for a while it seemed more important than it really was.”
 
