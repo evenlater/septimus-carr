@@ -13,7 +13,7 @@ book:
   author: "Virginia Woolf"
   year: "1915"
   isbn: "0199539308"
-  cover: 
+  cover: "/img/voyage-out-cover.jpg"
 links:
   substack: "https://septimuscarr.substack.com/p/virginia-woolf-sets-sail-beyond-the"
   goodreads: "https://www.goodreads.com/review/show/7207396199"
