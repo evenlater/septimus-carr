@@ -13,10 +13,15 @@
       "category" $cat
       "title" $post.Title
       "url" $post.Permalink
+      "image" $post.Params.image
   ) }}
 
   {{ $bookTitle := "" }}
-  {{ with $post.Params.book }}{{ $bookTitle = .title }}{{ end }}
+  {{ $bookTitle2 := "" }}
+  {{ with $post.Params.book }}
+    {{ $bookTitle = .title }}
+    {{ $bookTitle2 = .title2 }}
+  {{ end }}
 
   {{ with $post.Params.readDates }}
     {{ if .start }}
@@ -25,6 +30,7 @@
           "type" "reading"
           "title" (printf "Started %s" $bookTitle)
           "url" $post.Permalink
+          "image" $post.Params.image
       ) }}
     {{ end }}
     {{ if .end }}
@@ -33,6 +39,28 @@
           "type" "reading"
           "title" (printf "Finished %s" $bookTitle)
           "url" $post.Permalink
+          "image" $post.Params.image
+      ) }}
+    {{ end }}
+  {{ end }}
+
+  {{ with $post.Params.readDates2 }}
+    {{ if .start }}
+      {{ $events = $events | append (dict
+          "date" .start
+          "type" "reading"
+          "title" (printf "Started %s" $bookTitle2)
+          "url" $post.Permalink
+          "image" $post.Params.image
+      ) }}
+    {{ end }}
+    {{ if .end }}
+      {{ $events = $events | append (dict
+          "date" .end
+          "type" "reading"
+          "title" (printf "Finished %s" $bookTitle2)
+          "url" $post.Permalink
+          "image" $post.Params.image
       ) }}
     {{ end }}
   {{ end }}
@@ -43,6 +71,7 @@
         "type" "historical"
         "title" .label
         "url" $post.Permalink
+        "image" $post.Params.image
     ) }}
   {{ end }}
 {{ end }}
@@ -67,7 +96,8 @@
     <button id="calNext" class="cal-arrow" aria-label="Next">&rarr;</button>
   </div>
   <div class="cal-jump">
-    <label for="calYearInput">Jump to year</label>
+    <label for="calMonthSelect">Jump to</label>
+    <select id="calMonthSelect"></select>
     <input type="number" id="calYearInput" placeholder="1816" />
     <button id="calYearGo" class="cal-go">Go</button>
     <button id="calToday" class="cal-go">Today</button>

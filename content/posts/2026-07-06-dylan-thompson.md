@@ -27,6 +27,9 @@ links:
 readDates:
    start: "2024-03-03"
    end: "2024-03-17"
+readDates2:
+   start: "2026-01-31"
+   end: "2026-02-07"
 historicalEvents:
   - date: "2019-12-30"
     label: "Richard Thompson live at Evanston SPACE"
@@ -34,7 +37,6 @@ historicalEvents:
     label: "Richard Thompson at Old Town School of Folk Music"
   - date: "2021-11-17"
     label: "Bob Dylan at Auditorium Theatre"
-
 ---
 
 In the days when “vinyl collections” were the only kind, I’d flip through my mother’s classical LPs hoping for showtune jackpots. She had two sore-thumb pop inclusions: *Meet the Beatles* and *The Freewheelin’ Bob Dylan*. “There was a time when I used to host parties,” she explained dismissively when pressed.

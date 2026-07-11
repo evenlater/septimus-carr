@@ -36,6 +36,19 @@
     <div class="art-byline">By {{ .Site.Params.author }}</div>
 	<div class="art-photocredit">{{ .Params.photocredit | safeHTML }}</div>
 
+    <a href="{{ printf "/calendar/?date=%s" (.Date.Format "2006-01-02") }}" id="calPageLink" class="cal-page-link">
+      &#128197; View on Calendar
+    </a>
+    <script>
+      (function () {
+        var link = document.getElementById('calPageLink');
+        if (link && !window.matchMedia('(max-width: 640px)').matches) {
+          link.target = '_blank';
+          link.rel = 'noopener';
+        }
+      })();
+    </script>
+
     {{/* ── PLATFORM LINKS ── */}}
     {{ if or .Params.links.substack .Params.links.medium .Params.links.goodreads .Params.links.reddit .Params.links.fable }}
     <div class="art-platforms">

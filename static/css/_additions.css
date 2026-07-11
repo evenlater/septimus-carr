@@ -113,8 +113,9 @@
               min-width: 160px; text-align: center; }
 .cal-jump   { display: flex; align-items: center; gap: 8px; font-size: 11px;
               letter-spacing: .1em; text-transform: uppercase; color: #A09488; }
-.cal-jump input { width: 76px; padding: 6px 8px; border: 1px solid #D0C8BC;
+.cal-jump input, .cal-jump select { padding: 6px 8px; border: 1px solid #D0C8BC;
                    font-size: 13px; background: #fff; color: #1C1410; }
+.cal-jump input { width: 76px; }
 .cal-go     { background: none; border: 1px solid #D0C8BC; color: #2A0E38;
               padding: 6px 12px; font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
               cursor: pointer; transition: background .2s; }
@@ -144,8 +145,26 @@
 .cal-weekempty { font-size: 12px; color: #C8BFB0; font-style: italic; }
 .cal-week .cal-event { display: block; font-size: 13px; padding: 5px 9px; margin-bottom: 4px; }
 
+.cal-page-link {
+  display: inline-flex; align-items: center; gap: 6px; width: fit-content;
+  font-size: 12px; letter-spacing: .06em; text-transform: uppercase;
+  color: #2A0E38; border: 1px solid #C4A055; padding: 8px 16px;
+  margin-bottom: 24px; text-decoration: none; transition: background .2s;
+}
+.cal-page-link:hover { background: #F7F3EC; }
+
 .cal-cell-target { box-shadow: inset 0 0 0 2px #C4A055; position: relative; }
 .cal-weekrow-target { box-shadow: inset 3px 0 0 #C4A055; background: #FBF6EA; }
+
+.cal-event-wrap { position: relative; display: block; }
+.cal-preview {
+  position: absolute; z-index: 40; left: 0; top: 100%; margin-top: 4px;
+  width: 200px; height: 130px; object-fit: cover;
+  border: 3px solid #fff; box-shadow: 0 8px 24px rgba(0,0,0,.28);
+  opacity: 0; visibility: hidden; pointer-events: none;
+  transition: opacity .15s ease;
+}
+.cal-event-wrap:hover .cal-preview { opacity: 1; visibility: visible; }
 
 /* ── Mobile: stack featured essay image over text ─────────────
    .sc-feat is a fixed 55/45 grid in main.css with no breakpoint,
@@ -220,4 +239,11 @@
   .cal-title { font-size: 30px; }
   .cal-controls { flex-direction: column; align-items: flex-start; }
   .cal-cell { min-height: 0; }
+
+  /* ── Article hero image: cover-wrap is a fixed 460px height
+     with no breakpoint (same root cause as the earlier featured-
+     essay and About-page fixes). On phone widths that forces a
+     much tighter effective crop, cutting into torsos/chests
+     instead of faces. Shorten the box on mobile to match. ── */
+  .cover-wrap { height: 220px; }
 }

@@ -33,9 +33,18 @@
   var label = document.getElementById('calPeriodLabel');
   var prevBtn = document.getElementById('calPrev');
   var nextBtn = document.getElementById('calNext');
+  var monthSelect = document.getElementById('calMonthSelect');
   var yearInput = document.getElementById('calYearInput');
   var yearGoBtn = document.getElementById('calYearGo');
   var todayBtn = document.getElementById('calToday');
+
+  var MONTH_NAMES = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  MONTH_NAMES.forEach(function (name, i) {
+    var opt = document.createElement('option');
+    opt.value = i;
+    opt.textContent = name;
+    monthSelect.appendChild(opt);
+  });
 
   function pad(n) { return String(n).padStart(2, '0'); }
   function dateKey(y, m, d) { return y + '-' + pad(m + 1) + '-' + pad(d); }
@@ -50,11 +59,25 @@
   }
 
   function eventChip(ev) {
+    var wrap = document.createElement('span');
+    wrap.className = 'cal-event-wrap';
+
     var a = document.createElement('a');
     a.className = eventClass(ev);
     a.href = ev.url || '#';
     a.textContent = ev.title;
-    return a;
+    wrap.appendChild(a);
+
+    if (ev.image) {
+      var img = document.createElement('img');
+      img.className = 'cal-preview';
+      img.src = ev.image;
+      img.alt = '';
+      img.loading = 'lazy';
+      wrap.appendChild(img);
+    }
+
+    return wrap;
   }
 
   function renderMonth() {
@@ -146,6 +169,8 @@
   }
 
   function render() {
+    monthSelect.value = view.getMonth();
+    yearInput.value = view.getFullYear();
     if (mode === 'month') renderMonth();
     else renderWeek();
   }
@@ -162,15 +187,18 @@
     render();
   });
 
-  yearGoBtn.addEventListener('click', function () {
+  function jumpToSelection() {
     var y = parseInt(yearInput.value, 10);
-    if (!isNaN(y)) {
-      view.setFullYear(y);
-      view.setMonth(0);
-      view.setDate(1);
-      render();
-    }
-  });
+    var m = parseInt(monthSelect.value, 10);
+    if (isNaN(y)) return;
+    view.setFullYear(y);
+    view.setMonth(isNaN(m) ? 0 : m);
+    view.setDate(1);
+    render();
+  }
+
+  yearGoBtn.addEventListener('click', jumpToSelection);
+  monthSelect.addEventListener('change', jumpToSelection);
 
   todayBtn.addEventListener('click', function () {
     view = new Date();
