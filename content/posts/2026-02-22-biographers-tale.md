@@ -7,7 +7,7 @@ subtitle: "A.S. Byatt Dramatizes the Tantalizing Drudgery of Research"
 image: "/img/biographers-tale.jpg"
 imagePosition: "Center"
 imagealt: "An messy index card drawer in a library"
-photocredit: "By Mikhail Nekrasov (Dreamstime.com)"
+photocredit: "Photo By Mikhail Nekrasov (Dreamstime.com)"
 
 book:
   title: "The Biographer's Tale"
@@ -32,7 +32,7 @@ There may be something to the perception that Byatt deliberately followed her mo
 
 The genius of *Possession* is that Byatt not only invented two great Victorian poets but also dared to write examples of their poetry. In contrast, *The Biographer’s Tale* describes a biographical masterpiece in detail but steadfastly refuses to model good biographical writing. We are treated to mounds of research on the biologist Carl Linneus, the statistician Francis Galton, and the playwright Henrik Ibsen—fascinating subjects all—but she never quite brings them to life. She hits the highlights of Linnaeus’s remarkable life: he writes journals exaggerating his adventures in Arctic Lapland, debunks a phony biological specimen, and finds the drowned corpse of his best friend. But she never captures the comically pompous manchild that Jason Roberts rendered so memorably in his Pulitzer Prize-winning biography *Every Living Thing*. The letters she excerpts between Galton and Charles Darwin are amusing and fascinating, but she only scratches the surface of Galton’s potential as a dramatic subject. She makes shrewd connections between Ibsen’s dramaturgy and Linnaeus’s taxonomy. And she uses the famous personality-as-unraveling-onion soliloquy from Ibsen’s *Peer Gynt* to underscore the futility of biography. But Byatt seems to give short shrift to Ibsen’s story compared to the two scientists, and her rejection of traditional storytelling structure is ironic when juxtaposed with a “Master Builder” renowned for his powerful plotting.
 
-## <b>THE AFFIRMATIVE:</b><br> Research Drudgery as Bildungsroman
+## <b>THE AFFIRMATIVE:</b><br>Research Drudgery as Bildungsroman
 
 However, to moan that *The Biographer’s Tale* is not as conventional as *Possession* is to favor formula over ingenuity. Byatt’s bold experimentation with form is exciting if you can get over its lack of comforting familiarity. Her fragmented index cards may not be as immediately entertaining as the literary detective work in *Possession*, but with a little effort they are just as fascinating and rewarding. The latter book is about research as intellectual joyride. The former is about research as tantalizing drudgery that often leads to dead ends. Both are true. If you expect every day of research to yield long-forgotten love letters, as happens in *Possession*, you are going to be as sorely disappointed in your academic career as is Phineas Nanson, the protagonist in *The Biographer’s Tale*. He gives up postmodern literary deconstruction only to get immersed in postmodern biographical deconstruction. His craving for tangible facts is met with the hyperbolic lies of his biographical subjects.
 

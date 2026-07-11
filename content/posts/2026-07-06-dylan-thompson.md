@@ -24,9 +24,13 @@ links:
   medium: "https://medium.com/music-for-thought/bob-dylan-richard-thompson-and-the-marital-therapy-of-memoir-92ed15c24b7a"
   goodreads: "https://www.goodreads.com/review/show/8749300798"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1upscgr/rasp_and_snarl_finding_bob_dylan_and_richard/"
-{d:'2019-12-30',type:'historical',title:'Richard Thompson live at Evanston SPACE'}
-{d:'2021-11-03',type:'historical',title:'Richard Thompson at Old Town School of Folk Music'}
-{d:'2021-11-17',type:'historical',title:'Bob Dylan at Auditorium Theatre'}
+readDates:
+   start: "2026-01-31"
+   end: "2026-2-07"
+historicalDates:
+  {d:'2019-12-30',type:'historical',title:'Richard Thompson live at Evanston SPACE'}
+  {d:'2021-11-03',type:'historical',title:'Richard Thompson at Old Town School of Folk Music'}
+  {d:'2021-11-17',type:'historical',title:'Bob Dylan at Auditorium Theatre'}
 
 ---
 
