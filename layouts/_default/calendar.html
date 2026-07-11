@@ -1,0 +1,80 @@
+{{ define "main" }}
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $events := slice }}
+
+{{ range $posts }}
+  {{ $post := . }}
+  {{ $cat := "" }}
+  {{ with $post.Params.categories }}{{ $cat = index . 0 }}{{ end }}
+
+  {{ $events = $events | append (dict
+      "date" ($post.Date.Format "2006-01-02")
+      "type" "essay"
+      "category" $cat
+      "title" $post.Title
+      "url" $post.Permalink
+  ) }}
+
+  {{ $bookTitle := "" }}
+  {{ with $post.Params.book }}{{ $bookTitle = .title }}{{ end }}
+
+  {{ with $post.Params.readDates }}
+    {{ if .start }}
+      {{ $events = $events | append (dict
+          "date" .start
+          "type" "reading"
+          "title" (printf "Started %s" $bookTitle)
+          "url" $post.Permalink
+      ) }}
+    {{ end }}
+    {{ if .end }}
+      {{ $events = $events | append (dict
+          "date" .end
+          "type" "reading"
+          "title" (printf "Finished %s" $bookTitle)
+          "url" $post.Permalink
+      ) }}
+    {{ end }}
+  {{ end }}
+
+  {{ range $post.Params.historicalEvents }}
+    {{ $events = $events | append (dict
+        "date" .date
+        "type" "historical"
+        "title" .label
+        "url" $post.Permalink
+    ) }}
+  {{ end }}
+{{ end }}
+
+<script id="calendar-data" type="application/json">{{ $events | jsonify | safeJS }}</script>
+
+<div class="cal-header">
+  <h1 class="cal-title">Calendar</h1>
+  <p class="cal-intro">Essay publication dates, reading windows, and the historical moments behind the books.</p>
+</div>
+
+<div class="cal-legend">
+  <span><span class="cal-dot"></span>Essay published <span class="cal-legend-note">(colored by category)</span></span>
+  <span><span class="cal-dot cal-dot-reading"></span>Reading window</span>
+  <span><span class="cal-dot cal-dot-historical"></span>Historical event</span>
+</div>
+
+<div class="cal-controls">
+  <div class="cal-nav">
+    <button id="calPrev" class="cal-arrow" aria-label="Previous">&larr;</button>
+    <span id="calPeriodLabel" class="cal-period"></span>
+    <button id="calNext" class="cal-arrow" aria-label="Next">&rarr;</button>
+  </div>
+  <div class="cal-jump">
+    <label for="calYearInput">Jump to year</label>
+    <input type="number" id="calYearInput" placeholder="1816" />
+    <button id="calYearGo" class="cal-go">Go</button>
+    <button id="calToday" class="cal-go">Today</button>
+  </div>
+</div>
+
+<div id="calRoot" class="cal-root"></div>
+
+<script src="{{ "js/calendar.js" | relURL }}"></script>
+{{ end }}

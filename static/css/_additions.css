@@ -88,6 +88,62 @@
   align-self: center;
 }
 
+/* ── Calendar page ─────────────────────────────────────────── */
+.cal-header { padding: 44px 48px 8px; background: #F7F3EC; }
+.cal-title  { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 40px;
+              font-weight: 400; color: #1C1410; margin-bottom: 8px; }
+.cal-intro  { font-size: 14px; color: #6A5E54; max-width: 560px; line-height: 1.5; }
+
+.cal-legend { display: flex; gap: 22px; flex-wrap: wrap; padding: 0 48px 20px;
+              background: #F7F3EC; font-size: 12px; color: #6A5E54; }
+.cal-legend span { display: inline-flex; align-items: center; gap: 7px; }
+.cal-legend-note { color: #A09488; }
+.cal-dot { width: 9px; height: 9px; border-radius: 50%; background: #C4A055; display: inline-block; }
+.cal-dot-reading    { background: #6A5E54; }
+.cal-dot-historical { background: #1A5A5A; }
+
+.cal-controls { display: flex; justify-content: space-between; align-items: center;
+                padding: 16px 48px; background: #F7F3EC; border-bottom: 1px solid #E2D9CC;
+                flex-wrap: wrap; gap: 14px; }
+.cal-nav    { display: flex; align-items: center; gap: 14px; }
+.cal-arrow  { background: none; border: 1px solid #D0C8BC; color: #2A0E38; font-size: 15px;
+              width: 32px; height: 32px; cursor: pointer; transition: background .2s; }
+.cal-arrow:hover { background: #EDE6D8; }
+.cal-period { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 20px; color: #1C1410;
+              min-width: 160px; text-align: center; }
+.cal-jump   { display: flex; align-items: center; gap: 8px; font-size: 11px;
+              letter-spacing: .1em; text-transform: uppercase; color: #A09488; }
+.cal-jump input { width: 76px; padding: 6px 8px; border: 1px solid #D0C8BC;
+                   font-size: 13px; background: #fff; color: #1C1410; }
+.cal-go     { background: none; border: 1px solid #D0C8BC; color: #2A0E38;
+              padding: 6px 12px; font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
+              cursor: pointer; transition: background .2s; }
+.cal-go:hover { background: #EDE6D8; }
+
+.cal-root  { background: #F7F3EC; padding: 24px 48px 60px; }
+
+.cal-grid  { display: grid; grid-template-columns: repeat(7, 1fr); gap: 1px;
+             background: #E2D9CC; border: 1px solid #E2D9CC; }
+.cal-dayhead { background: #2A0E38; color: #C4A055; font-size: 10px; letter-spacing: .14em;
+               text-transform: uppercase; padding: 10px 8px; text-align: center; }
+.cal-cell    { background: #fff; min-height: 100px; padding: 8px; }
+.cal-cell-out { background: #FBF9F5; opacity: .55; }
+.cal-daynum  { font-size: 12px; color: #A09488; margin-bottom: 6px; }
+
+.cal-event   { display: block; font-size: 11px; padding: 3px 7px; margin-bottom: 3px;
+                border-radius: 2px; text-decoration: none; white-space: nowrap;
+                overflow: hidden; text-overflow: ellipsis; }
+.cal-event-reading    { background: #EFEAE0; color: #6A5E54; }
+.cal-event-historical { background: #DCEEEE; color: #1A5A5A; }
+
+.cal-week    { border: 1px solid #E2D9CC; background: #fff; }
+.cal-weekrow { padding: 12px 16px; border-bottom: 1px solid #E2D9CC; }
+.cal-weekrow:last-child { border-bottom: none; }
+.cal-weekday { font-size: 12px; letter-spacing: .06em; text-transform: uppercase;
+               color: #A09488; margin-bottom: 6px; }
+.cal-weekempty { font-size: 12px; color: #C8BFB0; font-style: italic; }
+.cal-week .cal-event { display: block; font-size: 13px; padding: 5px 9px; margin-bottom: 4px; }
+
 /* ── Mobile: stack featured essay image over text ─────────────
    .sc-feat is a fixed 55/45 grid in main.css with no breakpoint,
    so on phone widths the text column gets crushed. Below 640px,
@@ -149,4 +205,16 @@
     gap: 0.9rem;
     margin: 2rem 0 1rem;
   }
+
+  /* ── Calendar page: tighten padding and let the year-jump
+     control wrap onto its own row on narrow screens. Grid vs.
+     week-list switching is handled in JS via the same 640px
+     breakpoint, not by CSS. ── */
+  .cal-header, .cal-legend, .cal-controls, .cal-root {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .cal-title { font-size: 30px; }
+  .cal-controls { flex-direction: column; align-items: flex-start; }
+  .cal-cell { min-height: 0; }
 }
