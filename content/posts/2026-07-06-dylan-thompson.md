@@ -26,7 +26,7 @@ links:
   reddit: "https://www.reddit.com/r/TrueLit/comments/1upscgr/rasp_and_snarl_finding_bob_dylan_and_richard/"
 readDates:
    start: "2026-01-31"
-   end: "2026-2-07"
+   end: "2026-02-07"
 historicalDates:
   {d:'2019-12-30',type:'historical',title:'Richard Thompson live at Evanston SPACE'}
   {d:'2021-11-03',type:'historical',title:'Richard Thompson at Old Town School of Folk Music'}
