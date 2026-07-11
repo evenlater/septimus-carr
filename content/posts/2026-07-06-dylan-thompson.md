@@ -25,8 +25,8 @@ links:
   goodreads: "https://www.goodreads.com/review/show/8749300798"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1upscgr/rasp_and_snarl_finding_bob_dylan_and_richard/"
 readDates:
-   start: "2026-01-31"
-   end: "2026-02-07"
+   start: "2024-03-03"
+   end: "2024-03-17"
 historicalEvents:
   - date: "2019-12-30"
     label: "Richard Thompson live at Evanston SPACE"
@@ -48,7 +48,7 @@ On the cover of Dylan’s 1963 debut, a girlish youth and a youthful girl huddle
 
 I got to know Richard Thompson through mix tapes. In high school, we’d jumble 45 RPM favorites and compact disc discoveries onto 90-minute cassette tapes sequenced with auteur pretensions.
 
-The friend responsible for circulating Thompson’s husky-voiced elliptical wit throughout our clique recently apologized for putting his strange masturbator-on-a-train song “Psycho Street” on so many of our tapes. “I think laughter was the intended response,” she explained in an SMS thread about our [2019 excursion to see Thompson at a tiny Evanston venue.](/calendar/?date=2019-11-30) “And maybe a bit of fear that I was not a sweetly milquetoast softie as advertised.”
+The friend responsible for circulating Thompson’s husky-voiced elliptical wit throughout our clique recently apologized for putting his strange masturbator-on-a-train song “Psycho Street” on so many of our tapes. “I think laughter was the intended response,” she explained in an SMS thread about our [2019 excursion to see Thompson at a tiny Evanston venue.](/calendar/?date=2019-12-30) “And maybe a bit of fear that I was not a sweetly milquetoast softie as advertised.”
 
 The *Rumor and Sigh*-era pop songs she disseminated had convinced me that Thompson was an arrogant, cuttingly funny alpha male with impeccable trad/rock taste. The Evanston concert upgraded that assessment to “confident, effacingly witty folk-rock legend.” But tonight I looked through every one of my excavated mix tapes from that friend. The only Thompson song I could find was a soundtrack deep cut, the hushed confessional “False or True”:
 
