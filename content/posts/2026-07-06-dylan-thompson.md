@@ -30,7 +30,7 @@ readDates:
 historicalEvents:
   - date: "2019-12-30"
     label: "Richard Thompson live at Evanston SPACE"
-  - date: "2019-11-03"
+  - date: "2021-11-03"
     label: "Richard Thompson at Old Town School of Folk Music"
   - date: "2021-11-17"
     label: "Bob Dylan at Auditorium Theatre"
