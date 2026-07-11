@@ -109,4 +109,25 @@
      columns); drop to 1 column so cards aren't squeezed. */
   .sg { grid-template-columns: 1fr; }
   .sc-recent { padding: 40px 24px 48px; }
+
+  /* ── Header: logo-img is fixed at 300px and .sc-head is a
+     single row with space-between, so on phone widths the logo
+     alone eats the row and pushes Archive/Subscribe off-screen.
+     Stack logo above nav, and shrink the logo so nav has room. ── */
+  .sc-head {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 14px;
+    padding: 1rem 1.25rem;
+  }
+  .logo-img { width: 190px; margin-bottom: -10px; }
+  .logo-tag { font-size: 11px; letter-spacing: .14em; }
+  .sc-nav {
+    width: 100%;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+  .sc-nav a { padding: 6px 10px; font-size: 10px; }
+  .nav-sub { margin-left: 0; }
 }
