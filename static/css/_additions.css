@@ -87,4 +87,26 @@
   flex-shrink: 0;
   align-self: center;
 }
- 
+
+/* ── Mobile: stack featured essay image over text ─────────────
+   .sc-feat is a fixed 55/45 grid in main.css with no breakpoint,
+   so on phone widths the text column gets crushed. Below 640px,
+   switch to a single column: image on top, text below. ── */
+@media (max-width: 640px) {
+  .sc-feat {
+    grid-template-columns: 1fr;
+    min-height: 0;
+  }
+  .fi-wrap { height: 240px; }
+  .fi-sep { display: none; }
+  .ft {
+    padding: 32px 24px 40px;
+  }
+  .ft-title { font-size: 30px; }
+  .ft-sub { font-size: 14px; }
+
+  /* Recent-essays card grid also has no breakpoint (3 fixed
+     columns); drop to 1 column so cards aren't squeezed. */
+  .sg { grid-template-columns: 1fr; }
+  .sc-recent { padding: 40px 24px 48px; }
+}
