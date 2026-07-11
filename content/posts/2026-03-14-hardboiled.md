@@ -3,7 +3,7 @@ title: "Splitting the Baby"
 date: 2026-03-14
 draft: false
 categories: ["Fiction"]
-subtitle: "Edition Anxiety and Haruki Murakami's \"Hard-Boiled Wonderland and the End of the World\"
+subtitle: "Edition Anxiety and Haruki Murakami's \"Hard-Boiled Wonderland and the End of the World\""
 image: "/img/hardboiled.jpg"
 imagePosition: "Top"
 book:

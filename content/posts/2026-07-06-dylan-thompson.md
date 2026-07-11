@@ -4,9 +4,9 @@ date: 2026-07-08
 draft: false
 categories: ["Nonfiction"]
 subtitle: "The Memoirs of Two Folk Rock Giants Recast Their Public Façades"
-image: "/img/dylan-thompson.png"
+image: "/img/dylan-thompson2.png"
 imagealt: "Black-and-white photos of young Bob Dylan in a posed portrait beside Richard Thompson performing live on acoustic guitar."
-imagePosition: "Top"
+imagePosition: "Bottom"
 photocredit: "Bob Dylan in 1965, sourced from Wikimedia (Daniel Kramer,Albert Grossman Management). Richard Thompson in 1982, sourced from Wikimedia (Tony Rees)."
 book:
   title: "Chronicles Volume One"
