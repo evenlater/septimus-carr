@@ -144,6 +144,9 @@
 .cal-weekempty { font-size: 12px; color: #C8BFB0; font-style: italic; }
 .cal-week .cal-event { display: block; font-size: 13px; padding: 5px 9px; margin-bottom: 4px; }
 
+.cal-cell-target { box-shadow: inset 0 0 0 2px #C4A055; position: relative; }
+.cal-weekrow-target { box-shadow: inset 3px 0 0 #C4A055; background: #FBF6EA; }
+
 /* ── Mobile: stack featured essay image over text ─────────────
    .sc-feat is a fixed 55/45 grid in main.css with no breakpoint,
    so on phone widths the text column gets crushed. Below 640px,

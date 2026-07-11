@@ -17,6 +17,17 @@
   var mobileQuery = window.matchMedia('(max-width: 640px)');
   var mode = mobileQuery.matches ? 'week' : 'month';
   var view = new Date();
+  var deepLinkKey = null;
+
+  var dateParam = new URLSearchParams(window.location.search).get('date');
+  if (dateParam) {
+    var parts = dateParam.split('-').map(Number);
+    if (parts.length >= 2 && !isNaN(parts[0]) && !isNaN(parts[1])) {
+      var dy = parts[0], dm = parts[1] - 1, dd = parts[2] || 1;
+      view = new Date(dy, dm, dd);
+      deepLinkKey = dateKey(dy, dm, dd);
+    }
+  }
 
   var root = document.getElementById('calRoot');
   var label = document.getElementById('calPeriodLabel');
@@ -70,7 +81,7 @@
       var key = dateKey(cellDate.getFullYear(), cellDate.getMonth(), cellDate.getDate());
 
       var cell = document.createElement('div');
-      cell.className = 'cal-cell' + (inMonth ? '' : ' cal-cell-out');
+      cell.className = 'cal-cell' + (inMonth ? '' : ' cal-cell-out') + (key === deepLinkKey ? ' cal-cell-target' : '');
 
       var num = document.createElement('div');
       num.className = 'cal-daynum';
@@ -108,7 +119,7 @@
       var key = dateKey(cellDate.getFullYear(), cellDate.getMonth(), cellDate.getDate());
 
       var row = document.createElement('div');
-      row.className = 'cal-weekrow';
+      row.className = 'cal-weekrow' + (key === deepLinkKey ? ' cal-weekrow-target' : '');
 
       var dh = document.createElement('div');
       dh.className = 'cal-weekday';

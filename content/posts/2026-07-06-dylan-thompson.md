@@ -24,6 +24,10 @@ links:
   medium: "https://medium.com/music-for-thought/bob-dylan-richard-thompson-and-the-marital-therapy-of-memoir-92ed15c24b7a"
   goodreads: "https://www.goodreads.com/review/show/8749300798"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1upscgr/rasp_and_snarl_finding_bob_dylan_and_richard/"
+{d:'2019-12-30',type:'historical',title:'Richard Thompson live at Evanston SPACE'}
+{d:'2021-11-03',type:'historical',title:'Richard Thompson at Old Town School of Folk Music'}
+{d:'2021-11-17',type:'historical',title:'Bob Dylan at Auditorium Theatre'}
+
 ---
 
 In the days when “vinyl collections” were the only kind, I’d flip through my mother’s classical LPs hoping for showtune jackpots. She had two sore-thumb pop inclusions: *Meet the Beatles* and *The Freewheelin’ Bob Dylan*. “There was a time when I used to host parties,” she explained dismissively when pressed.
@@ -37,7 +41,7 @@ On the cover of Dylan’s 1963 debut, a girlish youth and a youthful girl huddle
 
 I got to know Richard Thompson through mix tapes. In high school, we’d jumble 45 RPM favorites and compact disc discoveries onto 90-minute cassette tapes sequenced with auteur pretensions.
 
-The friend responsible for circulating Thompson’s husky-voiced elliptical wit throughout our clique recently apologized for putting his strange masturbator-on-a-train song “Psycho Street” on so many of our tapes. “I think laughter was the intended response,” she explained in an SMS thread about our 2019 excursion to see Thompson at a tiny Evanston venue. “And maybe a bit of fear that I was not a sweetly milquetoast softie as advertised.”
+The friend responsible for circulating Thompson’s husky-voiced elliptical wit throughout our clique recently apologized for putting his strange masturbator-on-a-train song “Psycho Street” on so many of our tapes. “I think laughter was the intended response,” she explained in an SMS thread about our [2019 excursion to see Thompson at a tiny Evanston venue.](/calendar/?date=2019-11-30) “And maybe a bit of fear that I was not a sweetly milquetoast softie as advertised.”
 
 The *Rumor and Sigh*-era pop songs she disseminated had convinced me that Thompson was an arrogant, cuttingly funny alpha male with impeccable trad/rock taste. The Evanston concert upgraded that assessment to “confident, effacingly witty folk-rock legend.” But tonight I looked through every one of my excavated mix tapes from that friend. The only Thompson song I could find was a soundtrack deep cut, the hushed confessional “False or True”:
 
@@ -158,11 +162,11 @@ At some point in Dylan’s recorded catalog, his voice acquires a different rasp
 
 ## <b>DYLAN AND THOMPSON:</b><br>“I Contain Multitudes”
 
-When I finally scratched “Dylan concert” off my bucket list on November 17, 2021, he did not make an effort to convince me of his authenticity. The octogenarian plowed indefatigably through his new record, Rough and Rowdy Ways, mustering only one grudging pleasantry, as if we were pulling teeth. Instead, he let sharp new compositions like “Goodbye Jimmy Reed” do the talking.
+When I finally scratched “Dylan concert” off my bucket list on [November 17, 2021](/calendar/?date=2021-11-17), he did not make an effort to convince me of his authenticity. The octogenarian plowed indefatigably through his new record, Rough and Rowdy Ways, mustering only one grudging pleasantry, as if we were pulling teeth. Instead, he let sharp new compositions like “Goodbye Jimmy Reed” do the talking.
 
 >“You won’t amount too much, the people all said / ’Cause I didn’t play guitar behind my head / Never pandered, never acted proud / Never took off my shoes, throw ’em in the crowd”
 
-Coincidentally, I’d seen Richard Thompson two weeks earlier, witty and gracious as ever. But he seemed more invested in reading excerpts from the memoir than in logging another fleet, fretboard-traversing “Valerie” solo. We applauded the latter, but he waved us off peremptorily. “Please don’t. It’s too easy.”
+Coincidentally, I’d seen Richard Thompson [two weeks earlier](/calendar/?date=2021-11-03), witty and gracious as ever. But he seemed more invested in reading excerpts from the memoir than in logging another fleet, fretboard-traversing “Valerie” solo. We applauded the latter, but he waved us off peremptorily. “Please don’t. It’s too easy.”
 
 Judging from *Chronicles Volume One*, none of it comes easy to Dylan. Those anguished paragraphs about the songs that refused to escape his larynx because they no longer felt true: Most people just sing. Despite the huckster instinct, Dylan’s commitment to truth bleeds from his lyrics.
 
