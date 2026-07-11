@@ -130,4 +130,23 @@
   }
   .sc-nav a { padding: 6px 10px; font-size: 10px; }
   .nav-sub { margin-left: 0; }
+
+  /* ── About page: performance photo has no height cap, so at
+     full-bleed mobile width its natural aspect ratio makes it
+     enormous. Crop it to a sane banner height instead. ── */
+  .about-performance img {
+    width: 100%;
+    max-height: 280px;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* ── About page: nav cards are flex:1 in a row with no
+     breakpoint, forcing 3 cards into one squeezed row on phones.
+     Stack them instead. ── */
+  .about-nav {
+    flex-direction: column;
+    gap: 0.9rem;
+    margin: 2rem 0 1rem;
+  }
 }
