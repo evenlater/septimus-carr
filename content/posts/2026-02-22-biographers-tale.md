@@ -7,8 +7,7 @@ subtitle: "A.S. Byatt Dramatizes the Tantalizing Drudgery of Research"
 image: "/img/biographers-tale.jpg"
 imagePosition: "Center"
 imagealt: "An messy index card drawer in a library"
-photocredit: "ID <a href="https://www.dreamstime.com/stock-photography-library-card-index-image4224942">4224942</a> | <a href="https://www.dreamstime.com/photos-images/library-index-card.html">Library Index Card</a> © 
-<a href="https://www.dreamstime.com/mmero_info">Mikhail Nekrasov</a> | <a href="https://www.dreamstime.com/stock-photos">Dreamstime.com</a>"
+photocredit: "By Mikhail Nekrasov (Dreamstime.com)"
 
 book:
   title: "The Biographer's Tale"
