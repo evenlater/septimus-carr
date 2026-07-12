@@ -12,6 +12,9 @@ book:
   year: "2016"
   isbn: "0718185323"
   cover: 
+readDates:
+  start: "2026-05-07"
+  end: "2026-05-28"
 links:
   substack: "https://septimuscarr.substack.com/p/risotto-night-with-the-verdis"
   goodreads: "https://www.goodreads.com/review/show/8582273265"
