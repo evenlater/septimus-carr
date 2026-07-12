@@ -19,7 +19,7 @@ links:
 ReadDates:
   start: "2026-02-22"
   end: "2026-02-23"
-historicalDates:
+historicalEvents:
   - date: "2018-10-02"
     label: "Cubs eliminated from MLB playoffs"
   - date: "2018-10-03"
