@@ -17,15 +17,13 @@ book:
   year2: "1989"
   isbn2: "0312421443"
   cover2:   
-readingDates:
-  start: "2026-05-30"
-  end: "2026-05-30"
-readingDates2:
-  start: "2026-04-22"
-  end: "2026-04-22"
 links:
   substack: "https://septimuscarr.substack.com/p/shallow-lads-and-narcissistic-dons"
   goodreads: "https://www.goodreads.com/review/show/8643868377?book_show_action=false"
+readingDates:
+  end: "2026-05-30"
+readingDates2:
+  end: "2026-04-22"
 ---
 
 >Maybe there were other people who were just as prolific, although I doubt it, especially since Prince did a lot more than just record, and Dickens did a lot more than simply write novels. But I yoked them together in my mind at that moment because they are two of what I shall have to describe, for want of a more exact term, as My People—the people I have thought about a lot, over the years, the artists who have shaped me, inspired me, made me think about my own work…. Anyone who has spent a lifetime consuming culture in all its forms at a possibly unhealthy rate has a similar list.
