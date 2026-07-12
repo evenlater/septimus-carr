@@ -20,7 +20,7 @@ ReadDates:
   start: "2026-02-22"
   end: "2026-02-23"
 historicalDates:
-  = date: "2018-10-02"
+  - date: "2018-10-02"
   label: "Cubs eliminated from MLB playoffs"
   - date: "2018-10-03"
   label: "Depart O'Hare"
