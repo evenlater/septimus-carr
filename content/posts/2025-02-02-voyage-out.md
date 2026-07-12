@@ -18,6 +18,9 @@ links:
   substack: "https://septimuscarr.substack.com/p/virginia-woolf-sets-sail-beyond-the"
   goodreads: "https://www.goodreads.com/review/show/7207396199"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1tp37bf/virginia_woolf_sets_sail_beyond_the_self_the/"
+readDates:
+  start: "2025-01-12"
+  end: "2025-02-02"
 ---
 
 My first exposure to Virginia Woolf’s first novel was an excerpt read for a work assignment: a young Edwardian girl drifting mentally and physically in the opening days of a lengthy maritime journey. So when I committed to reading the whole novel two years later, I expected to spend the whole novel bobbing through the waves. I’d been had. The boating expedition ostensibly referenced in the title, *The Voyage Out*, ends a quarter of the way through the 437-page narrative, and its characters remain landlocked for the duration. Woolf was more interested in an experience at once more particular and more universal: the voyage out of the self and into relationship with others. Woolf portrays this voyage as perilous and its destination as enticing but ultimately inaccessible.

@@ -20,6 +20,9 @@ book:
 links:
   goodreads: "https://www.goodreads.com/book/show/10374.Hard_Boiled_Wonderland_and_the_End_of_the_World"  
   reddit: "https://www.reddit.com/r/TrueLit/comments/1rv6221/splitting_the_baby_edition_anxiety_and_haruki/"
+readDates:
+  start: "2026-03-06"
+  end: "2026-03-14"
 ---
 
 I admit that I can be fussy when selecting an edition of a classic novel. It was not ever thus. Heck, I suffered through hundreds of yellowed, eyestrain-inducing, 7 x 4” Bantam Classics pages of *The Brothers Karamazov* before I finally dumped the parsimonious bitch in exchange for the comparative luxury of a 9 x 6” Farrar, Straus and Giroux. When the time came to mamba with *Middlemarch*, I two-timed my brainy but disheveled Norton Critical Edition with a sleeker Oxford World Classics model long before Rosamund Vincy did the same to Tertius Lydgate. I also agonized for weeks over the philological disparities between four different Underground Men in Fyodor Dostoevsky’s *Notes from Underground* before deciding I would overlook Pevear and Volokhnosky’s hubristic translation of злой as “wicked” when all of their peers were content with “spiteful.”

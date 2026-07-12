@@ -16,6 +16,9 @@ links:
   substack: "https://septimuscarr.substack.com/p/in-defense-of-latter-toni-morrison"
   goodreads: "https://www.goodreads.com/review/show/8616336127"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1tikci8/in_defense_of_latter_toni_morrison_god_help_the/"
+readDates:
+  start: "2026-04-15"
+  end: "2026-04-21"
 ---
 
 <blockquote> Henry: I suppose that’s the fate of all us artists.<br>

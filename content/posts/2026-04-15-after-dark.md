@@ -18,6 +18,9 @@ links:
   substack: "https://septimuscarr.substack.com/p/defying-the-caveman-brain"
   goodreads: "https://www.goodreads.com/review/show/8513181043"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1smp4eq/defying_the_caveman_brain_haruki_murakami_at_his/"
+readDates:
+  start: "2026-04-10"
+  end: "2026-04-13"
 ---
 
 <blockquote>“When it’s dark, it really makes you tired, doesn’t it?”<br>

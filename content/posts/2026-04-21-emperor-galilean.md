@@ -16,6 +16,9 @@ links:
   substack: "https://septimuscarr.substack.com/p/henrik-ibsen-and-the-two-christianities"
   goodreads: "https://www.goodreads.com/review/show/8357573946"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1sjjv94/henrik_ibsen_and_the_two_christianities/"
+readDates:
+  start: "2026-04-04"
+  end: "2026-04-07"
 ---
 
 ## GALILEAN

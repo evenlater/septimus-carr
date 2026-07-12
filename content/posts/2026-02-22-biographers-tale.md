@@ -8,9 +8,6 @@ image: "/img/biographers-tale.jpg"
 imagePosition: "Center"
 imagealt: "An messy index card drawer in a library"
 photocredit: "Photo By Mikhail Nekrasov (Dreamstime.com)"
-readingDates:
-  start: "2026-02-14"
-  end: "2026-02-21"
 book:
   title: "The Biographer's Tale"
   author: "A.S. Byatt"
@@ -21,6 +18,9 @@ links:
   substack: "https://septimuscarr.substack.com/p/the-biographers-tale-is-not-your"
   goodreads: "https://www.goodreads.com/review/show/8357858954"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1utj5gj/as_byatt_dramatizes_the_tantalizing_drudgery_of/"
+readDates:
+  start: "2026-02-14"
+  end: "2026-02-21"
 ---
 
 The internet tried to warn me off reading A.S. Byatt’s 2000 portrait of the scholar as a young man, *The Biographer’s Tale*. I had a free book coming from Thriftbooks, and this seemed right up my alley: a disillusioned graduate student of postmodernism pivots to a new career by writing a biography of a biographer. It checked all the right boxes: award-winning author whose masterpiece I had just read? Check. Genre-bending examination of the limitations of biography? Check. Polymathic thematic multitasking? Check. But the consensus of the online cognoscenti was thunderously negative. *The New York Times* cautioned that it was “a dry, tendentious and thoroughly irritating narrative designed to hammer home a single philosophical point.” The top review on Goodreads thought it “veered from mildly interesting to excruciatingly boring.” *The Guardian’s* Hermione Lee, who literally wrote the book on Virginia Woolf and Tom Stoppard and ought to appreciate an erudite dissertation on biography, “found the book's playfulness laborious, its knowing erudition airless and its characters whimsical and unappetizing.” Screw it, I thought, the book is free anyway. I’m going to give it a shot. The risk paid off: *The Biographer’s Tale* is thrilling in its defiance of literary convention.

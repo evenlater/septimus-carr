@@ -12,16 +12,18 @@ book:
   year: "2000"
   isbn: "0553381008"
   cover: 
-readDates:
-   start: "2026-02-07"
-   end: "2026-03-18"
 links:
   substack: "https://open.substack.com/pub/septimuscarr/p/six-chekhovs?r=2ry7vb&utm_campaign=post&utm_medium=web"
   goodreads: "https://www.goodreads.com/review/show/8179696002"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1s0pain/six_chekhovs_selfrevelation_in_his_short_stories/"
+readDates:
+   start: "2026-02-07"
+   end: "2026-03-18"
 historicalEvents:
   - date: "1995-01-08"
     label: "Vanya on 42nd Street at Barbican Cinema"
+  - date: "2002-11-16"
+    label: "The Seagull, Trinity Christian College"
 ---
 
 > “I have tried … to avoid unnecessary dwelling on my own feelings, or my own needs, or my own—oh dear—character. … I now wonder …whether all writing has a tendency to flow like a river towards the writer’s body and the writer’s own experience.” 
@@ -68,7 +70,7 @@ This quote reveals that we have been anticipating the “leisure society” for 
 
 That note of optimism is surprising for a writer best known for his motif of personal unhappiness. Philosopher/critic Lev Shestov called Chekhov the “Poet of Hopelessness.” He is indeed the poet who wrote “The Lady with the Little Dog,” about an affair that leaves both parties in love and miserable. The poet who invented “The Darling,” a woman who can only be content when she has an outlet for her own powerful capacity for love. The poet who wrote Sonya’s devastating final lines in *Uncle Vanya*: “You've had no joy in your life; but wait, Uncle Vanya, wait.” Finally, he is the poet who had Konstantin Treplev, a writer incapable of controlling his feelings about self-revelation, throw in the towel on life rather than persevere long enough to realize his own potential.
 
-This surrender to hopelessness troubled the student playing Konstantin in my production of *The Seagull*. He asked me what the message of the play was, and I talked about “stamina,” the word Tom Stoppard substituted for “perseverance” or “endurance” in the translation we were using. The actor looked at me skeptically. “It’s all just about depression, then,” he said. On closing night, after igniting his manuscript as usual in the kerosene lamp on his desk, the student brazenly added a single word of dialogue to Chekhov’s masterpiece.
+This surrender to hopelessness troubled the student playing Konstantin in my production of *The Seagull*. He asked me what the message of the play was, and I talked about “stamina,” the word Tom Stoppard substituted for “perseverance” or “endurance” in the translation we were using. The actor looked at me skeptically. “It’s all just about depression, then,” he said. On [closing night](/calendar/?=2002-11-16), after igniting his manuscript as usual in the kerosene lamp on his desk, the student brazenly added a single word of dialogue to Chekhov’s masterpiece.
 
 ”Stamina,” he muttered with just the right note of ironic scorn. And off he went to that final surrender.
 

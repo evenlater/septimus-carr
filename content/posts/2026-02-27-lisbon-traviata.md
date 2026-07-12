@@ -15,6 +15,9 @@ book:
 links:
   substack: "https://septimuscarr.substack.com/p/opera-as-obsession"
   goodreads: "https://www.goodreads.com/review/show/8394576434"
+readDates:
+  start: "2026-02-24"
+  end: "2026-02-27"
 ---
 
 “Opera is a disease,” Metropolitan Opera general manager Rudolf Bing (from 1950-72) once said. “Those who have it don’t want to be cured, and those who don’t have it can’t understand why the others want to be ill.” The Lisbon Traviata documents the symptoms endured by the opera afflicted and the caregiver burden shouldered by their loved ones. It is the only play in Terrence McNally’s informally titled “Night at the Opera Trilogy” told from the perspective of opera fans rather than opera professionals. Yet it is a more satisfying panegyric to soprano Maria Callas than the biographical Master Class and a more visceral depiction of the art form’s appeal than the behind-the-scenes history Golden Age. It begins as a riotously funny sendup of 1980s opera vinyl collectors and evolves into a devastating exploration of the fine line between life’s vital passions and its destructive obsessions.
