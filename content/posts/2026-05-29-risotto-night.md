@@ -12,12 +12,12 @@ book:
   year: "2016"
   isbn: "0718185323"
   cover: 
-readDates:
-  start: "2026-05-07"
-  end: "2026-05-28"
 links:
   substack: "https://septimuscarr.substack.com/p/risotto-night-with-the-verdis"
   goodreads: "https://www.goodreads.com/review/show/8582273265"
+readDates:
+  start: "2026-05-07"
+  end: "2026-05-28"
 ---
 
 I picked up Alexander Chee’s exhilaratingly over-the-top historical fiction melodrama *The Queen of the Night* to revel in 19th-century opera lore. I know I’m late to the party, but when the book dropped in 2016, I didn’t know a mezzosoprano from a heldentenor. It wasn’t until the pandemic years that the subject held much interest for me. My brother was once as opera-ignorant as I was but he’d become so fluent in bel canto and opera buffa that those sheltering in place with him were soon infected with a rapidly metastasizing cultural virus. Before 2020, I had never sat through a full-length opera. Six years later, I’ve seen almost all of the established canon via 24 live performances at Chicago’s Lyric Opera, three at the Met in New York, 19 at other regional theaters or concert halls, 34 in movie theaters, and at least 20 through streaming services and physical media. So let’s just say I came to Chee all in for thematic and narrative intersections with sung-through dramas from *Aida* to *Zelmira*. On the other hand, I did not come expecting the nuance of psychology, thought, and expression that is the hallmark of great literature. For the most part, *The Queen of the Night* aligns with my expectations. It is as self-indulgent as my reasons for reading it and as grand and silly as most 19th-century libretti. Still, there is a certain gravity to the book, derived from the way the broadly shifting fortunes of its heroine—from frontier orphan to kept woman to pampered superstar—reflect the broader condition of women in the historical period it explores.
