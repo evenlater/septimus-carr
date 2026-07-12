@@ -20,9 +20,9 @@ book:
 links:
   substack: "https://septimuscarr.substack.com/p/shallow-lads-and-narcissistic-dons"
   goodreads: "https://www.goodreads.com/review/show/8643868377?book_show_action=false"
-readingDates:
+readDates:
   end: "2026-05-30"
-readingDates2:
+readDates2:
   end: "2026-04-22"
 ---
 

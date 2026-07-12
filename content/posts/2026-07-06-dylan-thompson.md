@@ -1,4 +1,4 @@
-﻿---
+﻿ ---
 title: "Bob Dylan, Richard Thompson, and the Marital Therapy of Memoir"
 date: 2026-07-08
 draft: false
