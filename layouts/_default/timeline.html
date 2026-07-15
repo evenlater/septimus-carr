@@ -1,0 +1,47 @@
+{{ define "main" }}
+{{ partial "event-feed.html" (dict "Site" .Site "ID" "timeline-data") }}
+
+<div class="tl-header">
+  <h1 class="tl-title">Timeline</h1>
+  <p class="tl-intro">The same essays, readings, and historical moments as the <a href="{{ "/calendar/" | relURL }}">calendar</a> — plotted across years and decades instead of weeks.</p>
+</div>
+
+<div class="tl-legend">
+  <span><span class="tl-shape tl-shape-essay"></span>Essay published</span>
+  <span><span class="tl-shape tl-shape-reading"></span>Reading window</span>
+  <span><span class="tl-shape tl-shape-historical"></span>Historical event</span>
+  <span class="tl-legend-note">Circles cluster when points sit close together — click a cluster to expand it.</span>
+</div>
+
+<div class="tl-controls">
+  <div class="tl-range">
+    <label for="tlStartInput">From</label>
+    <input type="number" id="tlStartInput" placeholder="1890" />
+    <label for="tlEndInput">to</label>
+    <input type="number" id="tlEndInput" placeholder="1970" />
+    <button id="tlRangeGo" class="tl-go">Go</button>
+    <button id="tlFit" class="tl-go">Fit to data</button>
+  </div>
+  <button id="tlThreadsToggle" class="tl-threads-toggle" aria-expanded="false">
+    Merge timelines <span id="tlThreadsCount" class="tl-threads-count"></span>
+  </button>
+</div>
+
+<div id="tlThreadsPanel" class="tl-threads-panel" hidden>
+  <input type="text" id="tlThreadsFilter" class="tl-threads-filter" placeholder="Filter threads…" />
+  <div id="tlThreadsList" class="tl-threads-list"></div>
+  <div class="tl-threads-actions">
+    <button id="tlThreadsAll" class="tl-threads-mini">All</button>
+    <button id="tlThreadsNone" class="tl-threads-mini">None</button>
+  </div>
+</div>
+
+<div id="tlRoot" class="tl-root">
+  <div id="tlScroll" class="tl-scroll">
+    <svg id="tlSvg" class="tl-svg" xmlns="http://www.w3.org/2000/svg"></svg>
+  </div>
+  <div id="tlPopover" class="tl-popover" hidden></div>
+</div>
+
+<script src="{{ "js/timeline.js" | relURL }}"></script>
+{{ end }}
