@@ -1,0 +1,129 @@
+{{/*
+  event-feed.html — single source of truth for calendar + timeline data.
+  Usage: {{ partial "event-feed.html" (dict "Site" .Site "ID" "calendar-data") }}
+  Emits <script id="{ID}" type="application/json">[...]</script>
+  Every event carries: date, year, precision (day|year), type, category,
+  title, url, image, slug (unique), thread (list of thread slugs).
+*/}}
+{{ $siteCtx := .Site }}
+{{ $posts := where $siteCtx.RegularPages "Section" "posts" }}
+{{ $events := slice }}
+
+{{ range $posts }}
+  {{ $post := . }}
+  {{ $postSlug := $post.File.ContentBaseName }}
+  {{ $cat := "" }}
+  {{ with $post.Params.categories }}{{ $cat = index . 0 }}{{ end }}
+
+  {{ $events = $events | append (dict
+      "date" ($post.Date.Format "2006-01-02")
+      "year" $post.Date.Year
+      "precision" "day"
+      "type" "essay"
+      "category" $cat
+      "title" $post.Title
+      "url" $post.Permalink
+      "image" $post.Params.image
+      "slug" (printf "%s-published" $postSlug)
+      "thread" (slice $postSlug)
+  ) }}
+
+  {{ $bookTitle := "" }}
+  {{ $bookTitle2 := "" }}
+  {{ with $post.Params.book }}
+    {{ $bookTitle = .title }}
+    {{ $bookTitle2 = .title2 }}
+  {{ end }}
+
+  {{ with $post.Params.readDates }}
+    {{ if .start }}
+      {{ $events = $events | append (dict
+          "date" .start
+          "year" (int (substr .start 0 4))
+          "precision" "day"
+          "type" "reading"
+          "title" (printf "Started %s" $bookTitle)
+          "url" $post.Permalink
+          "image" $post.Params.image
+          "slug" (printf "%s-read1-start" $postSlug)
+          "thread" (slice $postSlug)
+      ) }}
+    {{ end }}
+    {{ if .end }}
+      {{ $events = $events | append (dict
+          "date" .end
+          "year" (int (substr .end 0 4))
+          "precision" "day"
+          "type" "reading"
+          "title" (printf "Finished %s" $bookTitle)
+          "url" $post.Permalink
+          "image" $post.Params.image
+          "slug" (printf "%s-read1-end" $postSlug)
+          "thread" (slice $postSlug)
+      ) }}
+    {{ end }}
+  {{ end }}
+
+  {{ with $post.Params.readDates2 }}
+    {{ if .start }}
+      {{ $events = $events | append (dict
+          "date" .start
+          "year" (int (substr .start 0 4))
+          "precision" "day"
+          "type" "reading"
+          "title" (printf "Started %s" $bookTitle2)
+          "url" $post.Permalink
+          "image" $post.Params.image
+          "slug" (printf "%s-read2-start" $postSlug)
+          "thread" (slice $postSlug)
+      ) }}
+    {{ end }}
+    {{ if .end }}
+      {{ $events = $events | append (dict
+          "date" .end
+          "year" (int (substr .end 0 4))
+          "precision" "day"
+          "type" "reading"
+          "title" (printf "Finished %s" $bookTitle2)
+          "url" $post.Permalink
+          "image" $post.Params.image
+          "slug" (printf "%s-read2-end" $postSlug)
+          "thread" (slice $postSlug)
+      ) }}
+    {{ end }}
+  {{ end }}
+
+  {{ range $i, $he := $post.Params.historicalEvents }}
+    {{ $d := $he.date }}
+    {{ $precision := "day" }}
+    {{ if eq (len $d) 4 }}{{ $precision = "year" }}{{ end }}
+    {{ $yr := int (substr $d 0 4) }}
+
+    {{ $slug := "" }}
+    {{ with $he.slug }}{{ $slug = . }}{{ end }}
+    {{ if not $slug }}{{ $slug = printf "%s-he%d-%s" $postSlug $i ($he.label | urlize) }}{{ end }}
+
+    {{ $threadList := slice $postSlug }}
+    {{ with $he.thread }}
+      {{ if reflect.IsSlice . }}
+        {{ $threadList = . }}
+      {{ else }}
+        {{ $threadList = slice . }}
+      {{ end }}
+    {{ end }}
+
+    {{ $events = $events | append (dict
+        "date" $d
+        "year" $yr
+        "precision" $precision
+        "type" "historical"
+        "title" $he.label
+        "url" $post.Permalink
+        "image" $post.Params.image
+        "slug" $slug
+        "thread" $threadList
+    ) }}
+  {{ end }}
+{{ end }}
+
+<script id="{{ .ID }}" type="application/json">{{ $events | jsonify | safeJS }}</script>

@@ -166,6 +166,89 @@
 }
 .cal-event-wrap:hover .cal-preview { opacity: 1; visibility: visible; }
 
+/* ── Timeline page ─────────────────────────────────────────── */
+.tl-header { padding: 44px 48px 8px; background: #F7F3EC; }
+.tl-title  { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 40px;
+             font-weight: 400; color: #1C1410; margin-bottom: 8px; }
+.tl-intro  { font-size: 14px; color: #6A5E54; max-width: 620px; line-height: 1.5; }
+.tl-intro a { color: #2A0E38; }
+
+.tl-legend { display: flex; gap: 22px; flex-wrap: wrap; align-items: center;
+             padding: 0 48px 20px; background: #F7F3EC; font-size: 12px; color: #6A5E54; }
+.tl-legend span { display: inline-flex; align-items: center; gap: 7px; }
+.tl-legend-note { color: #A09488; font-style: italic; }
+.tl-shape { width: 10px; height: 10px; display: inline-block; flex-shrink: 0; }
+.tl-shape-essay      { border-radius: 50%; background: #C4A055; }
+.tl-shape-reading    { background: #6A5E54; }
+.tl-shape-historical { background: #1A5A5A; transform: rotate(45deg); width: 8px; height: 8px; }
+
+.tl-controls { display: flex; justify-content: space-between; align-items: center;
+               padding: 16px 48px; background: #F7F3EC; border-bottom: 1px solid #E2D9CC;
+               flex-wrap: wrap; gap: 14px; }
+.tl-range { display: flex; align-items: center; gap: 8px; font-size: 11px;
+            letter-spacing: .1em; text-transform: uppercase; color: #A09488; }
+.tl-range input { width: 76px; padding: 6px 8px; border: 1px solid #D0C8BC;
+                   font-size: 13px; background: #fff; color: #1C1410; }
+.tl-go { background: none; border: 1px solid #D0C8BC; color: #2A0E38;
+         padding: 6px 12px; font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
+         cursor: pointer; transition: background .2s; }
+.tl-go:hover { background: #EDE6D8; }
+
+.tl-threads-toggle { background: none; border: 1px solid #C4A055; color: #2A0E38;
+                      padding: 8px 16px; font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
+                      cursor: pointer; transition: background .2s; display: inline-flex; gap: 6px; align-items: center; }
+.tl-threads-toggle:hover { background: #F0E6CC; }
+.tl-threads-count { color: #C4A055; font-weight: 600; }
+
+.tl-threads-panel { background: #FBF9F5; border-bottom: 1px solid #E2D9CC;
+                     padding: 16px 48px; display: flex; flex-direction: column; gap: 10px; }
+.tl-threads-filter { padding: 7px 10px; border: 1px solid #D0C8BC; font-size: 13px;
+                      background: #fff; color: #1C1410; max-width: 260px; }
+.tl-threads-list { display: flex; flex-wrap: wrap; gap: 6px 18px; max-height: 220px; overflow-y: auto; }
+.tl-thread-row { display: flex; align-items: center; gap: 7px; font-size: 13px; color: #3A2E28; cursor: pointer; }
+.tl-threads-actions { display: flex; gap: 10px; }
+.tl-threads-mini { background: none; border: 1px solid #D0C8BC; color: #6A5E54;
+                    padding: 4px 10px; font-size: 10px; letter-spacing: .08em; text-transform: uppercase;
+                    cursor: pointer; }
+.tl-threads-mini:hover { background: #EDE6D8; }
+
+.tl-root { background: #F7F3EC; padding: 24px 0 60px; position: relative; }
+.tl-scroll { overflow-x: auto; padding: 0 12px; }
+.tl-svg { display: block; }
+
+.tl-axis-line { stroke: #C8BFB0; stroke-width: 1.5; }
+.tl-tick { stroke: #C8BFB0; stroke-width: 1; }
+.tl-tick-label { font-size: 11px; fill: #A09488; font-family: Georgia, serif; }
+
+.tl-point { cursor: pointer; stroke: #F7F3EC; stroke-width: 1.5; }
+.tl-point-group, .tl-cluster { cursor: pointer; }
+.tl-point-halo { fill: none; stroke: #C4A055; stroke-width: 2; }
+.tl-point-label { font-size: 11px; fill: #1C1410; font-family: 'Cormorant Garamond', Georgia, serif; }
+
+.tl-cluster-circle { fill: #2A0E38; stroke: #F7F3EC; stroke-width: 1.5; }
+.tl-cluster-highlight { stroke: #C4A055; stroke-width: 2.5; }
+.tl-cluster-count { font-size: 11px; fill: #F7F3EC; font-family: Georgia, serif; }
+
+.tl-connector { fill: none; stroke: #C4A055; stroke-width: 1.5; stroke-dasharray: 3 3; }
+.tl-connector-label { font-size: 11px; fill: #8B6A2A; font-family: Georgia, serif; }
+
+.tl-popover { position: absolute; z-index: 40; width: 220px; max-height: 260px; overflow-y: auto;
+              background: #fff; border: 1px solid #D0C8BC; box-shadow: 0 8px 24px rgba(0,0,0,.22); }
+.tl-pop-row { display: flex; align-items: center; gap: 8px; padding: 8px 10px;
+              text-decoration: none; border-bottom: 1px solid #EFEAE0; }
+.tl-pop-row:last-child { border-bottom: none; }
+.tl-pop-row:hover { background: #F7F3EC; }
+.tl-pop-row-highlight { background: #FBF6EA; box-shadow: inset 3px 0 0 #C4A055; }
+.tl-pop-year { font-size: 10px; color: #A09488; flex-shrink: 0; min-width: 34px; }
+.tl-pop-img { width: 30px; height: 30px; object-fit: cover; flex-shrink: 0; }
+.tl-pop-title { font-size: 12px; color: #1C1410; line-height: 1.3; }
+
+@media (max-width: 640px) {
+  .tl-header, .tl-legend, .tl-controls, .tl-threads-panel { padding-left: 20px; padding-right: 20px; }
+  .tl-title { font-size: 30px; }
+  .tl-controls { flex-direction: column; align-items: flex-start; }
+}
+
 /* ── Mobile: stack featured essay image over text ─────────────
    .sc-feat is a fixed 55/45 grid in main.css with no breakpoint,
    so on phone widths the text column gets crushed. Below 640px,
