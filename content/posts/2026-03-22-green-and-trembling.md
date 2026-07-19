@@ -13,7 +13,7 @@ book:
   author: "Gabriela Cabezón Cámara"
   year: "2012"
   isbn: "9781787304765"
-  cover: ""
+  cover: "green-and-trembling-cover.jpg"
 links:
   goodreads: "https://www.goodreads.com/review/show/8447165507"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1s44v3e/mapping_dual_injustices_we_are_green_and/"
