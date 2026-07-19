@@ -1,6 +1,6 @@
 ﻿---
 title: "Six Chekhovs"
-date: 2026-03-22
+date: 2026-03-18
 draft: false
 categories: ["Classics","Drama"]
 subtitle: "Self-Revelation in the \"Selected Stories of Anton Chekhov\""
