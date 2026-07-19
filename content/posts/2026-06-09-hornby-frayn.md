@@ -5,7 +5,7 @@ draft: false
 categories: ["Essays","Fiction","Drama"]
 subtitle: "What Nick Hornby and Michael Frayn Taught Me About the Artistic Life"
 image: "/img/hornby-frayn.png"
-imagePosition: "Center"
+imagePosition: "Bottom"
 book:
   title: "Dickens and Prince: A Particular Kind of Genius"
   author: "Nick Hornby"
