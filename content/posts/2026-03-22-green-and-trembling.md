@@ -1,5 +1,5 @@
 ﻿---
-title: "Mapping Dual Injustices in /"We Are Green And Trembling/""
+title: "Mapping Dual Injustices in \"We Are Green And Trembling\""
 date: "2026-03-22"
 draft: false
 categories: ["Fiction"]
