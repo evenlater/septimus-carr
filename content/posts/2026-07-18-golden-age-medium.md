@@ -50,7 +50,7 @@ historicalEvents:
   - date: "2021-09-26"
     label: "Elixir of Love at Lyric Opera, Chicago"  
 ---
-NOTE: *The following was printed in a different form a few weeks ago. It has been revised with the guidance of Music for Thought on Medium, specifically their editor, Hannah’s Café. They have my thanks.*
+NOTE: *The following was printed in a different form on June 19, 2026. It has been revised with the guidance of Music for Thought on Medium, specifically their editor, Hannah’s Café. They have my thanks.*
 
 >"But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son."
 ><cite>Mark 13:32</cite>
