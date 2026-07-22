@@ -84,7 +84,7 @@ My brother has other ideas. That night, *Agrippina* will be the fifth production
 
 To me, the bigger draw is the first preview performance of *Who’s Afraid of Virginia Woolf?* with Laurie Metcalf and Rupert Everett as the bilious couple playing drinking games for keeps in the 1962 drama that Edward Albee based partly on his relationship with Terrence McNally. It will be performed only nine times before it is swallowed by history.
 
-Across the East River at St. Anne’s Warehouse, Ethiopian-Irish actress Ruth Negga is reprising her cunning, boyish turn in the incense-soaked Hamlet I saw alone at Dublin’s Gate Theatre in 2018. The opening image of Negga’s grieving prince identifying his plastic-shrouded father in the morgue will come to feel like a summary of the year, and the realization that I’ll never have the chance to share it will fester smartingly long after *The New York Times* declares it the best play of the abbreviated year.
+Across the East River at St. Anne’s Warehouse, Ethiopian-Irish actress Ruth Negga is reprising her cunning, boyish turn in the incense-soaked Hamlet I saw alone at Dublin’s Gate Theatre in 2018. The opening image of Negga’s grieving prince identifying his plastic-shrouded father in the morgue will come to feel like a summary of the year, and the realization that I’ll never have the chance to share it will fester smartingly long after *The New York Times* declares it the <a href="https://www.nytimes.com/2020/12/01/theater/best-broadway-theater-show.html?eafs_enabled=false#:~:text=JESSE%20GREEN-,Best%20Theater%20of%202020,-A%20Top%2010" target="_blank">best play of the abbreviated year.</a>
 
 But on March 3, I am only dimly aware of the looming specter that awaits the world. Today, New York Governor Andrew Cuomo will announce confirmation of the state’s first recorded case of person-to-person spread of the “novel coronavirus.” In a matter of days, Bellevue Hospital, where I briefly parked our Jeep Compass, will be the site of a makeshift morgue.
 
@@ -238,6 +238,6 @@ Bellllla. Bruuutta. Rossiiiiini. Belliiiiini. McNaaalllly.
 
 Chastened for my indulgent distraction by a near collision with the exponentially multiplying walkers, canes, and N95s, I lead my 90-year-old father to the claustrophobic elevator. On the sixth floor, the first live opera I have ever seen is a well-constructed *bel canto* romantic comedy dressed in Fellini hoop skirts. But it is tenor Charles Castronovo's heartfelt "Una furtiva lagrima" and the subsequent bellowing cheers that will stay with me until death comes galloping.
 
-Tomorrow, Chris Jones in the *Chicago Tribune* will write that "the building was listening to his voice along with his audience, and he was repaying its favor in rapturous kind…. It exemplified what so many people have missed during the pandemic about hearing their favorite music sung live."
+Tomorrow, Chris Jones in the *Chicago Tribune* will <a href="https://www.chicagotribune.com/2021/09/27/review-elixir-of-love-by-lyric-opera-of-chicago-is-a-delightfully-live-affirmation-of-life/" target="_blank">write</a> that "the building was listening to his voice along with his audience, and he was repaying its favor in rapturous kind…. It exemplified what so many people have missed during the pandemic about hearing their favorite music sung live."
 
 Beauty is back. Belllla.
