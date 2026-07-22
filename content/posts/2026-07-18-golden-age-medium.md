@@ -76,7 +76,7 @@ The beautiful life should be cherished while it lasts, and there is no such thin
 
 ## ACT ONE: BELLA VITA (quartet)
 
-<b>ME</b>
+<b>ME</b><br>
 
 My 89-year-old father is still recovering from our 5 AM flight, but I’m barreling through LaGuardia like the Budget Rental Car office is about to close up. It’s not a business trip, but it certainly is not leisure. A friend needs help moving out of downtown Manhattan. We have one day to help, and no lodging booked for the night. I have two part-time jobs, so I am not being paid for the time off, and there is no remote work option. I am inwardly calculating the temporal cost of a Chinatown lunch.
 
@@ -94,7 +94,8 @@ That is the real reason to rush my elderly father out of Manhattan and sacrifice
 
 {{< pull-quote >}}Mortality is an operatic melodrama only to a precious few. The rest of the universe glances at our impassioned histrionics and yawns.{{< /pull-quote >}}
 
-<b>BELLINI</b>
+<b>BELLINI</b><br>
+
 Vincenzo Bellini was a poster boy for the *bel canto* era (the Italian phrase translates to “beautiful singing”). During that period, early in the 19th century, opera blossomed into a gloriously showy caricature of itself. The *bel canto* composers succeeded the elegant 18th-century craftsmanship of Mozart and Glück with daredevil coloratura runs of trilling high notes that seem to flow from a ceaselessly renewing fount.
 
 Excess was the defining characteristic of Bellini’s life and music. He was the flamboyant middle child in the so-called “*Bel Canto* Trinity.” This threesome consisted of Bellini, his mentor Rossini, and his hated rival Gaetano Donizetti. “The only thing humble about … Bellini is his origins,” testifies one character in McNally’s *Golden Age*. “He’s become more French dandy than any Parisian.”
@@ -106,9 +107,9 @@ GRISI. Bellini likes women.<br>
 LABLACHE. Bellini likes everyone.<br>
 <cite>Terrence McNally, <em>Golden Age</em></cite></blockquote>
 
-<img src="/img/bellini-square.png" alt="Bellini" width="300">
+<img src="/img/bellini-square.jpg" alt="Bellini" width="300">
 
-<b>McNALLY</b>
+<b>McNALLY</b><br>
 
 McNally's portrait of Bellini is to some degree autobiographical. McNally never asked anyone to guess about his feelings for men. "He was writing about gay people when Tennessee Williams and Edward Albee were writing about straight people," points out actor Michael Urie in a 2019 New York Times video tribute. Actually, Williams admitted the existence of closeted queers in *Cat on a Hot Tin Roof* and *Streetcar Named Desire*. By contrast, McNally's 1965 Broadway debut was the first to feature a sexually active homosexual.
 
@@ -129,7 +130,7 @@ At the time, McNally was on a sort of pilgrimage to New York City from his homet
 
 <img src="/img/mcnally-square.png" alt="McNally" width="300">
 
-<b>ROSSINI</b>
+<b>ROSSINI</b><br>
 
 Gioachino Rossini was opera's most prolific composer. He generated an astounding 39 vocal dramas between the ages of 14 and 37. That's 11 more operas than even Giuseppe Verdi, the maestro who succeeded the *bel canto* era, managed in a 60-year career that spanned the latter portion of the 19th century.
 
@@ -141,7 +142,8 @@ Rossini was endlessly gifted but lazy. He would party as long as possible, and t
 
 ## ACT TWO: BRUTTA VITA (quartet)
 
-<b>ME</b>
+<b>ME</b><br>
+
 By mid-March 2020, the beautiful life was officially sheltering in place. Days of lockdown turned into weeks turned into months turned into a full year before vaccinations unlocked our mutually solitary cages. Some of those days, it was possible to get a sidewalk seat at a local eatery, but the cost of those visits was unremitting disease anxiety and internal moral conflict. Theaters of every description decided that dilemma on our behalf. They simply extinguished their ghost lights.
 
 In the earliest days, I agonized over whether to risk showing up for a long-anticipated production of Henrik Ibsen's *Lady from the Sea*. After the March 12 cancellation, I agonized over whether to donate the tickets or request a refund from an economically crushed institution.
@@ -150,7 +152,8 @@ And don't think I don't hear your patronizing "aww." The World Health Organizati
 
 Oh, the plays I couldn't see. Art can nourish the spirit, but when consumed to excess, it can glut the whole system. I get it, but the loss still aches.
 
-<b>McNALLY</b>
+<b>McNALLY</b><br>
+
 McNally's volatile five-year partnership with Albee grew ugly in a starkly different way. The beautiful life for Albee, already smashingly successful thanks to *The Zoo Story*, consisted of bottomless gin and bourbon binges. The couple's friend Robert Heide claims their intense drinking bouts served as the template for George and Martha's drunken death matches ("Hump the Hostess," "Get the Guests," "Bringing Up Baby").
 
 >Terrence McNally, just out of Columbia University, also attended those late night affairs and later we realized that the model in Virginia Woolf? for Honey who ends up drunk on the floor, puking, was a combination of both of us.... I told him that one night … while sprawled on the floor, I had heard Albee, Rorem and others who were standing above me jokingly but cynically saying "Well, if he wants to kill himself, let him."
@@ -158,11 +161,13 @@ McNally's volatile five-year partnership with Albee grew ugly in a starkly diffe
 
 Even a beautiful life can become ugly when lived to excess.
 
-<b>BELLINI</b>
+<b>BELLINI</b><br>
+
 >He hasn't written anything in twenty years. All he does is bask in his past triumphs and eat dishes named for him. Have you tasted a *Tournedos Rossini*? No wonder he has the gout.
 ><cite>Bellini discussing Rossini in Terrence McNally's <em>Golden Age</em></cite>
 
-<b>ROSSINI</b>
+<b>ROSSINI</b><br>
+
 In stark contrast to Bellini, who never reached his mid-30s, fate granted Rossini four decades of sybaritic comfort after he voluntarily extinguished his own incandescent artistic flame. Corpulent and lazy but ever the life of the resplendent dinner party, Rossini recedes from creation as if disgusted by the limits of his facile genius. In his book, Ferris enumerates Rossini's flaws:
 
 >That he gave too little attention to musical science; that he often neglected to infuse into his work the depth and passion of which it was easily capable; that he placed too high a value on merely brilliant effects.
@@ -173,11 +178,11 @@ In *Golden Age*, McNally gives Rossini a chance to explain himself, but the answ
 
 ## ACT THREE: BELLA MORTE (quartet)
 
-<b>ME</b>
+<b>ME</b><br>
 
 Since Ibsen would not come to the mountain, the mountain came to Ibsen. My brother and I, egregiously fortunate to share a COVID bubble, curated an Ibsen video festival in our basement. The BBC's *Hedda Gabler* posed a grimly timely question: was there a meaningful distinction between a bullet piercing your temple and a bullet piercing your bowels?
 
-<b>McNALLY</b>
+<b>McNALLY</b><br>
 
 When he wrote *Golden Age*, McNally clearly shared that operatic belief in the beautiful death. He gives his Bellini the same fate as Verdi's Violetta: a noble, slow-motion, coughing surrender to tuberculosis. The cultured McNally was seemingly repulsed by Bellini's actual cause of death: diarrhea.
 
@@ -190,7 +195,7 @@ The usually masterful dialogist provides a far more poignant conclusion in the s
 
 Mortality is an operatic melodrama only to a precious few. The rest of the universe glances at our impassioned histrionics and yawns.
 
-<b>BELLINI</b>
+<b>BELLINI</b><br>
 
 Vincenzo Bellini died at 33, also the final age of Jesus Christ. The same age of demise as John Belushi and Chris Farley and Sam Cooke, a change is gonna come. Folk singer David Wilcox is no Bellini, but he did write these memorable lyrics in his 1997 folk song "Glory":
 
@@ -200,13 +205,13 @@ Vincenzo Bellini died at 33, also the final age of Jesus Christ. The same age of
 > Then your story is just getting old<br>
 > <cite>David Wilcox, "Glory"</cite>
 
-<b>ROSSINI</b>
+<b>ROSSINI</b><br>
 
 Rossini was 43 when Bellini died. He would live for exactly 33 more years. I'm not making this up. No one knoweth the hour, but *bel canto* was already dead, the incandescent torch passed to the more restrained, more psychologically sophisticated Giuseppe Verdi. In *Golden Age*, the 22-year-old Verdi attends *I Puritani* to pay homage to a dying legend. "He'll need another name for the theatre," grouses Rossini, aging into obscurity. "Giuseppe Verdi, it sounds like a farmer."
 
 ## ACT FOUR: BRUTTA MORTE (aria)
 
-<b>McNALLY</b>
+<b>McNALLY</b><br>
 
 In March 2020, the 81-year-old Terrence McNally struggled with every gasp to inflate the damaged air sacs in his one remaining lung. He occupied precisely the high-risk group that was repeatedly defined by the media throughout the pandemic.
 
@@ -218,12 +223,12 @@ That hour knoweth no man, but it is March 24, and it is 10:45 AM in Sarasota.
 
 ## CODA
 
-<b>BELLINI</b>
+<b>BELLINI</b><br>
 
 >Gaetano Donizetti is everything I detest in this business: banal melodies, orchestrations that would embarrass a student, toadying up to the impresarios, brown-nosing the press. The only reason he's here tonight is to see me fail…. And yet, he's a fellow composer. He knows how hard and long the distance is from this (He points to his heart.) to this (He points to his head.) to there. (He points to the stage.) We are brothers that way. This is the most beautiful tenor aria ever written. I would give the entire score of *The Pirate* to have written it. (He begins to play and sing "Una furtiva lagrima (A furtive tear)." It doesn't matter how badly he sings.)
 ><cite>Vincenzo Bellini in Terrence McNally's <em>Golden Age</em></cite>
 
-<b>ME</b>
+<b>ME</b><br>
 
 September 26, 2021. Sunday at 2 pm.
 
