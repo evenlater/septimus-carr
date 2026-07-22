@@ -206,6 +206,19 @@ body {
   line-height: .78; margin: 6px 8px -4px 0; color: #2A0E38;
 }
 
+/* ── Article: inline gloss (footnote-style aside, placed at point of use) ── */
+.gloss {
+  display: block;
+  font-size: 13px;
+  font-style: italic;
+  color: #6A5E54;
+  line-height: 1.5;
+  letter-spacing: .01em;
+  margin: -0.6em 0 1.8em;
+  padding-left: 14px;
+  border-left: 2px solid #C4A055;
+}
+
 /* ── Article: section subheadings ─────────────────────────── */
 .section-head {
   font-family: 'Cormorant Garamond', Georgia, serif;
