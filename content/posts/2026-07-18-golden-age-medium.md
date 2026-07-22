@@ -128,7 +128,7 @@ playwright. Well, Terrence and I started talking and the next thing I knew, so t
 
 At the time, McNally was on a sort of pilgrimage to New York City from his hometown of Corpus Christi, Texas, where there were few out gay men and few opera fans with voluminous vinyl collections. He had discovered opera in a rowdy grade school classroom. A teacher played *Madame Butterfly*, and the 11-year-old McNally was transfixed in glory while his classmates brawled around him.
 
-<img src="/img/mcnally-square.png" alt="McNally" width="300">
+<img src="/img/mcnally-square.png" alt="McNally" width="300"><br><br>
 
 <b>ROSSINI</b><br>
 
@@ -138,7 +138,7 @@ If Bellini manifested his beauty addiction as a voracious romantic appetite, Ros
 
 Rossini was endlessly gifted but lazy. He would party as long as possible, and then fall back on his effortless genius. "Rossini's idleness and love of good cheer always made him procrastinate his labours till the last moment," explains Ferris, "and placed him in dilemmas from which only his fluency of composition extricated him."
 
-<img src="/img/rossini-square.png" alt="Rossini" width="300">
+<img src="/img/rossini-square.png" alt="Rossini" width="300"><br><br>
 
 ## ACT TWO: BRUTTA VITA (quartet)
 
