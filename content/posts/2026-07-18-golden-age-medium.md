@@ -107,7 +107,7 @@ GRISI. Bellini likes women.<br>
 LABLACHE. Bellini likes everyone.<br>
 <cite>Terrence McNally, <em>Golden Age</em></cite></blockquote>
 
-<img src="/img/bellini-square.jpg" alt="Bellini" width="300">
+<img src="/img/bellini-square.jpg" alt="Bellini" width="300"><br><br>
 
 <b>McNALLY</b><br>
 
