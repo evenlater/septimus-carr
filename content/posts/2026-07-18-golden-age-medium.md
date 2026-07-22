@@ -77,6 +77,7 @@ The beautiful life should be cherished while it lasts, and there is no such thin
 ## ACT ONE: BELLA VITA (quartet)
 
 <b>ME</b>
+
 My 89-year-old father is still recovering from our 5 AM flight, but I’m barreling through LaGuardia like the Budget Rental Car office is about to close up. It’s not a business trip, but it certainly is not leisure. A friend needs help moving out of downtown Manhattan. We have one day to help, and no lodging booked for the night. I have two part-time jobs, so I am not being paid for the time off, and there is no remote work option. I am inwardly calculating the temporal cost of a Chinatown lunch.
 
 My brother has other ideas. That night, *Agrippina* will be the fifth production of a Georg Frideric Handel opera in the 137-year history of the Metropolitan Opera, but I don’t know much about opera yet.
@@ -129,6 +130,7 @@ At the time, McNally was on a sort of pilgrimage to New York City from his homet
 <img src="/img/mcnally-square.png" alt="McNally" width="300">
 
 <b>ROSSINI</b>
+
 Gioachino Rossini was opera's most prolific composer. He generated an astounding 39 vocal dramas between the ages of 14 and 37. That's 11 more operas than even Giuseppe Verdi, the maestro who succeeded the *bel canto* era, managed in a 60-year career that spanned the latter portion of the 19th century.
 
 If Bellini manifested his beauty addiction as a voracious romantic appetite, Rossini binged on conspicuous consumption. Ferris confirms this. "Rossini could write best when he was under the influence of Italian wine and sparkling champagne."
@@ -172,9 +174,11 @@ In *Golden Age*, McNally gives Rossini a chance to explain himself, but the answ
 ## ACT THREE: BELLA MORTE (quartet)
 
 <b>ME</b>
+
 Since Ibsen would not come to the mountain, the mountain came to Ibsen. My brother and I, egregiously fortunate to share a COVID bubble, curated an Ibsen video festival in our basement. The BBC's *Hedda Gabler* posed a grimly timely question: was there a meaningful distinction between a bullet piercing your temple and a bullet piercing your bowels?
 
 <b>McNALLY</b>
+
 When he wrote *Golden Age*, McNally clearly shared that operatic belief in the beautiful death. He gives his Bellini the same fate as Verdi's Violetta: a noble, slow-motion, coughing surrender to tuberculosis. The cultured McNally was seemingly repulsed by Bellini's actual cause of death: diarrhea.
 
 Considering that McNally had been facing down death ever since a disease then called GRID (Gay-Related Immune Deficiency) halted gains toward a beautiful queer life in the 1980s, his dialogue about mortality in *Golden Age* is surprisingly pedestrian. It's as if McNally, clinging to opera's myth of enduring beauty, was incapable of grasping the solitary horror of mortality.
@@ -187,6 +191,7 @@ The usually masterful dialogist provides a far more poignant conclusion in the s
 Mortality is an operatic melodrama only to a precious few. The rest of the universe glances at our impassioned histrionics and yawns.
 
 <b>BELLINI</b>
+
 Vincenzo Bellini died at 33, also the final age of Jesus Christ. The same age of demise as John Belushi and Chris Farley and Sam Cooke, a change is gonna come. Folk singer David Wilcox is no Bellini, but he did write these memorable lyrics in his 1997 folk song "Glory":
 
 > In the big boring middle of our long book of life<br>
@@ -196,11 +201,13 @@ Vincenzo Bellini died at 33, also the final age of Jesus Christ. The same age of
 > <cite>David Wilcox, "Glory"</cite>
 
 <b>ROSSINI</b>
+
 Rossini was 43 when Bellini died. He would live for exactly 33 more years. I'm not making this up. No one knoweth the hour, but *bel canto* was already dead, the incandescent torch passed to the more restrained, more psychologically sophisticated Giuseppe Verdi. In *Golden Age*, the 22-year-old Verdi attends *I Puritani* to pay homage to a dying legend. "He'll need another name for the theatre," grouses Rossini, aging into obscurity. "Giuseppe Verdi, it sounds like a farmer."
 
 ## ACT FOUR: BRUTTA MORTE (aria)
 
 <b>McNALLY</b>
+
 In March 2020, the 81-year-old Terrence McNally struggled with every gasp to inflate the damaged air sacs in his one remaining lung. He occupied precisely the high-risk group that was repeatedly defined by the media throughout the pandemic.
 
 Terrence and his husband Tom decide to make a break for it. They board a JetBlue flight for Florida, determined to outrun the novel coronavirus. Terrence tries to sanitize the airport bathrooms, but no one knows how this thing spreads. No one knows how to breathe contaminated air with just one lung. I can only imagine the isolation he endured and what it must have done to his slowly eviscerating mind.
@@ -212,10 +219,12 @@ That hour knoweth no man, but it is March 24, and it is 10:45 AM in Sarasota.
 ## CODA
 
 <b>BELLINI</b>
+
 >Gaetano Donizetti is everything I detest in this business: banal melodies, orchestrations that would embarrass a student, toadying up to the impresarios, brown-nosing the press. The only reason he's here tonight is to see me fail…. And yet, he's a fellow composer. He knows how hard and long the distance is from this (He points to his heart.) to this (He points to his head.) to there. (He points to the stage.) We are brothers that way. This is the most beautiful tenor aria ever written. I would give the entire score of *The Pirate* to have written it. (He begins to play and sing "Una furtiva lagrima (A furtive tear)." It doesn't matter how badly he sings.)
 ><cite>Vincenzo Bellini in Terrence McNally's <em>Golden Age</em></cite>
 
 <b>ME</b>
+
 September 26, 2021. Sunday at 2 pm.
 
 The usher reviewing our dog-eared vaccination cards at the Civic Opera House in Chicago is masked to the nines, but there is an unusual pep to her salutation that hints at giddy relief. "Howdy," I wish she had blithely chirped. That would be a fitting end to a quadruple decker story in which everything rhymes. As I am handed a letter-sized program brimming with the kind of operatic minutiae Terrence used to declaim in the Texaco Opera Quiz, I cheerfully rhyme the story to myself in a Chef Boyardee accent.
