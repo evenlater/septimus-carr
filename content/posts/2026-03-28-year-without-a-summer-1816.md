@@ -4,8 +4,7 @@ date: "2026-03-28"
 draft: false
 categories: ["Nonfiction"]
 subtitle: ""
-photocredit: "ID <a href="https://www.dreamstime.com/royalty-free-stock-image-volcano-image11820556">11820556</a> | <a href="https://www.dreamstime.com/photos-images/clouds.html">Clouds</a> © 
-<a href="https://www.dreamstime.com/corex2001_info">Corex2001</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>"
+photocredit: 'ID <a href="https://www.dreamstime.com/royalty-free-stock-image-volcano-image11820556">11820556</a>|<a href="https://www.dreamstime.com/photos-images/clouds.html">Clouds</a> © <a href="https://www.dreamstime.com/corex2001_info">Corex2001</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
 image: "/img/volcano.jpg"
 imagePosition: "Center"
 imageAlt: "A volcanic eruption on an island" 
