@@ -1,5 +1,5 @@
 ﻿---
-title: "Bella Vita, Brutta Morte—A Pandemic-Haunted Opera\*"
+title: "Bella Vita, Brutta Morte—A Pandemic-Haunted Opera"
 date: "2026-06-19"
 draft: false
 categories: ["Drama","Opera"]
@@ -241,4 +241,4 @@ Tomorrow, Chris Jones in the *Chicago Tribune* will <a href="https://www.chicago
 
 Beauty is back. Belllla.
 
-<span class="gloss">\*NOTE: This essay first appeared as "Bella Vita, Brutte Morte" on June 19, 2026. It was subsequently revised into the current form with the guidance of Music for Thought on Medium, specifically their editor, Hannah’s Café. They have my thanks.</span>
+<span class="gloss">NOTE: This essay first appeared as "Bella Vita, Brutte Morte" on June 19, 2026. It was subsequently revised into the current form with the guidance of Music for Thought on Medium, specifically their editor, Hannah’s Café. They have my thanks.</span>
