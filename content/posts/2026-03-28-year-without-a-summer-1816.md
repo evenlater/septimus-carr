@@ -4,7 +4,7 @@ date: "2026-03-28"
 draft: false
 categories: ["Nonfiction"]
 subtitle: "Scale problems in a study of 1816 by a historian father and his meteorologist son"
-photocredit: 'ID <a href="https://www.dreamstime.com/royalty-free-stock-image-volcano-image11820556">11820556</a> <a href="https://www.dreamstime.com/photos-images/clouds.html">Clouds</a> Copyright <a href="https://www.dreamstime.com/corex2001_info">Corex2001</a> <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
+photocredit: 'Photo credit: ID <a href="https://www.dreamstime.com/royalty-free-stock-image-volcano-image11820556">11820556</a> <a href="https://www.dreamstime.com/photos-images/clouds.html">Clouds</a> Copyright <a href="https://www.dreamstime.com/corex2001_info">Corex2001</a> <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
 image: "/img/volcano.jpg"
 imagePosition: "Center"
 imageAlt: "A volcanic eruption on an island" 
@@ -48,7 +48,7 @@ The contributions of meteorology PhD Nicholas P. Klingaman also lack focus. His 
 
 With this level of detail, I half expected Al Roker to hand things over to my local station for conditions in my neck of the woods.
 
-## Correlation Is Not Causation
+## Wait, Correlation Is Not Causation?
 
 The Klingamans are at their best when discussing the reputed causes of the aberrant weather. They excel at reconciling the superstition and pseudoscience of the 19th century with modern scientific knowledge. Observers in 1816 did not have the technology needed to identify Mount Tambora as a “person of interest,” let alone finger it as the culprit. The top hypotheses of the day blamed astronomical phenomena such as tidal variation and sunspots—not explanations that are still on the scholarly table. The era's weather forecasts were based on measurements of fruit and vegetable growth, so those are of little value as well. It’s no wonder most observers attributed the changes to divine intervention.
 
