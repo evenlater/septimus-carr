@@ -3,6 +3,7 @@ title: "Six Chekhovs"
 date: 2026-03-18
 draft: false
 categories: ["Classics","Drama"]
+authors: ["Anton Chekhov"]
 subtitle: "Self-Revelation in the \"Selected Stories of Anton Chekhov\""
 image: "/img/six-chekhovs.png"
 imagePosition: "Center"

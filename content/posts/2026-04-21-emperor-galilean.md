@@ -3,6 +3,7 @@ title: "Henrik Ibsen and the Two Christianities"
 date: 2026-04-21
 draft: false
 categories: ["Drama","Classics"]
+authors: ["Henrik Ibsen"]
 subtitle: "Grappling with irreconcilable tensions between \"Emperor and Galilean\""
 image: "/img/ibsen.jpg"
 imagePosition: "Center"

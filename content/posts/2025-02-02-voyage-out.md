@@ -3,6 +3,7 @@ title: "Virginia Woolf Sets Sail Beyond the Self"
 date: 2025-02-02
 draft: false
 categories: ["Classics"]
+authors: ["Virginia Woolf"]
 subtitle: "The Impossibility of Connection in \"The Voyage Out\""
 image: "/img/woolf.jpg"
 imagePosition: "Center"

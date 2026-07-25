@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{ $posts := .Pages.ByDate.Reverse }}
+
+<div class="arch-header">
+  <h1 class="arch-title">{{ .Title }}</h1>
+  <span class="arch-count">{{ len $posts }} {{ if eq (len $posts) 1 }}essay{{ else }}essays{{ end }}</span>
+</div>
+
+<div class="arch-body">
+  <div class="sg" style="padding-top:40px">
+    {{ range $posts }}
+    {{ partial "card.html" . }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}

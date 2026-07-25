@@ -3,6 +3,7 @@ title: "\"The Biographer's Tale\" Is Not Your \"Possession\""
 date: 2026-02-22
 draft: false
 categories: ["Fiction"]
+authors: ["A.S. Byatt"]
 subtitle: "A.S. Byatt Dramatizes the Tantalizing Drudgery of Research"
 image: "/img/biographers-tale.jpg"
 imagePosition: "Center"

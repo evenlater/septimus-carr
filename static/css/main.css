@@ -89,6 +89,7 @@ body {
 .pill-essays     { background: #E2EED8; color: #285018; }
 .pill-nonfiction { background: #EAF0E0; color: #304818; }
 .pill-opera      { background: #F5E0E3; color: #8B1A28; }
+.pill-author     { background: #F4EFE6; color: #5C4A32; border: 1px solid #E2D9CC; }
 
 /* ── Homepage: Featured essay ─────────────────────────────── */
 .sc-feat { display: grid; grid-template-columns: 55% 45%; min-height: 390px;

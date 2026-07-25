@@ -3,6 +3,7 @@ title: "Defying the Caveman Brain \"After Dark\""
 date: 2026-04-15
 draft: false
 categories: ["Fiction"]
+authors: ["Haruki Murakami"]
 subtitle: "Haruki Murakami at the Height of His Powers"
 photocredit: 'Photo by Lianhao Qu, <a href="https://unsplash.com/@lianhao" target="_blank">Unsplash</a>'
 image: "/img/after-dark.avif"

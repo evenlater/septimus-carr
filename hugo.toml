@@ -16,6 +16,7 @@ paginate = 12
 
 [taxonomies]
   category = 'categories'
+  author   = 'authors'
 
 [outputs]
   home     = ['HTML','RSS']

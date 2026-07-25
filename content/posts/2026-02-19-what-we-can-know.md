@@ -3,6 +3,7 @@ title: "Who Cares About These Awful People?"
 date: 2026-02-19
 draft: false
 categories: ["Fiction"]
+authors: ["Ian McEwan"]
 subtitle: "\"What We Can Know\" Is a Damning Tell-all Biography of Our Reckless Generation"
 image: "/img/know.jpg"
 imagePosition: "Center"

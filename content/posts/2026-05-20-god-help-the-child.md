@@ -3,6 +3,7 @@ title: "In Defense of Latter Morrison"
 date: 2026-05-20
 draft: false
 categories: ["Fiction"]
+authors: ["Toni Morrison"]
 subtitle: "\"God Help the Child\" as Unofficial Sequel to \"The Bluest Eye\""
 image: "/img/Pecola-and-Bride.png"
 imagePosition: "Top"

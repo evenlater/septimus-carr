@@ -3,6 +3,7 @@ title: "Not About Newton"
 date: 2026-04-02
 draft: false
 categories: ["Nonfiction"]
+authors: ["Edward Dolnick"]
 subtitle: "Edward Dolnick's \"The Clockwork Universe\" Is Three Good Books with Four Bad Titles"
 image: "/img/newton.png"
 imagePosition: "Center"

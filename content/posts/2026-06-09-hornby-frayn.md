@@ -3,6 +3,7 @@ title: "Shallow Lads and Narcissistic Dons"
 date: 2026-06-09
 draft: false
 categories: ["Essays","Fiction","Drama"]
+authors: ["Nick Hornby", "Michael Frayn"]
 subtitle: "What Nick Hornby and Michael Frayn Taught Me About the Artistic Life"
 image: "/img/hornby-frayn.png"
 imagePosition: "Bottom"

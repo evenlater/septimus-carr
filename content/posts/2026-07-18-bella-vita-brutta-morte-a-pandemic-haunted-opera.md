@@ -3,6 +3,7 @@ title: "Bella Vita, Brutta Morte—A Pandemic-Haunted Opera"
 date: "2026-07-18"
 draft: false
 categories: ["Drama","Opera"]
+authors: ["Terrence McNally"]
 subtitle: "What I Learned from the Trifurcated Tragic Ending of Vincenzo Bellini, Gioachino Rossini, and playwright Terrence McNally"
 photocredit: 'Bellini portrait by Pietro Luchini (1835). McNally photo by Jack Mitchell, <a href="https://www.gettyimages.com/detail/news-photo/playwright-terrence-mcnally-photographed-in-march-1974-news-photo/603957226?adppopup=true" target="_blank">Getty</a> (1974). Rossini photo by Étienne Carjat (1865).'
 image: "/img/trio.png"

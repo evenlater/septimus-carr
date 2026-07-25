@@ -3,6 +3,7 @@ title: "Opera as Obsession"
 date: 2026-02-27
 draft: false
 categories: ["Drama","Opera"]
+authors: ["Terrence McNally"]
 subtitle: "Revisiting Terrence McNally's Script for \"The Lisbon Traviata\""
 image: "/img/lisbon-traviata.png"
 imagePosition: "Center"
