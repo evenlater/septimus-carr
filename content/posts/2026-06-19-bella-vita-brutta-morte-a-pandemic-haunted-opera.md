@@ -1,5 +1,5 @@
 ﻿---
-title: "Bella Vita, Brutta Morte—A Pandemic-Haunted Opera"
+title: "Bella Vita, Brutta Morte—A Pandemic-Haunted Opera\*"
 date: "2026-06-19"
 draft: false
 categories: ["Drama","Opera"]
@@ -51,8 +51,6 @@ historicalEvents:
   - date: "2021-09-26"
     label: "Elixir of Love at Lyric Opera, Chicago"  
 ---
-{{< pull-quote >}}NOTE: This essay first appeared as "Bella Vita, Brutte Morte" on June 19, 2026. It was subsequently revised into the current form with the guidance of Music for Thought on Medium, specifically their editor, Hannah’s Café. They have my thanks.{{< / pull-quote >}}
-
 >"But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son."
 ><cite>Mark 13:32</cite>
 
@@ -242,3 +240,5 @@ Chastened for my indulgent distraction by a near collision with the exponentiall
 Tomorrow, Chris Jones in the *Chicago Tribune* will <a href="https://www.chicagotribune.com/2021/09/27/review-elixir-of-love-by-lyric-opera-of-chicago-is-a-delightfully-live-affirmation-of-life/" target="_blank">write</a> that "the building was listening to his voice along with his audience, and he was repaying its favor in rapturous kind…. It exemplified what so many people have missed during the pandemic about hearing their favorite music sung live."
 
 Beauty is back. Belllla.
+
+<span class="gloss">\*NOTE: This essay first appeared as "Bella Vita, Brutte Morte" on June 19, 2026. It was subsequently revised into the current form with the guidance of Music for Thought on Medium, specifically their editor, Hannah’s Café. They have my thanks.</span>
