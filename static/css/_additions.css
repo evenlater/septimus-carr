@@ -335,4 +335,14 @@
      much tighter effective crop, cutting into torsos/chests
      instead of faces. Shorten the box on mobile to match. ── */
   .cover-wrap { height: 220px; }
+
+  /* ── Article title: .art-title is fixed at 52px in main.css
+     with no breakpoint — the one display heading that got missed
+     when the others (.ft-title, .tl-title, .cal-title, .arch-title)
+     were scaled down. At 52px on a phone it wraps to a word or two
+     per line and eats most of the viewport before the dek even
+     shows. Bring it in line with the rest. ── */
+  .art-title { font-size: 32px; margin-bottom: 12px; }
+  .art-sub   { font-size: 16px; }
+  .article-inner { padding: 0 20px; }
 }
