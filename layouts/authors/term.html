@@ -1,5 +1,17 @@
 {{ define "main" }}
+{{ $authorName := .Title }}
 {{ $posts := .Pages.ByDate.Reverse }}
+
+{{ $primaryPermalinks := slice }}
+{{ range $posts }}{{ $primaryPermalinks = $primaryPermalinks | append .Permalink }}{{ end }}
+
+{{ $mentioned := slice }}
+{{ range site.RegularPages }}
+  {{ if and (not (in $primaryPermalinks .Permalink)) (in .Plain $authorName) }}
+    {{ $mentioned = $mentioned | append . }}
+  {{ end }}
+{{ end }}
+{{ $mentioned = sort $mentioned "Date" "desc" }}
 
 <div class="arch-header">
   <h1 class="arch-title">{{ .Title }}</h1>
@@ -12,5 +24,25 @@
     {{ partial "card.html" . }}
     {{ end }}
   </div>
+
+  {{ if $mentioned }}
+  <div class="auth-mentions">
+    <div class="rel-head">
+      <span>Also Mentioned In</span>
+      <div class="rel-rule"></div>
+    </div>
+    <div class="mention-list">
+      {{ range $mentioned }}
+      <a href="{{ .Permalink }}" class="mention-row">
+        <span class="mention-title">{{ .Title }}</span>
+        {{ with .Params.image }}
+        <img src="{{ . }}" class="mention-preview" alt="{{ $.Title }}" loading="lazy">
+        {{ end }}
+        <span class="mention-date">{{ .Date.Format "Jan 2006" }}</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
 </div>
 {{ end }}
