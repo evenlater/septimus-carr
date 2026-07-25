@@ -1,6 +1,6 @@
 ﻿---
 title: "Bella Vita, Brutta Morte—A Pandemic-Haunted Opera"
-date: "2026-07-18"
+date: "2026-06-19"
 draft: false
 categories: ["Drama","Opera"]
 authors: ["Terrence McNally"]
@@ -51,7 +51,7 @@ historicalEvents:
   - date: "2021-09-26"
     label: "Elixir of Love at Lyric Opera, Chicago"  
 ---
-NOTE: *The following was printed in a different form on June 19, 2026. It has been revised with the guidance of Music for Thought on Medium, specifically their editor, Hannah’s Café. They have my thanks.*
+{{< pull-quote >}}NOTE: This essay first appeared as "Bella Vita, Brutte Morte" on June 19, 2026. It was subsequently revised into the current form with the guidance of Music for Thought on Medium, specifically their editor, Hannah’s Café. They have my thanks.{{< / pull-quote >}}
 
 >"But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son."
 ><cite>Mark 13:32</cite>

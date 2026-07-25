@@ -8,6 +8,7 @@ paginate = 12
   author       = 'Septimus Carr'
   tagline      = 'Longform Literary Intersections'
   substack     = 'https://septimuscarr.substack.com'
+  medium       = 'https://medium.com/@septimuscarr'
   goodreads    = 'https://www.goodreads.com/user/show/186362129-septimus-carr'
   siblingcontent = 'https://stagesandscreens.blogspot.com/'
   # categoryOrder controls nav sequence; add new categories here too
