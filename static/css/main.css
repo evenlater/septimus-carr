@@ -90,6 +90,17 @@ body {
 .pill-nonfiction { background: #EAF0E0; color: #304818; }
 .pill-opera      { background: #F5E0E3; color: #8B1A28; }
 .pill-author     { background: #F4EFE6; color: #5C4A32; border: 1px solid #E2D9CC; }
+.auth-index   { max-width: 620px; }
+.auth-letter  { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 15px; font-style: italic;
+                letter-spacing: .18em; color: #C4A055; padding: 30px 0 8px; border-bottom: 1px solid #E2D9CC; }
+.auth-group   { margin-bottom: 4px; }
+.auth-row     { display: flex; justify-content: space-between; align-items: baseline; gap: 16px;
+                padding: 13px 2px; border-bottom: 1px solid #EDE6DA; text-decoration: none; color: inherit; }
+.auth-row:hover { color: #8B1A28; }
+.auth-row:hover .auth-count { color: #8B1A28; }
+.auth-name    { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 19px; color: #1C1410; }
+.auth-count   { font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: #A09488;
+                white-space: nowrap; transition: color .2s; }
 
 /* ── Homepage: Featured essay ─────────────────────────────── */
 .sc-feat { display: grid; grid-template-columns: 55% 45%; min-height: 390px;
@@ -151,6 +162,10 @@ body {
 .year-label  { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 17px; font-style: italic;
                letter-spacing: .22em; color: #7A6A5A; white-space: nowrap; }
 .year-rule   { flex: 1; height: 1px; background: #E2D9CC; }
+.month-div   { display: flex; align-items: center; gap: 12px; padding-top: 26px; margin-bottom: 22px; }
+.month-label { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 12.5px; letter-spacing: .16em;
+               text-transform: uppercase; color: #A09488; white-space: nowrap; }
+.month-rule  { flex: 1; height: 1px; background: #EDE6DA; }
 
 /* ── Sticky reading bar ───────────────────────────────────── */
 .sticky { position: fixed; top: 0; left: 0; right: 0; z-index: 200; background: #2A0E38;

@@ -1,15 +1,39 @@
 {{ define "main" }}
+{{ $sortData := hugo.Data.authorSort }}
+{{ $items := slice }}
+{{ range .Data.Terms.Alphabetical }}
+  {{ $name := .Page.Title }}
+  {{ $key := index $sortData $name }}
+  {{ if not $key }}
+    {{ $words := split $name " " }}
+    {{ $key = index $words (sub (len $words) 1) }}
+  {{ end }}
+  {{ $items = $items | append (dict "Name" $name "Key" $key "Permalink" .Page.Permalink "Count" .Count) }}
+{{ end }}
+{{ $sorted := sort $items "Key" }}
+
 <div class="arch-header">
   <h1 class="arch-title">Authors</h1>
-  <span class="arch-count">{{ len .Data.Terms.Alphabetical }} authors</span>
+  <span class="arch-count">{{ len $sorted }} authors</span>
 </div>
+
 <div class="arch-body" style="padding-top:40px">
-  {{ range .Data.Terms.Alphabetical }}
-  <a href="{{ .Page.Permalink }}" style="display:inline-block;margin:0 12px 12px 0">
-    <span class="pill pill-author" style="font-size:13px;padding:5px 14px">
-      {{ .Page.Title }} ({{ .Count }})
-    </span>
-  </a>
-  {{ end }}
+  <div class="auth-index">
+    {{ $currentLetter := "" }}
+    {{ range $sorted }}
+      {{ $letter := upper (substr .Key 0 1) }}
+      {{ if ne $letter $currentLetter }}
+        {{ if ne $currentLetter "" }}</div>{{ end }}
+        <div class="auth-letter">{{ $letter }}</div>
+        <div class="auth-group">
+        {{ $currentLetter = $letter }}
+      {{ end }}
+      <a href="{{ .Permalink }}" class="auth-row">
+        <span class="auth-name">{{ .Name }}</span>
+        <span class="auth-count">{{ .Count }} {{ if eq .Count 1 }}essay{{ else }}essays{{ end }}</span>
+      </a>
+    {{ end }}
+    {{ if ne $currentLetter "" }}</div>{{ end }}
+  </div>
 </div>
 {{ end }}

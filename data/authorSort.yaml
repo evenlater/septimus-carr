@@ -1,0 +1,30 @@
+# Maps each author's exact display name (as used in post frontmatter `authors:`)
+# to the surname it should alphabetize under on the /authors/ index.
+# Add an entry here whenever a new author name is introduced; falls back to
+# the last word of the name if no entry is found, which is wrong for names
+# like "Gabriela Cabezón Cámara" (compound Spanish surname) so please add
+# those explicitly.
+"A.S. Byatt": "Byatt"
+"Alexander Chee": "Chee"
+"Alexander Pushkin": "Pushkin"
+"Anton Chekhov": "Chekhov"
+"Bob Dylan": "Dylan"
+"Edward Dolnick": "Dolnick"
+"Émile Zola": "Zola"
+"Gabriela Cabezón Cámara": "Cabezón Cámara"
+"George Eliot": "Eliot"
+"Haruki Murakami": "Murakami"
+"Henrik Ibsen": "Ibsen"
+"Ian McEwan": "McEwan"
+"Johannes Brahms": "Brahms"
+"John Jeremiah Sullivan": "Sullivan"
+"Michael Frayn": "Frayn"
+"Nicholas P. Klingaman": "Klingaman"
+"Nick Hornby": "Hornby"
+"Pyotr Ilyich Tchaikovsky": "Tchaikovsky"
+"Richard Thompson": "Thompson"
+"Terrence McNally": "McNally"
+"Tom Stoppard": "Stoppard"
+"Toni Morrison": "Morrison"
+"Virginia Woolf": "Woolf"
+"William K. Klingaman": "Klingaman"
