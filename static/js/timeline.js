@@ -206,7 +206,7 @@
     if (end <= start) end = start + 1;
 
     var span = end - start;
-    var width = Math.max(scrollWrap.clientWidth || 900, Math.min(2400, evs.length * 26));
+    var width = scrollWrap.clientWidth || 900;
     var height = 220;
     var marginL = 40, marginR = 40, axisY = 150;
 

@@ -370,3 +370,44 @@
   transition: opacity .15s ease;
 }
 .mention-row:hover .mention-preview { opacity: 1; visibility: visible; }
+
+/* ── Homepage: featured essay in context (mini timeline) ─────
+   Slim single-row strip, sits between the plum feature block
+   and the white recent-essays grid. ── */
+.feat-tl { background: #F7F3EC; padding: 20px 48px 8px; border-top: 1px solid #E2D9CC; }
+.feat-tl[hidden] { display: none; }
+.feat-tl-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 4px; }
+.feat-tl-head span { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 11px;
+                      letter-spacing: .28em; text-transform: uppercase; color: #A09488; }
+.feat-tl-link { font-size: 9.5px; letter-spacing: .12em; text-transform: uppercase; color: #A09488;
+                text-decoration: none; transition: color .2s; }
+.feat-tl-link:hover { color: #8B1A28; }
+.feat-tl-scroll { overflow: hidden; }
+.feat-tl-svg { display: block; width: 100%; }
+.feat-tl-axis { stroke: #C8BFB0; stroke-width: 1.5; }
+.feat-tl-point { cursor: pointer; stroke: #F7F3EC; stroke-width: 1.5; }
+.feat-tl-point-group { cursor: pointer; }
+.feat-tl-cluster { fill: #2A0E38; stroke: #F7F3EC; stroke-width: 1.5; cursor: pointer; }
+.feat-tl-cluster-count { font-size: 10px; fill: #F7F3EC; font-family: Georgia, serif; pointer-events: none; }
+
+/* ── Homepage: From the Archive (deterministic daily pick) ──
+   Narrow single row, always drawn from posts older than
+   whatever's already shown on the homepage. ── */
+.arch-pick { background: #F7F3EC; padding: 4px 48px 28px; }
+.arch-pick[hidden] { display: none; }
+.arch-pick-eyebrow { display: block; font-size: 9.5px; letter-spacing: .22em; text-transform: uppercase;
+                      color: #C4A055; margin-bottom: 10px; }
+.arch-pick-link { display: flex; align-items: center; gap: 16px; text-decoration: none; color: inherit;
+                   border: 1px solid #E2D9CC; padding: 10px 14px; transition: border-color .2s; }
+.arch-pick-link:hover { border-color: #C4A055; }
+.arch-pick-link:hover .arch-pick-title { color: #8B1A28; }
+.arch-pick-img-wrap { width: 52px; height: 52px; flex-shrink: 0; overflow: hidden; }
+.arch-pick-img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.arch-pick-text { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.arch-pick-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 17px; color: #1C1410;
+                    transition: color .2s; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.arch-pick-date { font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: #A09488; }
+
+@media (max-width: 640px) {
+  .feat-tl, .arch-pick { padding-left: 20px; padding-right: 20px; }
+}

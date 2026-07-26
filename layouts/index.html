@@ -1,9 +1,11 @@
 {{ define "main" }}
 {{ $posts := where .Site.RegularPages "Section" "posts" }}
 {{ $posts = $posts.ByDate.Reverse }}
+{{ $onPageCount := 7 }}
+{{ $feat := index $posts 0 }}
 
 {{/* ── FEATURED ESSAY ── */}}
-{{ with index $posts 0 }}
+{{ with $feat }}
 <div class="sc-feat">
   <div class="fi-wrap">
     {{ with .Params.image }}
@@ -30,6 +32,45 @@
 </div>
 {{ end }}
 
+{{/* ── FEATURED ESSAY, IN CONTEXT (mini timeline for its own thread) ── */}}
+{{ partial "event-feed.html" (dict "Site" .Site "ID" "feat-tl-data") }}
+<div id="featTl" class="feat-tl" data-slug="{{ $feat.File.ContentBaseName }}" hidden>
+  <div class="feat-tl-head">
+    <span>This Essay In Context</span>
+    <a href="{{ "/timeline/" | relURL }}" id="featTlLink" class="feat-tl-link">Open full timeline</a>
+  </div>
+  <div class="feat-tl-scroll">
+    <svg id="featTlSvg" class="feat-tl-svg" xmlns="http://www.w3.org/2000/svg"></svg>
+  </div>
+</div>
+
+{{/* ── FROM THE ARCHIVE (one deterministic-per-day pick, always older than what's already on this page) ── */}}
+{{ $archivePool := after $onPageCount $posts }}
+{{ if $archivePool }}
+{{ $archiveItems := slice }}
+{{ range $archivePool }}
+  {{ $archiveItems = $archiveItems | append (dict
+      "title" .Title
+      "url" .Permalink
+      "image" .Params.image
+      "date" (.Date.Format "January 2, 2006")
+  ) }}
+{{ end }}
+<script id="arch-pick-data" type="application/json">{{ $archiveItems | jsonify | safeJS }}</script>
+<div id="archPick" class="arch-pick" hidden>
+  <span class="arch-pick-eyebrow">From the Archive</span>
+  <a href="#" id="archPickLink" class="arch-pick-link">
+    <span id="archPickImgWrap" class="arch-pick-img-wrap">
+      <img id="archPickImg" class="arch-pick-img" alt="" loading="lazy">
+    </span>
+    <span class="arch-pick-text">
+      <span id="archPickTitle" class="arch-pick-title"></span>
+      <span id="archPickDate" class="arch-pick-date"></span>
+    </span>
+  </a>
+</div>
+{{ end }}
+
 {{/* ── RECENT ESSAYS GRID ── */}}
 <section class="sc-recent">
   <div class="sh">
@@ -38,10 +79,12 @@
     <a href="{{ "/posts/" | relURL }}" class="va">View All</a>
   </div>
   <div class="sg">
-    {{ range after 1 (first 7 $posts) }}
+    {{ range after 1 (first $onPageCount $posts) }}
     {{ partial "card.html" . }}
     {{ end }}
   </div>
 </section>
 
+<script src="{{ "js/home-feat-timeline.js" | relURL }}"></script>
+<script src="{{ "js/home-archive-pick.js" | relURL }}"></script>
 {{ end }}
