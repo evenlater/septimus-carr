@@ -412,3 +412,11 @@
 @media (max-width: 640px) {
   .feat-tl, .arch-pick { padding-left: 20px; padding-right: 20px; }
 }
+
+/* ── Sticky reading bar: logo now links back to the homepage ── */
+.sticky-logo-link { display: flex; align-items: center; flex-shrink: 0; }
+
+/* ── Homepage feature: cover image and title are now clickable
+   links to the essay, not just the "Read Essay" button ── */
+.fi-wrap, .ft-title-link { display: block; text-decoration: none; color: inherit; }
+.ft-title-link:hover .ft-title { color: #C8A8F0; }

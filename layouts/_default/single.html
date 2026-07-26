@@ -2,7 +2,9 @@
 
 {{/* ── STICKY READING BAR ── */}}
 <div class="sticky" id="sticky">
-  <img src="{{ "img/logo.png" | relURL }}" class="sticky-logo" alt="{{ .Site.Title }}">
+  <a href="{{ "/" | relURL }}" class="sticky-logo-link">
+    <img src="{{ "img/logo.png" | relURL }}" class="sticky-logo" alt="{{ .Site.Title }}">
+  </a>
   <span class="sticky-title">{{ .Title }}</span>
   <a href="{{ "/posts/" | relURL }}" class="sticky-back">&#8592; All Essays</a>
   <div class="progress-bar" id="progressBar"></div>

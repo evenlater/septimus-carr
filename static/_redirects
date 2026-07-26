@@ -1,0 +1,15 @@
+# When a post's slug changes after it's already been shared elsewhere
+# (Substack, Medium, Reddit, Goodreads, email, etc.), add a 301 line here
+# so old links keep working instead of 404ing. Format:
+#   /old/path/   /new/path/   301
+
+# "Bella Vita, Brutta Morte" — went through several slugs before settling:
+#   2026-06-19-golden-age
+#   2026-07-18-golden-age
+#   2026-07-18-bella-vita-brutte-morte-a-pandemic-haunted-opera  (also misspelled "brutte")
+#   2026-07-18-bella-vita-brutta-morte-a-pandemic-haunted-opera  (date reverted afterward)
+# now lives at 2026-06-19-bella-vita-brutta-morte-a-pandemic-haunted-opera
+/posts/2026-06-19-golden-age/                                          /posts/2026-06-19-bella-vita-brutta-morte-a-pandemic-haunted-opera/  301
+/posts/2026-07-18-golden-age/                                          /posts/2026-06-19-bella-vita-brutta-morte-a-pandemic-haunted-opera/  301
+/posts/2026-07-18-bella-vita-brutte-morte-a-pandemic-haunted-opera/    /posts/2026-06-19-bella-vita-brutta-morte-a-pandemic-haunted-opera/  301
+/posts/2026-07-18-bella-vita-brutta-morte-a-pandemic-haunted-opera/    /posts/2026-06-19-bella-vita-brutta-morte-a-pandemic-haunted-opera/  301
