@@ -7,7 +7,7 @@
 {{/* ── FEATURED ESSAY ── */}}
 {{ with $feat }}
 <div class="sc-feat">
-  <div class="fi-wrap">
+  <a href="{{ .Permalink }}" class="fi-wrap">
     {{ with .Params.image }}
     <img src="{{ . }}" class="fi"
          style="object-position:{{ with $.Params.imagePosition }}{{ . }}{{ else }}center{{ end }}"
@@ -16,10 +16,10 @@
     <div class="fi fi-placeholder"></div>
     {{ end }}
     <div class="fi-sep"></div>
-  </div>
+  </a>
   <div class="ft">
     <div class="el">Featured Essay</div>
-    <h1 class="ft-title">{{ .Title }}</h1>
+    <a href="{{ .Permalink }}" class="ft-title-link"><h1 class="ft-title">{{ .Title }}</h1></a>
     {{ with .Params.subtitle }}<p class="ft-sub">{{ . }}</p>{{ end }}
     <div class="ft-meta">
       <span>{{ .Date.Format "January 2, 2006" }}</span>
