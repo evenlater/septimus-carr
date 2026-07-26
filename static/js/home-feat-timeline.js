@@ -6,6 +6,7 @@
   if (!root || !dataEl) return;
 
   var slug = root.getAttribute('data-slug');
+  var featUrl = root.getAttribute('data-url');
   var all = [];
   try {
     all = JSON.parse(dataEl.textContent || '[]');
@@ -14,7 +15,9 @@
   }
 
   var events = all.filter(function (e) {
-    return e.date && !isNaN(e.year) && (e.thread || []).indexOf(slug) !== -1;
+    if (!e.date || isNaN(e.year)) return false;
+    if (e.url === featUrl) return true;                          // sourced from this post, regardless of thread override
+    return (e.thread || []).indexOf(slug) !== -1;                 // or explicitly threaded to this post's slug from elsewhere
   });
   if (!events.length) return;
 

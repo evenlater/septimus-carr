@@ -34,7 +34,7 @@
 
 {{/* ── FEATURED ESSAY, IN CONTEXT (mini timeline for its own thread) ── */}}
 {{ partial "event-feed.html" (dict "Site" .Site "ID" "feat-tl-data") }}
-<div id="featTl" class="feat-tl" data-slug="{{ $feat.File.ContentBaseName }}" hidden>
+<div id="featTl" class="feat-tl" data-slug="{{ $feat.File.ContentBaseName }}" data-url="{{ $feat.Permalink }}" hidden>
   <div class="feat-tl-head">
     <span>This Essay In Context</span>
     <a href="{{ "/timeline/" | relURL }}" id="featTlLink" class="feat-tl-link">Open full timeline</a>
