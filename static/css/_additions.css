@@ -382,7 +382,8 @@
 .feat-tl-link { font-size: 9.5px; letter-spacing: .12em; text-transform: uppercase; color: #A09488;
                 text-decoration: none; transition: color .2s; }
 .feat-tl-link:hover { color: #8B1A28; }
-.feat-tl-scroll { overflow: hidden; }
+.feat-tl-scroll { overflow: hidden; position: relative; }
+.feat-tl-scroll .tl-popover { top: 52px; }
 .feat-tl-svg { display: block; width: 100%; }
 .feat-tl-axis { stroke: #C8BFB0; stroke-width: 1.5; }
 .feat-tl-point { cursor: pointer; stroke: #F7F3EC; stroke-width: 1.5; }

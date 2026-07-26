@@ -30,6 +30,7 @@
   var svg = document.getElementById('featTlSvg');
   var scrollWrap = root.querySelector('.feat-tl-scroll');
   var link = document.getElementById('featTlLink');
+  var popover = document.getElementById('featTlPopover');
 
   var years = events.map(function (e) { return e.year; });
   var min = Math.min.apply(null, years), max = Math.max.apply(null, years);
@@ -65,7 +66,46 @@
     return '#C4A055';
   }
 
+  // ---- popover (tap/click driven — works identically on touch and mouse,
+  // unlike a native SVG <title> tooltip, which never appears on touch) ----
+  function hidePopover() { popover.hidden = true; }
+  function showPopover(evs, anchorX) {
+    popover.innerHTML = '';
+    evs.forEach(function (ev) {
+      var row = document.createElement('a');
+      row.className = 'tl-pop-row';
+      row.href = ev.url || '#';
+      var yearSpan = document.createElement('span');
+      yearSpan.className = 'tl-pop-year';
+      yearSpan.textContent = ev.precision === 'year' ? ev.year : ev.date;
+      row.appendChild(yearSpan);
+      if (ev.image) {
+        var img = document.createElement('img');
+        img.className = 'tl-pop-img';
+        img.src = ev.image;
+        img.alt = '';
+        img.loading = 'lazy';
+        row.appendChild(img);
+      }
+      var title = document.createElement('span');
+      title.className = 'tl-pop-title';
+      title.textContent = ev.title;
+      row.appendChild(title);
+      popover.appendChild(row);
+    });
+    var scrollRect = scrollWrap.getBoundingClientRect();
+    var left = Math.min(Math.max(8, anchorX - 110), scrollRect.width - 228);
+    popover.style.left = left + 'px';
+    popover.hidden = false;
+  }
+  document.addEventListener('click', function (e) {
+    if (!popover.hidden && !popover.contains(e.target) && !e.target.closest('.feat-tl-point-group')) {
+      hidePopover();
+    }
+  });
+
   function render() {
+    hidePopover();
     var width = scrollWrap.clientWidth || 600;
     var height = 76;
     var marginL = 20, marginR = 20, axisY = 44;
@@ -98,27 +138,22 @@
     });
 
     clusters.forEach(function (c) {
-      var g = svgEl('g', { class: 'feat-tl-point-group' });
+      var g = svgEl('g', { class: 'feat-tl-point-group', tabindex: '0', role: 'button' });
       if (c.items.length === 1) {
         var ev = c.items[0];
         drawShape(g, ev.type, c.x, axisY, 6, pointColor(ev.type));
-        var t = svgEl('title', {});
-        t.textContent = (ev.precision === 'year' ? ev.year : ev.date) + ' — ' + ev.title;
-        g.appendChild(t);
-        g.addEventListener('click', function () { window.location.href = ev.url; });
       } else {
         g.appendChild(svgEl('circle', { cx: c.x, cy: axisY, r: 10, class: 'feat-tl-cluster' }));
         var count = svgEl('text', { x: c.x, y: axisY + 4, class: 'feat-tl-cluster-count', 'text-anchor': 'middle' });
         count.textContent = c.items.length;
         g.appendChild(count);
-        var t2 = svgEl('title', {});
-        t2.textContent = c.items.map(function (ev) { return (ev.precision === 'year' ? ev.year : ev.date) + ' — ' + ev.title; }).join('\n');
-        g.appendChild(t2);
-        var slugs = c.items.map(function (ev) { return ev.slug; });
-        g.addEventListener('click', function () {
-          window.location.href = '/timeline/?highlight=' + encodeURIComponent(slugs.join(',')) + '&start=' + start + '&end=' + end;
-        });
       }
+      var itemsCopy = c.items;
+      var cx = c.x;
+      g.addEventListener('click', function (e) {
+        e.stopPropagation();
+        showPopover(itemsCopy, cx);
+      });
       svg.appendChild(g);
     });
   }
