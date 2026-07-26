@@ -9,6 +9,11 @@
     events = [];
   }
   events = events.filter(function (e) { return e.date && !isNaN(e.year); });
+  events.sort(function (a, b) {
+    if (a.date < b.date) return -1;
+    if (a.date > b.date) return 1;
+    return 0;
+  });
 
   // ---- thread labels -------------------------------------------------
   var threadLabels = {};
@@ -181,14 +186,24 @@
     }
   });
 
-  // ---- main render -------------------------------------------------
-  function render() {
-    var evs = visibleEvents();
-    var r = range.start !== null && range.end !== null ? range : autoRange(evs);
+  function currentRange(evs) {
+    return range.start !== null && range.end !== null ? range : autoRange(evs);
+  }
+
+  function syncRangeInputs() {
+    var r = currentRange(visibleEvents());
     var start = r.start, end = r.end;
     if (end <= start) end = start + 1;
     startInput.value = start;
     endInput.value = end;
+  }
+
+  // ---- main render -------------------------------------------------
+  function render() {
+    var evs = visibleEvents();
+    var r = currentRange(evs);
+    var start = r.start, end = r.end;
+    if (end <= start) end = start + 1;
 
     var span = end - start;
     var width = Math.max(scrollWrap.clientWidth || 900, Math.min(2400, evs.length * 26));
@@ -381,18 +396,35 @@
   });
 
   // ---- range controls ---------------------------------------------
-  goBtn.addEventListener('click', function () {
-    var s = parseInt(startInput.value, 10), e = parseInt(endInput.value, 10);
-    if (!isNaN(s) && !isNaN(e) && e > s) {
-      range = { start: s, end: e };
-      syncUrl();
-      render();
-    }
+  function applyRangeInputs() {
+    var evs = visibleEvents();
+    var fallback = currentRange(evs);
+    var s = parseInt(startInput.value, 10);
+    var e = parseInt(endInput.value, 10);
+    if (isNaN(s)) s = fallback.start;
+    if (isNaN(e)) e = fallback.end;
+    if (s > e) { var tmp = s; s = e; e = tmp; }
+    if (e === s) e = s + 1;
+    range = { start: s, end: e };
+    syncUrl();
+    render();
+    syncRangeInputs();
+  }
+  goBtn.addEventListener('click', applyRangeInputs);
+  [startInput, endInput].forEach(function (inp) {
+    inp.addEventListener('keydown', function (ev) {
+      if (ev.key === 'Enter') {
+        ev.preventDefault();
+        applyRangeInputs();
+        inp.blur();
+      }
+    });
   });
   fitBtn.addEventListener('click', function () {
     range = { start: null, end: null };
     syncUrl();
     render();
+    syncRangeInputs();
   });
 
   function syncUrl() {
@@ -418,4 +450,5 @@
 
   updateThreadsCount();
   render();
+  syncRangeInputs();
 })();
