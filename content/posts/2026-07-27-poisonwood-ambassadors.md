@@ -59,7 +59,7 @@ historicalEvents:
 >“ If [my father’s] decision to keep us here in the Congo wasn’t right, then what else might he be wrong about? It has opened up in my heart a sickening world of doubts and possibilities, where before I had only faith in my father and love for the Lord. Without that rock of certainty underfoot, the Congo is a fearsome place to have to sink or swim.”
 ><cite>Leah Price in Barbara Kingsolver’s <em>The Poisonwood Bible</em></cite>
 
-As the child of a Presbyterian minister and an alum of a college known as the Harvard of the Evangelicals, I was perpetually a diminutive apostle in training. Many of my birthday and Christmas presents fell into one of two categories. There were James Dobson-esque devotional books jammed with advice on how to talk to unbelievers. And there were Christian LPs with lyrics like these:
+As a kid, I was perpetually a diminutive apostle-in-training. Dad was a mainline protestant minister and mom was a graduate of the so-called "Harvard of the Evangelicals." Consequently, many of my birthday and Christmas presents fell into one of two categories. There were James Dobson-esque devotional books jammed with advice on how to talk to unbelievers. And there were catchy Christian LPs that modeled Christlike humility and divinely sanctioned self-aggrandizement in the same unironic breath:  
 
 <blockquote>People smile at me and ask me what it is<br>
 That makes them want to be just like I am<br>
@@ -112,7 +112,7 @@ Leah declares familial independence after Rev. Price’s native congregation cas
 
 But though most of the Price women join Leah in her rebellion, Kingsolver provides one notable holdout. If Mrs. Newsome is the calculating presence of capitalism in James’s book, Kingsolver’s Rachel Price, the minister’s eldest daughter, represents the bourgeois consumer who swallows her pitch like Mikey does Life cereal. (“Mikey will like it!”) 
 
-Droll but politically and intellectually apathetic, Rachel, who thinks Karl Marx heads the Kremlin, begins the book wringing laughs by quoting American TV commercials and ends up selling out for comfort. She becomes the mistress of a murderous ambassador determined to profit from classified knowledge of Eisenhower’s Lumumba plot. When the family moves from Africa to Atlanta, one of the Price girls describes American life as “dazzling warehouses buzzing with light, where entire shelves boast nothing but hair spray, tooth-whitening cream, and foot powders. It is as if our Rachel had been left suddenly in charge of everything.”
+Droll but politically and intellectually apathetic, Rachel, who thinks Karl Marx heads the Kremlin, spends the early chapters wringing laughs from memorized American TV commercials. By the end, she sells out body and soul for creature comforts. She becomes the mistress of a murderous ambassador determined to profit from classified knowledge of Eisenhower’s Lumumba plot. When the family moves from Africa to Atlanta, one of the Price girls describes American life as “dazzling warehouses buzzing with light, where entire shelves boast nothing but hair spray, tooth-whitening cream, and foot powders. It is as if our Rachel had been left suddenly in charge of everything.”
 
 ## Dictating Form  
 
@@ -128,7 +128,7 @@ If Nathan is “revising the earth,” changing the story to fit his agenda, Ada
 Whereas Kingsolver’s craftsmanship shows that she knows what she believes, James’s proliferating prose embodies his constant caveats. He can’t write a clause without reconsidering it in the clause that follows. In *Empire*, Vidal lampoons James’s famously snaking, cannibalistic sentences:
 
 <blockquote>“Our senatorial friend,” Caroline noted that Henry James had taken a very deep breath before he spoke; … “has now in his exile … no, his highly thoughtful refuge from the clamorous Senate House, turned the full ripeness of his attention onto a commercial object which he quite rightly suspects is, to me, of all people here, at least, of poignant importance—and interest, although whether or not the Senator, as emptor—or tempter—will make on Miss Sanford the same profound effect that he has made on me, with his description—ever so lucid, so compelling, even—of that commercial object of which you, my dear Henry, now inquire the identity, I cannot, at hazard, guess. Mais en tout cas, Mademoiselle Sanford, I cannot think that you, as the chatelaine of the great palace of Saint-Cloud-le-Duc, would even find Senator Cameron’s utensil of any intrinsic—or even extrinsic, I am impelled to add—interest save …”<br><br>
->“What … what is it?” cried Henry Adams, as the sentences slowly looped around them, verbal equivalents of Laocoön’s serpent.<br>
+“What … what is it?” cried Henry Adams, as the sentences slowly looped around them, verbal equivalents of Laocoön’s serpent.<br>
 <cite>Gore Vidal, <em>Empire: A Novel</em></cite></blockquote>
 
 Tóibín’s introduction to *The Ambassadors* argues that it is no coincidence that James’s sentence structure is at its most baroque in this late novel. Although partially a result of the author’s method—he verbally dictated his meandering prose to a secretary—the internal interrogations reflect his predilection for moral ambivalence at a time of American confidence:
