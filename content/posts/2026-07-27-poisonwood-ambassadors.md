@@ -128,8 +128,8 @@ If Nathan is “revising the earth,” changing the story to fit his agenda, Ada
 Whereas Kingsolver’s craftsmanship shows that she knows what she believes, James’s proliferating prose embodies his constant caveats. He can’t write a clause without reconsidering it in the clause that follows. In *Empire*, Vidal lampoons James’s famously snaking, cannibalistic sentences:
 
 <blockquote>“Our senatorial friend,” Caroline noted that Henry James had taken a very deep breath before he spoke; … “has now in his exile … no, his highly thoughtful refuge from the clamorous Senate House, turned the full ripeness of his attention onto a commercial object which he quite rightly suspects is, to me, of all people here, at least, of poignant importance—and interest, although whether or not the Senator, as emptor—or tempter—will make on Miss Sanford the same profound effect that he has made on me, with his description—ever so lucid, so compelling, even—of that commercial object of which you, my dear Henry, now inquire the identity, I cannot, at hazard, guess. Mais en tout cas, Mademoiselle Sanford, I cannot think that you, as the chatelaine of the great palace of Saint-Cloud-le-Duc, would even find Senator Cameron’s utensil of any intrinsic—or even extrinsic, I am impelled to add—interest save …”<br><br>
- “What … what is it?” cried Henry Adams, as the sentences slowly looped around them, verbal equivalents of Laocoön’s serpent.
-><cite>Gore Vidal, <em>Empire: A Novel</em></cite></blockquote>
+>“What … what is it?” cried Henry Adams, as the sentences slowly looped around them, verbal equivalents of Laocoön’s serpent.<br>
+<cite>Gore Vidal, <em>Empire: A Novel</em></cite></blockquote>
 
 Tóibín’s introduction to *The Ambassadors* argues that it is no coincidence that James’s sentence structure is at its most baroque in this late novel. Although partially a result of the author’s method—he verbally dictated his meandering prose to a secretary—the internal interrogations reflect his predilection for moral ambivalence at a time of American confidence:
 
@@ -150,7 +150,7 @@ Forster was frustrated by the microscopic scale of this conceit. He claimed Jame
 
 Colm Tóibín’s novel *The Master* offers an alternative take. Tóibín’s Henry James is paralyzed by his sensual feelings for men. He spends a night in Oliver Wendell Holmes’s bed but remains chaste. He follows Oscar Wilde’s sodomy trial in strategic silence. He pines after painter Pavel Zhukovsky. In other words, he steadfastly declines to “Live!” 
 
-Whether or not James’s sexuality sheds any light on Strether’s narrative arc, the Master ultimately declines to give him a happy ending. In the climactic scene, Strether declines to pursue a romance with the woman he loves because to do so would be to profit from his ambassadorial project. He decides it is better to be right than to live.
+Whether or not James’s sexuality sheds any light on Strether’s narrative arc, the Master ultimately declines to give him a happy ending. In the climactic scene, Strether refuses to pursue a romance with the woman he loves because to do so would be to profit from his ambassadorial project. He decides it is better to be right than to live.
 
 <blockquote>“There’s nothing, you know, I wouldn’t do for you.”<br>
  “Oh yes—I know.”<br>
@@ -160,7 +160,7 @@ Whether or not James’s sexuality sheds any light on Strether’s narrative arc
  She had echoed it in vague deprecation, but he felt it already clear for her. <br>
 “That, you see, is my only logic. Not, out of the whole affair, to have got anything for myself.” … <br>
 Honest and fine, she couldn’t greatly pretend she didn’t see it. Still she could pretend just a little. “But why should you be so dreadfully right?”<br>
-<cite>Henry James, <em>The Ambassadors</em>
+<cite>Henry James, <em>The Ambassadors</em></cite></blockquote>
 
 The short clipped sentences, after 400 pages of meandering discourse, are striking. So is James’s evident admiration for his hero’s principled refusal. But isn’t Strether repeating the very mistake he lamented so fervently in the passage James identified as the book’s core? Sitting at the precipice of manifest destiny’s great expansion, Strether’s tragically self-imposed cage feels like a retreat. His choice is principled, but wrong. Confidence is missteering Strether one last time.
 
