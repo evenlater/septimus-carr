@@ -16,7 +16,6 @@ book:
   year: "1998"
   isbn: "0061577073"
   cover: "poisonwood-cover.jpg"
-book2:
   title2: "The Ambassadors"
   author2: "Henry James"
   year2: "1903"
@@ -55,7 +54,7 @@ historicalEvents:
 ---
 <blockquote>“Oh you, Mr. Bilham,” she replied as with an impatient rap on the glass, “you’re not worth sixpence! You come over to convert the savages—for I know you verily did, I remember you—and the savages simply convert you.”<br>
  “Not even!” the young man woefully confessed: “they haven’t gone through that form. They’ve simply—the cannibals!—eaten me; converted me if you like, but converted me into food. I’m but the bleached bones of a Christian.” 
-<cite>Henry James, <em>The Ambassadors</em></cite><blockquote>
+<cite>Henry James, <em>The Ambassadors</em></cite></blockquote>
 
 >“ If [my father’s] decision to keep us here in the Congo wasn’t right, then what else might he be wrong about? It has opened up in my heart a sickening world of doubts and possibilities, where before I had only faith in my father and love for the Lord. Without that rock of certainty underfoot, the Congo is a fearsome place to have to sink or swim.”
 ><cite>Leah Price in Barbara Kingsolver’s <em>The Poisonwood Bible</em></cite>
