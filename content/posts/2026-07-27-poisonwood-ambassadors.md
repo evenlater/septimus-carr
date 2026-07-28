@@ -4,7 +4,7 @@ date: "2026-07-27"
 draft: false
 categories: ["Classics","Fiction"]
 authors: ["Henry James", "Barbara Kingsolver"]
-subtitle: "Confidence as America\'s Chief Export in Henry James and Barbara Kingsolver"
+subtitle: "Confidence as America/'s Chief Export in Henry James and Barbara Kingsolver"
 photocredit: 'Belgian Congo stamp - ID <a href="https://www.dreamstime.com/royalty-free-stock-image-postage-stamp-image5073626">5073626</a> Copyright 
 <a href="https://www.dreamstime.com/hfrentz_info">Hank Frentz</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>. Henry James in 1913, portrait by John Singer Sargent. ID <a href="https://www.dreamstime.com/henry-james-john-singer-sargent-portrait-depicts-eminent-anglo-american-novelist-painting-captures-s-intellectual-image433039875">433039875</a> © <a href="https://www.dreamstime.com/pepperboxdesign_info">Pepperboxdesign</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
 image: "/img/poisonwood-ambassadors-narrow.png"
