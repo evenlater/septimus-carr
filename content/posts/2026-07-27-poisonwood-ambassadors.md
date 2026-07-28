@@ -15,7 +15,7 @@ book:
   author: "Barbara Kingsolver"
   year: "1998"
   isbn: "0061577073"
-  cover: "poisonwood-cover.jpg"
+  cover: ""
   title2: "The Ambassadors"
   author2: "Henry James"
   year2: "1903"
