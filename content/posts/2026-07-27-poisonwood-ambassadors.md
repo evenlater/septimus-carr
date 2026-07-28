@@ -129,7 +129,7 @@ Whereas Kingsolver’s craftsmanship shows that she knows what she believes, Jam
 
 <blockquote>“Our senatorial friend,” Caroline noted that Henry James had taken a very deep breath before he spoke; … “has now in his exile … no, his highly thoughtful refuge from the clamorous Senate House, turned the full ripeness of his attention onto a commercial object which he quite rightly suspects is, to me, of all people here, at least, of poignant importance—and interest, although whether or not the Senator, as emptor—or tempter—will make on Miss Sanford the same profound effect that he has made on me, with his description—ever so lucid, so compelling, even—of that commercial object of which you, my dear Henry, now inquire the identity, I cannot, at hazard, guess. Mais en tout cas, Mademoiselle Sanford, I cannot think that you, as the chatelaine of the great palace of Saint-Cloud-le-Duc, would even find Senator Cameron’s utensil of any intrinsic—or even extrinsic, I am impelled to add—interest save …”<br><br>
  “What … what is it?” cried Henry Adams, as the sentences slowly looped around them, verbal equivalents of Laocoön’s serpent.
-><cite>Gore Vidal, <em>Empire: A Novel</em>
+><cite>Gore Vidal, <em>Empire: A Novel</em></cite>
 
 Tóibín’s introduction to *The Ambassadors* argues that it is no coincidence that James’s sentence structure is at its most baroque in this late novel. Although partially a result of the author’s method—he verbally dictated his meandering prose to a secretary—the internal interrogations reflect his predilection for moral ambivalence at a time of American confidence:
 
