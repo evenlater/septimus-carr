@@ -22,10 +22,10 @@ book:
   isbn2: "0393963144"
   cover2: ""
 links:
-  substack: ""
+  substack: "https://septimuscarr.substack.com/p/the-poisonwood-ambassadors"
   medium: ""
-  goodreads: ""
-  reddit: ""
+  goodreads: "https://www.goodreads.com/review/show/8808917218"
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1v8x55a/the_poisonwood_ambassadors_confidence_as_americas/"
 ReadDates:
   start: "2026-05-31"
   end: "2026-06-23"
