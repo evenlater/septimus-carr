@@ -189,7 +189,8 @@ body {
 
 /* ── Article: cover image ─────────────────────────────────── */
 .cover-wrap  { width: 100%; height: 460px; overflow: hidden; background: #1C1410; }
-.cover-img   { width: 100%; height: 100%; object-fit: cover; display: block; }
+.cover-img { width: 100%; height: 100%; object-fit: cover; display: block;
+             object-position: var(--cover-pos, center); }
 
 /* ── Article: shell & metadata ────────────────────────────── */
 .article-outer { background: #F7F3EC; padding-bottom: 72px; }
