@@ -2,7 +2,7 @@
 title: "The Poisonwood Ambassadors"
 date: "2026-07-27"
 draft: false
-categories: ["Classics","Fiction"]
+categories: ["Classics","Fiction","Multi"]
 authors: ["Henry James", "Barbara Kingsolver"]
 subtitle: "Confidence as America’s Chief Export in Henry James and Barbara Kingsolver"
 photocredit: 'Belgian Congo stamp - ID <a href="https://www.dreamstime.com/royalty-free-stock-image-postage-stamp-image5073626">5073626</a> Copyright 

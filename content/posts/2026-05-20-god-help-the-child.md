@@ -2,7 +2,7 @@
 title: "In Defense of Latter Morrison"
 date: 2026-05-20
 draft: false
-categories: ["Fiction"]
+categories: ["Fiction","Multi"]
 authors: ["Toni Morrison"]
 subtitle: "\"God Help the Child\" as Unofficial Sequel to \"The Bluest Eye\""
 image: "/img/Pecola-and-Bride.png"
@@ -12,7 +12,12 @@ book:
   author: "Toni Morrison"
   year: "2015"
   isbn: "0307740927"
-  cover: 
+  cover:
+  title2: "The Bluest Eye"
+  author2: "Toni Morrison"
+  year2: "1970"
+  isbn2: "067182323X"
+  cover:
 links:
   substack: "https://septimuscarr.substack.com/p/in-defense-of-latter-toni-morrison"
   goodreads: "https://www.goodreads.com/review/show/8616336127"
@@ -20,6 +25,22 @@ links:
 readDates:
   start: "2026-04-15"
   end: "2026-04-21"
+readDates2:
+  start: "1993-04-14"
+  end: "1993-04-21"
+historicalEvents:
+  - date: "1941"
+    label: "The Bluest Eye takes place"
+  - date: "1970-11"
+    label: "The Bluest Eye published"
+  - date: "2007"
+    label: "God Help the Child takes place"
+  - date: "2014-04-14"
+    label: "Ron Charles reviews God Help the Child in the Washington Post"
+  - date: "2015-04-21"
+    label: "God Help the Child published"
+  - date: "2026-05-12"
+    label: "The Guardian names Beloved 2nd best novel behind Middlemarch"
 ---
 
 <blockquote> Henry: I suppose that’s the fate of all us artists.<br>

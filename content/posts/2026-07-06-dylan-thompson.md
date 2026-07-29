@@ -2,7 +2,7 @@
 title: "Bob Dylan, Richard Thompson, and the Marital Therapy of Memoir"
 date: 2026-07-08
 draft: false
-categories: ["Nonfiction"]
+categories: ["Nonfiction","Multi"]
 authors: ["Bob Dylan", "Richard Thompson"]
 subtitle: "The Memoirs of Two Folk Rock Giants Recast Their Public Façades"
 image: "/img/dylan-thompson2.png"
