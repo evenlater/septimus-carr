@@ -17,7 +17,7 @@ book:
   author2: "Toni Morrison"
   year2: "1970"
   isbn2: "067182323X"
-  cover:
+  cover2:
 links:
   substack: "https://septimuscarr.substack.com/p/in-defense-of-latter-toni-morrison"
   goodreads: "https://www.goodreads.com/review/show/8616336127"
