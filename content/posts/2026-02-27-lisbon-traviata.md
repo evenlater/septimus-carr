@@ -7,6 +7,8 @@ authors: ["Terrence McNally"]
 subtitle: "Revisiting Terrence McNally's Script for \"The Lisbon Traviata\""
 image: "/img/lisbon-traviata.png"
 imagePosition: "Top"
+imageAlt: "Composite of the LP box of The Lisbon Traviata and the exterior and interior of the Metropolitan Opera in New York."
+photoCredit: "Metropolitan Opera exterior and interior photos: Septimus Carr. Album cover: Maria Callas, La Traviata (EMI Classics, 1958 recording) — cover art © EMI Classics/[current rights holder]."
 book:
   title: "The Lisbon Traviata"
   author: "Terrence McNally"
