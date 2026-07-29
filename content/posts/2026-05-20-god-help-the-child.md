@@ -7,6 +7,9 @@ authors: ["Toni Morrison"]
 subtitle: "\"God Help the Child\" as Unofficial Sequel to \"The Bluest Eye\""
 image: "/img/Pecola-and-Bride.png"
 imagePosition: "Top"
+imageAlt: "Composite. Black girl in 1943 next to ’Negro on the Home Front’ sign. Black woman in white gown."
+photoCredit: 'A Harlem girl; photo by Gordon Parks, 1943. <a href="https://www.loc.gov/item/2017851525/" target="_blank">Library of Congress Prints & Photographs Division.</a> African American woman in wedding dress; ID <a href="https://www.dreamstime.com/stock-photo-african-american-woman-wedding-dress-young-beautiful-image40918643">40918643</a> Copyright <a href="https://www.dreamstime.com/nakonechnyy_info">Ivan Nakonechnyy </a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>.'
+
 book:
   title: "God Help the Child"
   author: "Toni Morrison"
