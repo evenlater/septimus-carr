@@ -6,7 +6,7 @@ categories: ["Fiction","Opera"]
 authors: ["Alexander Chee"]
 subtitle: 'Alexander Chee’s "The Queen of the Night" Channels the Grand Silliness of Opera'
 image: "/img/soprano.png"
-imagePosition: "Bottom 1%"
+imagePosition: "Bottom"
 book: 
   title: "The Queen of the Night"
   author: "Alexander Chee"
