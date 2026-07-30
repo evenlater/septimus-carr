@@ -1,5 +1,5 @@
 ---
-title: "Queen of the Risotto Night with the Verdis"
+title: "Queen of the Risotto Night (at Verdi’s)"
 date: 2026-05-29
 draft: false
 categories: ["Fiction","Opera"]
@@ -7,6 +7,8 @@ authors: ["Alexander Chee"]
 subtitle: 'Alexander Chee’s "The Queen of the Night" Channels the Grand Silliness of Opera'
 image: "/img/soprano.png"
 imagePosition: "Bottom"
+imageAlt: ""
+photocredit: "L'Illustration or Le Monde illustré, covering the Palais Garnier's 1875 opening perfomrmance of Les Huguenots"
 book: 
   title: "The Queen of the Night"
   author: "Alexander Chee"
@@ -19,6 +21,22 @@ links:
 readDates:
   start: "2026-05-07"
   end: "2026-05-28"
+historicalEvents:
+  - date: 1862
+    label: "The Homestead Act provides land to Lilliet's American father"
+  - date: 1864
+    label: "Lilliet instructed by opera legend Pauline Viardot-Garcia,"
+  - date: 1864
+    label: "Brahms and Turgenev vacation in Baden-Baden"
+    thread: Brahms-in-Baden-Baden
+  - date: 1870-09-04
+    label: "The Third French Republic begins"
+  - date: 1870-09-19
+    label: "The Siege of Paris begins"
+  - date: 1871-01-28
+    label: "The Siege of Paris ends"
+  - date: 1882
+    thread: "Lilliet enjoys risotto night at Giuseppe Verdi's home"
 ---
 
 I picked up Alexander Chee’s exhilaratingly over-the-top historical fiction melodrama *The Queen of the Night* to revel in 19th-century opera lore. I know I’m late to the party, but when the book dropped in 2016, I didn’t know a mezzosoprano from a heldentenor. It wasn’t until the pandemic years that the subject held much interest for me. My brother was once as opera-ignorant as I was but he’d become so fluent in bel canto and opera buffa that those sheltering in place with him were soon infected with a rapidly metastasizing cultural virus. Before 2020, I had never sat through a full-length opera. Six years later, I’ve seen almost all of the established canon via 24 live performances at Chicago’s Lyric Opera, three at the Met in New York, 19 at other regional theaters or concert halls, 34 in movie theaters, and at least 20 through streaming services and physical media. So let’s just say I came to Chee all in for thematic and narrative intersections with sung-through dramas from *Aida* to *Zelmira*. On the other hand, I did not come expecting the nuance of psychology, thought, and expression that is the hallmark of great literature. For the most part, *The Queen of the Night* aligns with my expectations. It is as self-indulgent as my reasons for reading it and as grand and silly as most 19th-century libretti. Still, there is a certain gravity to the book, derived from the way the broadly shifting fortunes of its heroine—from frontier orphan to kept woman to pampered superstar—reflect the broader condition of women in the historical period it explores.
@@ -33,8 +51,10 @@ The long opera-less swaths surprised me, but not as much as the way *The Queen o
 
 {{< section-head >}}FOLLOWING THE E19 MODEL{{< /section-head >}}
 
-Chee’s plot is sprawling and digressive, but it loosely follows the narrative structure that critic Conrad L. Osborne claimed was common to all but two operas in the “Extended Nineteenth Century” (that is, extended to include Mozart and Strauss). That structure, explained in Osborne’s massive critical tome Opera as Opera, is essentially this: a protagonist (usually male, but reversed here) who lacks the social standing she desires (a courtesan and royal servant rather than an opera star) falls obsessively in love with a reciprocating lover (the aforementioned composer) who occupies the social position (professional musician) she aspires to. 
+Chee’s plot is sprawling and digressive, but it loosely follows the narrative structure that critic Conrad L. Osborne claimed was common to all but two operas in the “Extended Nineteenth Century” (that is, extended to include Mozart and Strauss). That structure, explained in Osborne’s massive critical tome Opera as Opera, is essentially this: a protagonist (usually male, but reversed here) who lacks the social standing she desires (a courtesan and royal servant rather than an opera star) falls obsessively in love with a reciprocating lover (the aforementioned composer) who occupies the social position (professional musician) she aspires to.
+ 
 {{< pull-quote >}}Operas do not draw their artistic seriousness from their words but from their glorious music.{{< /pull-quote >}}
+
 Their union is opposed by high-ranking antagonists (the Empress and the Tenor) with romantic designs on the lovers, generating a love triangle (more of a quadrangle in this case). There is a clash, and one or both lovers die.
 
 {{< section-head >}}*FACH* AS DESTINY{{< /section-head >}}
