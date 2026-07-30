@@ -1,10 +1,10 @@
 ---
-title: "Risotto Night with the Verdis"
+title: "Queen of the Risotto Night with the Verdis"
 date: 2026-05-29
 draft: false
 categories: ["Fiction","Opera"]
 authors: ["Alexander Chee"]
-subtitle: '"The Queen of the Night" Channels the Grand Silliness of Opera'
+subtitle: 'Alexander Chee’s "The Queen of the Night" Channels the Grand Silliness of Opera'
 image: "/img/soprano.png"
 imagePosition: "center"
 book: 
