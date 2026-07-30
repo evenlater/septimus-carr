@@ -25,10 +25,9 @@ historicalEvents:
   - date: 1862
     label: "The Homestead Act provides land to Lilliet's American father"
   - date: 1864
-    label: "Lilliet instructed by opera legend Pauline Viardot-Garcia,"
+    label: "Lilliet instructed by opera legend Pauline Viardot-Garcia"
   - date: 1864
     label: "Brahms and Turgenev vacation in Baden-Baden"
-    thread: Brahms-in-Baden-Baden
   - date: 1870-09-04
     label: "The Third French Republic begins"
   - date: 1870-09-19
@@ -51,7 +50,7 @@ The long opera-less swaths surprised me, but not as much as the way *The Queen o
 
 {{< section-head >}}FOLLOWING THE E19 MODEL{{< /section-head >}}
 
-Chee’s plot is sprawling and digressive, but it loosely follows the narrative structure that critic Conrad L. Osborne claimed was common to all but two operas in the “Extended Nineteenth Century” (that is, extended to include Mozart and Strauss). That structure, explained in Osborne’s massive critical tome Opera as Opera, is essentially this: a protagonist (usually male, but reversed here) who lacks the social standing she desires (a courtesan and royal servant rather than an opera star) falls obsessively in love with a reciprocating lover (the aforementioned composer) who occupies the social position (professional musician) she aspires to.
+Chee’s plot is sprawling and digressive, but it loosely follows the narrative structure that critic Conrad L. Osborne claimed was common to all but two operas in the “Extended Nineteenth Century” (that is, extended UUUUUUUUUUUUUUUUUUUUUUUUto include Mozart and Strauss). That structure, explained in Osborne’s massive critical tome Opera as Opera, is essentially this: a protagonist (usually male, but reversed here) who lacks the social standing she desires (a courtesan and royal servant rather than an opera star) falls obsessively in love with a reciprocating lover (the aforementioned composer) who occupies the social position (professional musician) she aspires to.
  
 {{< pull-quote >}}Operas do not draw their artistic seriousness from their words but from their glorious music.{{< /pull-quote >}}
 
