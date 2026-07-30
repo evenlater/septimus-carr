@@ -94,9 +94,9 @@
   {{ end }}
 
   {{ range $i, $he := $post.Params.historicalEvents }}
-    {{ $d := $he.date }}
-    {{ $precision := "day" }}
-    {{ if eq (len $d) 4 }}{{ $precision = "year" }}{{ end }}
+  {{ $d := printf "%v" $he.date }}
+  {{ $precision := "day" }}
+  {{ if eq (len $d) 4 }}{{ $precision = "year" }}{{ end }} 
     {{ $yr := int (substr $d 0 4) }}
 
     {{ $slug := "" }}
