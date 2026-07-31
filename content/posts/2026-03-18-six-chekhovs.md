@@ -12,7 +12,7 @@ photoCredit: 'AI-free composite by Septimus Carr using Canva. From top left to u
 book:
   title: "Selected Stories of Anton Chekov"
   author: "Anton Chekhov"
-  year: "2000"
+  year:  "2000"
   isbn: "0553381008"
   cover: "/img/chekhov-cover.jpg"
 links:
@@ -43,7 +43,7 @@ historicalEvents:
     label: "Anton Chekhov diees in Badenweiler, Germany"
   - date: "1995-01-08"
     label: "Vanya on 42nd Street at Barbican Cinema"
-  - date: "2002-11-16"
+  - date: "2002-11-16"  
     label: "The Seagull, Trinity Christian College"
 ---
 
