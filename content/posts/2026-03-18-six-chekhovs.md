@@ -55,7 +55,7 @@ The gradual acceptance of self-revelation is a rite of passage for many introver
  
 I have known Chekhov for decades through his four masterpieces of dramatic literature, and it is shocking to me that it took me this long to read even one of his short stories. I first read *Three Sisters* as a college sophomore, and—like so many others—I failed to grasp his greatness through the page. It was probably my first experience of Russian literature, and I was daunted by the sheer number of characters, each with patronymics and copious nicknames. It was Constance Garnett’s stiff Victorian translation. Everybody was so godawful unhappy. But [when](/calendar/?date=1995-01-08) I saw Andre Gregory’s 1994 film *Vanya on 42nd Street* at the Barbican movie theater in London, with its world-class actors (Wallace Shawn, Julianne Moore, Brooke Smith), each marinated in character through years of private rehearsals, tightrope-walking the comedy and despair in David Mamet’s lively translation, I became a Chekhov fan for life. 
 
-<img src="/img/newspaper-ad.jpg" alt="London newspaper ad for Vanya on 42nd Street." width="375"><br><br> 
+<img src="/img/newspaper-ad.jpg" alt="London newspaper ad for Vanya on 42nd Street." width="375" style="display: block; margin: 0 auto;"> 
 
 To this day, that *Vanya* is my favorite and most watched film of all time. You can chart your own age and personal growth by how you relate to the characters over the years. In my first screening, when Yelena blunderingly interrogated Astrov about his feelings for Sonya, it felt uncomfortably close to my own undergraduate romantic blunders. Seven years later, I showed the film to undergrads I was directing in *The Seagull*, and my Arkadina told me it was the first time she understood her role. Then, to revisit the film at the exact age of Uncle Vanya and measure his famously wasted life against my own—what a gratifying and slightly mortifying experience. I should have raced to the short stories then, just to see what else Chekhov had up his sleeve, but I was still foolish and unaccustomed to reading short stories.
 
@@ -63,7 +63,7 @@ To this day, that *Vanya* is my favorite and most watched film of all time. You 
 
 ## Chekhov the Artist
 
-<img src="/img/1-artist.jpg" alt="Painting. Chekhov in a green upholstered chair." width="375" style="display: block; margin: 0 auto;"><br><br>
+<img src="/img/1-artist.jpg" alt="Painting. Chekhov in a green upholstered chair." width="375" style="display: block; margin: 0 auto;">
 
 Now that I have, I am struck by the counterpoint between, on one hand, his utter rejection of artistic vanity and, on the other, his reverence for craft and the sheer guts it takes to try. “A Boring Story” introduces the opinionated pedant Nikolai Stepanovich, whose impending mortality is teaching him the worthlessness of his literary and theatrical judgments. This is juxtaposed with the soulful artistic appreciation of his actress daughter Katya. Like Nina in *The Seagull*, Katya begins her career with an open heart only to be crushed by awareness of her own paucity of talent. Still, she possesses an artistic wisdom that her father can only envy. After Chekhov’s death, his friend Aleksandr Kuprin described how “shyly and coldly he regarded praises lavished on him.” Chekhov couldn’t bear literary pretension. But his description of a monk’s religious poetry in “Easter Night” speaks volumes about the depth of his love for written expression:
  
@@ -74,7 +74,7 @@ Again and again, artistic accomplishment is outweighed by kindness in these stor
 
 ## Chekhov the Saint
 
-<img src="/img/2-saint.jpg" alt="Photograph. Chekhov in an image inscribed ot a priest." width="200" style="display: block; margin: 0 auto;"><br><br>
+<img src="/img/2-saint.jpg" alt="Photograph. Chekhov in an image inscribed ot a priest." width="250" style="display: block; margin: 0 auto;">
  
 The emphasis on human kindness is often framed in directly Christian terms in *Selected Stories*, which surprised me given Chekhov’s reputation as a materialist. Consider his own self-description in a letter to a friend:
 
@@ -85,14 +85,14 @@ Theology does not play a major role in the plays, apart from Sonya’s moving de
 
 ## Chekhov the Doctor
 
-<img src="/img/3-doctor.jpg" alt="Photograph. Chekhov reclines on steps with cane and dachsund." width="375" style="display: block; margin: 0 auto;"><br><br>
+<img src="/img/3-doctor.jpg" alt="Photograph. Chekhov reclines on steps with cane and dachsund." width="375" style="display: block; margin: 0 auto;">
 
 However, Chekhov was more than a compassionate observer; he put his convictions into action as a doctor. Grossman alluded to the writer’s scientific side by calling him “a probing Darwinist with the love of St. Francis of Assisi for every living creature.” Chekhov’s purpose for practicing medicine was to serve, not to cash in, for he profited far more from his literary works than his medical ones. Nowhere in the short stories does this Chekhov come through more clearly than in “Ward No. 6,” about the director of a mental hospital. The depiction of mental illness here is sophisticated and accurate. Chekhov describes a patient who suffers from feelings of terror and shame because he fears people perceive him as a murderer, despite being innocent of any actual crime. Chekhov’s description of the duality of paranoia, its capacity to hold two realities at once, is penetrating: “Ivan Dmitrich knew very well that they had come to reset the stove in the kitchen, but fear whispered to him that they were policemen disguised as stovemakers.” The head doctor is eventually committed as a patient himself partly because he is kind to Ivan Dmitrich. This reframing of madness comes up again in “The Black Monk,” when a student receives treatment for his hallucinations only to retort, “Why, why did you have me treated? … I was losing my mind, I had megalomania, but I was gay, lively, and even happy, I was interesting and original. Now I’ve become more solid and reasonable, but as a result I’m just like everybody else.” If being sane meant losing empathy and imagination, Chekhov wanted no part of it.
  
 ## Chekhov the Grandson of a Serf
 
 
-<img src="/img/4-serf.jpg" alt="Photograph. A young Chekhov, circa 1880s." width="375" style="display: block; margin: 0 auto;"><br><br>
+<img src="/img/4-serf.jpg" alt="Photograph. A young Chekhov, circa 1880s." width="375" style="display: block; margin: 0 auto;">
 
 Chekhov once confessed that he strove to “squeeze the serf out of myself.” The novelist Elif Batuman observes that Chekhov, whose grandfather was a forced laborer, never understood the Tolstoyan demand that the intelligentsia embrace poverty. Rather, Chekhov wished to encourage the peasants to embrace education. Chekhov expresses this view in a remarkable passage from “The House with the Mezzanine: An Artist’s Story” that shows his vision of a more equitable society:
 
@@ -103,7 +103,7 @@ This quote reveals that we have been anticipating the “leisure society” for 
 
 ## Chekhov the Poet of Hopelessness
 
-<img src="/img/5-hopelessness.jpg" alt="Painting. Chekhov looks furtive." width="375" style="display: block; margin: 0 auto;"><br><br>
+<img src="/img/5-hopelessness.jpg" alt="Painting. Chekhov looks furtive." width="375" style="display: block; margin: 0 auto;">
 
 That note of optimism is surprising for a writer best known for his motif of personal unhappiness. Philosopher/critic Lev Shestov called Chekhov the “Poet of Hopelessness.” He is indeed the poet who wrote “The Lady with the Little Dog,” about an affair that leaves both parties in love and miserable. The poet who invented “The Darling,” a woman who can only be content when she has an outlet for her own powerful capacity for love. The poet who wrote Sonya’s devastating final lines in *Uncle Vanya*: “You've had no joy in your life; but wait, Uncle Vanya, wait.” Finally, he is the poet who had Konstantin Treplev, a writer incapable of controlling his feelings about self-revelation, throw in the towel on life rather than persevere long enough to realize his own potential.
 
@@ -113,9 +113,9 @@ This surrender to hopelessness troubled the student playing Konstantin in my pro
 
 ## Chekhov the Consumptive
 
-<img src="/img/6-consumptive.jpg" alt="Painting. Chekhov reclines on a sofa in 1902." width="375" style="display: block; margin: 0 auto;"><br><br>
+<img src="/img/6-consumptive.jpg" alt="Painting. Chekhov reclines on a sofa in 1902." width="375" style="display: block; margin: 0 auto;">
 
 Stamina was not an idle concept for Chekhov, who knew significant suffering. The doctor was also a patient, and the specter of mortality colors much of *Selected Stories*. The playwright first began coughing up blood at the age of 37 and was dead by the age of 44. That means that the last 150 pages of Pevear’s book—a full third—was written in the shadow of tuberculosis. Surely that shaded Chekhov’s examination of two major themes. The first, man’s insignificance in an indifferent universe, is expressed most clearly in “Gusev,” about a sailor whose corpse becomes food for sharks under a splendid sunset. The second theme, the importance of meeting death with dignity and grace, presents a bar that Nikolai in “A Boring Story” cannot clear, remaining at his lecture podium despite the internal conviction that he should leave it to a younger professor. Another dying man in *Selected Stories*, “The Bishop,” faces death alone due to his elevated position in the church—it’s lonely at the top. Even his mother treats him like an intimidating authority figure. Despite this, the bishop is courageous and dignified on his deathbed. It reminded me of Sonya’s exhortation to Vanya: “When our final hour comes, we shall meet it humbly.” If the realization that one is older than Uncle Vanya gives one pause, the idea that one has outlived the great Anton Pavlovich Chekhov—brave, compassionate, perspicacious Chekhov—is more than enough reason for personal humility.
 
 
-<img src="/img/7-with-nikolai.jpg" alt="Photograph. A young Chekhov caught unaware of the camera, admiring his brother Nikolai’s artwork." width="375"><br><br>
+<img src="/img/7-with-nikolai.jpg" alt="Photograph. A young Chekhov caught unaware of the camera, admiring his brother Nikolai’s artwork." width="375" style="display: block; margin: 0 auto;">
