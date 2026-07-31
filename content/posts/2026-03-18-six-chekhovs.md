@@ -5,10 +5,11 @@ draft: false
 categories: ["Classics","Drama"]
 authors: ["Anton Chekhov"]
 subtitle: "Self-Revelation in the \"Selected Stories of Anton Chekhov\""
-image: "/img/six-chekhovs.png"
+image: "/img/six-chekhovs-pc.png"
+imageMobile: "/img/six-chekhovs-mobile.png"
 imagePosition: "Center"
 imageAlt: "Six portraits or photographs of Anton Pavlovich Chekhov"
-photoCredit: "AI-free composite by Septimus Carr using Canva. From left to right: Chekhov the Doctor in Melikhova, with dachshund, from Korney Chukovsky (1897). Chekhov the Artist, portrait by Osip Braz (1898). Chekhov the Saint, portrait photograph by Alexander Chekhov,inscribed to Father Grigory Vinogradov (1897). Chekhov the Poet of Hopelessness, a portrait by brother Nikolay Chekhov (1889). Chekhov the Consumptive, painted by Pyotr Nilus (1910). Chekhov the Grandson of a Serf, photo by Nikolay Lukich Pushkarev (1880s)." 
+photoCredit: "AI-free composite by Septimus Carr using Canva. Chekhov the Doctor in Melikhova, with dachshund, from Korney Chukovsky (1897). Chekhov the Artist, portrait by Osip Braz (1898). Chekhov the Saint, portrait photograph by Alexander Chekhov,inscribed to Father Grigory Vinogradov (1897). Chekhov the Poet of Hopelessness, a portrait by brother Nikolay Chekhov (1889). Chekhov the Consumptive, painted by Pyotr Nilus (1910). Chekhov the Grandson of a Serf, photo by Nikolay Lukich Pushkarev (1880s)." 
 book:
   title: "Selected Stories of Anton Chekov"
   author: "Anton Chekhov"

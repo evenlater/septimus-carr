@@ -13,9 +13,14 @@
 {{/* ── COVER IMAGE ── */}}
 {{ with .Params.image }}
 <div class="cover-wrap">
-  <img src="{{ . }}" class="cover-img"
-       style="object-position:{{ with $.Params.imagePosition }}{{ . }}{{ else }}center{{ end }}"
-       alt="{{ $.Params.ImageAlt }}">
+  <picture>
+    {{ with $.Params.imageMobile }}
+    <source media="(max-width: 640px)" srcset="{{ . }}">
+    {{ end }}
+    <img src="{{ . }}" class="cover-img"
+         style="object-position:{{ with $.Params.imagePosition }}{{ . }}{{ else }}center{{ end }}"
+         alt="{{ $.Params.ImageAlt }}">
+  </picture>
 </div>
 {{ end }}
 
@@ -135,7 +140,8 @@
     {{ range $related }}
     <a href="{{ .Permalink }}" class="rel-card">
       <div class="rel-thumb">
-        {{ with .Params.image }}
+        {{ $thumb := .Params.imageMobile | default .Params.image }}
+        {{ with $thumb }}
         <img src="{{ . }}" class="rel-img" alt="{{ $.Title }}" loading="lazy">
         {{ else }}
         <div class="rel-img ci-placeholder"></div>
