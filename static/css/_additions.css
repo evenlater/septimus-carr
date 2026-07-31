@@ -145,13 +145,46 @@
 .cal-weekempty { font-size: 12px; color: #C8BFB0; font-style: italic; }
 .cal-week .cal-event { display: block; font-size: 13px; padding: 5px 9px; margin-bottom: 4px; }
 
-.cal-page-link {
-  display: inline-flex; align-items: center; gap: 6px; width: fit-content;
-  font-size: 12px; letter-spacing: .06em; text-transform: uppercase;
-  color: #2A0E38; border: 1px solid #C4A055; padding: 8px 16px;
-  margin-bottom: 24px; text-decoration: none; transition: background .2s;
+/* ── Fixed timeline rail tab: replaces the old inline "View on Calendar"
+   button. Pinned to the viewport edge, so it stays in place while the
+   reader scrolls through the essay, rather than sitting in the reading
+   flow. Same behavior on mobile and desktop. ── */
+.tl-rail-link {
+  position: fixed; right: 0; top: 50%; transform: translateY(-50%);
+  display: flex; align-items: center; gap: 6px;
+  writing-mode: vertical-rl;
+  background: #2A0E38; color: #F7F3EC;
+  font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
+  padding: 16px 8px; border-radius: 4px 0 0 4px;
+  text-decoration: none; box-shadow: -2px 0 10px rgba(0,0,0,.18);
+  z-index: 30; transition: background .2s, padding .2s;
 }
-.cal-page-link:hover { background: #F7F3EC; }
+.tl-rail-link:hover { background: #C4A055; color: #2A0E38; padding-right: 12px; }
+
+/* ── Inline timeline references (tl-note shortcode) ── */
+.tl-note-marker {
+  color: #C4A055; text-decoration: none; font-size: 10px;
+  vertical-align: super; line-height: 1; margin-left: 2px;
+}
+.tl-note-marker:hover { color: #2A0E38; }
+.tl-note-aside { display: none; }
+
+@media (min-width: 1180px) {
+  .article-inner { position: relative; }
+  .tl-note-marker { display: none; }
+  .tl-note-aside {
+    display: block; position: absolute; left: 100%; margin-left: 34px;
+    width: 190px; font-size: 12.5px; line-height: 1.4; font-style: italic;
+    color: #A09488;
+  }
+  .tl-note-aside::before { content: "\25C6  "; color: #C4A055; font-style: normal; }
+  .tl-note-aside a { color: #A09488; text-decoration: none; border-bottom: 1px dotted #C4A055; }
+  .tl-note-aside a:hover { color: #2A0E38; border-bottom-color: #2A0E38; }
+}
+
+@media (max-width: 640px) {
+  .tl-rail-link { font-size: 10px; padding: 12px 6px; }
+}
 
 .cal-cell-target { box-shadow: inset 0 0 0 2px #C4A055; position: relative; }
 .cal-weekrow-target { box-shadow: inset 3px 0 0 #C4A055; background: #FBF6EA; }

@@ -43,18 +43,10 @@
     <div class="art-byline">By {{ .Site.Params.author }}</div>
 	<div class="art-photocredit">{{ .Params.photocredit | safeHTML }}</div>
 
-    <a href="{{ printf "/calendar/?date=%s" (.Date.Format "2006-01-02") }}" id="calPageLink" class="cal-page-link">
-      &#128197; View on Calendar
+    <a href="{{ printf "/timeline/?highlight=%s-published" .File.ContentBaseName | relURL }}"
+       class="tl-rail-link" target="_blank" rel="noopener">
+      &#9670; Timeline
     </a>
-    <script>
-      (function () {
-        var link = document.getElementById('calPageLink');
-        if (link && !window.matchMedia('(max-width: 640px)').matches) {
-          link.target = '_blank';
-          link.rel = 'noopener';
-        }
-      })();
-    </script>
 
     {{/* ── PLATFORM LINKS ── */}}
     {{ if or .Params.links.substack .Params.links.medium .Params.links.goodreads .Params.links.reddit .Params.links.fable }}
@@ -167,6 +159,28 @@
   <p class="cta-text">Conversational longform literary analysis with wide-ranging allusions and a candid sense of humor.</p>
   <a href="{{ .Site.Params.substack }}" target="_blank" rel="noopener" class="cta-btn">Subscribe on Substack</a>
 </div>
+
+{{/* ── TIMELINE SIDENOTE POSITIONING ── */}}
+<script>
+(function(){
+  var container = document.querySelector('.article-inner');
+  if (!container) return;
+  var notes = document.querySelectorAll('.tl-note');
+  if (!notes.length) return;
+  function place(){
+    if (window.matchMedia('(max-width: 1179px)').matches) return;
+    var cTop = container.getBoundingClientRect().top;
+    notes.forEach(function(note){
+      var marker = note.querySelector('.tl-note-marker');
+      var aside  = note.querySelector('.tl-note-aside');
+      if (!marker || !aside) return;
+      aside.style.top = (marker.getBoundingClientRect().top - cTop) + 'px';
+    });
+  }
+  window.addEventListener('load', place);
+  window.addEventListener('resize', place);
+})();
+</script>
 
 {{/* ── PROGRESS + STICKY JS ── */}}
 <script>

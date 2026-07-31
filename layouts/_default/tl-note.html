@@ -1,0 +1,16 @@
+{{/*
+  tl-note.html — inline reference to a Timeline event.
+  Renders the wrapped text plain (no blue-link styling), followed by a small
+  ◆ marker. On wide viewports the marker's sidenote sits in the article's
+  right margin, positioned by JS to align with this exact line. On narrower
+  viewports the sidenote is hidden and the ◆ marker itself is the link.
+
+  Usage:
+    {{< tl-note slug="seagull-trinity-closing" note="Nov. 16, 2002 — closing night" >}}closing night{{< /tl-note >}}
+
+  `slug` must match a "slug" on a historicalEvents entry (or the
+  auto-generated {post}-published / {post}-he{n}-{label} slug) in
+  event-feed.html, so /timeline/?highlight={slug} lands on the right point.
+*/}}
+{{ $url := printf "/timeline/?highlight=%s" (.Get "slug") | relURL }}
+<span class="tl-note">{{ .Inner }}<a href="{{ $url }}" class="tl-note-marker" aria-label="View on Timeline">&#9670;</a><span class="tl-note-aside"><a href="{{ $url }}">{{ with .Get "note" }}{{ . }}{{ else }}View on Timeline{{ end }}</a></span></span>
