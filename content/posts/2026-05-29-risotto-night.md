@@ -1,5 +1,5 @@
 ---
-title: "Queen of the Risotto Night (at Verdi’s)"
+title: "Queen of the Risotto Night at Verdi’s"
 date: 2026-05-29
 draft: false
 categories: ["Fiction","Opera"]
