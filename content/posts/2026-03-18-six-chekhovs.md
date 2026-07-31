@@ -7,7 +7,7 @@ authors: ["Anton Chekhov"]
 subtitle: "Self-Revelation in the \"Selected Stories of Anton Chekhov\""
 image: "/img/six-chekhovs-pc.png"
 imageMobile: "/img/six-chekhovs-mobile.png"
-imagePosition: "Center"
+imagePosition: "Top"
 imageAlt: "Six portraits or photographs of Anton Pavlovich Chekhov"
 photoCredit: "AI-free composite by Septimus Carr using Canva. Chekhov the Doctor in Melikhova, with dachshund, from Korney Chukovsky (1897). Chekhov the Artist, portrait by Osip Braz (1898). Chekhov the Saint, portrait photograph by Alexander Chekhov,inscribed to Father Grigory Vinogradov (1897). Chekhov the Poet of Hopelessness, a portrait by brother Nikolay Chekhov (1889). Chekhov the Consumptive, painted by Pyotr Nilus (1910). Chekhov the Grandson of a Serf, photo by Nikolay Lukich Pushkarev (1880s)." 
 book:
@@ -63,7 +63,7 @@ To this day, that *Vanya* is my favorite and most watched film of all time. You 
 
 ## Chekhov the Artist
 
-<img src="/img/1-artist.jpg" alt="Painting. Chekhov in a green upholstered chair." width="200"><br><br>
+<img src="/img/1-artist.jpg" alt="Painting. Chekhov in a green upholstered chair." width="250" position="center"><br><br>
 
 Now that I have, I am struck by the counterpoint between, on one hand, his utter rejection of artistic vanity and, on the other, his reverence for craft and the sheer guts it takes to try. “A Boring Story” introduces the opinionated pedant Nikolai Stepanovich, whose impending mortality is teaching him the worthlessness of his literary and theatrical judgments. This is juxtaposed with the soulful artistic appreciation of his actress daughter Katya. Like Nina in *The Seagull*, Katya begins her career with an open heart only to be crushed by awareness of her own paucity of talent. Still, she possesses an artistic wisdom that her father can only envy. After Chekhov’s death, his friend Aleksandr Kuprin described how “shyly and coldly he regarded praises lavished on him.” Chekhov couldn’t bear literary pretension. But his description of a monk’s religious poetry in “Easter Night” speaks volumes about the depth of his love for written expression:
  
@@ -74,7 +74,7 @@ Again and again, artistic accomplishment is outweighed by kindness in these stor
 
 ## Chekhov the Saint
 
-<img src="/img/2-saint.jpg" alt="Photograph. Chekhov in an image inscribed ot a priest." width="200"><br><br>
+<img src="/img/2-saint.jpg" alt="Photograph. Chekhov in an image inscribed ot a priest." width="200" position="center"><br><br>
  
 The emphasis on human kindness is often framed in directly Christian terms in *Selected Stories*, which surprised me given Chekhov’s reputation as a materialist. Consider his own self-description in a letter to a friend:
 
@@ -85,14 +85,14 @@ Theology does not play a major role in the plays, apart from Sonya’s moving de
 
 ## Chekhov the Doctor
 
-<img src="/img/3-doctor.jpg" alt="Photograph. Chekhov reclines on steps with cane and dachsund." width="500"><br><br>
+<img src="/img/3-doctor.jpg" alt="Photograph. Chekhov reclines on steps with cane and dachsund." width="250" position="center"><br><br>
 
 However, Chekhov was more than a compassionate observer; he put his convictions into action as a doctor. Grossman alluded to the writer’s scientific side by calling him “a probing Darwinist with the love of St. Francis of Assisi for every living creature.” Chekhov’s purpose for practicing medicine was to serve, not to cash in, for he profited far more from his literary works than his medical ones. Nowhere in the short stories does this Chekhov come through more clearly than in “Ward No. 6,” about the director of a mental hospital. The depiction of mental illness here is sophisticated and accurate. Chekhov describes a patient who suffers from feelings of terror and shame because he fears people perceive him as a murderer, despite being innocent of any actual crime. Chekhov’s description of the duality of paranoia, its capacity to hold two realities at once, is penetrating: “Ivan Dmitrich knew very well that they had come to reset the stove in the kitchen, but fear whispered to him that they were policemen disguised as stovemakers.” The head doctor is eventually committed as a patient himself partly because he is kind to Ivan Dmitrich. This reframing of madness comes up again in “The Black Monk,” when a student receives treatment for his hallucinations only to retort, “Why, why did you have me treated? … I was losing my mind, I had megalomania, but I was gay, lively, and even happy, I was interesting and original. Now I’ve become more solid and reasonable, but as a result I’m just like everybody else.” If being sane meant losing empathy and imagination, Chekhov wanted no part of it.
  
 ## Chekhov the Grandson of a Serf
 
 
-<img src="/img/4-serf.jpg" alt="Photograph. A young Chekhov, circa 1880s." width="200"><br><br>
+<img src="/img/4-serf.jpg" alt="Photograph. A young Chekhov, circa 1880s." width="250" position="center"><br><br>
 
 Chekhov once confessed that he strove to “squeeze the serf out of myself.” The novelist Elif Batuman observes that Chekhov, whose grandfather was a forced laborer, never understood the Tolstoyan demand that the intelligentsia embrace poverty. Rather, Chekhov wished to encourage the peasants to embrace education. Chekhov expresses this view in a remarkable passage from “The House with the Mezzanine: An Artist’s Story” that shows his vision of a more equitable society:
 
@@ -101,9 +101,9 @@ Chekhov once confessed that he strove to “squeeze the serf out of myself.” T
  
 This quote reveals that we have been anticipating the “leisure society” for a century and a half. Economist John Maynard Keynes famously predicted a 15-hour work week on the eve of the Great Depression. Today, artificial intelligence advocates suggest that work may soon be optional. Chekhov would have been more concerned about preventing the mass economic displacement of workers than accumulating leisure time for his own class. This belief in social justice appears repeatedly in *Selected Stories*, from the peasant Varka who murders the exhausting baby in her charge to the declaration in “In Exile” that “people can live in Siberia, too. Li-i-ive!” Perhaps the strongest statement of Chekhov’s commitment to economic equality comes in “A Medical Case.” In it, a doctor admires a woman for losing sleep over her position as a factory owner and rich heiress. The author suggests that his generation’s conscience augured well for the coming decades. Of course, those decades brought the Russian Revolution, with its concomitant chaos and disillusionment. Chekhov’s heiress inhabited a historical island in the shadow of a tsunami, but she inspires in him a cautious meliorism.
 
-##Chekhov the Poet of Hopelessness
+## Chekhov the Poet of Hopelessness
 
-<img src="/img/5-hopelessness.jpg" alt="Painting. Chekhov looks furtive." width="500"><br><br>
+<img src="/img/5-hopelessness.jpg" alt="Painting. Chekhov looks furtive." width="250" position="center"><br><br>
 
 That note of optimism is surprising for a writer best known for his motif of personal unhappiness. Philosopher/critic Lev Shestov called Chekhov the “Poet of Hopelessness.” He is indeed the poet who wrote “The Lady with the Little Dog,” about an affair that leaves both parties in love and miserable. The poet who invented “The Darling,” a woman who can only be content when she has an outlet for her own powerful capacity for love. The poet who wrote Sonya’s devastating final lines in *Uncle Vanya*: “You've had no joy in your life; but wait, Uncle Vanya, wait.” Finally, he is the poet who had Konstantin Treplev, a writer incapable of controlling his feelings about self-revelation, throw in the towel on life rather than persevere long enough to realize his own potential.
 
@@ -111,9 +111,9 @@ This surrender to hopelessness troubled the student playing Konstantin in my pro
 
 ”Stamina,” he muttered with just the right note of ironic scorn. And off he went to that final surrender.
 
-##Chekhov the Consumptive
+## Chekhov the Consumptive
 
-<img src="/img/6-consumptive.jpg" alt="Painting. Chekhov reclines on a sofa in 1902." width="200"><br><br>
+<img src="/img/6-consumptive.jpg" alt="Painting. Chekhov reclines on a sofa in 1902." width="250" position="center"><br><br>
 
 Stamina was not an idle concept for Chekhov, who knew significant suffering. The doctor was also a patient, and the specter of mortality colors much of *Selected Stories*. The playwright first began coughing up blood at the age of 37 and was dead by the age of 44. That means that the last 150 pages of Pevear’s book—a full third—was written in the shadow of tuberculosis. Surely that shaded Chekhov’s examination of two major themes. The first, man’s insignificance in an indifferent universe, is expressed most clearly in “Gusev,” about a sailor whose corpse becomes food for sharks under a splendid sunset. The second theme, the importance of meeting death with dignity and grace, presents a bar that Nikolai in “A Boring Story” cannot clear, remaining at his lecture podium despite the internal conviction that he should leave it to a younger professor. Another dying man in *Selected Stories*, “The Bishop,” faces death alone due to his elevated position in the church—it’s lonely at the top. Even his mother treats him like an intimidating authority figure. Despite this, the bishop is courageous and dignified on his deathbed. It reminded me of Sonya’s exhortation to Vanya: “When our final hour comes, we shall meet it humbly.” If the realization that one is older than Uncle Vanya gives one pause, the idea that one has outlived the great Anton Pavlovich Chekhov—brave, compassionate, perspicacious Chekhov—is more than enough reason for personal humility.
 
