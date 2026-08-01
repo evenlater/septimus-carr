@@ -31,9 +31,10 @@ historicalEvents:
   - date: "1870-09-04"
     label: "The Third French Republic begins"
   - date: "1870-09-19"
-    label: "The Siege of Paris begins"
+    label: "The start of the Siege of Paris"
+	slug: "siege-of-Paris-open"
   - date: "1871-01-28"
-    label: "The Siege of Paris ends"
+    label: "The end of the Siege of Paris"
   - date: "1882"
     label: "Lilliet has risotto at Giuseppe Verdi’s home"
 ---
