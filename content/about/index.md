@@ -8,7 +8,7 @@ photoCredit: 'AI-free Composite by Septimus Carr using Canva. Photo from the Fam
 <a href="https://www.dreamstime.com/ljupco_info">Ljupco</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a> Curtain and set credit ID <a href="https://www.dreamstime.com/royalty-free-stock-image-theater-curtain-concert-scene-image23147866">23147866</a> Copyright 
 <a href="https://www.dreamstime.com/frogtravel_info">Frogtravel</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
 ---
-## <b>Beginnings</b>
+## Beginnings
 
 Mainstream scholarship is divided as to the precise date marking the inception of Septimus Carr’s reading career, but most point to matriculation in his local Montessori academy shortly after Dave Kingman signed a five-year, $1,375,000 contract to play left field for the Chicago Cubs. 
 
@@ -24,7 +24,7 @@ Other books are believed to have followed.
   <img src="/img/performative.png" alt="Standing ovation at the Metropolitan Opera" width="922" style="display: block; margin: 0 auto;">
 </figure>
 
-## <b>Accomplishments</b>
+## Accomplishments
 
 Septimus Carr is an arts critic whose writings are widely allusive across literary, dramatic, and musical genres. His longform essays often blend comparative criticism with historical narrative, personal reminiscences, and humor. 
 
@@ -33,7 +33,7 @@ His writings appear on Substack, Medium, Goodreads, Fable, and Reddit, where his
 The essays here are informed by advanced training in the dramatic arts. In past lives, Carr was published as a music and film critic, journalist, standardized test writer, and playwright. 
 
 
-## <b>House AI Policy</b>
+## House AI Policy
 
 All essay cover images on this site were prepared without the benefit of artifical intelligence. Harsh edges and clumsy editing should be chalked up to human inadequacy rather than robotic slop. 
 
@@ -47,7 +47,7 @@ All other AI images that have appeared on this site at one time have been replac
 
 Septimus Carr recognizes that AI has legitimate uses. Website design is among them; an informed critical ear can be another. Autonomous writing of content is emphatically not and never has been. We enjoy writing here, and we would sooner ask robots to paraglide on our behalf than accept their offers to spruce things up or jot a paragraph "in our voice." Bottom line: If you do not like the words chosen on any of these pages, you will have to blame centuries of biological evolution, regardless of what your clever algorithm thinks. 
 
-## <b>Let Us Show You Around The Place</b>
+## Let Us Show You Around The Place
 
 We believe reading thousands of words on classic or literary fiction should be fun and informative. To that end, we have attempted to organize content in friendly ways that would confound the Dewey Decimal System. (Yes, Septimus Carr is a data geek.) Shop for literary insight by 
 <ul>
@@ -61,7 +61,7 @@ We believe reading thousands of words on classic or literary fiction should be f
   
 The idea is to underscore intertextual interactions. Have fun! Filter! Play! Ignore! Up to you!
 
-## <b>Recommendations</b>
+## Recommendations
 
 <div class="about-nav">
   <a href="/posts/2026-03-18-six-chekhovs/" class="about-nav-card">
