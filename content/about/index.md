@@ -19,11 +19,9 @@ The existing scholarship is far more conclusive on the identity of Carr’s firs
 
 Other books are believed to have followed.
 
-<figure class="about-performance">
-  <img src="/img/performative.png" alt="Standing ovation at the Metropolitan Opera" />
-</figure>
 
-<h2>AI Policy</>
+## <b>House AI Policy</b>
+
 All images on this site were prepared without artifical intelligence except the following:
 
 <ul>
@@ -31,7 +29,13 @@ All images on this site were prepared without artifical intelligence except the 
  <li>Public domain photos of Bob Dylan and Richard Thompson were stitched by Copilot and otherwise untouched.</li>
 </ul>
 
-All other AI images that have appeared on this site have been replaced. Septimus Carr recognizes that AI has legitimate uses, but autonomous writing of content like this is not one of them.
+
+<figure class="about-performance">
+  <img src="/img/performative.png" alt="Standing ovation at the Metropolitan Opera" />
+</figure>
+
+
+All other AI images that have appeared on this site have been replaced using Canva and other tools. Septimus Carr recognizes that AI has legitimate uses, but autonomous writing of content like this is not one of them.
 
 <div class="about-nav">
   <a href="/posts/2026-03-22-six-chekhovs/" class="about-nav-card">
