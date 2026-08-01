@@ -4,7 +4,7 @@ date: 2026-06-11
 image: "/img/performative.png"
 imageAlt: "Standing ovation at the Metropolitan Opera."
 imagePosition: "Center"
-photoCredit: 'Photo from the Family Circle of the Metropolitan Opera by Septimus Carr. Photo of reader in chair: ID <a href="https://www.dreamstime.com/young-guy-seated-armchair-reading-book-isolated-white-background-image105774812">105774812</a> Copyright 
+photoCredit: 'Composite by Septimus Carr using Canva. Photo from the Family Circle of the Metropolitan Opera by Septimus Carr. Photo of reader in chair: ID <a href="https://www.dreamstime.com/young-guy-seated-armchair-reading-book-isolated-white-background-image105774812">105774812</a> Copyright 
 <a href="https://www.dreamstime.com/ljupco_info">Ljupco</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a> Curtain and set credit ID <a href="https://www.dreamstime.com/royalty-free-stock-image-theater-curtain-concert-scene-image23147866">23147866</a> Copyright 
 <a href="https://www.dreamstime.com/frogtravel_info">Frogtravel</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
 ---
