@@ -32,7 +32,6 @@ historicalEvents:
     label: "The Third French Republic begins"
   - date: "1870-09-19"
     label: "The start of the Siege of Paris"
-    slug: "siege-of-Paris-open"
   - date: "1871-01-28"
     label: "The end of the Siege of Paris"
   - date: "1882"

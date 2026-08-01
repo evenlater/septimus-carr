@@ -24,7 +24,6 @@ ReadDates:
 historicalEvents:
   - date: "1835-01-24"
     label: "Opening night of Bellini’s I Puritani"
-    slug: "I-Puritani"
   - date: "1835-09-23"
     label: "Vincenzo Bellini, dead at 33"
   - date: "1868-11-13"
