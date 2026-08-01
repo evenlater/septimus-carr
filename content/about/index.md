@@ -53,14 +53,16 @@ Bottom line: If you do not like the words chosen on any of these pages, you will
 
 ## Let Us Show You Around The Place
 
-We believe reading thousands of words on classic or literary fiction should be fun and informative. To that end, we have attempted to organize content in friendly ways that would confound the Dewey Decimal System. (Yes, Septimus Carr is a data geek.) Shop for literary insight by 
+We believe reading thousands of words on classic or literary fiction should be fun and informative. To that end, we have attempted to organize content in friendly ways that would confound the Dewey Decimal System. (Yes, Septimus Carr is a data geek.) 
+
+Shop for literary insight by 
 <ul>
   <li><a href="http:\\septimuscarr.com\posts" target="_blank">Release Date</a></li>
   <li><a href="http:\\septimuscarr.com\categories" target="_blank">Genre</a></li>
   <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Structure</a> ("Multi" refers to joint reviews, a favored house form.)</li>
   <li><a href="http:\\septimuscarr.com\authors" target="_blank">Author</a> (one page for each essay subject, with notes on every reference made to them across all essays)</li>
-  <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Day / Week / Month</a> (publication dates, reading start and end dates, personal history pertinent to the work, like every play Septimus saw in his January, 1995 trip to London.)</li>
-  <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Year / Decade / Century</a> (Napoleon Bonaparte takes over France! The opening performance of the Bellini opera *I Puritani*! The Flash’s heroic demise in the crisis on infinite earths!)</li>
+  <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Day / Week / Month</a> (publication dates, reading start and end dates, personal history pertinent to the work, like every play Septimus saw in his January 1995 trip to London.)</li>
+  <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Year / Decade / Century</a> (Napoleon Bonaparte takes over France! The opening performance of the Bellini opera <i>I Puritani</i>! The Flash’s heroic demise in the crisis on infinite earths!)</li>
 </ul>
   
 The idea is to underscore intertextual interactions. Have fun! Filter! Play! Ignore! Up to you!
