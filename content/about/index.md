@@ -1,7 +1,7 @@
 ---
 title: "About Septimus Carr"
 date: 2026-06-11
-image: "/img/banner.png"
+image: "/img/hint.png"
 imageAlt: "Standing ovation at the Metropolitan Opera."
 imagePosition: "Bottom"
 photoCredit: 'This page contains two AI-free composites by Septimus Carr using Canva. Top photo by Septimus Carr. Below, photo from the Family Circle of the Metropolitan Opera by Septimus Carr. Photo of reader in chair: ID <a href="https://www.dreamstime.com/young-guy-seated-armchair-reading-book-isolated-white-background-image105774812">105774812</a> Copyright 
