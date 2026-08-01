@@ -2,7 +2,8 @@
 title: "About Septimus Carr"
 date: 2026-06-11
 image: "/img/hint.png"
-imageAlt: "Standing ovation at the Metropolitan Opera."
+imageMobile: "/img/hint-mobile.png"
+imageAlt: "Bookshelves at the famous library in Trinity University, Dublin"
 imagePosition: "Bottom"
 photoCredit: 'Banner photo of Trinity University Library in Dublin ID <a href="https://www.dreamstime.com/editorial-image-old-library-bookstacks-trinity-college-dublin-ireland-image94628420">94628420</a> Copyright 
 <a href="https://www.dreamstime.com/dmbryant4_info">Dylan Bryant</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>. Opera house photo: AI-free composite by Septimus Carr using Canva. Photo from the Family Circle of the Metropolitan Opera by Septimus Carr. Photo of reader in chair: ID <a href="https://www.dreamstime.com/young-guy-seated-armchair-reading-book-isolated-white-background-image105774812">105774812</a> Copyright 
