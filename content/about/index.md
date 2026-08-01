@@ -35,7 +35,7 @@ The essays here are informed by advanced training in the dramatic arts. In past 
 
 ## House AI Policy
 
-All essay cover images on this site were prepared without the benefit of artifical intelligence. Harsh edges and clumsy editing should be chalked up to human inadequacy rather than robotic slop. 
+All essay cover images on this site were prepared without the benefit of artifical intelligence. Harsh edges and clumsy editing should be chalked up to human inadequacy rather than robotic slop. Polish and gloss should be chalked up to human effort, not robotic perfection.
 
 In the interest of full disclosure, this site will maintain a list of all AI-generated images:
 
