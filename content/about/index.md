@@ -56,7 +56,7 @@ We believe reading thousands of words on classic or literary fiction should be f
   <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Structure</a> ("Multi" refers to joint book reviews, a favored house form.)</li>
   <li><a href="http:\\septimuscarr.com\authors" target="_blank">Author</a> (one page for each essay subject, with notes on every reference made to them across all essays)</li>
   <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Day / Week / Month</a> (publication dates, reading start and end dates, personal history pertinent to the work, like [every play Septimus saw in his college London trip.](/calendar/?date=1995-01-0))</li>
-  <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Year / Decade / Century</a> (Napoleon Bonapartecs takeover of France! The opening performance of the Bellini opera *I Puritani*! The Flash’s heroic demise in the crisis on infinite earths!)</li>
+  <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Year / Decade / Century</a> (Napoleon Bonaparte takes over France! The opening performance of the Bellini opera *I Puritani*! The Flash’s heroic demise in the crisis on infinite earths!)</li>
 </ul>
   
 The idea is to underscore intertextual interactions. Have fun! Filter! Play! Ignore! Up to you!
