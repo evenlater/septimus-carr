@@ -43,7 +43,9 @@ In the interest of full disclosure, this site will maintain a list of all AI-gen
  <li>Septimus Carr logo made by Copilot</li>
 </ul><br>
 
-All other AI images that have appeared on this site at one time have been replaced without artificial intelligence, or, some would argue, any kind of intelligence at all. Anything that looks like AI here was probably edited using tools like Canva and, Lord Help Us, Microsoft Paint. (Canva offers some AI features; any use of them was unwitting.) Many images were purchased, licensed, and downloaded legally from sources like Getty, Unsplash, Dreamstime and Wikimedia Commons. 
+All other AI images that have appeared on this site at one time or another have been replaced by images created without artificial intelligence, or, some would argue, any kind of intelligence at all. 
+
+Anything that looks like AI here was probably edited using tools like Canva and, Lord Help Us, Microsoft Paint. (Canva offers some AI features; any use of them was unwitting.) Many images were purchased, licensed, and downloaded legally from sources like Getty, Unsplash, Dreamstime and Wikimedia Commons. 
 
 Septimus Carr recognizes that AI has legitimate uses. Website design is among them; an informed critical ear can be another. Autonomous writing of content is emphatically not and never has been. We enjoy writing here, and we would sooner ask robots to paraglide on our behalf than accept their offers to spruce things up or jot a paragraph "in our voice." Bottom line: If you do not like the words chosen on any of these pages, you will have to blame centuries of biological evolution, regardless of what your clever algorithm thinks. 
 
