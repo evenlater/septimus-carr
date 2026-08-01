@@ -26,13 +26,12 @@ All images on this site were prepared without artifical intelligence except the 
 
 <ul>
  <li>Septimus Carr logo made by Copilot</li>
- <li>Public domain photos of Bob Dylan and Richard Thompson were stitched by Copilot and otherwise untouched.</li>
-</ul>
+</ul><br>
 
 All other AI images that have appeared on this site have been replaced using Canva and other tools. Septimus Carr recognizes that AI has legitimate uses, but autonomous writing of content like this is not one of them.
 
 <figure class="about-performance">
-  <img src="/img/performative.png" alt="Standing ovation at the Metropolitan Opera" width="1844" style="display: block; margin: 0 auto;">
+  <img src="/img/performative.png" alt="Standing ovation at the Metropolitan Opera" width="922" style="display: block; margin: 0 auto;">
 </figure>
 
 <div class="about-nav">
