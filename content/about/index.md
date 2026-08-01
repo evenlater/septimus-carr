@@ -45,19 +45,21 @@ In the interest of full disclosure, this site will maintain a list of all AI-gen
 
 All other AI images that have appeared on this site at one time or another have been replaced by images created without artificial intelligence, or, some would argue, any kind of intelligence at all. 
 
-Anything that looks like AI here was probably edited using tools like Canva and, Lord Help Us, Microsoft Paint. (Canva offers some AI features; any use of them was unwitting.) Many images were purchased, licensed, and downloaded legally from sources like Getty, Unsplash, Dreamstime and Wikimedia Commons. 
+Anything that looks like AI here was probably edited using tools like Canva and, Lord Help Us, Microsoft Paint. (Canva offers some AI features; any use of them was unwitting.) Many images were purchased, licensed, and/or downloaded legally from sources like Getty, Unsplash, Dreamstime, and Wikimedia Commons. 
 
-Septimus Carr recognizes that AI has legitimate uses. Website design is among them; an informed critical ear can be another. Autonomous writing of content is emphatically not and never has been. We enjoy writing here, and we would sooner ask robots to paraglide on our behalf than accept their offers to spruce things up or jot a paragraph "in our voice." Bottom line: If you do not like the words chosen on any of these pages, you will have to blame centuries of biological evolution, regardless of what your clever algorithm thinks. 
+Septimus Carr recognizes that AI has legitimate uses. Website design is among them; an informed critical ear can be another. Autonomous writing of content is emphatically not and never has been. We enjoy writing here, and we would sooner ask robots to paraglide on our behalf than accept their offers to spruce things up or jot a paragraph "in our voice." 
+
+Bottom line: If you do not like the words chosen on any of these pages, you will have to blame centuries of biological evolution, regardless of what your clever algorithm thinks. 
 
 ## Let Us Show You Around The Place
 
 We believe reading thousands of words on classic or literary fiction should be fun and informative. To that end, we have attempted to organize content in friendly ways that would confound the Dewey Decimal System. (Yes, Septimus Carr is a data geek.) Shop for literary insight by 
 <ul>
   <li><a href="http:\\septimuscarr.com\posts" target="_blank">Release Date</a></li>
-  <li><a href="http:\\septimuscarr.com\" target="_blank">Genre</a></li>
-  <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Structure</a> ("Multi" refers to joint book reviews, a favored house form.)</li>
+  <li><a href="http:\\septimuscarr.com\categories" target="_blank">Genre</a></li>
+  <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Structure</a> ("Multi" refers to joint reviews, a favored house form.)</li>
   <li><a href="http:\\septimuscarr.com\authors" target="_blank">Author</a> (one page for each essay subject, with notes on every reference made to them across all essays)</li>
-  <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Day / Week / Month</a> (publication dates, reading start and end dates, personal history pertinent to the work, like [every play Septimus saw in his college London trip.](/calendar/?date=1995-01-0))</li>
+  <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Day / Week / Month</a> (publication dates, reading start and end dates, personal history pertinent to the work, like every play Septimus saw in his January, 1995 trip to London.)</li>
   <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Year / Decade / Century</a> (Napoleon Bonaparte takes over France! The opening performance of the Bellini opera *I Puritani*! The Flash’s heroic demise in the crisis on infinite earths!)</li>
 </ul>
   
