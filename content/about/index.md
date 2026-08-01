@@ -5,7 +5,7 @@ image: "/img/hint.png"
 imageMobile: "/img/hint-mobile.png"
 imageAlt: "Bookshelves at the famous library in Trinity University, Dublin"
 imagePosition: "Bottom"
-photoCredit: 'Banner photo of Trinity University Library in Dublin. I was there in 2018, but I am not the photographer. ID <a href="https://www.dreamstime.com/editorial-image-old-library-bookstacks-trinity-college-dublin-ireland-image94628420">94628420</a> Copyright 
+photoCredit: 'Banner photo of Trinity University Library in Dublin. Septimus Carr was there in 2018, but he was not the photographer. ID <a href="https://www.dreamstime.com/editorial-image-old-library-bookstacks-trinity-college-dublin-ireland-image94628420">94628420</a> Copyright 
 <a href="https://www.dreamstime.com/dmbryant4_info">Dylan Bryant</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
 ---
 ## Beginnings
@@ -22,7 +22,7 @@ Other books are believed to have followed.
 
 <figure class="about-performance">
   <img src="/img/performative.png" alt="Standing ovation at the Metropolitan Opera" width="922" style="display: block; margin: 0 auto;">
-</figure><br><br>
+</figure><br>
 
 <span class="gloss">Opera house photo: AI-free composite by Septimus Carr using Canva. Photo from the Family Circle of the Metropolitan Opera by Septimus Carr. Photo of reader in chair: ID <a href="https://www.dreamstime.com/young-guy-seated-armchair-reading-book-isolated-white-background-image105774812">105774812</a> Copyright 
 <a href="https://www.dreamstime.com/ljupco_info">Ljupco</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a> Curtain and set credit ID <a href="https://www.dreamstime.com/royalty-free-stock-image-theater-curtain-concert-scene-image23147866">23147866</a> Copyright 
