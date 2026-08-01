@@ -10,9 +10,9 @@ photoCredit: 'AI-free Composite by Septimus Carr using Canva. Photo from the Fam
 ---
 ## Beginnings
 
-Mainstream scholarship is divided as to the precise date marking the inception of Septimus Carr’s reading career, but most point to matriculation in his local Montessori academy shortly after Dave Kingman signed a five-year, $1,375,000 contract to play left field for the Chicago Cubs. 
+Mainstream scholarship is divided as to the precise date marking the inception of Septimus Carr’s reading career, but most point to matriculation in his local Montessori academy. 
 
-Kingman’s three-run home run in the 15th inning at Dodger Stadium on May 14, 1978 was his third of the day, and renowned Carr specialist C.J. Effington Cottleswottle from Radcliffe University proved conclusively that Carr encountered his first consonant digraph precisely 16 hours later on the second page of a red Montessori reader that was both phonics-based and decodable. 
+Renowned Carr specialist C.J. Effington Cottleswottle from Radcliffe University proved conclusively that Carr encountered his first consonant digraph precisely 16 hours later on the second page of a red Montessori reader that was both phonics-based and decodable. 
 
 This discovery was augmented by a detailed transcript of the May 21 parent-teacher conference in which Miss Eugenie Temple reported Carr’s completion of the reader, noting that she personally had assuaged Septimus’s consternation over the difficulty of pronouncing the aforementioned consonant digraph. "’The’ is a tough one the first time you see it," Temple reportedly told him. "But it is a very common word."
 
