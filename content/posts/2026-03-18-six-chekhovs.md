@@ -117,4 +117,4 @@ Stamina was not an idle concept for Chekhov, who knew significant suffering. The
 
 
 <img src="/img/7-with-nikolai.jpg" alt="Photograph. A young Chekhov caught unaware of the camera, admiring his brother Nikolai’s artwork." width="400" style="display: block; margin: 0 auto;"><br>
-<span class="gloss">In a photograph of rare candor for the era, a relaxed and youthful Chekhov lives, admiring his brother Nikolai’s artwork.<br><br>This piece is dedicated to my brother, who kept the Six Chekhovs from running together.</em> by Tom Stoppard</span>
+<span class="gloss">In a photograph of rare candor for the era, a relaxed and youthful Chekhov lives, admiring his brother Nikolai’s artwork.<br><br>This piece is dedicated to my brother, who kept the Six Chekhovs from running together.</span>
