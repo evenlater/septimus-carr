@@ -38,7 +38,7 @@ Carr's essays are informed by advanced training and workplace experience in the 
 
 In past lives, Carr was published and produced as a music and film critic, journalist, and playwright. One of his short plays was once performed in direct competition with something David Mamet scribbled on a napkin. (True story, though was it really a napkin?)
 
-Septimus continues to act as the in-house authority on Standard English Conventions for a test prep company that once serviced all of Chicago Public Schools.
+Septimus continues to act as the in-house authority on Standard English Conventions for a test prep company that once serviced a large district of Chicago Public Schools.
 
 He also wrote dozens of short essays and hundreds of dangling modifier or cause-effect inference questions for the largest test prep company in South Korea, where tests are Taken Very Seriously.
 
