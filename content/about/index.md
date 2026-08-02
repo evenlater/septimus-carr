@@ -34,13 +34,15 @@ Septimus Carr is an arts critic whose writings are widely allusive across litera
 
 His writings appear on Substack, Medium, Goodreads, Fable, and Reddit, where his posts score thousands of views, sometimes tens of thousands. Some of those viewers even read the articles!
 
-Carr's essays are informed by advanced training and workplace experience in the dramatic arts. They are also evinced by overflowing drawers of Broadway Playbills, storefront theater xeroxes, and opera house director’s notes. His turn-ups are stuffed with ticket-stubs. (Hat tip, Sir Tom.)   
+Carr's essays are informed by advanced training and workplace experience in the dramatic arts. They are also evinced by overflowing drawers of Broadway Playbills, storefront theater xeroxes, and opera house director’s notes. "His turn-ups are stuffed with ticket-stubs." (Hat tip, Sir Tom.*)   
 
 In past lives, Carr was published and produced as a music and film critic, journalist, and playwright. One of his short plays was once performed in direct competition with something David Mamet scribbled on a napkin. (True story, though was it really a napkin?)
 
 Septimus continues to act as the in-house authority on Standard English Conventions for a test prep company that once serviced all of Chicago Public Schools.
 
-He also wrote dozens of short essays and hundreds of dangling modifier or cause-effect inference questions for the largest test prep company in South Korea, where tests are Taken Very Seriously. 
+He also wrote dozens of short essays and hundreds of dangling modifier or cause-effect inference questions for the largest test prep company in South Korea, where tests are Taken Very Seriously.
+
+<span class="gloss">\* Moon in <em>The Real Inspector Hound</em> by Tom Stoppard</span>
 
 
 ## House AI Policy
