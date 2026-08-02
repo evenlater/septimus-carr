@@ -32,7 +32,7 @@ Other books are believed to have followed.
 
 Septimus Carr is an arts critic whose writings are widely allusive across literary, dramatic, and musical genres. His longform essays often blend comparative criticism with historical narrative, personal reminiscences, and a desparate, trauma-driven joke impulse. 
 
-His writings appear on Substack, Medium, Goodreads, Fable, and Reddit, where his posts range in views from 5,000 to 30,000. Mass handfuls even read them. 
+His writings appear on Substack, Medium, Goodreads, Fable, and Reddit, where his posts score thousands of views, sometimes tens of thousands. Some of those viewers even read the articles!
 
 Carr's essays are informed by advanced training and workplace experience in the dramatic arts. They are also evinced by overflowing drawers of Broadway Playbills, storefront theater xeroxes, and opera house director’s notes. His turn-ups are stuffed with ticket-stubs. (Hat tip, Sir Tom.)   
 
