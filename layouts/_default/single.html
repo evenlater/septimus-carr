@@ -187,6 +187,20 @@
   }
   window.addEventListener('load', place);
   window.addEventListener('resize', place);
+
+  // Embeds like TikTok/Instagram load their real iframe asynchronously,
+  // often well after window 'load' has already fired — which shifts the
+  // article's layout and leaves sidenotes pinned to stale offsets. Watch
+  // the container's actual height so any late-arriving embed (or web font
+  // swap, or lazy image) triggers a reflow of the note positions.
+  if (window.ResizeObserver) {
+    var raf = null;
+    var ro = new ResizeObserver(function(){
+      if (raf) cancelAnimationFrame(raf);
+      raf = requestAnimationFrame(place);
+    });
+    ro.observe(container);
+  }
 })();
 </script>
 

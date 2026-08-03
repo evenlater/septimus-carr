@@ -51,6 +51,8 @@ historicalEvents:
     label: "President Eisenhower authorizes Lumumba assassination"
   - date: "1961-01"
     label: "Lumumba killed by Congolese rivals"  
+  - date: "1991-09-01"
+    label: "I start college"
   - date: "1998"
     label: "Barbara Kingsolver publishes The Poisonwood Bible"
 ---
@@ -90,7 +92,7 @@ Vidal’s use of James is not tangential to *The Ambassadors*. Rather, it illumi
 
 What James explores through metaphor, Kingsolver dramatizes explicitly. *The Poisonwood Bible* started life as a memoir, with the author looking back on a family {{< tl-note date="1963" >}}trip{{< /tl-note >}} to Africa. Kingsolver’s father was a doctor, and his mission was medical rather than religious. While living in Africa, the youthful Kingsolver wrote a striking entry in her diary:
 
-> “Even avid, adult news junkies in 1960 would have been hard-pressed to learn how President Eisenhower and the CIA helped remove the newly {{< tl-note date="1963-05-22" >}}elected{{< /tl-note >}} Prime Minister and replace him with a puppet dictator named Mobutu. They did it in secret. That's how it works.”   
+> “Even avid, adult news junkies in 1960 would have been hard-pressed to learn how President Eisenhower and the CIA helped remove the newly elected Prime Minister and replace him with a puppet dictator named Mobutu. They did it in secret. That's how it works.”   
 ><cite>Barbara Kingsolver, “Writing the D.A.B.,” a postscript to <em>The Poisonwood Bible</em></cite>
 
 The {{< tl-note date="1960-08-18" >}}CIA plot{{< /tl-note >}} to poison duly elected Congolese Prime Minister Patrice Lumumba, though eventually abandoned, is settled history to the extent that it is <a href=https://history.state.gov/historicaldocuments/frus1964-68v23/d11 target=”_blank”>documented</a> online by the State Department. Somewhat surprisingly, the incident has never tainted Eisenhower’s positive historical reputation. Eisenhower’s Democratic successor John F. Kennedy encountered political turbulence for the Bay of Pigs not so much because the president had contemplated assassinating Cuban dictator Fidel Castro but because the attempt was sloppy. Many Americans shrugged; that’s what heads of state did at wartime, and this was during the Cold War. Eisenhower’s decidedly undemocratic efforts to promote global democracy opened a new interventionist era in American Imperialism, a label that was applied with ever less frequency.
@@ -180,4 +182,4 @@ The 44th American president was Jamesian in his capacity for nuanced self-apprai
 
 With Donald Trump, American confidence is back. The 47th American president openly threatens to tear open the sutures that were applied during the era covered by Kingsolver in *The Poisonwood Bible*. The nation’s chief executive officer, a self-declared “genius,” asserts his nation’s claim on some sovereign nations while enacting Eisenhowerian regime change in others. Strether has been succeeded by Nathan Price. 
 
-Throughout high school, I lacked both the confident Faith of my Fathers and the confident doubt of my friends. I told myself that it had been the size of my high school and not its cultural diversity that had made such a positive difference in my life. When the time came to choose a post-collegiate path, I opted for a school as densely populated as my secondary institution and almost as theologically small as my Lutheran grade school. By orientation, I had outgrown my own decision. Dorm devotion culture—with some of my Lutheran school classmates—confirmed that sinking feeling. It took months to find friends who shared my distrust of “Dogs and Devos” (hot dog-fueled Bible study before bed). Sometimes a lesson is so important it bears repetition before we finally learn to live.
+Throughout high school, I lacked both the confident Faith of my Fathers and the confident doubt of my friends. I told myself that it had been the size of my high school and not its cultural diversity that had made such a positive difference in my life. When the time came to choose a post-collegiate path, I opted for a school as densely populated as my secondary institution and almost as theologically small as my Lutheran grade school. By {{< tl-note date="1991-09-02 >}}orientation{{< /tl note >}}, I had outgrown my own decision. Dorm devotion culture—with some of my Lutheran school classmates—confirmed that sinking feeling. It took months to find friends who shared my distrust of “Dogs and Devos” (hot dog-fueled Bible study before bed). Sometimes a lesson is so important it bears repetition before we finally learn to live.
