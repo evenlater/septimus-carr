@@ -41,10 +41,12 @@ historicalEvents:
     label: "Oscar Wilde convicted of sodomy"
   - date: "1903"
     label: "Henry James publishes The Ambassadors"
-  - date: "1959"
-    label: "The Prices travel from Bethlehem, GA to Kilanga, Congo"
-  - date: "1960-06-30"
-    label: "Democratic Republic of the Congo becomes independent from Belgium"
+  - date: "1963"
+    label: "8-year-old Barbara Kingsolver travels to Africa"
+  - date: "1987"
+    label: "Gore vidal publishes Empire: A Novel"
+  - date: "1960-05-22"
+    label: "Democratic Republic of the Congo elects Patrice Lumumba as prime minister, becoming independent from Belgium"
   - date: "1960-08-18"
     label: "President Eisenhower authorizes Lumumba assassination"
   - date: "1961-01"
@@ -79,19 +81,19 @@ But each begins with Americans attempting to impose their confidently held value
 
 ## Exporting Confidence
 
-Although *The Ambassadors* is a resolutely apolitical book, it is set at a moment when America’s cultural chauvinism was snowballing toward its first colonial occupations. The period is documented by *Empire*, the 1987 entry in Gore Vidal’s seven-volume “Narratives of American Empire” historical fiction series. At the outset of that book, President William McKinley is winning the Spanish American War and reluctantly weighing whether to adopt the loser’s Caribbean colonies. Always one to challenge America’s overweening self-image, Vidal casts Henry James himself as the nation’s sesquipedalian conscience. Told in one scene that the world will be worse off if America lets Russia or Germany take over Spain’s colonies, James replies with modest sagacity:
+Although *The Ambassadors* is a resolutely apolitical book, it is set at a {{< tl-note date="1903" >}}moment{{< /tl-note >}} when America’s cultural chauvinism was snowballing toward its first colonial occupations. The period is documented by *Empire*, the 1987 entry in Gore Vidal’s seven-volume “Narratives of American Empire” historical fiction series. At the outset of that book, President William McKinley is winning the Spanish American War and reluctantly weighing whether to adopt the loser’s Caribbean colonies. Always one to challenge America’s overweening self-image, Vidal casts Henry James himself as the nation’s sesquipedalian conscience. Told in one scene that the world will be worse off if America lets Russia or Germany take over Spain’s colonies, James replies with modest sagacity:
 
 >“What then are WE given to, that is so immeasurably superior? … How can we, who cannot honestly govern ourselves, take up the task of governing others? Are we to govern the Philippines from Tammany Hall? Will we insist that our oriental colonies be run by bosses? Will we insist that our Spanish possessions be administered by the caucus which has made our politics so vile that every good American—and bad, too, let me hasten to add—cringes when he hears our present system mentioned?” 
 ><cite>Henry James in Gore Vidal’s <em>Empire: A Novel</em></cite>
 
 Vidal’s use of James is not tangential to *The Ambassadors*. Rather, it illuminates the unspoken historical backdrop of its diplomatic mission.
 
-What James explores through metaphor, Kingsolver dramatizes explicitly. *The Poisonwood Bible* started life as a memoir, with the author looking back on a family trip to Africa. Kingsolver’s father was a doctor, and his mission was medical rather than religious. While living in Africa, the youthful Kingsolver wrote a striking entry in her diary:
+What James explores through metaphor, Kingsolver dramatizes explicitly. *The Poisonwood Bible* started life as a memoir, with the author looking back on a family {{< tl-note date="1963" >}}trip{{< /tl-note >}} to Africa. Kingsolver’s father was a doctor, and his mission was medical rather than religious. While living in Africa, the youthful Kingsolver wrote a striking entry in her diary:
 
-> “Even avid, adult news junkies in 1960 would have been hard-pressed to learn how President Eisenhower and the CIA helped remove the newly elected Prime Minister and replace him with a puppet dictator named Mobutu. They did it in secret. That's how it works.”   
+> “Even avid, adult news junkies in 1960 would have been hard-pressed to learn how President Eisenhower and the CIA helped remove the newly {{< tl-note date="1963-05-22" >}}elected{{< /tl-note >}} Prime Minister and replace him with a puppet dictator named Mobutu. They did it in secret. That's how it works.”   
 ><cite>Barbara Kingsolver, “Writing the D.A.B.,” a postscript to <em>The Poisonwood Bible</em></cite>
 
-The CIA plot to poison duly elected Congolese Prime Minister Patrice Lumumba, though eventually abandoned, is settled history to the extent that it is <a href=https://history.state.gov/historicaldocuments/frus1964-68v23/d11 target=”_blank”>documented</a> online by the State Department. Somewhat surprisingly, the incident has never tainted Eisenhower’s positive historical reputation. Eisenhower’s Democratic successor John F. Kennedy encountered political turbulence for the Bay of Pigs not so much because the president had contemplated assassinating Cuban dictator Fidel Castro but because the attempt was sloppy. Many Americans shrugged; that’s what heads of state did at wartime, and this was during the Cold War. Eisenhower’s decidedly undemocratic efforts to promote global democracy opened a new interventionist era in American Imperialism, a label that was applied with ever less frequency.
+The {{< tl-note date="1960-08-18" >}}CIA plot{{< /tl-note >}} to poison duly elected Congolese Prime Minister Patrice Lumumba, though eventually abandoned, is settled history to the extent that it is <a href=https://history.state.gov/historicaldocuments/frus1964-68v23/d11 target=”_blank”>documented</a> online by the State Department. Somewhat surprisingly, the incident has never tainted Eisenhower’s positive historical reputation. Eisenhower’s Democratic successor John F. Kennedy encountered political turbulence for the Bay of Pigs not so much because the president had contemplated assassinating Cuban dictator Fidel Castro but because the attempt was sloppy. Many Americans shrugged; that’s what heads of state did at wartime, and this was during the Cold War. Eisenhower’s decidedly undemocratic efforts to promote global democracy opened a new interventionist era in American Imperialism, a label that was applied with ever less frequency.
 
 {{< pull-quote >}}E.M. Forster argued that, in "The Ambassadors," “most of human life has to disappear before he can do us a novel.” By this he meant that nothing happens in the book apart from talk. By contrast, Kingsolver’s plot is a minefield of seismic occurrences.{{< /pull-quote >}} 
 
@@ -150,7 +152,7 @@ In his preface to the novel, James declares *The Ambassadors* “the best, ‘al
 
 Forster was frustrated by the microscopic scale of this conceit. He claimed James’s characters are “incapable of fun, of carnality, and of nine-tenths of heroism. Their clothes will not take off, the diseases that ravage them are anonymous, like the sources of their income.” If Strether and Gostry had a flesh-and-blood humanity to equal “Tom Jones or Emma or even Mr. Casaubon,” Forster says, James’s book would “burn to ashes” because they would substitute endless cogitation with action. 
 
-Colm Tóibín’s novel *The Master* offers an alternative take. Tóibín’s Henry James is paralyzed by his sensual feelings for men. He spends a night in Oliver Wendell Holmes’s bed but remains chaste. He follows Oscar Wilde’s sodomy trial in strategic silence. He pines after painter Pavel Zhukovsky. In other words, he steadfastly declines to “Live!” 
+Colm Tóibín’s novel *The Master* offers an alternative take. Tóibín’s Henry James is paralyzed by his sensual feelings for men. He spends a {{< tl-note date="1865" >}}night{{< /tl-note >}} in Oliver Wendell Holmes’s bed but remains chaste. He follows Oscar Wilde’s sodomy {{< tl-note date="1895-04-03" >}}trial{{< /tl-note >}} in strategic silence. He pines after painter Pavel {{< tl-note date="1876" >}}Zhukovksy{{< /tl-note >}}. In other words, he steadfastly declines to “Live!” 
 
 Whether or not James’s sexuality sheds any light on Strether’s narrative arc, the Master ultimately declines to give him a happy ending. In the climactic scene, Strether refuses to pursue a romance with the woman he loves because to do so would be to profit from his ambassadorial project. He decides it is better to be right than to live.
 
@@ -166,7 +168,7 @@ Honest and fine, she couldn’t greatly pretend she didn’t see it. Still she c
 
 The short clipped sentences, after 400 pages of meandering discourse, are striking. So is James’s evident admiration for his hero’s principled refusal. But isn’t Strether repeating the very mistake he lamented so fervently in the passage James identified as the book’s core? At the precipice of manifest destiny’s great expansion, Strether paces a tragically self-imposed cage. This feels like a retreat. His choice is principled, but wrong. Confidence is missteering Strether one last time.
 
-With the historical consequences of confident zeal laid out behind her, Kingsolver can be more generous with her characters’ imperialist “mistakes.” In the penultimate chapter, Adah Price remembers her father’s ministerial declaration that “Tata Jesus is bängala!” The Reverend’s intended meaning is “Jesus is precious,” but his mispronunciation translates to “Jesus is poisonwood.”  Adah concludes: “The mistakes are part of the story. I am born of a man who believed he could tell nothing but the truth, while he set down for all time the Poisonwood Bible.” 
+With the historical consequences of confident zeal laid out {{< tl-note date="1998" >}}behind{{< /tl-note >}} her, Kingsolver can be more generous with her characters’ imperialist “mistakes.” In the penultimate chapter, Adah Price remembers her father’s ministerial declaration that “Tata Jesus is bängala!” The Reverend’s intended meaning is “Jesus is precious,” but his mispronunciation translates to “Jesus is poisonwood.”  Adah concludes: “The mistakes are part of the story. I am born of a man who believed he could tell nothing but the truth, while he set down for all time the Poisonwood Bible.” 
 
 The pastor dies in isolation, but the women in his life build familial community around Leah’s burgeoning Black family. Their scars are real, but they will live.
 
