@@ -44,10 +44,8 @@ historicalEvents:
     label: "Anton Chekhov diees in Badenweiler, Germany"
   - date: "1995-01-08"
     label: "Vanya on 42nd Street at Barbican Cinema"
-    slug: "vanya-42nd-street-barbican"
   - date: "2002-11-16"  
     label: "The Seagull, Trinity Christian College"
-    slug: "seagull-trinity-closing"
 ---
 
 > “I have tried … to avoid unnecessary dwelling on my own feelings, or my own needs, or my own—oh dear—character. … I now wonder …whether all writing has a tendency to flow like a river towards the writer’s body and the writer’s own experience.” 
