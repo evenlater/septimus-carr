@@ -176,11 +176,12 @@
     var wide = window.matchMedia('(min-width: 1180px)').matches;
     var cTop = container.getBoundingClientRect().top;
     notes.forEach(function(note){
-      var marker = note.querySelector('.tl-note-marker');
-      var aside  = note.querySelector('.tl-note-aside');
-      if (!marker || !aside) return;
+      var aside = note.querySelector('.tl-note-aside');
+      if (!aside) return;
       if (!wide) { aside.style.visibility = 'hidden'; return; }
-      aside.style.top = (marker.getBoundingClientRect().top - cTop) + 'px';
+      // Measure the .tl-note wrapper itself, not .tl-note-marker — the
+      // marker is display:none at this width, so its rect is always {0,0}.
+      aside.style.top = (note.getBoundingClientRect().top - cTop) + 'px';
       aside.style.visibility = 'visible';
     });
   }
