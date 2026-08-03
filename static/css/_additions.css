@@ -175,7 +175,7 @@
   .tl-note-aside {
     display: block; position: absolute; left: 100%; margin-left: 34px;
     width: 190px; font-size: 12.5px; line-height: 1.4; font-style: italic;
-    color: #A09488;
+    color: #A09488; visibility: hidden;
   }
   .tl-note-aside::before { content: "\25C6  "; color: #C4A055; font-style: normal; }
   .tl-note-aside a { color: #A09488; text-decoration: none; border-bottom: 1px dotted #C4A055; }

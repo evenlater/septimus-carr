@@ -167,14 +167,21 @@
   if (!container) return;
   var notes = document.querySelectorAll('.tl-note');
   if (!notes.length) return;
+  // Set directly rather than relying solely on the _additions.css media-query
+  // rule for this, so a dropped/merged-out CSS line can't silently break it.
+  if (getComputedStyle(container).position === 'static') {
+    container.style.position = 'relative';
+  }
   function place(){
-    if (window.matchMedia('(max-width: 1179px)').matches) return;
+    var wide = window.matchMedia('(min-width: 1180px)').matches;
     var cTop = container.getBoundingClientRect().top;
     notes.forEach(function(note){
       var marker = note.querySelector('.tl-note-marker');
       var aside  = note.querySelector('.tl-note-aside');
       if (!marker || !aside) return;
+      if (!wide) { aside.style.visibility = 'hidden'; return; }
       aside.style.top = (marker.getBoundingClientRect().top - cTop) + 'px';
+      aside.style.visibility = 'visible';
     });
   }
   window.addEventListener('load', place);
