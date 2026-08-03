@@ -6,11 +6,25 @@
   viewports the sidenote is hidden and the ◆ marker itself is the link.
 
   Usage:
-    {{< tl-note slug="seagull-trinity-closing" note="Nov. 16, 2002 — closing night" >}}closing night{{< /tl-note >}}
+    {{< tl-note date="2002-11-16" >}}closing night{{< /tl-note >}}
+    {{< tl-note date="2002-11-16" note="closing night, Nov. 16, 2002" >}}closing night{{< /tl-note >}}
 
-  `slug` must match a "slug" on a historicalEvents entry (or the
-  auto-generated {post}-published / {post}-he{n}-{label} slug) in
-  event-feed.html, so /timeline/?highlight={slug} lands on the right point.
+  `date` must match a "date" on one of this page's historicalEvents entries
+  (event-feed.html auto-derives that event's Timeline slug from the same
+  date, so no separate slug bookkeeping is needed in the common case).
+  `note` is optional and overrides the sidenote caption; it defaults to
+  that event's `label`. If two events on this page share a date, or you
+  need the sidenote wording to diverge from the slug lookup, give the
+  historicalEvents entry an explicit `slug:` and it wins automatically.
 */}}
-{{ $url := printf "/timeline/?highlight=%s" (.Get "slug") | relURL }}
-<span class="tl-note">{{ .Inner }}<a href="{{ $url }}" class="tl-note-marker" aria-label="View on Timeline">&#9670;</a><span class="tl-note-aside"><a href="{{ $url }}">{{ with .Get "note" }}{{ . }}{{ else }}View on Timeline{{ end }}</a></span></span>
+{{ $date := .Get "date" }}
+{{ $page := .Page }}
+{{ $postSlug := $page.File.ContentBaseName }}
+{{ $entry := dict }}
+{{ range $page.Params.historicalEvents }}
+  {{ if eq (printf "%v" .date) $date }}{{ $entry = . }}{{ end }}
+{{ end }}
+{{ $slug := $entry.slug | default (printf "%s-%s" $postSlug $date) }}
+{{ $note := .Get "note" | default $entry.label }}
+{{ $url := printf "/timeline/?highlight=%s" $slug | relURL }}
+<span class="tl-note">{{ .Inner }}<a href="{{ $url }}" class="tl-note-marker" aria-label="View on Timeline">&#9670;</a><span class="tl-note-aside"><a href="{{ $url }}">{{ with $note }}{{ . }}{{ else }}View on Timeline{{ end }}</a></span></span>

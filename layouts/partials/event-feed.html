@@ -101,7 +101,7 @@
 
     {{ $slug := "" }}
     {{ with $he.slug }}{{ $slug = . }}{{ end }}
-    {{ if not $slug }}{{ $slug = printf "%s-he%d-%s" $postSlug $i ($he.label | urlize) }}{{ end }}
+    {{ if not $slug }}{{ $slug = printf "%s-%s" $postSlug $d }}{{ end }}
 
     {{ $threadList := slice $postSlug }}
     {{ with $he.thread }}
