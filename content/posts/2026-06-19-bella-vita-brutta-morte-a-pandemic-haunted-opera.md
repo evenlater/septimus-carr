@@ -54,7 +54,7 @@ historicalEvents:
 >"But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son."
 ><cite>Mark 13:32</cite>
 
-March 3, 2020. Tuesday at 9 AM.
+{{< tl-note date="2020-03-03" >}}March 3, 2020.{{< /tl-note >}} Tuesday at 9 AM.
 
 What strikes me about this photo now is how little we all knew of what was to come. The uncomprehending splendor of lower Manhattan. The imbecilic cheer of the Spirit logo. The Statue of Liberty looking on in Lilliputian futility as death comes galloping. This is what the beautiful life looked like just before the global pandemic wiped the smile off its stupid face.
 
@@ -85,7 +85,7 @@ To me, the bigger draw is the first preview performance of *Who’s Afraid of Vi
 
 Across the East River at St. Anne’s Warehouse, Ethiopian-Irish actress Ruth Negga is reprising her cunning, boyish turn in the incense-soaked Hamlet I saw alone at Dublin’s Gate Theatre in 2018. The opening image of Negga’s grieving prince identifying his plastic-shrouded father in the morgue will come to feel like a summary of the year, and the realization that I’ll never have the chance to share it will fester smartingly long after *The New York Times* declares it the <a href="https://www.nytimes.com/2020/12/01/theater/best-broadway-theater-show.html?eafs_enabled=false#:~:text=JESSE%20GREEN-,Best%20Theater%20of%202020,-A%20Top%2010" target="_blank">best play of the abbreviated year.</a>
 
-But on March 3, I am only dimly aware of the looming specter that awaits the world. Today, New York Governor Andrew Cuomo will announce confirmation of the state’s first recorded case of person-to-person spread of the “novel coronavirus.” In a matter of days, Bellevue Hospital, where I briefly parked our Jeep Compass, will be the site of a makeshift morgue.
+But on March 3, I am only dimly aware of the looming specter that awaits the world. Today, New York Governor Andrew Cuomo will announce confirmation of the state’s first recorded case of person-to-person spread of the “novel coronavirus.” In a matter of days, {{< tl-note date="2020-03-26" >}}Bellevue{{< /tl-note >}} Hospital, where I briefly parked our Jeep Compass, will be the site of a makeshift morgue.
 
 The notoriously compressed city will confirm nearly 18,000 cases before the end of the month, making New York the epicenter of a global pandemic. Chinatown will combat the entrenched misperception that the spread started here.
 
@@ -110,9 +110,9 @@ LABLACHE. Bellini likes everyone.<br>
 
 <b>McNALLY</b><br>
 
-McNally's portrait of Bellini is to some degree autobiographical. McNally never asked anyone to guess about his feelings for men. "He was writing about gay people when Tennessee Williams and Edward Albee were writing about straight people," points out actor Michael Urie in a 2019 New York Times video tribute. Actually, Williams admitted the existence of closeted queers in *Cat on a Hot Tin Roof* and *Streetcar Named Desire*. By contrast, McNally's 1965 Broadway debut was the first to feature a sexually active homosexual.
+McNally's portrait of Bellini is to some degree autobiographical. McNally never asked anyone to guess about his feelings for men. "He was writing about gay people when Tennessee Williams and Edward Albee were writing about straight people," points out actor Michael Urie in a 2019 New York Times video tribute. Actually, Williams admitted the existence of closeted queers in *Cat on a Hot Tin Roof* and *Streetcar Named Desire*. By contrast, McNally's 1965 Broadway {{< tl-note date="1965-04-26" >}}debut{{< /tl-note >}} was the first to feature a sexually active homosexual.
 
-Still, he resisted pat pigeonholing. Christopher Byrne's biography *A Man of Much Importance: The Art and Life of Terrence McNally* documents the playwright's complex 1980s relationship with his most celebrated female peer, Wendy Wasserstein (*The Heidi Chronicles*). "It's a bad time to be gay," groused one friend in Byrne's book, "so good for you, you can switch."
+Still, he resisted pat pigeonholing. Christopher Byrne's biography *A Man of Much Importance: The Art and Life of Terrence McNally* documents the playwright's complex 1980s relationship with his most celebrated female peer, Wendy {{< tl-note date="1987" >}}Wasserstein{{< /tl-note >}} (*The Heidi Chronicles*). "It's a bad time to be gay," groused one friend in Byrne's book, "so good for you, you can switch."
 
 But McNally shrugged off the gossip, stating simply that he was "a gay man in a relationship with a woman." Today, McNally's honest fluidity seems ahead of its time.
 
@@ -120,12 +120,12 @@ The youthful McNally apparently resembled Bellini physically. Consider Ferris's 
 
 >Nature gave him a beautiful and ingenuous face, noble features, large, clear blue eyes, and abundant light hair.
 
-Compare that Albee's account in Mel Gussow's *Edward Albee: A Singular Journey* of his first encounter with McNally:
+Compare that Albee's account in Mel Gussow's *Edward Albee: A Singular Journey* of his first {{< tl-note date="1962-10-13" >}}encounter{{< /tl-note >} with McNally:
 
 >I noticed this nineteen-year-old, a ravishing-looking blond kid lurking around the place. I found out he was a college student named Terrence McNally who wanted to be a 
 playwright. Well, Terrence and I started talking and the next thing I knew, so to speak, we were living together.
 
-At the time, McNally was on a sort of pilgrimage to New York City from his hometown of Corpus Christi, Texas, where there were few out gay men and few opera fans with voluminous vinyl collections. He had discovered opera in a rowdy grade school classroom. A teacher played *Madame Butterfly*, and the 11-year-old McNally was transfixed in glory while his classmates brawled around him.
+At the time, McNally was on a sort of pilgrimage to New York City from his hometown of Corpus Christi, Texas, where there were few out gay men and few opera fans with voluminous vinyl collections. He had discovered opera in a rowdy grade school classroom. A teacher played *Madame Butterfly*, and the 11-year-old McNally was transfixed in glory while his classmates brawled around {{< tl-note date="1949" >}}him{{< /tl-note >}}.
 
 <img src="/img/mcnally-square.png" alt="McNally" width="300"><br><br>
 
@@ -145,7 +145,7 @@ Rossini was endlessly gifted but lazy. He would party as long as possible, and t
 
 By mid-March 2020, the beautiful life was officially sheltering in place. Days of lockdown turned into weeks turned into months turned into a full year before vaccinations unlocked our mutually solitary cages. Some of those days, it was possible to get a sidewalk seat at a local eatery, but the cost of those visits was unremitting disease anxiety and internal moral conflict. Theaters of every description decided that dilemma on our behalf. They simply extinguished their ghost lights.
 
-In the earliest days, I agonized over whether to risk showing up for a long-anticipated production of Henrik Ibsen's *Lady from the Sea*. After the March 12 cancellation, I agonized over whether to donate the tickets or request a refund from an economically crushed institution.
+In the earliest days, I agonized over whether to risk showing up for a long-anticipated production of Henrik Ibsen's *Lady from the Sea*. After the {{< tl-note date="2020-03-12" >}}March 12{{< /tl-note >}} cancellation, I agonized over whether to donate the tickets or request a refund from an economically crushed institution.
 
 And don't think I don't hear your patronizing "aww." The World Health Organization says the global body count was at 4,291 that day, and I was rending my garments over the loss of pricey tickets to a play I actually saw two years later. I don't share Rossini's taste for fancy wines or Bellini's weakness for sex, but I can't pretend I haven't felt the beautiful life mount into gluttonous surfeit. I was diagnosed with type two diabetes during the pandemic, and I tried not to picture rampant sugar systematically breaking down my organs.
 
@@ -167,7 +167,7 @@ Even a beautiful life can become ugly when lived to excess.
 
 <b>ROSSINI</b><br>
 
-In stark contrast to Bellini, who never reached his mid-30s, fate granted Rossini four decades of sybaritic comfort after he voluntarily extinguished his own incandescent artistic flame. Corpulent and lazy but ever the life of the resplendent dinner party, Rossini recedes from creation as if disgusted by the limits of his facile genius. In his book, Ferris enumerates Rossini's flaws:
+In stark contrast to Bellini, who never reached his mid-30s, fate granted Rossini four {{< tl-note date="1868-11-13" >}}decades{{< /tl-note >}} of sybaritic comfort after he voluntarily extinguished his own incandescent artistic flame. Corpulent and lazy but ever the life of the resplendent dinner party, Rossini recedes from creation as if disgusted by the limits of his facile genius. In his book, Ferris enumerates Rossini's flaws:
 
 >That he gave too little attention to musical science; that he often neglected to infuse into his work the depth and passion of which it was easily capable; that he placed too high a value on merely brilliant effects.
 
@@ -196,7 +196,7 @@ Mortality is an operatic melodrama only to a precious few. The rest of the unive
 
 <b>BELLINI</b><br>
 
-Vincenzo Bellini died at 33, also the final age of Jesus Christ. The same age of demise as John Belushi and Chris Farley and Sam Cooke, a change is gonna come. Folk singer David Wilcox is no Bellini, but he did write these memorable lyrics in his 1997 folk song "Glory":
+Vincenzo Bellini {{< tl-note date="1835-09-23" >}}died{{< /tl-note >}} at 33, also the final age of Jesus Christ. The same age of demise as John Belushi and Chris Farley and Sam Cooke, a change is gonna come. Folk singer David Wilcox is no Bellini, but he did write these memorable lyrics in his 1997 folk song "Glory":
 
 > In the big boring middle of our long book of life<br>
 > After the twist has been told<br>
@@ -206,7 +206,7 @@ Vincenzo Bellini died at 33, also the final age of Jesus Christ. The same age of
 
 <b>ROSSINI</b><br>
 
-Rossini was 43 when Bellini died. He would live for exactly 33 more years. I'm not making this up. No one knoweth the hour, but *bel canto* was already dead, the incandescent torch passed to the more restrained, more psychologically sophisticated Giuseppe Verdi. In *Golden Age*, the 22-year-old Verdi attends *I Puritani* to pay homage to a dying legend. "He'll need another name for the theatre," grouses Rossini, aging into obscurity. "Giuseppe Verdi, it sounds like a farmer."
+Rossini was 43 when Bellini died. He would live for exactly 33 more years. I'm not making this up. No one knoweth the hour, but *bel canto* was already dead, the incandescent torch passed to the more restrained, more psychologically sophisticated Giuseppe Verdi. In *Golden Age*, the 22-year-old Verdi attends {{< tl-note date="1835-01-24" >}}*I Puritani*{{< /tl-note >}} to pay homage to a dying legend. "He'll need another name for the theatre," grouses Rossini, aging into obscurity. "Giuseppe Verdi, it sounds like a farmer."
 
 ## ACT FOUR: BRUTTA MORTE (aria)
 
@@ -218,7 +218,7 @@ Terrence and his husband Tom decide to make a break for it. They board a JetBlue
 
 The spiky protein exponentially multiplies, no one can join him in the hospital, he can't infect Tom, Andrea Chénier alone at the guillotine, Aida alone in the tomb, the 11-year-old blond boy is thunderstruck by Butterfly's aria "Un bel di, vedremo" in a classroom where nobody cares, where nobody is gay, where only Callas understands, un bel di vedremo, "one fine day we'll see," Callas singing softly in Sarasota sterility, and there at last is Tom.
 
-That hour knoweth no man, but it is March 24, and it is 10:45 AM in Sarasota.
+That hour knoweth no man, but it is {{< tl-note date="2020-03-24" >}}March 24,{{< /tl-note >}} and it is 10:45 AM in Sarasota.
 
 ## CODA
 
@@ -229,7 +229,7 @@ That hour knoweth no man, but it is March 24, and it is 10:45 AM in Sarasota.
 
 <b>ME</b><br>
 
-September 26, 2021. Sunday at 2 pm.
+{{< tl-note date="2020-09-26" >}}September 26, 2021.{{< /tl-note >}} Sunday at 2 pm.
 
 The usher reviewing our dog-eared vaccination cards at the Civic Opera House in Chicago is masked to the nines, but there is an unusual pep to her salutation that hints at giddy relief. "Howdy," I wish she had blithely chirped. That would be a fitting end to a quadruple decker story in which everything rhymes. As I am handed a letter-sized program brimming with the kind of operatic minutiae Terrence used to declaim in the Texaco Opera Quiz, I cheerfully rhyme the story to myself in a Chef Boyardee accent.
 
