@@ -188,11 +188,11 @@ At some point in Dylan’s recorded catalog, his voice acquires a different rasp
 
 ## <b>DYLAN AND THOMPSON:</b><br>“I Contain Multitudes”
 
-When I finally scratched “Dylan concert” off my bucket list on {{< tl-note date="11-17-2021" >}}November 17 2021{{< /tl-note >}}, he did not make an effort to convince me of his authenticity. The octogenarian plowed indefatigably through his new record, Rough and Rowdy Ways, mustering only one grudging pleasantry, as if we were pulling teeth. Instead, he let sharp new compositions like “Goodbye Jimmy Reed” do the talking.
+When I finally scratched “Dylan concert” off my bucket list on {{< tl-note date="2021-11-17" >}}November 17 2021{{< /tl-note >}}, he did not make an effort to convince me of his authenticity. The octogenarian plowed indefatigably through his new record, Rough and Rowdy Ways, mustering only one grudging pleasantry, as if we were pulling teeth. Instead, he let sharp new compositions like “Goodbye Jimmy Reed” do the talking.
 
 >“You won’t amount too much, the people all said / ’Cause I didn’t play guitar behind my head / Never pandered, never acted proud / Never took off my shoes, throw ’em in the crowd”
 
-Coincidentally, I’d seen Richard Thompson {{< tl-note date="11-03-2021" >}}two weeks earlier{{< /tl-note >}}, witty and gracious as ever. But he seemed more invested in reading excerpts from the memoir than in logging another fleet, fretboard-traversing “Valerie” solo. We applauded the latter, but he waved us off peremptorily. “Please don’t. It’s too easy.”
+Coincidentally, I’d seen Richard Thompson {{< tl-note date="2021-11-03" >}}two weeks earlier{{< /tl-note >}}, witty and gracious as ever. But he seemed more invested in reading excerpts from the memoir than in logging another fleet, fretboard-traversing “Valerie” solo. We applauded the latter, but he waved us off peremptorily. “Please don’t. It’s too easy.”
 
 Judging from *Chronicles Volume One*, none of it comes easy to Dylan. Those anguished paragraphs about the songs that refused to escape his larynx because they no longer felt true: Most people just sing. Despite the huckster instinct, Dylan’s commitment to truth bleeds from his lyrics.
 
