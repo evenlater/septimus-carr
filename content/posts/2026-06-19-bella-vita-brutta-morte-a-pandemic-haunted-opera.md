@@ -54,7 +54,7 @@ historicalEvents:
 >"But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son."
 ><cite>Mark 13:32</cite>
 
-{{< tl-note date="2020-03-03" >}}March 3, 2020.{{< /tl-note >}} Tuesday at 9 AM.
+March 3, {{< tl-note date="2020-03-03" >}}2020.{{< /tl-note >}} Tuesday at 9 AM.
 
 What strikes me about this photo now is how little we all knew of what was to come. The uncomprehending splendor of lower Manhattan. The imbecilic cheer of the Spirit logo. The Statue of Liberty looking on in Lilliputian futility as death comes galloping. This is what the beautiful life looked like just before the global pandemic wiped the smile off its stupid face.
 
