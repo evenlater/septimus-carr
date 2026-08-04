@@ -51,7 +51,7 @@ historicalEvents:
     label: "President Eisenhower authorizes Lumumba assassination"
   - date: "1961-01"
     label: "Lumumba killed by Congolese rivals"  
-  - date: "1991-09-01"
+  - date: "1991-09-02"
     label: "I start college"
   - date: "1998"
     label: "Barbara Kingsolver publishes The Poisonwood Bible"
