@@ -34,7 +34,7 @@ historicalEvents:
     label: "Paris Opera House, Palais Garnier, officially opened"
   - date: "1875-03-03"
     label: "Georges Bizet is devastated by the failure of Carmen, now perhaps the most popular opera"
-  - date: "1985 11"
+  - date: "1985-11-01"
     label: "The Flash dies in Crisis on Infinite Earths issue 8. Yeah, yeah."
   - date: "2016-02-16"
     label: "The Queen of the Night is released by Alexander Chee"
