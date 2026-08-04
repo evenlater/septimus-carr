@@ -8,8 +8,8 @@ subtitle: 'Alexander Chee’s "The Queen of the Night" Channels the Grand Sillin
 image: "/img/soprano.png"
 imagePosition: "Bottom"
 imageAlt: ""
-photocredit: "L'Illustration or Le Monde illustré, covering the Palais Garnier’s 1875 opening perfomrmance of Les Huguenots"
-book: 
+photocredit: "L’Illustration or Le Monde illustré, covering the Palais Garnier’s 1875 opening perfomrmance of Les Huguenots"
+book:
   title: "The Queen of the Night"
   author: "Alexander Chee"
   year: "2016"
@@ -25,7 +25,7 @@ historicalEvents:
   - date: "1862-05-20"
     label: "The Homestead Act is passed to provide land to American families like Lilliet's"
   - date: "1864"
-    label: "Pauline Viardot-Garcia opera singers in Baden-Baden and flirts with the likes of Brahms"
+    label: "Pauline Viardot-Garcia trains opera singers in Baden-Baden and flirts with the likes of Brahms"
   - date: "1870-09-04"
     label: "The Third French Republic begins"
   - date: "1871-01-28"
@@ -35,7 +35,7 @@ historicalEvents:
   - date: "1875-03-03"
     label: "Georges Bizet is devastated by the failure of Carmen, now perhaps the most popular opera"
   - date: "1985 11"
-    label: "The Flash dies in Crisis on Infinite Earths #8"
+    label: "The Flash dies in Crisis on Infinite Earths issue 8. Yeah, yeah."
   - date: "2016-02-16"
     label: "The Queen of the Night is released by Alexander Chee"
 ---
