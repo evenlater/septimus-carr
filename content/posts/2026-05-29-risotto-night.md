@@ -8,7 +8,7 @@ subtitle: 'Alexander Chee’s "The Queen of the Night" Channels the Grand Sillin
 image: "/img/soprano.png"
 imagePosition: "Bottom"
 imageAlt: ""
-photocredit: "L'Illustration or Le Monde illustré, covering the Palais Garnier's 1875 opening perfomrmance of Les Huguenots"
+photocredit: "L'Illustration or Le Monde illustré, covering the Palais Garnier’s 1875 opening perfomrmance of Les Huguenots"
 book: 
   title: "The Queen of the Night"
   author: "Alexander Chee"
@@ -72,5 +72,5 @@ As a genre, opera alternates between gynolatry and misogyny. From the bel canto 
 
 ## L’Amour la Mort
 
-Death, and its equally momentous abstract partner, love, are the foundation upon which opera is built. Wagner united the two in the immortal compound word, *Liebestod*. In the novel, Chee points out that the juxtaposition is not unique to German opera: “L’amour, la mort," {{< tl-note date="1875-03-03" >}}Carmen{{ /tl-note >}} sings "In the Habenera," by turns gaily and seductively. Love, death. Love. Only in French do they rhyme.” This is what gives so many opera libretti their visceral emotional power and also what makes them sometimes feel overweening and gaudy. Operas do not draw their artistic seriousness from their words but from their glorious music. The music elevates the maudlin earnestness of operatic scripts to an intangible poetry of universal power. In emulating the overreach of opera, Chee harnesses some of that raw artistic heft, but he cannot reproduce it. His prose is skilled and sometimes ambitious, but it is not a substitute for the kinetic polyphony of a Rossini quartet or the blustery innovation of a Wagner interlude. To those untutored on opera’s finer points by their brothers, or any surrogate thereof, *The Queen of the Night* may read as pseudohistorical schlock. But to those ripe for the indulgence, it is a sustained high C.
+Death, and its equally momentous abstract partner, love, are the foundation upon which opera is built. Wagner united the two in the immortal compound word, *Liebestod*. In the novel, Chee points out that the juxtaposition is not unique to German opera: “L’amour, la mort," {{< tl-note date="1875-03-03" >}}Carmen{{< /tl-note >}} sings "In the Habenera," by turns gaily and seductively. Love, death. Love. Only in French do they rhyme.” This is what gives so many opera libretti their visceral emotional power and also what makes them sometimes feel overweening and gaudy. Operas do not draw their artistic seriousness from their words but from their glorious music. The music elevates the maudlin earnestness of operatic scripts to an intangible poetry of universal power. In emulating the overreach of opera, Chee harnesses some of that raw artistic heft, but he cannot reproduce it. His prose is skilled and sometimes ambitious, but it is not a substitute for the kinetic polyphony of a Rossini quartet or the blustery innovation of a Wagner interlude. To those untutored on opera’s finer points by their brothers, or any surrogate thereof, *The Queen of the Night* may read as pseudohistorical schlock. But to those ripe for the indulgence, it is a sustained high C.
 
