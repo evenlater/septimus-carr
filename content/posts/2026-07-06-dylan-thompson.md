@@ -32,8 +32,24 @@ readDates2:
    start: "2026-01-31"
    end: "2026-02-07"
 historicalEvents:
+  - date: "1963-05-27"
+    label: "The Freewheelin' Bob Dylan drops"
+  - date: "1963-08-28"
+    label: "Martin Luther King, Jr. gives his I Have a Dream speech"
+  - date: "1967-05-27"
+    label: "Fairport Convention plays its first concert"
+  - date: "1969-05-12"
+    label: "Fairport Convention suffers tragic bus accident"
+  - date: "1982"
+    label: "Richard and Linda Thompson break up"
+  - date: "1991-05-13"
+    label: "Richard Thompson releases Rumor and Sigh"
+  - date: "2004-10-05"
+    label: "Bob Dylan's memoir Chronicles Volume One drops"
   - date: "2019-12-30"
     label: "Richard Thompson live at Evanston SPACE"
+  - date: "2021-04-06"
+    label: "Beeswing by Richard Thomspson drops"
   - date: "2021-11-03"
     label: "Richard Thompson at Old Town School of Folk Music"
   - date: "2021-11-17"
@@ -42,7 +58,7 @@ historicalEvents:
 
 In the days when “vinyl collections” were the only kind, I’d flip through my mother’s classical LPs hoping for showtune jackpots. She had two sore-thumb pop inclusions: *Meet the Beatles* and *The Freewheelin’ Bob Dylan*. “There was a time when I used to host parties,” she explained dismissively when pressed.
 
-On the cover of Dylan’s 1963 debut, a girlish youth and a youthful girl huddled down a wintry city street. That babyface didn’t seem a remotely plausible match to the hoarse wisdom within. But the promo copy on the back cover claimed authenticity:
+On the cover of Dylan’s {{< tl-note date="1963-05-27" >}}debut{{< /tl-note >}}, a girlish youth and a youthful girl huddled down a wintry city street. That babyface didn’t seem a remotely plausible match to the hoarse wisdom within. But the promo copy on the back cover claimed authenticity:
 
 >As Harry Jackson, a cowboy singer and a painter has exclaimed: “He’s so goddamned real, it’s unbelievable.” The irrepressible <b>reality</b> of Bob Dylan is a compound of spontaneity, candor, slicing wit and an uncommonly perceptive eye and ear.
 ><cite>Nat Hentoff, Back cover of <em>The Freewheelin' Bob Dylan</em></cite>
@@ -51,9 +67,9 @@ On the cover of Dylan’s 1963 debut, a girlish youth and a youthful girl huddle
 
 I got to know Richard Thompson through mix tapes. In high school, we’d jumble 45 RPM favorites and compact disc discoveries onto 90-minute cassette tapes sequenced with auteur pretensions.
 
-The friend responsible for circulating Thompson’s husky-voiced elliptical wit throughout our clique recently apologized for putting his strange masturbator-on-a-train song “Psycho Street” on so many of our tapes. “I think laughter was the intended response,” she explained in an SMS thread about our [2019 excursion](/calendar/?date=2019-12-30) to see Thompson at a tiny Evanston venue. “And maybe a bit of fear that I was not a sweetly milquetoast softie as advertised.”
+The friend responsible for circulating Thompson’s husky-voiced elliptical wit throughout our clique recently apologized for putting his strange masturbator-on-a-train song “Psycho Street” on so many of our tapes. “I think laughter was the intended response,” she explained in an SMS thread about our 2019 excursion to see Thompson at a tiny {{< tl-note date="2019-12-30" >}}Evanston{{< /tl-note >}} venue. “And maybe a bit of fear that I was not a sweetly milquetoast softie as advertised.”
 
-The *Rumor and Sigh*-era pop songs she disseminated had convinced me that Thompson was an arrogant, cuttingly funny alpha male with impeccable trad/rock taste. The Evanston concert upgraded that assessment to “confident, effacingly witty folk-rock legend.” But tonight I looked through every one of my excavated mix tapes from that friend. The only Thompson song I could find was a soundtrack deep cut, the hushed confessional “False or True”:
+The *Rumor and Sigh*-era {{< tl-note date="1991-05-13" >}}pop songs{{< /tl-note >}} she disseminated had convinced me that Thompson was an arrogant, cuttingly funny alpha male with impeccable trad/rock taste. The Evanston concert upgraded that assessment to “confident, effacingly witty folk-rock legend.” But tonight I looked through every one of my excavated mix tapes from that friend. The only Thompson song I could find was a soundtrack deep cut, the hushed confessional “False or True”:
 
 >“I tell you secrets that don’t even matter / I give you keepsakes but only to flatter / I don’t believe in myself, I don’t believe in myself / So why should anyone else”
 
@@ -79,7 +95,7 @@ Self-revelation in a Thompson song often comes laced with a rabid bite.
 
 >“I feel so good, I’m gonna make somebody pay tonight / I’m old enough to sin but I’m too young to vote / Society been dragging on the tail of my coat”
 
-Knowing the songs, I expected Thompson to report his early adventures with an acidic, take-no-prisoners wit. But that voice appears so fleetingly amid the book’s blandly detailed reminiscences that I finished it with less sense of his personality than I’d had coming in.
+Knowing the songs, I expected Thompson to report his early adventures with an acidic, take-no-prisoners wit. But that voice {{< tl-note date="2021-04-06" >}}appears{{< /tl-note >}} so fleetingly amid the book’s blandly detailed reminiscences that I finished it with less sense of his personality than I’d had coming in.
 
 ## <b>DYLAN:</b><br>“Gonna Change My Way of Thinking”
 
@@ -87,7 +103,7 @@ Unlike Thompson, Bob Dylan has never been given to portraiture. His early folk s
 
 >“Your sons and your daughters / are beyond your command / Your old road is rapidly agin’ / Please get out of the new one if you can’t lend your hand”
 
-Dylan’s 2004 memoir *Chronicles Volume One*, a nondescript title of as-yet-unrealized ambition (we’re still waiting for Volume 2), documents the way that lyrical persona shifted into cagily diffuse verse in his later work.
+*Chronicles Volume One*, a nondescript title of as-yet-unrealized ambition (we’re still waiting for Volume 2), {{< tl-note date="2004-10-05" >}}documents{{< /tl-note >}} the way that lyrical persona shifted into cagily diffuse verse in his later work.
 
 >“All the people we used to know / They’re an illusion to me now / Some are mathematicians / Some are carpenter’s wives / Don’t know how it all got started / I don’t know what they’re doing with their lives”
 
@@ -97,7 +113,7 @@ What strikes me about the memoir is that its narrator bears little resemblance t
 
 To say that Beeswing is stylistically cautious is not to say that it is dull. The book is a breezily enjoyable and informative first try at authorship. Thompson shares recollections like a favorite uncle reflecting on the good old days: charming, well-spoken, chockfull of insights into his era and vocation.
 
-These are the years in which Thompson co-founded the legendary British folk-rock group Fairport Convention, married and divorced his famous gigging partner Linda Thompson, logged session time and awkward Tube rides with reclusive peer Nick Drake, and snuck a “reprehensible” (his word) peek inside Joni Mitchell’s songwriting notebook.
+These are the years in which Thompson co-founded the legendary British folk-rock group {{< tl-note date="1967-05-13" >}}Fairport Convention{{< /tl-note >}}, married and divorced his famous gigging partner Linda Thompson, logged session time and awkward Tube rides with reclusive peer Nick Drake, and snuck a “reprehensible” (his word) peek inside Joni Mitchell’s songwriting notebook.
 
 A traditional chronological structure ushers Thompson from a “very shy” suburban kid who found the guitar enabled self-expression to a “socially inept” solo artist writing songs “for pleasure, but also to understand [myself] and decode life.” His thoughts are more coherently articulated then Dylan’s, but the latter’s rough musings contain more diamonds.
 
@@ -113,7 +129,7 @@ Not a voting man? Goldwater? These are jarring self-descriptions from the writer
 
 ## <b>THOMPSON:</b><br>“Saving the Good Stuff for You”
 
-By my count, *Beeswing* contains only three passages of varying length that feel like risky self-exposure. The first is a heartfelt description of a 1969 touring accident that ended the lives of a bandmate and a girlfriend for whom his feelings were uncomfortably casual. “Her death froze our romance in midstream, so for a while it seemed more important than it really was.”
+By my count, *Beeswing* contains only three passages of varying length that feel like risky self-exposure. The first is a heartfelt description of a 1969 touring {{< tl-note date="1969-05-12" >}}accident{{< /tl-note >}} that ended the lives of a bandmate and a girlfriend for whom his feelings were uncomfortably casual. “Her death froze our romance in midstream, so for a while it seemed more important than it really was.”
 
 The second is an account of his 1970s conversion to Islam. Thompson had been drinking “solitarily and secretly,” he confesses. “When I started praying, I gave up drinking immediately — stopped on a sixpence.”
 
@@ -138,11 +154,11 @@ But one sentence later, Mr. “The Times They Are A-Changin’” denies that so
 
 Much of the book describes Dylan’s struggle to escape the political shadow he’d cast. “Joan Baez recorded a protest song about me that was getting big play,” he reports in chapter three. “[She was] challenging me to get with it — come out and take charge, lead the masses — be an advocate, lead the crusade.” He tries to tell The New York Times that he had never been a spokesman for any cause. The paper runs the interview with the headline, “Spokesman Denies That He’s a Spokesman.”
 
-Dylan treats these pressures as external, presenting himself as a humble, misunderstood musician. This feels like a small copout to me. He’d adopted Woody Guthrie’s agenda. He’d sung protests songs with Baez. He’d opened for Martin Luther King, Jr.’s “I Have a Dream” speech. Was that too “pure hokum”?
+Dylan treats these pressures as external, presenting himself as a humble, misunderstood musician. This feels like a small copout to me. He’d adopted Woody Guthrie’s agenda. He’d sung protests songs with Baez. He’d opened for Martin Luther King, Jr.’s “I Have a Dream” {{< tl-note date="1968-08-28" >}}speech.{{< /tl-note >}} Was that too “pure hokum”?
 
 ## <b>THOMPSON:</b><br>“Keep Your Distance”
 
-Even after his most vulnerable passages, Thompson the memoirist keeps poking his head back into its tortoise shell. The wrenching dissolution of his relationship with wife and folk partner Linda Thompson is reduced to a tepid disclosure: “We emerged as substantially different people, and I am guilty of falling out of love.”
+Even after his most vulnerable passages, Thompson the memoirist keeps poking his head back into its tortoise shell. The wrenching {{< tl-note date="1982" >}}dissolution{{< /tl-note >}} of his relationship with wife and folk partner Linda Thompson is reduced to a tepid disclosure: “We emerged as substantially different people, and I am guilty of falling out of love.”
 
 Two paragraphs down, Richard races through a confession that he neglected his firstborn:
 
@@ -172,11 +188,11 @@ At some point in Dylan’s recorded catalog, his voice acquires a different rasp
 
 ## <b>DYLAN AND THOMPSON:</b><br>“I Contain Multitudes”
 
-When I finally scratched “Dylan concert” off my bucket list on [November 17, 2021](/calendar/?date=2021-11-17), he did not make an effort to convince me of his authenticity. The octogenarian plowed indefatigably through his new record, Rough and Rowdy Ways, mustering only one grudging pleasantry, as if we were pulling teeth. Instead, he let sharp new compositions like “Goodbye Jimmy Reed” do the talking.
+When I finally scratched “Dylan concert” off my bucket list on {{< tl-note date="11-17-2021" >}}November 17 2021{{< /tl-note >}}, he did not make an effort to convince me of his authenticity. The octogenarian plowed indefatigably through his new record, Rough and Rowdy Ways, mustering only one grudging pleasantry, as if we were pulling teeth. Instead, he let sharp new compositions like “Goodbye Jimmy Reed” do the talking.
 
 >“You won’t amount too much, the people all said / ’Cause I didn’t play guitar behind my head / Never pandered, never acted proud / Never took off my shoes, throw ’em in the crowd”
 
-Coincidentally, I’d seen Richard Thompson [two weeks earlier](/calendar/?date=2021-11-03), witty and gracious as ever. But he seemed more invested in reading excerpts from the memoir than in logging another fleet, fretboard-traversing “Valerie” solo. We applauded the latter, but he waved us off peremptorily. “Please don’t. It’s too easy.”
+Coincidentally, I’d seen Richard Thompson {{< tl-note date="11-03-2021" >}}two weeks earlier{{< /tl-note >}}, witty and gracious as ever. But he seemed more invested in reading excerpts from the memoir than in logging another fleet, fretboard-traversing “Valerie” solo. We applauded the latter, but he waved us off peremptorily. “Please don’t. It’s too easy.”
 
 Judging from *Chronicles Volume One*, none of it comes easy to Dylan. Those anguished paragraphs about the songs that refused to escape his larynx because they no longer felt true: Most people just sing. Despite the huckster instinct, Dylan’s commitment to truth bleeds from his lyrics.
 
