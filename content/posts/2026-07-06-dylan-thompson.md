@@ -154,7 +154,7 @@ But one sentence later, Mr. “The Times They Are A-Changin’” denies that so
 
 Much of the book describes Dylan’s struggle to escape the political shadow he’d cast. “Joan Baez recorded a protest song about me that was getting big play,” he reports in chapter three. “[She was] challenging me to get with it — come out and take charge, lead the masses — be an advocate, lead the crusade.” He tries to tell The New York Times that he had never been a spokesman for any cause. The paper runs the interview with the headline, “Spokesman Denies That He’s a Spokesman.”
 
-Dylan treats these pressures as external, presenting himself as a humble, misunderstood musician. This feels like a small copout to me. He’d adopted Woody Guthrie’s agenda. He’d sung protests songs with Baez. He’d opened for Martin Luther King, Jr.’s “I Have a Dream” {{< tl-note date="1968-08-28" >}}speech.{{< /tl-note >}} Was that too “pure hokum”?
+Dylan treats these pressures as external, presenting himself as a humble, misunderstood musician. This feels like a small copout to me. He’d adopted Woody Guthrie’s agenda. He’d sung protests songs with Baez. He’d opened for Martin Luther King, Jr.’s “I Have a Dream” {{< tl-note date="1963-08-28" >}}speech.{{< /tl-note >}} Was that too “pure hokum”?
 
 ## <b>THOMPSON:</b><br>“Keep Your Distance”
 
