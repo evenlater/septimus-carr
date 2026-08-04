@@ -206,7 +206,7 @@ Vincenzo Bellini {{< tl-note date="1835-09-23" >}}died{{< /tl-note >}} at 33, al
 
 <b>ROSSINI</b><br>
 
-Rossini was 43 when Bellini died. He would live for exactly 33 more years. I'm not making this up. No one knoweth the hour, but *bel canto* was already dead, the incandescent torch passed to the more restrained, more psychologically sophisticated Giuseppe Verdi. In *Golden Age*, the 22-year-old Verdi attends {{< tl-note date="1835-01-24" >}}*I Puritani*{{< /tl-note >}} to pay homage to a dying legend. "He'll need another name for the theatre," grouses Rossini, aging into obscurity. "Giuseppe Verdi, it sounds like a farmer."
+Rossini was 43 when Bellini died. He would live for exactly 33 more years. I'm not making this up. No one knoweth the hour, but *bel canto* was already dead, the incandescent torch passed to the more restrained, more psychologically sophisticated Giuseppe Verdi. In *Golden Age*, the 22-year-old Verdi attends {{tl-note date="1835-01-24" >}}I Puritani{{< /tl-note >}} to pay homage to a dying legend. "He'll need another name for the theatre," grouses Rossini, aging into obscurity. "Giuseppe Verdi, it sounds like a farmer."
 
 ## ACT FOUR: BRUTTA MORTE (aria)
 
