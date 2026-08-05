@@ -33,7 +33,7 @@ historicalEvents:
   - date: "1960-02-21" 
     label: "Terrence McNally meets Edward Albee"
   - date: "1962-10-13"
-    label: "Edward Albee’s Whose Afraid of Virginia Woolf? opens"
+    label: "Edward Albee’s Who's Afraid of Virginia Woolf? opens"
   - date: "1965-04-26"
     label: "Bump in the Night, McNally's Broadway debut, opens"
   - date: "1987"
@@ -43,7 +43,7 @@ historicalEvents:
   - date: "2020-03-03"
     label: "Arrive in Manhattan"
   - date: "2020-03-12"
-    label: "Lady of the Sea canceled at Chicago’s Court Theatre"
+    label: "Lady from the Sea canceled at Chicago’s Court Theatre"
   - date: "2020-03-24"
     label: "Terrence McNally dies"
   - date: "2020-03-26"
@@ -81,9 +81,9 @@ My 89-year-old father is still recovering from our 5 AM flight, but I’m barrel
 
 My brother has other ideas. That night, *Agrippina* will be the fifth production of a Georg Frideric Handel opera in the 137-year history of the Metropolitan Opera, but I don’t know much about opera yet.
 
-To me, the bigger draw is the first preview performance of *Who’s Afraid of Virginia Woolf?* with Laurie Metcalf and Rupert Everett as the bilious couple playing drinking games for keeps in the 1962 drama that Edward Albee based partly on his relationship with Terrence McNally. It will be performed only nine times before it is swallowed by history.
+To me, the bigger draw is the first preview performance of *Who’s Afraid of Virginia Woolf?* with Laurie Metcalf and Rupert Everett as the bilious couple playing drinking games for keeps in the {{< tl-note date="1962-10-13" >}}1962{{< /tl-note >}} drama that Edward Albee based partly on his relationship with Terrence McNally. It will be performed only nine times before it is swallowed by history.
 
-Across the East River at St. Anne’s Warehouse, Ethiopian-Irish actress Ruth Negga is reprising her cunning, boyish turn in the incense-soaked Hamlet I saw alone at Dublin’s Gate Theatre in 2018. The opening image of Negga’s grieving prince identifying his plastic-shrouded father in the morgue will come to feel like a summary of the year, and the realization that I’ll never have the chance to share it will fester smartingly long after *The New York Times* declares it the <a href="https://www.nytimes.com/2020/12/01/theater/best-broadway-theater-show.html?eafs_enabled=false#:~:text=JESSE%20GREEN-,Best%20Theater%20of%202020,-A%20Top%2010" target="_blank">best play of the abbreviated year.</a>
+Across the East River at St. Anne’s Warehouse, Ethiopian-Irish actress Ruth Negga is reprising her cunning, boyish turn in the incense-soaked Hamlet I saw alone at Dublin’s Gate Theatre in {{< tl-note date="2018-10-04" >}}2018{{< /tl-note >}}. The opening image of Negga’s grieving prince identifying his plastic-shrouded father in the morgue will come to feel like a summary of the year, and the realization that I’ll never have the chance to share it will fester smartingly long after *The New York Times* declares it the <a href="https://www.nytimes.com/2020/12/01/theater/best-broadway-theater-show.html?eafs_enabled=false#:~:text=JESSE%20GREEN-,Best%20Theater%20of%202020,-A%20Top%2010" target="_blank">best play of the abbreviated year.</a>
 
 But on March 3, I am only dimly aware of the looming specter that awaits the world. Today, New York Governor Andrew Cuomo will announce confirmation of the state’s first recorded case of person-to-person spread of the “novel coronavirus.” In a matter of days, {{< tl-note date="2020-03-26" >}}Bellevue{{< /tl-note >}} Hospital, where I briefly parked our Jeep Compass, will be the site of a makeshift morgue.
 
@@ -120,7 +120,7 @@ The youthful McNally apparently resembled Bellini physically. Consider Ferris's 
 
 >Nature gave him a beautiful and ingenuous face, noble features, large, clear blue eyes, and abundant light hair.
 
-Compare that Albee's account in Mel Gussow's *Edward Albee: A Singular Journey* of his first {{< tl-note date="1962-10-13" >}}encounter{{< /tl-note >} with McNally:
+Compare that Albee's account in Mel Gussow's *Edward Albee: A Singular Journey* of his first {{< tl-note date="1960-02-21" >}}encounter{{< /tl-note >}} with McNally:
 
 >I noticed this nineteen-year-old, a ravishing-looking blond kid lurking around the place. I found out he was a college student named Terrence McNally who wanted to be a 
 playwright. Well, Terrence and I started talking and the next thing I knew, so to speak, we were living together.
@@ -229,7 +229,7 @@ That hour knoweth no man, but it is {{< tl-note date="2020-03-24" >}}March 24,{{
 
 <b>ME</b><br>
 
-{{< tl-note date="2020-09-26" >}}September 26, 2021.{{< /tl-note >}} Sunday at 2 pm.
+{{< tl-note date="2021-09-26" >}}September 26, 2021.{{< /tl-note >}} Sunday at 2 pm.
 
 The usher reviewing our dog-eared vaccination cards at the Civic Opera House in Chicago is masked to the nines, but there is an unusual pep to her salutation that hints at giddy relief. "Howdy," I wish she had blithely chirped. That would be a fitting end to a quadruple decker story in which everything rhymes. As I am handed a letter-sized program brimming with the kind of operatic minutiae Terrence used to declaim in the Texaco Opera Quiz, I cheerfully rhyme the story to myself in a Chef Boyardee accent.
 
