@@ -83,7 +83,7 @@ In 2018’s *Killing Commendatore*, Murakami makes 13-year-old Miyake’s dissat
 
 As a man in my fifties, I have never shared Murakami’s apparent perception that women like Miyake and *1Q84*’s Aomame spend copious time on bosom-based ennui. Perhaps he is too impressed by what surely must be outlier comments like the one he cites to worry about the disgust he invokes in young Americans. Still, I can’t help wondering: Does Murakami intuit that any attempt to censure his parents’ generation for their war-era shortcomings would result in generational censure of his aging-hippie Free Love value system?
 
-{{< pull-quote >}}*An Artist of the Floating World* is the meticulous historical analysis of a writer doubling as both prosecuting attorney and absolving confessor. *Killing Commendatore* is a gloppy lasagna piled high by a masterful Iron Chef.{{< /pull-quote >}}
+{{< pull-quote >}}*An Artist of the Floating World* is the meticulous historical analysis of a writer doubling as both prosecuting attorney and absolving confessor. *Killing Commendatore* is a gloppy lasagna piled high by an Iron Chef.{{< /pull-quote >}}
 
 Whatever the reason, Murakami, like Ishiguro, uses postwar trauma as a backdrop for an entirely different thematic exploration. His has nothing to do with guilty narrators. Rather than tell the story from Amada’s wartime perspective or his own generation’s postwar vantage, Murakami entrusts the book to another earnest young Murakami Man. Not familiar with that alliterative designation? Google it and you’ll find countless references without attribution to its originator. Nearly every Murakami novel is narrated by a generic tricenarian, modest, often divorced, LP-collecting, pasta-and-sushi-cooking male. 
 
@@ -105,7 +105,7 @@ I have long felt that Murakami’s work fossilizes his own early probing for a p
 > This novel quotes Goethe as decreeing, “Everything’s a metaphor.” But a Western reader expects the metaphors, or symbolic realities, to be … organized by certain polarities, in a magnetic field shaped by a central supernatural authority. No such authority controls the spooky carnival of “Kafka on the Shore.” To quote Colonel Sanders once more:“Listen—God only exists in people’s minds. Especially in Japan, God’s always been kind of a flexible concept. Look at what happened after the war. Douglas MacArthur ordered the divine emperor to quit being God, and he did, making a speech saying he was just an ordinary person.”
 ><cite>John Updike, “Subconscious Tunnels,” <em>The New Yorker</em></cite>
 
-In *Killing Commendatore*, Murakami’s central metaphor is equally illuminating: Commendatore’s transubstantiation symbolizes art’s power to create a tactile link between artist and subject. The metaphor is fragile, but it works best when Murakami goes all in, as in a climactic hero’s journey through a perilous underworld with its own River Styx that one character, a renegade figure from a incarnated canvas, declares “is a metaphorical river, but the water is very real.”
+In *Killing Commendatore*, Murakami’s central metaphor is equally illuminating: Commendatore’s transubstantiation symbolizes art’s power to create a tactile link between artist and subject. The metaphor is fragile, but it works best when Murakami goes all in, as in a climactic hero’s journey through a perilous underworld with its own River Styx that one character, a renegade figure incarnated from canvas, declares “is a metaphorical river, but the water is very real.”
 
 ## <b>Ishiguro on Murakami’s Terms:</b><br>Competing Metaphors 
 
@@ -116,9 +116,9 @@ Ishiguro’s fiction doesn’t swing through such polarities. He once told an in
 >“You can think of me like an early aviator before airplanes were properly invented. I’m building some sort of flying machine in my back garden. I just need it to fly. And you know how odd some of those early flying machines looked? Well my novels are a bit like that. I put them together out of anything I can think of according to my thinking to make the thing fly.”
 > <cite>Kazuo Ishiguro, “I’ll Take as Long as I Need,” <em>The Talks</em></cite>
 
-Their methods may be similar, but their mediums are a world apart. *An Artist of the Floating World* is the meticulous historical analysis of a writer doubling as both prosecuting attorney and absolving confessor. *Killing Commendatore* is a gloppy lasagna piled high by a masterful Iron Chef. Playwright Tony Kushner explains this metaphor in a classic essay: 
+Their methods may be similar, but their mediums are a world apart. *An Artist of the Floating World* is the meticulous historical analysis of a writer doubling as both prosecuting attorney and absolving confessor. *Killing Commendatore* is a gloppy lasagna piled high by an Iron Chef. Playwright Tony Kushner explains this metaphor in a classic essay: 
 
->“A good play, like a good lasagna, should be overstuffed: It has a pomposity, and an overreach. Its ambitions extend in the direction of not-missing-a-trick, it has a bursting omnipotence up its sleeve, or rather, under its noodles: It is pretentious food.”
+>A good play, like a good lasagna, should be overstuffed: It has a pomposity, and an overreach. Its ambitions extend in the direction of not-missing-a-trick, it has a bursting omnipotence up its sleeve, or rather, under its noodles: It is pretentious food.
 ><cite>Tony Kushner, “On Pretentiousness”</cite>
 
 At the risk of presenting one metaphor too many, it’s worth noting in conclusion that both writers were musical professionals before they started writing novels. Ishiguro was a singer/songwriter in the tradition of Bob Dylan and Leonard Cohen, and he is still carefully compressing his themes into tight three-minute lyrical structures. Murakami was a jazz club owner, and he is still giving his characters a place to improvise wild discursive solos.

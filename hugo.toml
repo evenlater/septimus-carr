@@ -11,7 +11,7 @@ paginate = 12
   goodreads    = 'https://www.goodreads.com/user/show/186362129-septimus-carr'
   siblingcontent = 'https://stagesandscreens.blogspot.com/'
   # categoryOrder controls nav sequence; add new categories here too
-  categoryOrder = ['Classics','Fiction','Drama','Essays','Nonfiction','Opera','Multi']
+  categoryOrder = ['Classics','Fiction','Drama','Essays','Nonfiction','Opera','Multi','Notes']
   cusdisID = "49375ae2-0bed-45fd-a0cd-3eb99d120ffe"
 
 [taxonomies]

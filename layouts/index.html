@@ -1,6 +1,15 @@
 {{ define "main" }}
-{{ $posts := where .Site.RegularPages "Section" "posts" }}
-{{ $posts = $posts.ByDate.Reverse }}
+{{ $allPosts := where .Site.RegularPages "Section" "posts" }}
+{{ $allPosts = $allPosts.ByDate.Reverse }}
+{{/* Notes are lightweight asides, not full essays — keep them out of the
+     featured hero slot and recent-essays grid. They still live in the
+     full /posts/ archive and their own /categories/notes/ page. */}}
+{{ $posts := slice }}
+{{ range $allPosts }}
+  {{ if not (in .Params.categories "Notes") }}
+    {{ $posts = $posts | append . }}
+  {{ end }}
+{{ end }}
 {{ $onPageCount := 7 }}
 {{ $feat := index $posts 0 }}
 
