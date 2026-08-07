@@ -24,7 +24,7 @@ book:
 links:
   substack: "https://septimuscarr.substack.com/p/floating-commendatore"
   medium: ""
-  goodreads: ""
+  goodreads: "https://www.goodreads.com/review/show/8840191329"
   reddit: ""
 ReadDates:
   start: "2023-01-22"
