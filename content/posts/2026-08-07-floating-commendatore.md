@@ -1,6 +1,6 @@
 ﻿---
 title: "Floating Commendatore"
-date: "2000-08-07"
+date: "2026-08-07"
 draft: false
 categories: ["Fiction","Multi"]
 authors: ["Haruki Murakami", "Kazuo Ishiguro"]
@@ -121,7 +121,7 @@ Their methods may be similar, but their mediums are a world apart. *An Artist of
 >“A good play, like a good lasagna, should be overstuffed: It has a pomposity, and an overreach. Its ambitions extend in the direction of not-missing-a-trick, it has a bursting omnipotence up its sleeve, or rather, under its noodles: It is pretentious food.”
 ><cite>Tony Kushner, “On Pretentiousness”</cite>
 
-At the risk of presenting one metaphor too many, it’s worth noting in conclusion that both writers were musical professionals before they started writing novels. Ishiguro was a singer/songwriter in the tradition of Bob Dylan and Leonard Cohen, and he is still carefully compressing his themes into tight three-minute lyrical structure. Murakami was a jazz club owner, and he is still giving his characters a place to improvise wild discursive solos.
+At the risk of presenting one metaphor too many, it’s worth noting in conclusion that both writers were musical professionals before they started writing novels. Ishiguro was a singer/songwriter in the tradition of Bob Dylan and Leonard Cohen, and he is still carefully compressing his themes into tight three-minute lyrical structures. Murakami was a jazz club owner, and he is still giving his characters a place to improvise wild discursive solos.
 
 For both Ishiguro and Murakami, a writer does not need to construct a seven-mast schooner before dipping a toe in the river of metaphor. Once adrift on the consequential reality of its waves, these authors are capable of assembling the boat midstream, billowing sail by billowing sail.  
 
