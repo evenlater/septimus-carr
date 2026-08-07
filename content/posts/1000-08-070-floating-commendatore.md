@@ -6,7 +6,8 @@ categories: ["Fiction","Multi"]
 authors: ["Haruki Murakami", "Kazuo Ishiguro"]
 subtitle: "Haruki Murakami and Kazuo Ishiguro Navigate a Metaphorical River Where the Water Is Real"
 photocredit: 'Photo Credit: ID <a href="https://www.dreamstime.com/artist-painting-under-cherry-blossoms-overlooking-seaside-town-harbor-spring-japan-sits-grassy-hillside-blooming-image450779846">450779846</a> | <a href="https://www.dreamstime.com/photos-images/japanese-artist.html">Japanese Artist</a> © <a href="https://www.dreamstime.com/roscoechui_info">Roscoechui</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
-image: "/img/floating-commedatore-crop.PNG"
+image: "/img/floating-commedatore-plumframe.PNG"
+imageMobile: "/img/floating-commedatore-crop.PNG"
 imagePosition: "Center"
 imageAlt: "Artist of a floating river in Japan"
 book:
