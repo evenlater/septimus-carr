@@ -34,7 +34,7 @@ ReadDates2:
 historicalEvents:
 ---
 > “What most impresses me about [Kazuo Ishiguro] is how he changes his style with each work. That’s completely different from the way I work. I’m the type to gradually develop and evolve my style . . . But we are similar in that we both place a great importance on style.”
-><cite>Haruki Murakami in a 2018 interview for David Karashimas book <em>Who We’re Reading When We’re Reading Murakami</cite> 
+><cite>Haruki Murakami in a 2018 interview for David Karashimas book <em>Who We’re Reading When We’re Reading Murakami</em></cite> 
 
 At first glance, Japanese author Haruki Murakami’s statement about Japanese British author Kazuo Ishiguro seems like spot-on insight about both of their generation’s most internationally recognized authors of Japanese descent. 
 
