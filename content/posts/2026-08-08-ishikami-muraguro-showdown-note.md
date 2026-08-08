@@ -17,10 +17,10 @@ Murakami’s novel is so Not That, it almost seems the opposite. It has been on 
 
 Reading the book, however, I began to suspect that a lot of that is unfair. It was more inventive than I'd given it credit for. The 733 pages mostly fly by pleasatly if not obsessively. It isn't the kind of prestige read that *Floating World* is, but it has ambition, charm, and thematic heft.
 
-Still, I tended to think of *Killing Commendatore* as disqualified from serious contention by two persistently nagging impressions I got from reading it: 
+Still, I tended to think of *Killing Commendatore* as disqualified from serious contention with Ishiguro’s mini-masterpiece based on two persistently nagging impressions: 
 
 <ul>
-  <li>It is a shameless retread of *The Wind-up Bird Chronicle*.</li>
+  <li>It is a shameless retread of <em>The Wind-up Bird Chronicle</em>.</li>
   <li>Its word selection is unusually vapid even for Murakami.</li>
 </ul>
 
