@@ -31,7 +31,7 @@ Is it? Is it, though?
 Yes, both *Wind-up* and *Commendatore* are about a Murakami Man who refuses to accept his wife’s demand for a divorce. 
 
 Yes, both books juxtapose Murakami Man’s divorce angst with World War II tragedy.
-H
+
 Yes, both books explore latent male anger.
 
 But the core idea of *Commendatore*, the art through process theme described in the canonical essay, is completely absent from *Wind-Up* and represent authentic insight on Muruakami’s part. 
