@@ -44,15 +44,15 @@ Murakami has never been known for sparkling verse. But in *Killing Commendatore*
 
 >"Mariye’s aunt had a very tranquil, calm way of speaking. She had lovely features. Not the kind of beautiful woman that would turn heads, but neat, regular features. A natural, subdued smile graced her lips, like the pale moon at dawn."
 
-This narrator is supposed to be a portrait artist with a knack for capturing his subject's authentic, singular soul using a probing eye for detail. But his description of Mariye's aunt is not a Rembrandt; it is a Dick and Jane cartoon. Also, after this message I wonder if anyone has ever written that closing simile before. "Pale moon at dawn" ... Oh, wait, yes they have.
+This narrator is supposed to be a portrait artist with a knack for capturing his subject's authentic, singular soul using a probing eye for detail. But his description of Mariye's aunt is not a Rembrandt; it is a Dick and Jane cartoon. Also, I wonder if anyone has ever written that closing simile before. "Pale moon at dawn" ... Oh, wait, yes they have.
 
 >"I enjoyed listening to the music of Bach, Schubert, Brahms, Schumann, and Beethoven. Not forgetting Mozart, of course. Their music was deep, amazing, and gorgeous."
 
 You don't say! Was it also good, awesome, and cool?
 
-I wondered at first if Philip Gabriel was a weak new translator. After all, regular Murakami collaborator Jay Rubin could write the following passage, so would he have been constitutionally capable of such bathetic language?
+I wondered at first if Philip Gabriel was a weak new translator. After all, regular Murakami collaborator Jay Rubin could write the following translation from *After Dark*, so would he have been constitutionally capable of such bathetic language?
 
->"In our broad sweep, the city looks like a single gigantic creature—or more like a single collective entity created by many intertwining organisms. Countless arteries stretch to the ends of its elusive body, circulating a continuous supply of fresh blood cells, sending out new data and collecting the old, sending out new consumables and collecting the old, sending out new contradictions and collecting the old. To the rhythm of its pulsing, all parts of the body flicker and flare up and squirm. Midnight is approaching, and while the peak of activity has passed, the basal metabolism that maintains life continues undiminished, producing the basso continuo of the city’s moan, a monotonous sound that neither rises nor falls but is pregnant with foreboding."
+>"To the rhythm of its pulsing, all parts of the body flicker and flare up and squirm. Midnight is approaching, and while the peak of activity has passed, the basal metabolism that maintains life continues undiminished, producing the basso continuo of the city’s moan, a monotonous sound that neither rises nor falls but is pregnant with foreboding."
 
 But, no, Gabriel was the translator of my favorite Murakami novel, "Kafka on the Shore," and he was responsible for this:
 
