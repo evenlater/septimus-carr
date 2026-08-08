@@ -25,7 +25,7 @@ links:
   substack: "https://septimuscarr.substack.com/p/floating-commendatore"
   medium: ""
   goodreads: "https://www.goodreads.com/review/show/8840191329"
-  reddit: ""
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1vitntl/an_artist_of_the_floating_world_through_murikamis/"
 ReadDates:
   start: "2023-01-22"
   end: "2023-01-31"
@@ -124,4 +124,6 @@ Their methods may be similar, but their mediums are a world apart. *An Artist of
 At the risk of presenting one metaphor too many, it’s worth noting in conclusion that both writers were musical professionals before they started writing novels. Ishiguro was a singer/songwriter in the tradition of Bob Dylan and Leonard Cohen, and he is still carefully compressing his themes into tight three-minute lyrical structures. Murakami was a jazz club owner, and he is still giving his characters a place to improvise wild discursive solos.
 
 For both Ishiguro and Murakami, a writer does not need to construct a seven-mast schooner before dipping a toe in the river of metaphor. Once adrift on the consequential reality of its waves, these authors are capable of assembling the boat midstream, billowing sail by billowing sail.  
+
+<span class="gloss"><b>Postscript:</b> I have written an addendum to this essay called <a href="" target="_blank">Stacking \"Killing Commendatore\" Against An \"Artist of the Floating World\".</a> It tackles probing questions such as: Which of the two books is the superior work of literature? Is <em>Killing Commendatore</em> just a shameful retread of <em>The Wind-up Bird Chronicle</em>? Is <em>An Artist of the Floating World</em> just a shameless retread of <em></em>? Why are both authors often criticized for their \"flat prose\"? And does Japanese translator <a href="http:\\www.dwightsora.com" target="_blank">Dwight Egan Sora</a> consider \"flat prose\" a cultural characteristic peculiar to that nation?<br><br>Note that Sadie Seroxcat, editor of Medium’s <a href="http://medium.com/counterarts" target="_blank">Counter Arts</a> publication, generously selected this essay for publication in its <a href="https://medium.com/counterarts/subpage/ace15d9c0c1e" target="_blank">Literature</a> section starting Thursday August 13, 2026.</span>
 
