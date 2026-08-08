@@ -66,7 +66,7 @@ So maybe "flat prose" really means "economical prose," and yes, that could be co
 
 But that doesn't explain why Murakami’s vocabulary seems to be deteriorating.
 
-{{< section-head >}}Conclusion{{< /section-head }}
+{{< section-head >}}Conclusion{{< /section-head >}}
 
 In the end, comparative literature is about identifying shared characteristics. It is not about ranking books. If you have to do that, yes, Ishiguro is the clear victor. But Murakami’s ambition and originality score him serious points. It is not a tie, but Haruki holds his own.
  
