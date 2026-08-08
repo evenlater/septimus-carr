@@ -1,5 +1,5 @@
 ---
-title: "Stacking Killing Commendatore Against An Artist of the Floating World"
+title: "Stacking \"Killing Commendatore\" Against An \"Artist of the Floating World\""
 date: "2026-08-08"
 draft: false
 categories: ["Notes","Fiction","Multi"]

@@ -1,10 +1,10 @@
 ﻿---
-title: "Floating Commendatore"
+title: "Ishiguro & Murakami Float Ideas on the River of Metaphor"
 date: "2026-08-07"
 draft: false
 categories: ["Fiction","Multi"]
 authors: ["Haruki Murakami", "Kazuo Ishiguro"]
-subtitle: "Haruki Murakami and Kazuo Ishiguro Navigate a Metaphorical River Where the Water Is Real"
+subtitle: "Analyzing \"An Artist of the Floating of the Floating World\" on Haruki Murakami's Terms and \"Killing Commendatore\" on Kazuo Ishiguro's Terms"
 photocredit: 'Photo Credit: ID <a href="https://www.dreamstime.com/artist-painting-under-cherry-blossoms-overlooking-seaside-town-harbor-spring-japan-sits-grassy-hillside-blooming-image450779846">450779846</a> | <a href="https://www.dreamstime.com/photos-images/japanese-artist.html">Japanese Artist</a> © <a href="https://www.dreamstime.com/roscoechui_info">Roscoechui</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
 image: "/img/floating-commendatore-plumframe.PNG"
 imageMobile: "/img/floating-commendatore-crop.PNG"
