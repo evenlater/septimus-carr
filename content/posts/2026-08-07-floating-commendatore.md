@@ -126,14 +126,14 @@ At the risk of presenting one metaphor too many, it’s worth noting in conclusi
 For both Ishiguro and Murakami, a writer does not need to construct a seven-mast schooner before dipping a toe in the river of metaphor. Once adrift on the consequential reality of its waves, these authors are capable of assembling the boat midstream, billowing sail by billowing sail. 
 <br><br>
 <span class="gloss"><b>Postscript</b><br>
-I have written an addendum to this essay called <a href="https://septimuscarr.com/posts/2026-08-08-ishikami-muraguro-showdown-note/" target="_blank">Stacking "Killing Commendatore" Against An "Artist of the Floating World".</a> It tackles probing questions such as:<br>
-<ul>
-    <li>Which of the two books is the superior work of literature?</li>
-    <li>Is "Killing Commendatore" just a shameful retread of "The Wind-up Bird Chronicle"?</li>
-    <li>Is "An Artist of the Floating World" just a shameless retread of "A Pale View of Hills"?</li>
-    <li>Why are both authors often criticized for their "flat prose"?</li>
-    <li>And does translator <a href="http:\\www.dwightsora.com" target="_blank">Dwight Egan Sora</a> consider "flat prose" a Japanese cultural characteristic?</li>
-</ul>
+I have written an addendum to this essay called <a href="https://septimuscarr.com/posts/2026-08-08-ishikami-muraguro-showdown-note/" target="_blank">Stacking "Killing Commendatore" Against An "Artist of the Floating World".</a> It tackles probing questions such as:<br></span>
+<span class="gloss"><ul>
+<li>Which of the two books is the superior work of literature?</li>
+<li>Is "Killing Commendatore" just a shameful retread of "The Wind-up Bird Chronicle"?</li>
+<li>Is "An Artist of the Floating World" just a shameless retread of "A Pale View of Hills"?</li>
+<li>Why are both authors often criticized for their "flat prose"?</li>
+<li>And does translator <a href="http:\\www.dwightsora.com" target="_blank">Dwight Egan Sora</a> consider "flat prose" a Japanese cultural characteristic?</li>
+</ul></span>
 <br><br>
-Also, please note that Sadie Seroxcat, editor of Medium’s <a href="http://medium.com/counterarts" target="_blank">Counter Arts</a> publication, generously selected this essay for publication in its <a href="https://medium.com/counterarts/subpage/ace15d9c0c1e" target="_blank">Literature</a> section starting Thursday August 13, 2026. She has my thanks.</span>
+<span class="gloss">Also, please note that Sadie Seroxcat, editor of Medium’s <a href="http://medium.com/counterarts" target="_blank">Counter Arts</a> publication, generously selected this essay for publication in its <a href="https://medium.com/counterarts/subpage/ace15d9c0c1e" target="_blank">Literature</a> section starting Thursday August 13, 2026. She has my thanks.</span>
 
