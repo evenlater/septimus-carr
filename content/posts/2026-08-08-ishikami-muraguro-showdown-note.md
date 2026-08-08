@@ -6,6 +6,7 @@ categories: ["Notes","Fiction","Multi"]
 subtitle: "A Supplement to Floating Commendatore"
 image: "/img/notes.png"
 imageAlt: "pen and paper"
+imageposition: "Top"
 photocredit: "Aaron Burden, Unsplash"
 ---
 When I think about ranking Haruki Murakami’s *Killing Commendatore* against Kazuo Ishiguro’s *An Artist of the Floating World*, it hardly seems a fair fight. 
@@ -19,8 +20,8 @@ Reading the book, however, I began to suspect that a lot of that is unfair. It w
 Still, I tended to think of *Killing Commendatore* as disqualified from serious contention by two persistently nagging impressions I got from reading it: 
 
 <ul>
-  <li>1. It is a shameless retread of *The Wind-up Bird Chronicle*.</li>
-  <li>2. Its word selection is unusually vapid even for Murakami.</li>
+  <li>It is a shameless retread of *The Wind-up Bird Chronicle*.</li>
+  <li>Its word selection is unusually vapid even for Murakami.</li>
 </ul>
 
 {{< section-head >}}Shameless Retread{{< /section-head >}}
