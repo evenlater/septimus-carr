@@ -1,8 +1,10 @@
 <div class="scard">
   <a href="{{ .Permalink }}" style="text-decoration:none;color:inherit;display:block">
     <div class="cthumb">
-      {{ with .Params.image }}
-      <img src="{{ . }}" class="ci" alt="{{ $.Title }}" loading="lazy">
+      {{ if .Params.image }}
+      <img src="{{ .Params.image }}" class="ci" alt="{{ $.Title }}" loading="lazy">
+      {{ else if in .Params.categories "Notes" }}
+      <img src="/img/notes.png" class="ci" alt="{{ .Title }}" loading="lazy">
       {{ else }}
       <div class="ci ci-placeholder"></div>
       {{ end }}
