@@ -11,11 +11,11 @@ photocredit: "Aaron Burden, Unsplash"
 ---
 When I think about ranking Haruki Murakami’s *Killing Commendatore* against Kazuo Ishiguro’s *An Artist of the Floating World*, it hardly seems a fair fight. 
 
-Ishiguro’s novel has been a fundamental link in his Nobel Prize-winning chain for exactly four decades this April. It won the Whitbread Book of the Year Award and was shortlisted for the Booker Prize. It was made into a Ken Watanabe movie. It was the Japanese John the Baptist to the English Jesus Christ of *The Remains of the Day*, the book that made Ishiguro the most instantly recognizable Japanese British novelst of all time. Ono the Painter set the template for Stevens the Butler, from the ingratiating civility to their trust-canceling habit of disowning the account they have *just reported*. It has been compressed to perfection, hardly a word feels excessive or uninvolved in the book’s purposeful momentum.
+Ishiguro’s novel has been a fundamental link in his Nobel Prize-winning chain for exactly four decades this April. It won the Whitbread Book of the Year Award and was shortlisted for the Booker Prize. It was made into a Ken Watanabe movie. It was the Japanese John the Baptist to the English Jesus Christ of *The Remains of the Day*, the book that made Ishiguro the most instantly recognizable Japanese British novelist of all time. Ono the Painter set the template for Stevens the Butler, from their ingratiating civility to their trust-canceling habit of disowning the account they have *just reported*. It has been compressed to perfection, hardly a word feels excessive or uninvolved in the book’s purposeful momentum.
 
 Murakami’s novel is so Not That, it almost seems the opposite. It has been on shelves for less than a decade, and it already feels dated in its Updikean bad boy sexual energy. The most coveted trophy it has acquired is the Bad Sex in Fiction Award. (No, I’m not kidding.) Critics tend to regard it as a turgid, uneven late-career mediocrity that fails to live up to its promise. It is not John the Baptist to anything. Rather than feeling meticulously compressed, its 733 pages come across as inflated to the precipice of a self-immolating needle pop.
 
-Reading the book, however, I began to suspect that a lot of that is unfair. It was more inventive than I'd given it credit for. The 733 pages mostly fly by pleasatly if not obsessively. So it isn't the kind of prestige read that *Floating World* was. It has ambition, charm, and thematic heft.
+Reading the book, however, I began to suspect that a lot of that is unfair. It was more inventive than I'd given it credit for. The 733 pages mostly fly by pleasatly if not obsessively. It isn't the kind of prestige read that *Floating World* is, but it has ambition, charm, and thematic heft.
 
 Still, I tended to think of *Killing Commendatore* as disqualified from serious contention by two persistently nagging impressions I got from reading it: 
 
@@ -31,7 +31,7 @@ Is it? Is it, though?
 Yes, both *Wind-up* and *Commendatore* are about a Murakami Man who refuses to accept his wife’s demand for a divorce. 
 
 Yes, both books juxtapose Murakami Man’s divorce angst with World War II tragedy.
-
+H
 Yes, both books explore latent male anger.
 
 But the core idea of *Commendatore*, the art through process theme described in the canonical essay, is completely absent from *Wind-Up* and represent authentic insight on Muruakami’s part. 
