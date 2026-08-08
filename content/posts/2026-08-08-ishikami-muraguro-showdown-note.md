@@ -2,7 +2,7 @@
 title: "Stacking Killing Commendatore Against An Artist of the Floating World"
 date: "2026-08-08"
 draft: false
-categories: ["Note","Fiction","Multi"]
+categories: ["Notes","Fiction","Multi"]
 subtitle: "A Supplement to Floating Commendatore"
 ---
 When I think about ranking Haruki Murakami’s *Killing Commendatore* against Kazuo Ishiguro’s *An Artist of the Floating World*, it hardly seems a fair fight. 
