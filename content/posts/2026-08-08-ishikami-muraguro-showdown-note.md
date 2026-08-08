@@ -4,10 +4,6 @@ date: "2026-08-08"
 draft: false
 categories: ["Notes","Fiction","Multi"]
 subtitle: "A Supplement to Floating Commendatore"
-image: "/img/notes.png"
-imageAlt: "pen and paper"
-imageposition: "Top"
-photocredit: "Aaron Burden, Unsplash"
 ---
 When I think about ranking Haruki Murakami’s *Killing Commendatore* against Kazuo Ishiguro’s *An Artist of the Floating World*, it hardly seems a fair fight. 
 
