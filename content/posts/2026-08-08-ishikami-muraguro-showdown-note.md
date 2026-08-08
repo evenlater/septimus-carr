@@ -13,9 +13,9 @@ When I think about ranking Haruki Murakami’s *Killing Commendatore* against Ka
 
 Ishiguro’s novel has been a fundamental link in his Nobel Prize-winning chain for exactly four decades this April. It won the Whitbread Book of the Year Award and was shortlisted for the Booker Prize. It was made into a Ken Watanabe movie. It was the Japanese John the Baptist to the English Jesus Christ of *The Remains of the Day*, the book that made Ishiguro the most instantly recognizable Japanese British novelist of all time. Ono the Painter set the template for Stevens the Butler, from their ingratiating civility to their trust-canceling habit of disowning the account they have *just reported*. It has been compressed to perfection, hardly a word feels excessive or uninvolved in the book’s purposeful momentum.
 
-Murakami’s novel is so Not That, it almost seems the opposite. It has been on shelves for less than a decade, and it already feels dated in its Updikean bad boy sexual energy. The most coveted trophy it has acquired is the Bad Sex in Fiction Award. (No, I’m not kidding.) Critics tend to regard it as a turgid, uneven late-career mediocrity that fails to live up to its promise. It is not John the Baptist to anything. Rather than feeling meticulously compressed, its 733 pages come across as inflated to the precipice of a self-immolating needle pop.
+Murakami’s novel is so Not That, it almost seems the opposite. It has been on shelves for less than a decade, and it already feels dated in its Updikean bad boy sexual energy. The most coveted trophy it has acquired is the Bad Sex in Fiction Award. (No, I’m not kidding.) Critics tend to regard it as a turgid, uneven late-career mediocrity that fails to live up to its promise. It is not John the Baptist to anything. Rather than feeling meticulously compressed, its 733 pages come across as inflated to the precipice of a needle pop.
 
-Reading the book, however, I began to suspect that a lot of that is unfair. It was more inventive than I'd given it credit for. The 733 pages mostly fly by pleasatly if not obsessively. It isn't the kind of prestige read that *Floating World* is, but it has ambition, charm, and thematic heft.
+Reading the book, however, I began to suspect that a lot of that is unfair. It was more inventive than I'd given it credit for. The 733 pages mostly fly by pleasantly if not obsessively. It isn't the kind of prestige read that *Floating World* is, but it has ambition, charm, and thematic heft.
 
 Still, I tended to think of *Killing Commendatore* as disqualified from serious contention with Ishiguro’s mini-masterpiece based on two persistently nagging impressions: 
 
@@ -34,9 +34,9 @@ Yes, both books juxtapose Murakami Man’s divorce angst with World War II trage
 
 Yes, both books explore latent male anger.
 
-But the core idea of *Commendatore*, the Art-through-Process theme described in the canonical essay, is completely absent from *Wind-Up* and represent authentic insight on Muruakami’s part. 
+But the core idea of *Commendatore*, the Art-through-Process theme described in the canonical essay, is completely absent from *Wind-Up* and represents authentic insight on Murakami’s part. 
 
-Moreover, if *Killing Commendatore* is a retread, so is *An Artist of the Floating World*. I haven't read *A Pale View of Hills*, but I understand that Ono and his story are a conscious replica of its teacher subplot. So is re-using material really a bad thing?
+Moreover, *An Artist of the Floating World* also deliberately revisits story elements from a prior work. I haven't read *A Pale View of Hills*, but I understand that Ono and his story are a conscious reworking of its teacher subplot. Perhaps *Killing Commendatore* is less lazy retread than an attempt to return to a story he was still processing.
 
 {{< section-head >}}Vapid Word Choice{{< /section-head >}}
 
@@ -54,9 +54,9 @@ I wondered at first if Philip Gabriel was a weak new translator. After all, regu
 
 >"To the rhythm of its pulsing, all parts of the body flicker and flare up and squirm. Midnight is approaching, and while the peak of activity has passed, the basal metabolism that maintains life continues undiminished, producing the basso continuo of the city’s moan, a monotonous sound that neither rises nor falls but is pregnant with foreboding."
 
-But, no, Gabriel was the translator of my favorite Murakami novel, "Kafka on the Shore," and he was responsible for this:
+But, no, Gabriel was the translator of my favorite Murakami novel, *Kafka on the Shore*, and he was responsible for this:
 
->“If you play Schubert’s sonatas, especially this one straight through, it’s not art. Like Schumann pointed out, it’s too long and too pastoral, and technically too simplistic. Play it through the way it is and it’s flat and tasteless, some dusty antique. Which is why every pianist who attempts it adds something of his own, something extra. Like this—hear how he articulates it there? Adding rubato. Adjusting the pace, modulation, whatever. Otherwise they can’t hold it all together. They have to be careful, though, or else all those extra devices destroy the dignity of the piece."
+>“If you play Schubert’s sonatas, especially this one straight through, it’s not art. Like Schumann pointed out, it’s too long and too pastoral, and technically too simplistic. Play it through the way it is and it’s flat and tasteless, some dusty antique. Which is why every pianist who attempts it adds something of his own, something extra. Like this—hear how he articulates it there? Adding rubato. Adjusting the pace, modulation, whatever.”
 
 But the strange thing is that Ishiguro, a native English speaker, has been saddled with the same diagnosis of "flat prose." This is from James Wood in The New Yorker:
 
@@ -66,9 +66,9 @@ I wondered if Ishiguro, who grew up listening to his parents speak Japanese as a
 
 "Having never read Murakami in Japanese, I can't really comment on the accuracy of the translations. Interestingly, I never thought about the flatness of Ishiguro's prose, but I always felt that there was an underlying Japanese sensibility to his stories and his character's inner lives (Including the very-English Remains of the Day). A lot of Japanese art is focused on compression and brevity (such as in haiku), and the general tendency of those practicing those arts is to get even more compressed and spare over the years. There are a lot of factors behind this. The Buddhist-derived concept of “emptiness,” that negative space (whether emptiness in a painting or text) has its own significance and meaning equal to content. There’s also a fatalistic streak and sense of scarcity in the Japanese psyche (I always remind folks that despite being a major techno-economic power, it’s still a tiny nation of small islands with limited natural resources, little arable land, and located in a natural disaster zone prone to typhoons, earthquakes and tsunami) that emphasizes finding the most out of the least. I would say a lot of Japanese art and literature (both classic and modern) also often focuses on the banal and mundane in terms of subjects and observations, and sometimes opts for rather childish modes of expression. Exactly what this means is hard to say. However, there is a tendency in Japanese society to really force order, behavior and expectations upon children starting in elementary school, after a very carefree early childhood period. This rigidity and demand for seriousness pretty much continues through your entire adult working life. However, once you are entering your advanced years, you’re allowed to slip into rather childish behavior. Almost as if you are given a chance to reclaim opportunities to play denied earlier in life. I don’t know if any of that is helpful, but those are my notes."
 
-So maybe "flat prose" really means "economical prose," and yes, that could be construed as having cultural origins.
+Dwight’s answer lent substance to a stab-in-the-dark question. His compression instinct rings true to my uninformed mind. I recognize that minimalist aesthetic from Japanese cuisine, with its tendency to value the innate flavor of the ingredients rather than shovel on seasoning, as Americans do. Compression is, of course, Ishiguro’s hallmark as a novelist, and Murakami directly discusses “negative space” as a concept in visual art in *Killing Commendatore*. Furthermore, the "childish behavior" diagnosis may explain Murakami’s banal choice of adjectives in his seventies, although I still find it mind boggling that his translator and editors would let him get away with "deep, amazing, and gorgeous." 
 
-But that doesn't explain why Murakami’s vocabulary seems to be deteriorating.
+As for Ishiguro’s Japanese sensibility, I assumed the relentless politeness of his dialogue was a Japanese trait when I read *Floating World*, but it shows up in other settings, too. I always thought it odd that Stevens uses “Father” in place of pronouns when addressing his dad: “Father is tired tonight, I expect.” The daughter in “Floating World” does the same thing. "Japanese sensibility" may be the most logical explanation, unless using a parental title in place of pronouns is a British custom I don't recognize.
 
 {{< section-head >}}Conclusion{{< /section-head >}}
 
