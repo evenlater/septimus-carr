@@ -133,8 +133,10 @@
     <a href="{{ .Permalink }}" class="rel-card">
       <div class="rel-thumb">
         {{ $thumb := .Params.imageMobile | default .Params.image }}
-        {{ with $thumb }}
-        <img src="{{ . }}" class="rel-img" alt="{{ $.Title }}" loading="lazy">
+        {{ if $thumb }}
+        <img src="{{ $thumb }}" class="rel-img" alt="{{ .Title }}" loading="lazy">
+        {{ else if in .Params.categories "Notes" }}
+        <img src="/img/notes.png" class="rel-img" alt="{{ .Title }}" loading="lazy">
         {{ else }}
         <div class="rel-img ci-placeholder"></div>
         {{ end }}

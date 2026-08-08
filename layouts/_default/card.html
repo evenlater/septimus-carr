@@ -1,0 +1,21 @@
+<div class="scard">
+  <a href="{{ .Permalink }}" style="text-decoration:none;color:inherit;display:block">
+    <div class="cthumb">
+      {{ if .Params.image }}
+      <img src="{{ .Params.image }}" class="ci" alt="{{ $.Title }}" loading="lazy">
+      {{ else if in .Params.categories "Notes" }}
+      <img src="/img/notes.png" class="ci" alt="{{ .Title }}" loading="lazy">
+      {{ else }}
+      <div class="ci ci-placeholder"></div>
+      {{ end }}
+    </div>
+    <div class="cpills">
+      {{ range .Params.categories }}
+      <span class="pill pill-{{ . | lower | urlize }}">{{ . }}</span>
+      {{ end }}
+    </div>
+    <span class="ctt">{{ .Title }}</span>
+    {{ with .Params.subtitle }}<p class="csub">{{ . }}</p>{{ end }}
+    <div class="cdt">{{ .Date.Format "January 2, 2006" }}</div>
+  </a>
+</div>
