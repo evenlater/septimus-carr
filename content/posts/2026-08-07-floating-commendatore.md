@@ -59,7 +59,7 @@ Even Murakami’s self-evaluation is an oversimplification. Unquestionably, Mura
 
  ## <b>Ishiguro’s Inquiry:</b><br>Making a Better Go of Things
  
- <img src="/img/floating-cover.jpg" alt="Artist of the Floating World cover." width="375" style="display: block; margin: 0 auto;">
+ <img src="/img/floating-cover.jpg" alt="Artist of the Floating World cover." width="300" style="display: block; margin: 0 auto;">
 
 >To see how our city has been rebuilt, how things have recovered so rapidly over these years, fills me with genuine gladness. Our nation, it seems, whatever mistakes it may have made in the past, has now another chance to make a better go of things. One can only wish these young people well.
 ><cite>Narrator Masuji Ono in Kazuo Ishiguro’s <em>An Artist of the Floating World</em>
@@ -74,7 +74,7 @@ To that end, *Floating World* is full of narratorial prevarications like this: �
 
 ## <b>Murakami on Ishiguro’s Terms:</b><br>Historical Headfake
 
- <img src="/img/killing-cover.jpg" alt="Killing Commendatore cover." width="375" style="display: block; margin: 0 auto;">
+ <img src="/img/killing-cover.jpg" alt="Killing Commendatore cover." width="300" style="display: block; margin: 0 auto;">
 
 As close as *Killing Commendatore* comes to relitigating the generational conflict of *Floating World*, Murakami sidesteps the question by acquitting his war-era artist of Ono-esque wrongdoing. Tomohiko Amada is this book’s Ono generationally speaking, but he takes the principled political stand that Ono can’t muster. From 1939 to 1947, we are told, Amada “stayed as far removed as possible from what we might call ‘artistic circles.’ He couldn’t stand that crowd anyway, and their ‘nationalist art’ glorifying the war effort made him like them even less.” Far from grappling with whether those nationalist artists should have killed themselves after the war, Murakami portrays a different sort of principled suicide. Amada’s brother slits his wrists to evade culpability when ordered to execute Chinese prisoners.
 
@@ -97,7 +97,7 @@ Because the setup feels real, and because most men bear a capacity for latent vi
  
 ## <b>Murakami’s Message:</b><br>The Idea Made Visible
 
- <img src="/img/murakami.jpg" alt="Haruki Murakami" width="375" style="display: block; margin: 0 auto;"><br><span class="gloss">Haruki Murakami and his signature, from Society for Culture, Art and International Cooperation</span>
+ <img src="/img/murakami.jpg" alt="Haruki Murakami" width="300" style="display: block; margin: 0 auto;"><br><span class="gloss" style="display: block; margin: 0 auto;">Haruki Murakami and his signature, from Society for Culture, Art and International Cooperation</span>
 
 The core idea of *Killing Commendatore* is that, rather than forming an Idea for a work of art and then meticulously perfecting it, the artist often begins creation in search of an Idea. In the novel, Murakami Man starts a portrait of Menshiki without knowing what he is trying to capture:
 
@@ -115,7 +115,7 @@ In *Killing Commendatore*, Murakami’s central metaphor is equally illuminating
 
 ## <b>Ishiguro on Murakami’s Terms:</b><br>Competing Metaphors 
 
-<img src="/img/ishiguro.jpg" alt="Kazuo Ishiguro" width="375" style="display: block; margin: 0 auto;"><br><span class="gloss">By Martin Kraft - Own work, CC BY-SA 4.0.</span>
+<img src="/img/ishiguro.jpg" alt="Kazuo Ishiguro" width="300" style="display: block; margin: 0 auto;"><br><span class="gloss"  style="display: block; margin: 0 auto;">By Martin Kraft - Own work, CC BY-SA 4.0.</span>
 
 Ishiguro’s fiction doesn’t swing through such polarities. He once told an interviewer that he “tries to avoid anything that is overtly melodramatic or plotty, that tries basically to remain within the realms of everyday experience.” Such a grounded methodology means whittling his central conceit into 206 tightly coiled pages, not expanding it, like *Commendatore*, into 733 pages of sloppy intellectual thrill-ride. 
 
