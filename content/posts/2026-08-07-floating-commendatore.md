@@ -97,7 +97,7 @@ Because the setup feels real, and because most men bear a capacity for latent vi
  
 ## <b>Murakami’s Message:</b><br>The Idea Made Visible
 
- <img src="/img/murakami.jpg" alt="Haruki Murakami" width="300" style="display: block; margin: 0 auto;"><br><span class="gloss" style="display: block; margin: 0 auto;">Haruki Murakami and his signature, from Society for Culture, Art and International Cooperation</span>
+ <img src="/img/murakami.jpg" alt="Haruki Murakami" width="300" style="display: block; margin: 0 auto;"><br><center><span class="gloss">Haruki Murakami and his signature, from Society for Culture, Art and International Cooperation</span></center>
 
 The core idea of *Killing Commendatore* is that, rather than forming an Idea for a work of art and then meticulously perfecting it, the artist often begins creation in search of an Idea. In the novel, Murakami Man starts a portrait of Menshiki without knowing what he is trying to capture:
 
@@ -115,7 +115,7 @@ In *Killing Commendatore*, Murakami’s central metaphor is equally illuminating
 
 ## <b>Ishiguro on Murakami’s Terms:</b><br>Competing Metaphors 
 
-<img src="/img/ishiguro.jpg" alt="Kazuo Ishiguro" width="300" style="display: block; margin: 0 auto;"><br><span class="gloss"  style="display: block; margin: 0 auto;">By Martin Kraft - Own work, CC BY-SA 4.0.</span>
+<img src="/img/ishiguro.jpg" alt="Kazuo Ishiguro" width="300" style="display: block; margin: 0 auto;"><br><center><span class="gloss">By Martin Kraft - Own work, CC BY-SA 4.0.</span></center>
 
 Ishiguro’s fiction doesn’t swing through such polarities. He once told an interviewer that he “tries to avoid anything that is overtly melodramatic or plotty, that tries basically to remain within the realms of everyday experience.” Such a grounded methodology means whittling his central conceit into 206 tightly coiled pages, not expanding it, like *Commendatore*, into 733 pages of sloppy intellectual thrill-ride. 
 
