@@ -58,6 +58,8 @@ Even Murakami’s self-evaluation is an oversimplification. Unquestionably, Mura
 *Killing Commendatore* finds Murakami coming as close as he ever has to a direct dialogue with Ishiguro’s work. Like *An Artist of the Floating World*, the novel contends with the atrocities Imperial Japan committed during the war. Both books depict painters confronted with the state’s demand that they subjugate art to politics. Because of that shared starting point, the two books provide a fascinating case study for comparison. The temptation is to evaluate Murakami on Ishiguro’s terms: what does he have to say about his generation’s relationship to his parents’ embrace of Fascist values? But it turns out that the more interesting question is how both authors hold up on Murakami’s terms, as laid out in *Killing Commendatore*: how does an artist arrive at an Idea, and what approach best realizes that Idea?
 
  ## <b>Ishiguro’s Inquiry:</b><br>Making a Better Go of Things
+ 
+ <img src="/img/floating-cover.jpg" alt="Artist of the Floating World cover." width="375" style="display: block; margin: 0 auto;">
 
 >To see how our city has been rebuilt, how things have recovered so rapidly over these years, fills me with genuine gladness. Our nation, it seems, whatever mistakes it may have made in the past, has now another chance to make a better go of things. One can only wish these young people well.
 ><cite>Narrator Masuji Ono in Kazuo Ishiguro’s <em>An Artist of the Floating World</em>
@@ -71,6 +73,8 @@ Ultimately, generational guilt is not Ishiguro’s true subject; he is more inte
 To that end, *Floating World* is full of narratorial prevarications like this: “Did Miyake really say all this to me that afternoon? Perhaps I am getting his words confused with the sort of thing Suichi [his son-in-law] will come out and say. This is quite possible.” Wood has called Ishiguro’s narrators “reliably unreliable.” The truth comes through our own interpretive lens and in moments of unintended honesty. This allows Ishiguro to be brutal in his ethical verdict and compassionate in his narrative sentencing. The quotation about “making a better go of things” in future generations ends the novel on a note of intergenerational grace.
 
 ## <b>Murakami on Ishiguro’s Terms:</b><br>Historical Headfake
+
+ <img src="/img/killing-cover.jpg" alt="Killing Commendatore cover." width="375" style="display: block; margin: 0 auto;">
 
 As close as *Killing Commendatore* comes to relitigating the generational conflict of *Floating World*, Murakami sidesteps the question by acquitting his war-era artist of Ono-esque wrongdoing. Tomohiko Amada is this book’s Ono generationally speaking, but he takes the principled political stand that Ono can’t muster. From 1939 to 1947, we are told, Amada “stayed as far removed as possible from what we might call ‘artistic circles.’ He couldn’t stand that crowd anyway, and their ‘nationalist art’ glorifying the war effort made him like them even less.” Far from grappling with whether those nationalist artists should have killed themselves after the war, Murakami portrays a different sort of principled suicide. Amada’s brother slits his wrists to evade culpability when ordered to execute Chinese prisoners.
 
@@ -93,6 +97,8 @@ Because the setup feels real, and because most men bear a capacity for latent vi
  
 ## <b>Murakami’s Message:</b><br>The Idea Made Visible
 
+ <img src="/img/murakami.jpg" alt="Haruki Murakami" width="375" style="display: block; margin: 0 auto;"><br><span class="gloss">Haruki Murakami and his signature, from Society for Culture, Art and International Cooperation</span>
+
 The core idea of *Killing Commendatore* is that, rather than forming an Idea for a work of art and then meticulously perfecting it, the artist often begins creation in search of an Idea. In the novel, Murakami Man starts a portrait of Menshiki without knowing what he is trying to capture:
 
 >My sketches had accurately captured what was distinctive about his face, yet there was nothing about them beyond the sense that they were well-done drawings. They were all oddly shallow and superficial, devoid of depth. They were no different from caricatures drawn by some street artist.
@@ -108,6 +114,8 @@ I have long felt that Murakami’s work fossilizes his own early probing for a p
 In *Killing Commendatore*, Murakami’s central metaphor is equally illuminating: Commendatore’s transubstantiation symbolizes art’s power to create a tactile link between artist and subject. The metaphor is fragile, but it works best when Murakami goes all in, as in a climactic hero’s journey through a perilous underworld with its own River Styx that one character, a renegade figure incarnated from canvas, declares “is a metaphorical river, but the water is very real.”
 
 ## <b>Ishiguro on Murakami’s Terms:</b><br>Competing Metaphors 
+
+<img src="/img/ishiguro.jpg" alt="Kazuo Ishiguro" width="375" style="display: block; margin: 0 auto;"><br><span class="gloss">By Martin Kraft - Own work, CC BY-SA 4.0.</span>
 
 Ishiguro’s fiction doesn’t swing through such polarities. He once told an interviewer that he “tries to avoid anything that is overtly melodramatic or plotty, that tries basically to remain within the realms of everyday experience.” Such a grounded methodology means whittling his central conceit into 206 tightly coiled pages, not expanding it, like *Commendatore*, into 733 pages of sloppy intellectual thrill-ride. 
 
