@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="container">
+  <div class="posts-section">
+    <div class="posts-header"><h3>{{ .Title }}</h3></div>
+
+    {{ $paginator := .Paginate .Pages.ByDate.Reverse 6 }}
+    <div class="post-grid">
+      {{ range $paginator.Pages }}
+        {{ partial "post-card.html" . }}
+      {{ end }}
+    </div>
+
+    {{ partial "site-pagination.html" . }}
+  </div>
+</div>
+{{ end }}
