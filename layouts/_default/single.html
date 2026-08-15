@@ -64,7 +64,7 @@
 
 {{/* ── BOOK METADATA CARD ── */}}
 {{ with .Params.book }}
-<div class="book-meta-wrapper{{ if not .isbn2 }} single{{ end }}">
+<div class="book-meta-wrapper{{ if not .isbn2 }} single{{ else if .isbn3 }} triple{{ end }}">
   <div class="book-meta">
     <img class="book-cover" src="{{ if .cover }}{{ .cover }}{{ else }}https://covers.openlibrary.org/b/isbn/{{ .isbn }}-M.jpg{{ end }}" />
     <div>
@@ -82,6 +82,17 @@
 	  <div class="book-year">{{ .year2 }}</div>
       <div class="book-author">{{ .author2 }}</div>
       <div class="book-isbn">{{ .isbn2 }}</div>
+    </div>
+  </div>
+  {{ end }}
+  {{ if .isbn3 }}
+  <div class="book-meta">
+    <img class="book-cover" src="{{ if .cover3 }}{{ .cover3 }}{{ else }}https://covers.openlibrary.org/b/isbn/{{ .isbn3 }}-M.jpg{{ end }}" />
+    <div>
+      <div class="book-title">{{ .title3 }}</div>
+	  <div class="book-year">{{ .year3 }}</div>
+      <div class="book-author">{{ .author3 }}</div>
+      <div class="book-isbn">{{ .isbn3 }}</div>
     </div>
   </div>
   {{ end }}

@@ -27,6 +27,16 @@
   grid-template-columns: 1fr;
 }
 
+.book-meta-wrapper.triple {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+@media (max-width: 720px) {
+  .book-meta-wrapper.triple {
+    grid-template-columns: 1fr;
+  }
+}
+
 .book-meta {
   display: flex;
   gap: 20px;
