@@ -20,6 +20,11 @@ book:
   year2: "2017"
   isbn2: "9780099583172"
   cover2: "/img/idiot-cover.jpg"
+  title3: "Either\/Or"
+  author3: "Elif Batuman"
+  year3: "2022"
+  isbn3: "9780525557616"
+  cover3: "/img/either-or-cover.jpg" 
 links:
   substack: ""
   medium: ""
