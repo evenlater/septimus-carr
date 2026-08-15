@@ -1,6 +1,6 @@
 ﻿---
 title: "A Tale Told by an \"Idiot\", Full of \"Theory & Practice\"—What Does it Signify?" 
-date: "2026-08-15"
+date: "1000-08-15"
 draft: false
 categories: ["Fiction","Multi"]
 authors: ["Michelle de Kretser", "Elif Batuman"]
