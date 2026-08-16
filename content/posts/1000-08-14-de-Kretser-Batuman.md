@@ -84,12 +84,12 @@ The weightier claim to innovation is that of a novel that weaves academic litera
 >I thought *In Search of Lost Time* sounded exciting and detective-like, and *Remembrance of Things Past* sounded lame. “When to the sessions of sweet silent thought / I summon up remembrance of things past”: I didn’t like when people used “sweet” about non-sensory experiences. Why were we in my mouth all of a sudden?
 ><cite>Elif Batuman, <em>Either/Or</em></cite>
 
-In another, she discusses Dostoevsky with the boy she is crushing on:
+In another, she discusses Dostoevsky’s *Crime and Punishment* with the boy she is crushing on:
 
 >He invents these supposedly complicated problems and then gets so worked up about them—like, it’s hell, it’s intolerable humiliation, it’s the mathematically highest point of abasement. But to me, none of those things seem particularly hellish or humiliating or complicated. When I can’t get worked up myself, I feel embarrassed. And tired. ... It’s like he does this shoddy, depressing thing, killing an old lady—and instead of shoddy and depressing, it’s supposed to be an earthshaking philosophical crisis.”
 ><cite>Elif Batuman, <em>The Idiot</em></cite>
 
-Either way, the goal of these passages is to illuminate characterization. Batuman is not attempting to get an A on a term paper.
+The goal of these passages is to illuminate characterization. Batuman is not attempting to get an A on a term paper.
 
 What makes de Kretser’s book thrilling is that her ideas about Virginia Woolf are part of the novel’s larger argument. She is interested in the relationship between intellectual framework and lived experience: theory and practice. Her examination of Woolf’s casual antisemitism despite her marriage to a Jewish man reveals that her theoretical heroism does not always convert to practical morality. The narrator is not just idly speculating about Woolf’s shortcomings. She is incorporating her thoughts into a verdict on her own behavior. De Kretser also draws parallels between the horrors of colonialism, expressed in a homework-inspired passage about Israeli/Palestinian relations in 1986 and in Woolf’s own disturbing comfort with the brutish practice of Empire, and the narrator’s experience of sexual callousness.
 
@@ -98,15 +98,26 @@ At times, de Kretser’s critical insights are entertainingly well developed. Fo
 >I contrasted the modernising trajectory of Woolf’s Englishwomen and the ongoing immiseration of the tea pluckers. The former was made possible by the latter, by the exploitative colonial practices that underwrote British progress and wealth. I told my audience that Woolf had set out to find a fresh form in *The Years*, but had later abandoned the attempt. A fresh form represents a desire to see the world differently, but Woolf hadn’t managed to do so. *The Years* remained enclosed in the powerful fiction that the self-fulfilment of British women transcended the imperialism that enabled it. That was The Story Under The Story in *The Years*. Like the Indian at the party, it was a narrative presence denied a voice.
 ><cite>Michelle de Kretser, <em>Theory & Practice</em></cite>
 
-## New Forms?
+Michelle’s critcism here is not just character work, as is Selin’s take on Proust and Dosteovsky. She is introducing authentic textual insight, backed by historical research. The trouble is, in this most pivotal instance at least, that the critical text is not actually integrated. De Kretser *narrates* her paper rather than excerpting it. That was disappointing.
 
-*Either/Or* starts with Selin’s confession that skill as an essayist has never translated to imagination. She is inept at inventing stories. But in the book’s  conclusion, she turns a fascinating critique of Henry James’s *The Portrait of a Lady* into a manifesto for her own experience based fiction:
+The climax of *Either/Or* ends up modeling a more seamless integration of the two modes of writing. That book starts with Selin’s confession that skill as an essayist has never translated to imagination. She is inept at inventing stories. But in the book’s  conclusion, she turns a fascinating critique of Henry James’s *The Portrait of a Lady* into compelling narrative:
 
 >Near the beginning of *The Portrait of a Lady*, there was mention of an aunt who kept telling people that Isabel was writing a book. In fact, Henry James said, Isabel was not and never had been writing a book. She “had no desire to be an authoress,” “no talent for expression,” and “none of the consciousness of genius,” having only “a general idea that people were right when they treated her as if she were rather superior.” It was one of the few places where Henry James was mean about Isabel. Well, it made sense. If she could write a book, he would be out of a job. That’s why Madame Bovary had to be too dumb and banal to write *Madame Bovary*: so Flaubert could have a great humane moment where he said he was *Madame Bovary*. But I wasn’t dumb or banal, and I lived in the future. Nobody was going to trick me into marrying some loser, and even if they did, I would write the goddamn book myself.
 ><cite>Elif Batuman, <em>Either/Or</em></cite>
 
-Batuman doesn’t present this passage as criticism cum fiction. The literary analysis is fully employed as a storytelling device. 
+Batuman doesn’t present this passage as criticism cum fiction. The literary analysis is fully employed as a storytelling device. The criticism catalyzes character growth. *The Idiot* and *Either/Or* are sometimes frustrating in their capacious drift through Selin’s undergraduate experience, but I have no notes on Batuman’s propulsive, criticism-fueled conclusion.  
 
-Ultimately, de Kretser’s decision to present a summary of her paper rather than excerpts of it undermines her claim to hybrid prose, and in any case the emotional realism of *Theory & Practice*’s fictional romance overwhelms its critical substance. 
+## New Forms?
+
+Selin’s epiphany about *The Portrait of a Lady* turns into a manifesto for her own experience based fiction. She reads James’s preface to that book, which uses the image of a "wind-blown germ" to explain how ideas for stories drift into his life. She decides that she can turn this insight into a new form of fiction:
+
+>Nowhere in the preface did Henry James say why he hadn’t found his own life interesting enough to write about. I tried to remember what I knew about Henry James’s life. I was pretty sure I had read that he was gay. Probably being gay had been illegal, and he had been ashamed. So his problem, like Isabel’s, was that he had been born too soon. That was sad, but it didn’t really change anything. Like, for whatever reason, Henry James had had to do stuff like find a “wind-blown germ” and then forget how he had found it, so he wouldn’t feel like he was stealing. But I was more fortunate. I was going to remember, or discover, where everything came from. I was going to do the subtle, monstrous thing where you figured out what you were doing, and why.
+><cite>Elif Batuman, <em>Either/Or</em></cite>
+
+The reader of *Either/Or* understands that Selin’s new form is the book in their hands, just as audiences of *The Tragic Fall of Rufus the Great* understood that they were watching Rufus’s failed attempt at a dramatic masterpiece. This returns us to our initial inquiry: Has Batuman earned the claim to a new form? Has de Kretser?
+ 
+I don’t think either author has cleared that bar. Batuman’s use of James and Flaubert in her climactic revelation is riveting narrative with real analytical heft, but the voice is consistent with the narration throughout the two novels. Selin is becoming a more insightful critic, but her *form* of discussing literature remains that of a storyteller, not an academic. She has not actually changed her mode of writing.
+
+De Kretser’s decision to present a summary of her paper rather than excerpts of it undermines her claim to hybrid prose. I would have preferred it if she had interwoven her critical voice with her narrative voice, similar to the way that A.S. Byatt weaves Victorian poetry into 20th-century narrative in *Possession*. As it stands, the emotional realism of *Theory & Practice*’s fictional romance is so absorbing that it overwhelms the book’s critical substance. 
 
 Neither author has created a novel that doesn’t read like a novel or reinvented a centuries-old art form. But the willingness of both authors to merge their own stories with literary insight and narrative imagination makes for three exceptional reading experiences. Their dramatic masterpieces may not be wholly original, but they do not turn out to be just another edition of *Death of a Salesman*. 
