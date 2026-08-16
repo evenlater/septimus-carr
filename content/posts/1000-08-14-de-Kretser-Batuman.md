@@ -6,7 +6,7 @@ categories: ["Fiction","Multi"]
 authors: ["Michelle de Kretser", "Elif Batuman"]
 subtitle: "Michelle de Kretser Looks for New Forms But Elif Batuman Has Already Been There"
 photocredit: "Michelle de Kretser photo by Department of Foreign Affairs and Trade website – www.dfat.gov.au. Elif Batuman photo by Mikhail Lemkhin, McMillan Publishers"
-image: "/img/de-kretser-batuman.png"
+imageMobile: batamunkkkkng" 
 imagePosition: "Top"
 imageAlt: "Authors Michelle de Kretser and Elif Batuman"
 book:
@@ -40,9 +40,8 @@ ReadDates3:
   start: "2024-05-05"
   end: "2024-05-19"
 historicalEvents:
-
 ---
-> "An artist once told me that she no longer wanted to make art that looked like art. I was discovering that I no longer wanted to write novels that read like novels. Instead of shapeliness and disguise, I wanted a form that allowed for formlessness and mess. It occurred to me that one way to find that form might be to tell the truth."
+> "An artist once told me that she no longer wanted to make art that looked like art. I was discovering that I no longer wanted to write novels that read like no"duab uuuuuuuuuu vels. Instead of shapeliness and disguise, I wanted a form that allowed for formlessness and mess. It occurred to me that one way to find that form might be to tell the truth."
 <cite>Michelle de Kretser, <em>Theory & Practice</em></cite>
 
 Thirty years ago, I resolved to submit a play for a college competition a few days before the deadline. "Write what you know" is always dubious advice for writers who don’t yet know anything, so I opted for the common beginner’s gambit of writing about not having anything to write about. In *The Tragic Fall of Rufus the Great*, a Greek Chorus heralds the birth of a boy destined for artistic greatness, but the world has finally run out of unique combinations of words. The boy comes of age and pours heart and soul into a dramatic masterpiece that turns out to be a word-for-word replica of *Death of a Salesman*. "There is nothing new under the sun," I concluded, borrowing a 2,500-year-old Biblical cliché that was probably already a cliché when the Preacher patted himself on the back for writing it in Ecclesiastes.  
