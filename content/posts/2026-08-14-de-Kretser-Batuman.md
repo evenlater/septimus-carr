@@ -8,7 +8,7 @@ subtitle: "Michelle de Kretser Looks for New Forms But Elif Batuman Has Already 
 photocredit: "Composite by Septimus Carr, performed in Canva without AI. Michelle de Kretser photo by Department of Foreign Affairs and Trade website – www.dfat.gov.au. Elif Batuman photo by Mikhail Lemkhin, McMillan Publishers"
 image: "/img/theory-practice.png" 
 imageHero: "/img/theory-practice-hero.png" 
-imagePosition: "Top 3%"
+imagePosition: "Top 1%"
 imageAlt: "Authors Michelle de Kretser and Elif Batuman"
 book:
   title: "Theory & Practice"
@@ -118,6 +118,6 @@ The reader of *Either/Or* understands that Selin’s new form is the book in the
  
 I don’t think either author has cleared that bar. Batuman’s use of James and Flaubert in her climactic revelation is riveting narrative with real analytical heft, but the voice is consistent with the narration throughout the two novels. Selin is becoming a more insightful critic, but her *form* of discussing literature remains that of a storyteller, not an academic. She has not actually changed her mode of writing.
 
-De Kretser’s decision to present a summary of her paper rather than excerpts of it undermines her claim to hybrid prose. I would have preferred it if she had interwoven her critical voice with her narrative voice, similar to the way that A.S. Byatt weaves Victorian poetry into 20th-century narrative in *Possession*. It is not necessary for the essayistic content to be indistinguishable from the story, the way that Benjamín Labatut's non-fiction melts invisibly into his fiction. But it seems to me a more original use of critical writing would be for the two forms to be rendered adjacently in their native lexography, not in a character’s voice. Having characters discuss literature is not a new form; Virginia Woolf's characters were doing that as early as *The Voyage Out*. 
+De Kretser’s decision to present a summary of her paper rather than excerpts of it undermines her claim to hybrid prose. I would have preferred it if she had interwoven her critical voice with her narrative voice, similar to the way that A.S. Byatt weaves Victorian poetry into 20th-century narrative in *Possession*. It is not necessary for the essayistic content to be indistinguishable from the story, the way that Benjamín Labatut's non-fiction melts invisibly into his fiction. But it seems to me a more original use of critical writing would be for the two forms to be rendered adjacently in their native lexography, not in a character’s voice. Having characters discuss literature is not a new form. Selin knows that; she's read Proust.
 
 Neither author has created a novel that doesn’t read like a novel or reinvented a centuries-old art form. But the willingness of both authors to merge their own stories with literary insight and narrative imagination makes for three exceptional reading experiences. Their dramatic masterpieces may not be wholly original, but they do not turn out to be just another edition of *Death of a Salesman*. 
