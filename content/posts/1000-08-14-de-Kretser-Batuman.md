@@ -6,7 +6,8 @@ categories: ["Fiction","Multi"]
 authors: ["Michelle de Kretser", "Elif Batuman"]
 subtitle: "Michelle de Kretser Looks for New Forms But Elif Batuman Has Already Been There"
 photocredit: "Michelle de Kretser photo by Department of Foreign Affairs and Trade website – www.dfat.gov.au. Elif Batuman photo by Mikhail Lemkhin, McMillan Publishers"
-imageMobile: batamunkkkkng" 
+image: "/img/theory-practice.png"
+imageMobile: "/img/de-kretser-batuman.png" 
 imagePosition: "Top"
 imageAlt: "Authors Michelle de Kretser and Elif Batuman"
 book:
