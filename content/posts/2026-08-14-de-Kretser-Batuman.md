@@ -1,19 +1,19 @@
 ﻿---
 title: "A Tale Told by an \"Idiot\", Full of \"Theory & Practice\"—What Does it Signify?" 
-date: "1000-08-15"
+date: "2026-08-15"
 draft: false
 categories: ["Fiction","Multi"]
 authors: ["Michelle de Kretser", "Elif Batuman"]
 subtitle: "Michelle de Kretser Looks for New Forms But Elif Batuman Has Already Been There"
-photocredit: "Michelle de Kretser photo by Department of Foreign Affairs and Trade website – www.dfat.gov.au. Elif Batuman photo by Mikhail Lemkhin, McMillan Publishers"
+photocredit: "Composite by Septimus Carr, performed in Canva without AI. Michelle de Kretser photo by Department of Foreign Affairs and Trade website – www.dfat.gov.au. Elif Batuman photo by Mikhail Lemkhin, McMillan Publishers"
 image: "/img/theory-practice.png" 
 imageHero: "/img/theory-practice-hero.png" 
-imagePosition: "Top"
+imagePosition: "Top 20%"
 imageAlt: "Authors Michelle de Kretser and Elif Batuman"
 book:
   title: "Theory & Practice"
   author: "Michelle de Kretser"
-  year: "2026"
+  year: "2025"
   isbn: "9781646222889"
   cover: "/img/theory-practice-cover.jpg"
   title2: "The Idiot"
@@ -49,7 +49,7 @@ Thirty years ago, I resolved to submit a play for a college competition a few da
 
 The next spring, I saw *Mighty Aphrodite* in a second-run movie theater and realized Woody Allen had been working on the same idea, right down to the vaunted newborn and the satirical Greek Chorus. My eagerness to have my play workshopped dissipated permanently as I realized the world would assume I’d heisted it wholesale from Woody. "Nothing new," indeed. 
 
-The buyer should always beware claims of new forms. Is there any possible form of fiction that fiction hasn’t already taken? "The novel was triumphant at the middle of the [19th] century," says critic James Wood in his book *The Broken Estate*, "and there is a sense in which Melville, Flaubert, and Gogol, all of them writing roughly contemporaneously, were poets who wanted to make the novel a genre that could consume all others and then perform all their functions at once—a stomach of genres, digesting satire, poetry, epic, the historical novel, realism, and fable." Since then, we have had the shifting interiority of Virginia Woolf, the arcane allusivity of James Joyce, the maximalist floridity of Marcel Proust, the self-referential disclosure of John Barth, the duplicitious gamesmanship of Vladimir Nabokov. So what could possibly be left for the novel to do that is new?
+The buyer should always beware claims of new forms. Is there any possible form of fiction that fiction hasn’t already taken? "The novel was triumphant at the middle of the [19th] century," says critic James Wood in his book *The Broken Estate*, "and there is a sense in which Melville, Flaubert, and Gogol, all of them writing roughly contemporaneously, were poets who wanted to make the novel a genre that could consume all others and then perform all their functions at once—a stomach of genres, digesting satire, poetry, epic, the historical novel, realism, and fable." Since then, we have had the shifting interiority of Virginia Woolf, the arcane allusivity of James Joyce, the maximalist floridity of Marcel Proust, the self-referential disclosure of John Barth, the duplicitous gamesmanship of Vladimir Nabokov. So what could possibly be left for the novel to do that is new?
 
 Still, when I first read the promotional blurb for *Theory & Practice*, winner of Australia’s 2025 Stella Prize, I was so intrigued by its concept that I paid Evil Billionaire Jeff Bezos *more* than I would have paid my beloved ThriftBooks just so the book would arrive on my doorstep the next day. This is a doorstep that receives so many books that my mailman incredulously asked if I had a nine-to-five. (True story.) The hook that helped de Kretser jump the line of my teetering TBR was its promised fusion of novel, memoir, and post-feminist critical analysis of Virginia Woolf. *That* struck me as a genuine formal innovation. 
 
@@ -71,17 +71,17 @@ By *Either/Or*, which is also the title of Søren Kierkegaard’s contemplation 
 The protagonist of *Theory & Practice* hits page one at the *Either/Or* end of the intellectual and sexual precocity spectrum. At school, she reveres Virginia Woolf’s message of gender equality while condemning her antisemitism and colonial conservatism. In her dating life, she is defiantly invested in a man who claims to be in a "deconstructed relationship." Her takeaway echoes Selin’s:
 
 >[I was struck] by the tremendous silencing power of shame. To whom could we confess our treacherous, rivalrous, trite, uncool, unfeminist feelings without shame? Shame could transform female solidarity into a scold’s bridle. It could ensure that a philosophy designed to free us set a weight on our tongues.           
-><cite>Michelle de Kretser, <cite>Theory & Practice</cite>
+><cite>Michelle de Kretser, <em>Theory & Practice</em></cite>
 
 Both authors are expert personal essayists, and they’re not afraid to apply their skill to a novel. De Kretser’s expertise in this form informs her work as a university professor. Batuman’s is expressed in New Yorker articles and essay compilations. But is this a formal innovation, as promised in de Kretser’s pledge to "tell the truth"?
 
-Not really. Both books are apparently heavily autobiographical, but the reader only recognizes them as memoir if they are exposed to outside information. In a hermetic reading, the claim to fiction/non-fiction hybridity is essentially bravado. The books rely on the same narrative artifices that all novels employ. "Fiction is of course a form of lying," wrote James Wood in his book *The Broken Estate*. "Fiction requests belief from us, but we can choose not to believe at any moment. ... Our belief is itself metaphorical—it only *resembles* actual belief, and is therefore never wholly belief." Even with certainty that an undisclosed portion of a novel actually took place in the life of its author, fiction’s essential contract remains unchanged.
+Not really. Both books are apparently heavily autobiographical, but the reader only recognizes them as memoir if they are exposed to outside information. In a hermetic reading, the claim to fiction/non-fiction hybridity is essentially bravado. The anecdotes may borrow the authentic ring of truth, but the books rely on the same narrative artifices that all novels employ. "Fiction is of course a form of lying," wrote James Wood in his book *The Broken Estate*. "Fiction requests belief from us, but we can choose not to believe at any moment. ... Our belief is itself metaphorical—it only *resembles* actual belief, and is therefore never wholly belief." Even with certainty that an undisclosed portion of a novel actually took place in the life of its author, fiction’s essential contract remains unchanged.
 
 ## The Critic as Novelist
 
 The weightier claim to innovation is that of a novel that weaves academic literary analysis into its story. The extent to which Batuman attempts this is one of the greatest pleasures of her novels. But while the books teem with critical interpretations, her voice is one of sophomoric cogitation rather than genuine academic excellence. In one passage, Selin considers two potential translations of one of Proust’s titles: 
 
->I thought *In Search of Lost Time* sounded exciting and detective-like, and *Remembrance of Things Past* sounded lame. “When to the sessions of sweet silent thought / I summon up remembrance of things past”: I didn’t like when people used “sweet” about non-sensory experiences. Why were we in my mouth all of a sudden?
+>Proust’s description of his grandmother herself was upsettingly sentimental—the way he went on about how much she loved them all, and disregarded herself. Her love and lack of self-regard were expressed in “a smile which, unlike those seen on the majority of human faces, bore no trace of irony save for herself” ... A grandmother’s “love,” her kisses: what did they mean? What was it to “love” a bunch of random people whom you maybe didn’t understand at all—it seemed pretty clear that baby Proust was misunderstood by his grandparents—just because they were related to you? What was good about that: about a grandmother’s “love” for you and disregard of herself?
 ><cite>Elif Batuman, <em>Either/Or</em></cite>
 
 In another, she discusses Dostoevsky’s *Crime and Punishment* with the boy she is crushing on:
@@ -98,7 +98,7 @@ At times, de Kretser’s critical insights are entertainingly well developed. Fo
 >I contrasted the modernising trajectory of Woolf’s Englishwomen and the ongoing immiseration of the tea pluckers. The former was made possible by the latter, by the exploitative colonial practices that underwrote British progress and wealth. I told my audience that Woolf had set out to find a fresh form in *The Years*, but had later abandoned the attempt. A fresh form represents a desire to see the world differently, but Woolf hadn’t managed to do so. *The Years* remained enclosed in the powerful fiction that the self-fulfilment of British women transcended the imperialism that enabled it. That was The Story Under The Story in *The Years*. Like the Indian at the party, it was a narrative presence denied a voice.
 ><cite>Michelle de Kretser, <em>Theory & Practice</em></cite>
 
-Michelle’s critcism here is not just character work, as is Selin’s take on Proust and Dosteovsky. She is introducing authentic textual insight, backed by historical research. The trouble is, in this most pivotal instance at least, that the critical text is not actually integrated. De Kretser *narrates* her paper rather than excerpting it. That was disappointing.
+The narrator’s criticism here is not just character work, as is Selin’s take on Proust and Dostoevsky. She is introducing authentic textual insight, backed by historical research. The trouble is, in this most pivotal instance at least, that the critical text is not actually integrated. De Kretser *narrates* her paper rather than excerpting it. That was disappointing.
 
 The climax of *Either/Or* ends up modeling a more seamless integration of the two modes of writing. That book starts with Selin’s confession that skill as an essayist has never translated to imagination. She is inept at inventing stories. But in the book’s  conclusion, she turns a fascinating critique of Henry James’s *The Portrait of a Lady* into compelling narrative:
 
@@ -118,6 +118,6 @@ The reader of *Either/Or* understands that Selin’s new form is the book in the
  
 I don’t think either author has cleared that bar. Batuman’s use of James and Flaubert in her climactic revelation is riveting narrative with real analytical heft, but the voice is consistent with the narration throughout the two novels. Selin is becoming a more insightful critic, but her *form* of discussing literature remains that of a storyteller, not an academic. She has not actually changed her mode of writing.
 
-De Kretser’s decision to present a summary of her paper rather than excerpts of it undermines her claim to hybrid prose. I would have preferred it if she had interwoven her critical voice with her narrative voice, similar to the way that A.S. Byatt weaves Victorian poetry into 20th-century narrative in *Possession*. As it stands, the emotional realism of *Theory & Practice*’s fictional romance is so absorbing that it overwhelms the book’s critical substance. 
+De Kretser’s decision to present a summary of her paper rather than excerpts of it undermines her claim to hybrid prose. I would have preferred it if she had interwoven her critical voice with her narrative voice, similar to the way that A.S. Byatt weaves Victorian poetry into 20th-century narrative in *Possession*. It is not necessary for the essayistic content to be indistinguishable from the story, the way that Benjamín Labatut's non-fiction melts invisibly into his fiction. But it seems to me a more original use of critical writing would be for the two forms to be rendered adjacently in their native lexography, not in a character’s voice. Having characters discuss literature is not a new form; Virginia Woolf's characters were doing that as early as *The Voyage Out*. 
 
 Neither author has created a novel that doesn’t read like a novel or reinvented a centuries-old art form. But the willingness of both authors to merge their own stories with literary insight and narrative imagination makes for three exceptional reading experiences. Their dramatic masterpieces may not be wholly original, but they do not turn out to be just another edition of *Death of a Salesman*. 
