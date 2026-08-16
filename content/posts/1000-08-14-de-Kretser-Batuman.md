@@ -5,9 +5,9 @@ draft: false
 categories: ["Fiction","Multi"]
 authors: ["Michelle de Kretser", "Elif Batuman"]
 subtitle: "Michelle de Kretser Looks for New Forms But Elif Batuman Has Already Been There"
-photocredit: "Michelle de Kretser photo by Department of Foreign Affairs and Trade website – www.dfat.gov.au. Elif Batuman photo by Mikhail Lemkhin, McMillan Publishers"
-image: "/img/theory-practice.png"
-imageMobile: "/img/de-kretser-batuman.png" 
+photocredit: "Michelle de Kretser photo by Department of Foreign Affairs and Trade website – www.dfat.gov.au. Elif Batuman photo by Mikhail Lemkhin, McMillan Publishers
+image: "/img/theory-practice.png" 
+imageHero: "/img/theory-practice-hero.png" 
 imagePosition: "Top"
 imageAlt: "Authors Michelle de Kretser and Elif Batuman"
 book:
@@ -42,14 +42,14 @@ ReadDates3:
   end: "2024-05-19"
 historicalEvents:
 ---
-> "An artist once told me that she no longer wanted to make art that looked like art. I was discovering that I no longer wanted to write novels that read like no"duab uuuuuuuuuu vels. Instead of shapeliness and disguise, I wanted a form that allowed for formlessness and mess. It occurred to me that one way to find that form might be to tell the truth."
+> "An artist once told me that she no longer wanted to make art that looked like art. I was discovering that I no longer wanted to write novels that read like novels. Instead of shapeliness and disguise, I wanted a form that allowed for formlessness and mess. It occurred to me that one way to find that form might be to tell the truth."
 <cite>Michelle de Kretser, <em>Theory & Practice</em></cite>
 
 Thirty years ago, I resolved to submit a play for a college competition a few days before the deadline. "Write what you know" is always dubious advice for writers who don’t yet know anything, so I opted for the common beginner’s gambit of writing about not having anything to write about. In *The Tragic Fall of Rufus the Great*, a Greek Chorus heralds the birth of a boy destined for artistic greatness, but the world has finally run out of unique combinations of words. The boy comes of age and pours heart and soul into a dramatic masterpiece that turns out to be a word-for-word replica of *Death of a Salesman*. "There is nothing new under the sun," I concluded, borrowing a 2,500-year-old Biblical cliché that was probably already a cliché when the Preacher patted himself on the back for writing it in Ecclesiastes.  
 
 The next spring, I saw *Mighty Aphrodite* in a second-run movie theater and realized Woody Allen had been working on the same idea, right down to the vaunted newborn and the satirical Greek Chorus. My eagerness to have my play workshopped dissipated permanently as I realized the world would assume I’d heisted it wholesale from Woody. "Nothing new," indeed. 
 
-The buyer should always beware claims of new forms. Is there any possible form of fiction that fiction hasn’t already taken? "The novel was triumphant at the middle of the [19th] century," says critic James Wood in his book *The Broken Estate*, "and there is a sense in which Melville, Flaubert, and Gogol, all of them writing roughly contemporaneously, were poets who wanted to make the novel a genre that could consume all others and then perform all their functions at once—a stomach of genres, digesting satire, poetry, epic, the historical novel, realism, and fable." Since then, we have had the shifting interiority of Virginia Woolf, the arcane allusivity of James Joyce, the maximalist floridity of Marcel Proust, the self-referential disclosure of John Barth, the narrative duplicity of Vladimir Nabokov, the is-it-real-or-is-it-Memorex intertextuality of Benjamin Labatut. So what could possibly be left for the novel to do that is new?
+The buyer should always beware claims of new forms. Is there any possible form of fiction that fiction hasn’t already taken? "The novel was triumphant at the middle of the [19th] century," says critic James Wood in his book *The Broken Estate*, "and there is a sense in which Melville, Flaubert, and Gogol, all of them writing roughly contemporaneously, were poets who wanted to make the novel a genre that could consume all others and then perform all their functions at once—a stomach of genres, digesting satire, poetry, epic, the historical novel, realism, and fable." Since then, we have had the shifting interiority of Virginia Woolf, the arcane allusivity of James Joyce, the maximalist floridity of Marcel Proust, the self-referential disclosure of John Barth, the duplicitious gamesmanship of Vladimir Nabokov. So what could possibly be left for the novel to do that is new?
 
 Still, when I first read the promotional blurb for *Theory & Practice*, winner of Australia’s 2025 Stella Prize, I was so intrigued by its concept that I paid Evil Billionaire Jeff Bezos *more* than I would have paid my beloved ThriftBooks just so the book would arrive on my doorstep the next day. This is a doorstep that receives so many books that my mailman incredulously asked if I had a nine-to-five. (True story.) The hook that helped de Kretser jump the line of my teetering TBR was its promised fusion of novel, memoir, and post-feminist critical analysis of Virginia Woolf. *That* struck me as a genuine formal innovation. 
 
