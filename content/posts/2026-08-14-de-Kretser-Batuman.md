@@ -45,6 +45,10 @@ ReadDates3:
 historicalEvents:
   - date: "1932-10-01"
     label: "Virginia Woolf starts writing The Years, blending essays and fiction"
+  - date: "1986-09-01"
+    label: "Michelle de Kretser starts a doctoral program at the University of Melbourne"
+  - date: "1995-09-01"
+    label: "Elif Batuman starts her freshman year at Harvard University"
 ---
 > "An artist once told me that she no longer wanted to make art that looked like art. I was discovering that I no longer wanted to write novels that read like novels. Instead of shapeliness and disguise, I wanted a form that allowed for formlessness and mess. It occurred to me that one way to find that form might be to tell the truth."
 <cite>Michelle de Kretser, <em>Theory & Practice</em></cite>
