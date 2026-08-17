@@ -32,7 +32,7 @@ links:
   substack: "https://septimuscarr.substack.com/p/a-tale-told-by-an-idiot-full-of-theory"
   medium: ""
   goodreads: "https://www.goodreads.com/review/show/8858039654?book_show_action=false"
-  reddit: ""
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1vqqji7/michelle_de_kretser_looks_for_new_forms_but_elif/"
 ReadDates:
   start: "2026-08-10"
   end: "2026-08-13"
