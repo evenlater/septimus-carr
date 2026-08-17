@@ -44,7 +44,7 @@ ReadDates3:
   end: "2024-05-19"
 historicalEvents:
   - date: "1932-10-01"
-    label: "Virginia Woolf starts writing The Years."
+    label: "Virginia Woolf starts writing The Years, blending essays and fiction"
 ---
 > "An artist once told me that she no longer wanted to make art that looked like art. I was discovering that I no longer wanted to write novels that read like novels. Instead of shapeliness and disguise, I wanted a form that allowed for formlessness and mess. It occurred to me that one way to find that form might be to tell the truth."
 <cite>Michelle de Kretser, <em>Theory & Practice</em></cite>
@@ -99,7 +99,7 @@ The goal of these passages is to illuminate characterization. Batuman is not att
 
 What makes de Kretser’s book thrilling is that her ideas about Virginia Woolf are part of the novel’s larger argument. She is interested in the relationship between intellectual framework and lived experience: theory and practice. Her examination of Woolf’s casual antisemitism despite her marriage to a Jewish man reveals that her theoretical heroism does not always convert to practical morality. The narrator is not just idly speculating about Woolf’s shortcomings. She is incorporating her thoughts into a verdict on her own behavior. De Kretser also draws parallels between the horrors of colonialism, expressed in a homework-inspired passage about Israeli/Palestinian relations in 1986 and in Woolf’s own disturbing comfort with the brutish practice of Empire, and the narrator’s experience of sexual callousness.
 
-At times, de Kretser’s critical insights are entertainingly well developed. Forty pages from the book’s conclusion, she treats us to a delightfully sophisticated paper titled "Virginia Woolf’s Tea" that explores Woolf’s own {{< /tl-note >}}attempt{{< /tl-note }} at formal innovation in *The Years*. We are told that Woolf intended that book to be a critical and narrative hybrid, but the project was abandoned in despair. De Kretser’s fictional student suggests the failure of *The Years* resulted directly from Woolf’s moral failings: 
+At times, de Kretser’s critical insights are entertainingly well developed. Forty pages from the book’s conclusion, she treats us to a delightfully sophisticated paper titled "Virginia Woolf’s Tea" that explores Woolf’s own {{< /tl-note >}}attempt{{< /tl-note >}} at formal innovation in *The Years*. We are told that Woolf intended that book to be a critical and narrative hybrid, but the project was abandoned in despair. De Kretser’s fictional student suggests the failure of *The Years* resulted directly from Woolf’s moral failings: 
 
 >I contrasted the modernising trajectory of Woolf’s Englishwomen and the ongoing immiseration of the tea pluckers. The former was made possible by the latter, by the exploitative colonial practices that underwrote British progress and wealth. I told my audience that Woolf had set out to find a fresh form in *The Years*, but had later abandoned the attempt. A fresh form represents a desire to see the world differently, but Woolf hadn’t managed to do so. *The Years* remained enclosed in the powerful fiction that the self-fulfilment of British women transcended the imperialism that enabled it. That was The Story Under The Story in *The Years*.
 <cite>Michelle de Kretser, <em>Theory & Practice</em></cite>
