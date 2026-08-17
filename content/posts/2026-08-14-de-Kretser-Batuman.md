@@ -7,8 +7,9 @@ authors: ["Michelle de Kretser", "Elif Batuman"]
 subtitle: "Michelle de Kretser Looks for New Forms But Elif Batuman Has Already Been There"
 photocredit: "Composite by Septimus Carr, performed in Canva without AI. Michelle de Kretser photo by Department of Foreign Affairs and Trade website – www.dfat.gov.au. Elif Batuman photo by Mikhail Lemkhin, McMillan Publishers"
 image: "/img/theory-practice.png" 
-imageHero: "/img/theory-practice-hero.png" 
-imagePosition: "Top"
+imageHero: "/img/theory-practice-hero.png"
+imageFit: "contain" 
+imagePosition: "Center"
 imageAlt: "Authors Michelle de Kretser and Elif Batuman"
 book:
   title: "Theory & Practice"
@@ -79,15 +80,15 @@ Not really. Both books are apparently heavily autobiographical, but the reader o
 
 ## The Critic as Novelist
 
-The weightier claim to innovation is that of a novel that weaves academic literary analysis into its story. The extent to which Batuman attempts this is one of the greatest pleasures of her novels. But while the books teem with critical interpretations, her voice is one of sophomoric cogitation rather than genuine academic excellence. In one passage, Selin considers two potential translations of one of Proust’s titles: 
+The weightier claim to innovation is that of a novel that weaves academic literary analysis into its story. The extent to which Batuman attempts this is one of the greatest pleasures of her novels. But while the books teem with critical interpretations, her voice is one of sophomoric cogitation rather than genuine academic rigor. In one passage, Selin discusses Dostoevsky’s *Crime and Punishment* with the boy she is crushing on:
 
->Proust’s description of his grandmother herself was upsettingly sentimental—the way he went on about how much she loved them all, and disregarded herself. Her love and lack of self-regard were expressed in “a smile which, unlike those seen on the majority of human faces, bore no trace of irony save for herself” ... A grandmother’s “love,” her kisses: what did they mean? What was it to “love” a bunch of random people whom you maybe didn’t understand at all—it seemed pretty clear that baby Proust was misunderstood by his grandparents—just because they were related to you? What was good about that: about a grandmother’s “love” for you and disregard of herself?
-><cite>Elif Batuman, <em>Either/Or</em></cite>
-
-In another, she discusses Dostoevsky’s *Crime and Punishment* with the boy she is crushing on:
-
->He invents these supposedly complicated problems and then gets so worked up about them—like, it’s hell, it’s intolerable humiliation, it’s the mathematically highest point of abasement. But to me, none of those things seem particularly hellish or humiliating or complicated. When I can’t get worked up myself, I feel embarrassed. And tired. ... It’s like he does this shoddy, depressing thing, killing an old lady—and instead of shoddy and depressing, it’s supposed to be an earthshaking philosophical crisis.”
+>He invents these supposedly complicated problems and then gets so worked up about them—like, it’s hell, it’s intolerable humiliation, it’s the mathematically highest point of abasement. But to me, none of those things seem particularly hellish or humiliating or complicated. When I can’t get worked up myself, I feel embarrassed. And tired. … It’s like he does this shoddy, depressing thing, killing an old lady—and instead of shoddy and depressing, it’s supposed to be an earthshaking philosophical crisis.”
 ><cite>Elif Batuman, <em>The Idiot</em></cite>
+
+In another, she reflects on a childhood memory from *Swann’s Way* by Marcel Proust:
+
+>The episode itself, about baby Proust’s anguish on nights when his parents had dinner guests, was harrowing. I didn’t like to admit it, but I was pretty sure that I had felt the same despair when my parents went to dinner parties. Being left at night for a party was so much worse than being left in the daytime for work; what was, for you, a cause of desperation, was for them an occasion for dress-up and celebration. But why did Proust have to keep thinking about it? Why couldn’t he write a book about something else?
+><cite>Elif Batuman, <em>Either/Or</em></cite>
 
 The goal of these passages is to illuminate characterization. Batuman is not attempting to get an A on a term paper.
 
@@ -98,7 +99,7 @@ At times, de Kretser’s critical insights are entertainingly well developed. Fo
 >I contrasted the modernising trajectory of Woolf’s Englishwomen and the ongoing immiseration of the tea pluckers. The former was made possible by the latter, by the exploitative colonial practices that underwrote British progress and wealth. I told my audience that Woolf had set out to find a fresh form in *The Years*, but had later abandoned the attempt. A fresh form represents a desire to see the world differently, but Woolf hadn’t managed to do so. *The Years* remained enclosed in the powerful fiction that the self-fulfilment of British women transcended the imperialism that enabled it. That was The Story Under The Story in *The Years*. Like the Indian at the party, it was a narrative presence denied a voice.
 ><cite>Michelle de Kretser, <em>Theory & Practice</em></cite>
 
-The narrator’s criticism here is not just character work, as is Selin’s take on Proust and Dostoevsky. She is introducing authentic textual insight, backed by historical research. The trouble is, in this most pivotal instance at least, that the critical text is not actually integrated. De Kretser *narrates* her paper rather than excerpting it. That was disappointing.
+The narrator’s criticism here is not just character work, as are Selin’s hot takes. De Kretser is introducing authentic textual insight, backed by historical research. The trouble is, in this most pivotal instance at least, that the critical text is not actually integrated. De Kretser *narrates* her paper rather than excerpting it. That was disappointing.
 
 The climax of *Either/Or* ends up modeling a more seamless integration of the two modes of writing. That book starts with Selin’s confession that skill as an essayist has never translated to imagination. She is inept at inventing stories. But in the book’s  conclusion, she turns a fascinating critique of Henry James’s *The Portrait of a Lady* into compelling narrative:
 

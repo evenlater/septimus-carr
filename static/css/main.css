@@ -190,6 +190,8 @@ body {
 
 /* ── Article: cover image ─────────────────────────────────── */
 .cover-wrap  { width: 100%; height: 460px; overflow: hidden; background: #1C1410; }
+.cover-wrap.contain-fit { background: #2A0E38; }
+.cover-wrap.contain-fit .cover-img { object-fit: contain; }
 .cover-img { width: 100%; height: 100%; object-fit: cover; display: block;
              object-position: var(--cover-pos, center); }
 

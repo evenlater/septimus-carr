@@ -11,8 +11,9 @@
 </div>
 
 {{/* ── COVER IMAGE ── */}}
-{{ with .Params.image }}
-<div class="cover-wrap">
+{{ $heroImage := .Params.imageHero | default .Params.image }}
+{{ with $heroImage }}
+<div class="cover-wrap{{ if eq $.Params.imageFit "contain" }} contain-fit{{ end }}">
   <picture>
     {{ with $.Params.imageMobile }}
     <source media="(max-width: 640px)" srcset="{{ . }}">
