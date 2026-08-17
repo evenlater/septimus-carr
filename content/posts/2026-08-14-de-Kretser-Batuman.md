@@ -8,7 +8,7 @@ subtitle: "Michelle de Kretser Looks for New Forms But Elif Batuman Has Already 
 photocredit: "Composite by Septimus Carr, performed in Canva without AI. Michelle de Kretser photo by Department of Foreign Affairs and Trade website – www.dfat.gov.au. Elif Batuman photo by Mikhail Lemkhin, McMillan Publishers"
 image: "/img/theory-practice.png" 
 imageHero: "/img/theory-practice-hero.png"
-imageFit: "contain" 
+imageFit: "contain"` 
 imagePosition: "Center"
 imageAlt: "Authors Michelle de Kretser and Elif Batuman"
 book:
@@ -75,6 +75,8 @@ The protagonist of *Theory & Practice* hits page one at the *Either/Or* end of t
 ><cite>Michelle de Kretser, <em>Theory & Practice</em></cite>
 
 Both authors are expert personal essayists, and they’re not afraid to apply their skill to a novel. De Kretser’s expertise in this form informs her work as a university professor. Batuman’s is expressed in New Yorker articles and essay compilations. But is this a formal innovation, as promised in de Kretser’s pledge to "tell the truth"?
+
+{{< pull-quote >}}De Kretser’s criticism is not just character work, as are Selin’s hot takes. De Kretser is introducing authentic textual insight, backed by historical research.{{< /pull-quote >}}
 
 Not really. Both books are apparently heavily autobiographical, but the reader only recognizes them as memoir if they are exposed to outside information. In a hermetic reading, the claim to fiction/non-fiction hybridity is essentially bravado. The anecdotes may borrow the authentic ring of truth, but the books rely on the same narrative artifices that all novels employ. "Fiction is of course a form of lying," wrote James Wood in his book *The Broken Estate*. "Fiction requests belief from us, but we can choose not to believe at any moment. ... Our belief is itself metaphorical—it only *resembles* actual belief, and is therefore never wholly belief." Even with certainty that an undisclosed portion of a novel actually took place in the life of its author, fiction’s essential contract remains unchanged.
 
