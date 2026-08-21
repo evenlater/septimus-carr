@@ -337,11 +337,11 @@
   .sc-nav {
     width: 100%;
     justify-content: flex-start;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 4px;
   }
   .sc-nav a { padding: 6px 10px; font-size: 10px; }
-  .nav-sub { margin-left: 0; }
+  .sc-nav-sub { margin-left: 0; }
 
   /* ── About page: performance photo has no height cap, so at
      full-bleed mobile width its natural aspect ratio makes it
