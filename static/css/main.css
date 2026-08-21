@@ -419,14 +419,9 @@ blockquote cite {
   color: #C4A055;
 }
 /* ── SEARCH ── */
-.nav-search-toggle {
-  font-size: 1rem;
-  border-left: 1px solid var(--rule);
-}
-
 .search-panel {
-  background: var(--surface);
-  border-bottom: 1px solid var(--rule);
+  background: #331546;
+  border-bottom: 1px solid rgba(0,0,0,.25);
   padding: 1.2rem 2.5rem;
 }
 
@@ -435,17 +430,17 @@ blockquote cite {
   max-width: 1200px;
   margin: 0 auto;
   display: block;
-  background: var(--bg);
-  border: 1px solid var(--rule);
-  color: var(--paper);
-  font-family: var(--body);
+  background: #2A0E38;
+  border: 1px solid rgba(255,255,255,.12);
+  color: #EAE4F4;
+  font-family: 'EB Garamond', Georgia, serif;
   font-size: 1.05rem;
   padding: 0.7rem 1rem;
 }
 
 .search-input:focus {
   outline: none;
-  border-color: var(--gold-dim);
+  border-color: #C4A055;
 }
 
 .search-results {
@@ -456,7 +451,7 @@ blockquote cite {
 .search-result {
   display: block;
   padding: 0.8rem 0.2rem;
-  border-bottom: 1px solid var(--rule);
+  border-bottom: 1px solid rgba(255,255,255,.12);
   text-decoration: none;
 }
 
@@ -464,27 +459,25 @@ blockquote cite {
 
 .search-result-tag {
   display: block;
-  font-family: var(--condensed);
   font-size: 0.6rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: var(--gold-dim);
+  color: #C4A055;
   margin-bottom: 0.2rem;
 }
 
 .search-result-title {
   display: block;
-  font-family: var(--body);
+  font-family: 'EB Garamond', Georgia, serif;
   font-size: 0.95rem;
-  color: var(--paper-mid);
+  color: #C8C0DC;
 }
 
-.search-result:hover .search-result-title { color: var(--paper); }
+.search-result:hover .search-result-title { color: #EAE4F4; }
 
 .search-empty {
-  font-family: var(--condensed);
   font-size: 0.75rem;
-  color: var(--muted);
+  color: #9A8CB0;
   padding: 0.5rem 0.2rem;
 }
 

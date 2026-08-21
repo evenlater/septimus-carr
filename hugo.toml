@@ -19,7 +19,7 @@ paginate = 12
   author   = 'authors'
 
 [outputs]
-  home     = ['HTML','RSS']
+  home     = ['HTML','RSS','JSON']
   page     = ['HTML']
   section  = ['HTML','RSS']
   taxonomy = ['HTML']
