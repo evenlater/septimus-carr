@@ -33,9 +33,11 @@ body {
   color: #EAE4F4;
   text-decoration: none;
 }
-.logo-wrap { display: flex; flex-direction: column; text-decoration: none; }
+.logo-wrap { display: block; text-decoration: none; flex-shrink: 0; }
 .logo-img  { width: 300px; height: auto; mix-blend-mode: screen; display: block; margin-bottom: -20px; }
-.logo-tag  { font-size: 16px; letter-spacing: .22em; text-transform: uppercase; color: #C4A055; padding-left: 3px; }
+.logo-tag  { margin-left: auto; padding-left: 24px; align-self: flex-start; padding-top: 12px;
+             font-size: 12px; line-height: 1.35; letter-spacing: .22em; text-transform: uppercase;
+             text-align: right; white-space: nowrap; color: #C4A055; }
 .sc-nav    { display: flex; gap: 2px; align-items: center; flex-shrink: 0; }
 .sc-nav a  { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: #C8C0DC;
              text-decoration: none; padding: 6px 11px; transition: color .2s;
