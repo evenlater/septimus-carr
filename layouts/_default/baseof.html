@@ -24,8 +24,11 @@
 </head>
 <body>
   {{ partial "header.html" . }}
+  {{ if not .IsPage }}{{ partial "sc-nav.html" . }}{{ end }}
   {{ if not .IsPage }}{{ partial "cat-nav.html" . }}{{ end }}
   <main>{{ block "main" . }}{{ end }}</main>
   {{ partial "footer.html" . }}
+  {{ partial "nav-scroll.html" . }}
+  {{ partial "search.html" . }}
 </body>
 </html>
