@@ -469,7 +469,8 @@
 /* ── Desktop masthead tagline position ── */
 @media (min-width: 641px) {
   .logo-tag {
-    font-size: 13px;
-    padding-top: 26px;
+    font-size: 14px;
+    padding-top: 32px;
   }
+}
 }
