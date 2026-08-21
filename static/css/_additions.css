@@ -465,3 +465,11 @@
    links to the essay, not just the "Read Essay" button ── */
 .fi-wrap, .ft-title-link { display: block; text-decoration: none; color: inherit; }
 .ft-title-link:hover .ft-title { color: #C8A8F0; }
+
+/* ── Desktop masthead tagline position ── */
+@media (min-width: 641px) {
+  .logo-tag {
+    font-size: 13px;
+    padding-top: 26px;
+  }
+}
