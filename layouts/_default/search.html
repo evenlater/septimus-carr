@@ -1,0 +1,81 @@
+<script>
+(function () {
+  var toggle = document.getElementById('search-toggle');
+  var panel = document.getElementById('search-panel');
+  var input = document.getElementById('search-input');
+  var results = document.getElementById('search-results');
+  if (!toggle || !panel || !input || !results) return;
+
+  var indexData = null;
+  var indexPromise = null;
+
+  function loadIndex() {
+    if (!indexPromise) {
+      indexPromise = fetch('{{ "/index.json" | relURL }}')
+        .then(function (r) { return r.json(); })
+        .then(function (data) { indexData = data; return data; })
+        .catch(function () {
+          results.innerHTML = '<p class="search-empty">Search is unavailable right now.</p>';
+          return [];
+        });
+    }
+    return indexPromise;
+  }
+
+  function render(items, query) {
+    if (!query) { results.innerHTML = ''; return; }
+    if (items.length === 0) {
+      results.innerHTML = '<p class="search-empty">No essays match &ldquo;' + query + '&rdquo;.</p>';
+      return;
+    }
+    var html = items.slice(0, 12).map(function (item) {
+      var tag = (item.tags && item.tags.length) ? item.tags[0] : '';
+      return '<a class="search-result" href="' + item.url + '">' +
+        '<span class="search-result-tag">' + tag + (tag ? ' &middot; ' : '') + item.date + '</span>' +
+        '<span class="search-result-title">' + item.title + '</span>' +
+        '</a>';
+    }).join('');
+    results.innerHTML = html;
+  }
+
+  function doSearch() {
+    var query = input.value.trim().toLowerCase();
+    if (!query) { results.innerHTML = ''; return; }
+    if (!indexData) {
+      loadIndex().then(function (data) { filterAndRender(data, query); });
+      return;
+    }
+    filterAndRender(indexData, query);
+  }
+
+  function filterAndRender(data, query) {
+    // guard against a stale response if the input changed while fetching
+    var current = input.value.trim().toLowerCase();
+    if (current !== query) return;
+    var matches = data.filter(function (item) {
+      return item.text && item.text.toLowerCase().indexOf(query) !== -1;
+    });
+    render(matches, query);
+  }
+
+  toggle.addEventListener('click', function () {
+    var isHidden = panel.hasAttribute('hidden');
+    if (isHidden) {
+      panel.removeAttribute('hidden');
+      input.focus();
+      loadIndex();
+    } else {
+      panel.setAttribute('hidden', '');
+    }
+  });
+
+  input.addEventListener('input', doSearch);
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && !panel.hasAttribute('hidden')) {
+      panel.setAttribute('hidden', '');
+      toggle.focus();
+    }
+  });
+})();
+</script>

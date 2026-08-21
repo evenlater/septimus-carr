@@ -1,0 +1,19 @@
+<nav>
+  <div class="nav-scroll-wrap">
+    <button type="button" class="nav-arrow nav-arrow-left" aria-label="Scroll navigation left">&lsaquo;</button>
+    <div class="nav-inner">
+      <a href="{{ "/about" | relURL }}">ABOUT</a>
+      <a href="{{ "/posts" | relURL }}">ARCHIVE</a>
+      <a href="{{ "/authors" | relURL }}">AUTHORS</a>
+      <a href="{{ "/calendar" | relURL }}">CALENDAR</a>
+      <a href="{{ "/timeline" | relURL }}">TIMELINE</a>
+      <a href="https://septimuscarr.substack.com/">SUBSCRIBE</a>
+    </div>
+    <button type="button" class="nav-arrow nav-arrow-right" aria-label="Scroll navigation right">&rsaquo;</button>
+    <button type="button" id="search-toggle" class="nav-arrow nav-search-toggle" aria-label="Search essays">&#128269;</button>
+  </div>
+  <div id="search-panel" class="search-panel" hidden>
+    <input type="text" id="search-input" class="search-input" placeholder="Search essays…" autocomplete="off">
+    <div id="search-results" class="search-results"></div>
+  </div>
+</nav>
