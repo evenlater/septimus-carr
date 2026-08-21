@@ -1,0 +1,15 @@
+<script>
+(function () {
+  var track = document.querySelector('.nav-inner');
+  var left = document.querySelector('.nav-arrow-left');
+  var right = document.querySelector('.nav-arrow-right');
+  if (!track || !left || !right) return;
+
+  left.addEventListener('click', function () {
+    track.scrollBy({ left: -160, behavior: 'smooth' });
+  });
+  right.addEventListener('click', function () {
+    track.scrollBy({ left: 160, behavior: 'smooth' });
+  });
+})();
+</script>
