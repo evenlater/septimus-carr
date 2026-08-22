@@ -24,7 +24,7 @@
 </head>
 <body>
   {{ partial "header.html" . }}
-  {{ if not .IsPage }}{{ partial "nav.html" . }}{{ end }}
+  {{ partial "nav.html" . }}
   {{ if not .IsPage }}{{ partial "cat-nav.html" . }}{{ end }}
   <main>{{ block "main" . }}{{ end }}</main>
   {{ partial "footer.html" . }}
