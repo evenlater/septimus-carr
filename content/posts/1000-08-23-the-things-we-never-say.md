@@ -25,11 +25,12 @@ readDates:
    end: "2026-08-21"
 historicalEvents:
 ---
+<span class="gloss">Elizabeth Strout’s <em>The Things We Never Say</em> is currently longlisted for the 2026 Booker Prize. The shortlist will be announced on September 22, 2026.</span>
 
-"To read George Eliot attentively is to become aware how little one knows about her. It is also to become aware of the credulity, not very creditable to one’s insight, with which, half consciously and partly maliciously, one had accepted the late Victorian version of a deluded woman who held phantom sway over subjects even more deluded than herself. At what moment and by what means her spell was broken it is difficult to ascertain. ... She became one of the butts for youth to laugh at, the convenient symbol of a group of serious people who were all guilty of the same idolatry and could be dismissed with the same scorn."
+>To [Lytton] Strachey, as well as to other intellectuals of the early part of the twentieth century, [Victorian novelist George] Eliot was part of a bygone era that was the better for being gone. The falling-off of regard was precipitous. Almost immediately after Eliot’s death critics vied with each other to demonstrate their own vitality by thinking up new ways to characterize her deadliness. “It is doubtful whether they are novels disguised as treatises, or treatises disguised as novels,” one critic wrote of her works. ... In 1895 George Saintsbury was able to note that while her novels might still be read, they were not admired by anyone whose opinion counted for anything. (Saintsbury was a well-known literary critic, whom no one now reads.)
+<cite>Virginia Woolf, "Essay on George Eliot," <em>The Times Literary Supplement</em> November 20, 1919</cite>
+
+George Eliot was a victim
 
 
-
-
-
-<span 
+<span class="gloss">Elizabeth Strout is currently longlisted for the 2026 Booker Prize. The shortlist will be announced on September 22, 2026.</span>
