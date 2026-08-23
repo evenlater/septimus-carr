@@ -97,10 +97,10 @@ body {
 .nav-opera.active { color: #E08090; border-bottom-color: #E08090; }
 .nav-booker        { color: rgba(255,174,201,.82); }
 .nav-booker:hover,
-.nav-booker.active { color: #EF88BE; border-bottom-color: #EF88BE; }
+.nav-booker.active { color: #59CFD1; border-bottom-color: #59CFD1; }
 .nav-pulitzer        { color: rgba(255,174,201,.82); }
 .nav-pulitzer:hover,
-.nav-pulitzer.active { color: #EF88BE; border-bottom-color: #EF88BE; }
+.nav-pulitzer.active { color: #FFFD55; border-bottom-color: #FFFD55; }
 
 /* ── Pill colours ─────────────────────────────────────────── */
 .pill { font-size: 9px; letter-spacing: .1em; text-transform: uppercase;
@@ -112,8 +112,8 @@ body {
 .pill-nonfiction { background: #EAF0E0; color: #304818; }
 .pill-opera      { background: #F5E0E3; color: #8B1A28; }
 .pill-multi      { background: #EFD3D9; color: #5E5356; }
-.pill-pulitzer   { background: ##FFFE91; color: ##FFFD55; }
-.pill-booker     { background: ##367E7F; color: ##59CFD1; }
+.pill-pulitzer   { background: #FFFE91; color: #FFFD55; }
+.pill-booker     { background: #367E7F; color: #59CFD1; }
 .pill-notes      { background: #E9E7E2; color: #4A4640; }
 .pill-author     { background: #F4EFE6; color: #5C4A32; border: 1px solid #E2D9CC; }
 .auth-index   { max-width: 620px; }
