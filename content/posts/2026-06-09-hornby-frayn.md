@@ -2,7 +2,7 @@
 title: "Shallow Lads and Narcissistic Dons"
 date: 2026-06-09
 draft: false
-categories: ["Essays","Fiction","Drama","Multi"]
+categories: ["Essays","Fiction","Drama","Multi","Booker"]
 authors: ["Nick Hornby", "Michael Frayn"]
 subtitle: "What Nick Hornby and Michael Frayn Taught Me About the Artistic Life"
 image: "/img/hornby-frayn.png"
@@ -69,3 +69,4 @@ Loving art, high or low, is not the same thing as crafting one’s thoughts abou
 
 Touché, Hornby.
 
+<span class="gloss">This essay is in the Booker category because Michael Frayn’s Headlong was shortlisted for the Booker Prize in 1999, and Nick Hornby’s How to Be Good was longlisted for the Booker Prize in 2001.</span>

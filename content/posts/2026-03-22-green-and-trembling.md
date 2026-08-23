@@ -2,7 +2,7 @@
 title: "Mapping Dual Injustices in \"We Are Green And Trembling\""
 date: "2026-03-22"
 draft: false
-categories: ["Fiction"]
+categories: ["Fiction","Booker"]
 authors: ["Gabriela Cabezón Cámara"]
 subtitle: "Does Gabriela Cabezón Cámara Let a Transgender Colonialist Off the Hook?"
 photocredit: "Antonio de Erauso, painted by Juan van der Hamen"

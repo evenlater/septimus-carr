@@ -2,7 +2,7 @@
 title: "A Tale Told by an \"Idiot\", Full of \"Theory & Practice\"—What Does it Signify?" 
 date: "2026-08-15"
 draft: false
-categories: ["Fiction","Multi"]
+categories: ["Fiction","Multi","Pulitzer"]
 authors: ["Michelle de Kretser", "Elif Batuman"]
 subtitle: "Michelle de Kretser Looks for New Forms But Elif Batuman Has Already Been There"
 photocredit: "Composite by Septimus Carr, performed in Canva without AI. Michelle de Kretser photo by Department of Foreign Affairs and Trade website – www.dfat.gov.au. Elif Batuman photo by Mikhail Lemkhin, McMillan Publishers"
@@ -61,7 +61,7 @@ The buyer should always beware claims of new forms. Is there any possible form o
 
 Still, when I first read the promotional blurb for *Theory & Practice*, winner of Australia’s 2025 Stella Prize, I was so intrigued by its concept that I paid Evil Billionaire Jeff Bezos *more* than I would have paid my beloved ThriftBooks just so the book would arrive on my doorstep the next day. This is a doorstep that receives so many books that my mailman incredulously asked if I had a nine-to-five. (True story.) The hook that helped de Kretser jump the line of my teetering TBR was its promised fusion of novel, memoir, and critical analysis of Virginia Woolf. *That* struck me as a genuine formal innovation. 
 
-But as I worked my way through the slender but compelling narrative, I couldn’t shake the feeling that I had encountered its innovations somewhere before. Finally, it struck me like a pronouncement from a sagacious Greek Chorus: Elif Batuman. The chunked confessional episodes, the coming-of-age romance, the higher ed nostalgia, even the genre-defying insights into classical literature, all bore a distinct resemblance to Harvard Russian Lit alum Elif Batuman’s debut novel *The Idiot* and its sequel *Either/Or*. Both authors aspire to reinvent the novel. Is either successful, or do they both fall victim to the timeless intonations of Ecclesiastes and my undergraduate stab at a one-act comedy?
+But as I worked my way through the slender but compelling narrative, I couldn’t shake the feeling that I had encountered its innovations somewhere before. Finally, it struck me like a pronouncement from a sagacious Greek Chorus: Elif Batuman. The chunked confessional episodes, the coming-of-age romance, the higher ed nostalgia, even the genre-defying insights into classical literature, all bore a distinct resemblance to Harvard Russian Lit alum Elif Batuman’s debut novel *The Idiot* (a Pulitzer finalist) and its sequel *Either/Or*. Both authors aspire to reinvent the novel. Is either successful, or do they both fall victim to the timeless intonations of Ecclesiastes and my undergraduate stab at a one-act comedy?
 
 ## The Fiction-Memoir Hybrid
 

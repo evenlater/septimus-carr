@@ -2,7 +2,7 @@
 title: "The Poisonwood Ambassadors"
 date: "2026-07-27"
 draft: false
-categories: ["Classics","Fiction","Multi"]
+categories: ["Classics","Fiction","Multi","Pulitzer"]
 authors: ["Henry James", "Barbara Kingsolver"]
 subtitle: "Confidence as America’s Chief Export in Henry James and Barbara Kingsolver"
 photocredit: 'Belgian Congo stamp - ID <a href="https://www.dreamstime.com/royalty-free-stock-image-postage-stamp-image5073626">5073626</a> Copyright 
@@ -183,3 +183,5 @@ The 44th American president was Jamesian in his capacity for nuanced self-apprai
 With Donald Trump, American confidence is back. The 47th American president openly threatens to tear open the sutures that were applied during the era covered by Kingsolver in *The Poisonwood Bible*. The nation’s chief executive officer, a self-declared “genius,” asserts his nation’s claim on some sovereign nations while enacting Eisenhowerian regime change in others. Strether has been succeeded by Nathan Price. 
 
 Throughout high school, I lacked both the confident Faith of my Fathers and the confident doubt of my friends. I told myself that it had been the size of my high school and not its cultural diversity that had made such a positive difference in my life. When the time came to choose a post-collegiate path, I opted for a school as densely populated as my secondary institution and almost as theologically small as my Lutheran grade school. By {{< tl-note date="1991-09-02" >}}orientation{{< /tl-note >}}, I had outgrown my own decision. Dorm devotion culture—with some of my Lutheran school classmates—confirmed that sinking feeling. It took months to find friends who shared my distrust of “Dogs and Devos” (hot dog-fueled Bible study before bed). Sometimes a lesson is so important it bears repetition before we finally learn to live.
+
+<span class="gloss">The Poisonwood Bible was a 1999 Pulitzer finalist."</span>

@@ -2,7 +2,7 @@
 title: "Stacking \"Killing Commendatore\" Against An \"Artist of the Floating World\""
 date: "2026-08-08"
 draft: false
-categories: ["Notes","Fiction","Multi"]
+categories: ["Notes","Fiction","Multi","Booker"]
 subtitle: "A Supplement to \"Ishiguro & Murakami Float Ideas on the River of Metaphor\""
 ---
 When I think about ranking Haruki Murakami’s *Killing Commendatore* against Kazuo Ishiguro’s *An Artist of the Floating World*, it hardly seems a fair fight. 
@@ -69,4 +69,6 @@ As for Ishiguro’s Japanese sensibility, I assumed the relentless politeness of
 {{< section-head >}}Conclusion{{< /section-head >}}
 
 In the end, comparative literature is about identifying shared characteristics. It is not about ranking books. If you have to do that, yes, Ishiguro is the clear victor. But Murakami’s ambition and originality score him serious points. It is not a tie, but Haruki holds his own.
+
+<span class="gloss">An Artist of the Floating World was shortlisted for the Man Booker Prize in 1986."</span>
  
