@@ -2,7 +2,7 @@
 title: "Ishiguro & Murakami Float Ideas on the River of Metaphor"
 date: "2026-08-07"
 draft: false
-categories: ["Fiction","Multi"]
+categories: ["Fiction","Multi","Booker"]
 authors: ["Haruki Murakami", "Kazuo Ishiguro"]
 subtitle: "Analyzing \"An Artist of the Floating of the Floating World\" on Haruki Murakami's Terms and \"Killing Commendatore\" on Kazuo Ishiguro's Terms"
 photocredit: 'Photo Credit: ID <a href="https://www.dreamstime.com/artist-painting-under-cherry-blossoms-overlooking-seaside-town-harbor-spring-japan-sits-grassy-hillside-blooming-image450779846">450779846</a> | <a href="https://www.dreamstime.com/photos-images/japanese-artist.html">Japanese Artist</a> © <a href="https://www.dreamstime.com/roscoechui_info">Roscoechui</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
@@ -137,3 +137,4 @@ For both Ishiguro and Murakami, a writer does not need to construct a seven-mast
 I have written an addendum to this essay called <a href="https://septimuscarr.com/posts/2026-08-08-ishikami-muraguro-showdown-note/" target="_blank">Stacking "Killing Commendatore" Against An "Artist of the Floating World".</a> It tackles probing questions such as:<br>Which of the two books is the superior work of literature?<br>Is Killing Commendatore just a shameful retread of The Wind-up Bird Chronicle?<br>Is An Artist of the Floating World just a shameless retread of A Pale View of Hills?<br>Why are both authors often criticized for their flat prose?<br>And does translator <a href="http:\\www.dwightsora.com" target="_blank">Dwight Egan Sora</a> consider flat prose a Japanese cultural characteristic?</span>
 <span class="gloss">Also, please note that Sadie Seroxcat, editor of Medium’s <a href="http://medium.com/counterarts" target="_blank">Counter Arts</a> publication, generously selected this essay for publication in its <a href="https://medium.com/counterarts/subpage/ace15d9c0c1e" target="_blank">Literature</a> section starting Thursday August 13, 2026. She has my thanks.</span>
 
+<span class="gloss">An Artist of the Floating World was shortlisted for the Man Booker Prize in 1986."</span>
