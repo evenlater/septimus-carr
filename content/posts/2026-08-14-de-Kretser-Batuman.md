@@ -30,7 +30,7 @@ book:
   cover3: "/img/either-or-cover.jpg" 
 links:
   substack: "https://septimuscarr.substack.com/p/a-tale-told-by-an-idiot-full-of-theory"
-  medium: ""
+  medium: "https://medium.com/counterarts/a-tale-told-by-an-idiot-full-of-theory-practice-what-does-it-signify-66d6d5f38987"
   goodreads: "https://www.goodreads.com/review/show/8858039654?book_show_action=false"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1vqqji7/michelle_de_kretser_looks_for_new_forms_but_elif/"
 ReadDates:
@@ -59,9 +59,11 @@ The next spring, I saw *Mighty Aphrodite* in a second-run movie theater and real
 
 The buyer should always beware claims of new forms. Is there any possible form of fiction that fiction hasn’t already taken? "The novel was triumphant at the middle of the [19th] century," says critic James Wood in his book *The Broken Estate*, "and there is a sense in which Melville, Flaubert, and Gogol, all of them writing roughly contemporaneously, were poets who wanted to make the novel a genre that could consume all others and then perform all their functions at once—a stomach of genres, digesting satire, poetry, epic, the historical novel, realism, and fable." Since then, we have had the shifting interiority of Virginia Woolf, the arcane allusivity of James Joyce, the maximalist floridity of Marcel Proust, the self-referential disclosure of John Barth, the duplicitous gamesmanship of Vladimir Nabokov. So what could possibly be left for the novel to do that is new?
 
-Still, when I first read the promotional blurb for *Theory & Practice*, winner of Australia’s 2025 Stella Prize, I was so intrigued by its concept that I paid Evil Billionaire Jeff Bezos *more* than I would have paid my beloved ThriftBooks just so the book would arrive on my doorstep the next day. This is a doorstep that receives so many books that my mailman incredulously asked if I had a nine-to-five. (True story.) The hook that helped de Kretser jump the line of my teetering TBR was its promised fusion of novel, memoir, and critical analysis of Virginia Woolf. *That* struck me as a genuine formal innovation. 
+Still, when I first read the promotional blurb for *Theory & Practice*, winner of Australia’s 2025 Stella Prize, I was so intrigued by its concept that I paid Evil Billionaire Jeff Bezos *more* than I would have paid my beloved ThriftBooks just so the book would arrive on my doorstep the next day. This is a doorstep that receives so many books that my mailman incredulously asked if I had a nine-to-five. (True story.) The hook that helped de Kretser jump the line of my teetering TBR\* was its promised fusion of novel, memoir, and critical analysis of Virginia Woolf. *That* struck me as a genuine formal innovation. 
 
 But as I worked my way through the slender but compelling narrative, I couldn’t shake the feeling that I had encountered its innovations somewhere before. Finally, it struck me like a pronouncement from a sagacious Greek Chorus: Elif Batuman. The chunked confessional episodes, the coming-of-age romance, the higher ed nostalgia, even the genre-defying insights into classical literature, all bore a distinct resemblance to Harvard Russian Lit alum Elif Batuman’s debut novel *The Idiot* (a Pulitzer finalist) and its sequel *Either/Or*. Both authors aspire to reinvent the novel. Is either successful, or do they both fall victim to the timeless intonations of Ecclesiastes and my undergraduate stab at a one-act comedy?
+
+<span class="gloss">\* TBR = To Be Read</span>
 
 ## The Fiction-Memoir Hybrid
 
@@ -131,3 +133,5 @@ I don’t think either author has cleared that bar. Batuman’s use of James and
 De Kretser’s decision to present a summary of her paper rather than excerpts of it undermines her claim to hybrid prose. I would have preferred it if she had interwoven her critical voice with her narrative voice, similar to the way that A.S. Byatt weaves Victorian poetry into 20th-century narrative in *Possession*. It is not necessary for the essayistic content to be indistinguishable from the story, the way that Benjamín Labatut's non-fiction melts invisibly into his fiction. But it seems to me a more original use of critical writing would be for the two forms to be rendered adjacently in their native idioms, not in a character’s voice. Having characters discuss literature is not a new form. Selin knows that; she's read Proust.
 
 Neither author has created a novel that doesn’t read like a novel or reinvented a centuries-old art form. But the willingness of both authors to merge their own stories with literary insight and narrative imagination makes for three exceptional reading experiences. Their dramatic masterpieces may not be wholly original, but they do not turn out to be just another edition of *Death of a Salesman*. 
+
+<span class="gloss">Sadie Seroxcat, editor of Medium’s <a href="http://medium.com/counterarts" target="_blank">Counter Arts</a> publication, generously selected this essay for publication in its <a href="https://medium.com/counterarts/subpage/ace15d9c0c1e" target="_blank">Literature</a> section starting Sunday August 21, 2026. She has my thanks.</span>y 

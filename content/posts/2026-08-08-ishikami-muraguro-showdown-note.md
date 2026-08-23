@@ -70,5 +70,5 @@ As for Ishiguro’s Japanese sensibility, I assumed the relentless politeness of
 
 In the end, comparative literature is about identifying shared characteristics. It is not about ranking books. If you have to do that, yes, Ishiguro is the clear victor. But Murakami’s ambition and originality score him serious points. It is not a tie, but Haruki holds his own.
 
-<span class="gloss">An Artist of the Floating World was shortlisted for the Man Booker Prize in 1986."</span>
+
  
