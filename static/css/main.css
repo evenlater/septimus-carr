@@ -94,11 +94,11 @@ body {
 .nav-nonfiction.active { color: #A0B870; border-bottom-color: #A0B870; }
 .nav-opera        { color: rgba(224,128,144,.82); }
 .nav-opera:hover,
-.nav-opera.active { color: #E08090; border-bottom-color: #E08090; }
-.nav-booker        { color: rgba(255,174,201,.82); }
+.nav-opera.active { color: #FF92A4; border-bottom-color: #E08090; }
+.nav-booker        { color: rgba(89,207,209,.82); }
 .nav-booker:hover,
 .nav-booker.active { color: #59CFD1; border-bottom-color: #59CFD1; }
-.nav-pulitzer        { color: rgba(255,174,201,.82); }
+.nav-pulitzer        { color: rgba(255,253,85,.82); }
 .nav-pulitzer:hover,
 .nav-pulitzer.active { color: #FFFD55; border-bottom-color: #FFFD55; }
 
