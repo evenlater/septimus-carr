@@ -15,7 +15,7 @@ book:
   author: "Elizabeth Strout"
   year:  "2026"
   isbn: "9788217154746"
-  cover: ""
+  cover: "/img/the-things-we-never-say-cover.jpg"
   links:
   substack: ""
   goodreads: ""
