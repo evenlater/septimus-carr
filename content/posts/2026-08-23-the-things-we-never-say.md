@@ -17,8 +17,8 @@ book:
   isbn: "9788217154746"
   cover: "/img/the-things-we-never-say-cover.jpg"
 links:
-  substack: ""
-  goodreads: ""
+  substack: "https://septimuscarr.substack.com/p/okay-boomer-but-should-genocide-be?r=2ry7vb&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+  goodreads: "https://www.goodreads.com/review/show/8880098536"
   reddit: ""
 readDates:
    start: "2026-08-20"
@@ -76,6 +76,8 @@ I have not studied all of the 8,741 reviews that have already been posted on Goo
 
 Younger Goodreads and BookTok reviewers did not share my generation’s queasy unreadiness for political fisticuffs. When I had read 10 pages that I dismissively and naively described to an email correspondent as "realism without being entirely real" and "wry without being funny," I received an eye-opening TikTok by <a href="https://linktr.ee/alfietindall" target="_blank">Alfie Tindall</a>, known on TikTok as Alfread. He is a 24-year-old parasitologist in training from Glasgow who summed up the view I later encountered again and again from Gen Z critics. "I think reading is one of the most political things that we can do," he began, "and I commend authors who are bold enough to dive into conversations about current affairs." To Alfread, Strout had written "about 200 pages of centrism and fence-sitting." Her engagement amounted to appeasement for mainstream audiences, and she refused to allow her characters to "commit to any kind of political take." Her references to Gaza could have been designed to "educate" her readers, but instead dodged an obligation to call a spade a spade. Alfread is methodically precise; <a href="https://www.un.org/unispal/document/israel-has-committed-genocide-in-the-gaza-strip-un-commission-finds-16sep25/" target="_blank">a United Nations commission has investigated Gaza and has determined it fits four of five criteria for genocide.</a> Why then can’t Strout use that word? He also called her out for a "both-sidesy" tendency to equate Israel and Gaza while clearly attributing responsibility for the Ukraine conflict to Russian aggression. Alfread’s controlled fury cleanly articulated his generation’s impatience with moral prevarication. His critique of Strout echoed the words of Jesus in Revelation: "So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth." 
 
+<b><a href="https://www.tiktok.com/@alf_read/video/7674898805078134038?_r=1&_t=ZP-99AFwUgbdz4" target="_blank">Watch Alfread’s video here!</a></b>
+
 
 ## Hot Take — So Please Don’t Spit Me Out!
 
@@ -99,5 +101,5 @@ Eliot’s best defense may have been scripted by her contemporary Oscar Wilde, t
 
 "On the contrary, ... I’ve now realized for the first time in my life the vital importance of being earnest."                                                          
     
-<span class="gloss">Thanks to Alfie for his explicit permission to engage with his TikTok review of Strout’s book.</span>
+<span class="gloss">Thanks to Alfie Tindall for his explicit permission to engage with his TikTok review of Strout’s book.</span>
                                                          
