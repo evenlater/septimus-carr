@@ -9,7 +9,6 @@ image: "/img/the-things-we-never-say.png"
 imageMobile: "/img/the-things-we-never-say.png"
 imagePosition: "Top"
 imageAlt: "The Statue of Liberty is overtaken by shadows"
-aken by shadow"
 photoCredit: 'Photo by <a href="https://unsplash.com/@hdbernd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bernd 📷 Dittrich</a> on <a href="https://unsplash.com/photos/a-vase-of-flowers-sitting-in-a-dark-room-hdMORUxsxDs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>' 
 book:
   title: "The Things We Never Say"
