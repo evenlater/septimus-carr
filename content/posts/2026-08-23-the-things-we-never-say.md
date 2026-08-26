@@ -19,7 +19,7 @@ book:
 links:
   substack: "https://septimuscarr.substack.com/p/okay-boomer-but-should-genocide-be?r=2ry7vb&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
   goodreads: "https://www.goodreads.com/review/show/8880098536"
-  reddit: ""
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1vyhb4c/okay_boomer_but_should_genocide_be_one_of_the/"
 readDates:
    start: "2026-08-20"
    end: "2026-08-21"
