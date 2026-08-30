@@ -13,7 +13,7 @@ imagePosition: Bottom
 imageAlt: A volcanic eruption on an island
 photocredit: 'Photo credit: ID <a href="https://www.dreamstime.com/royalty-free-stock-image-volcano-image11820556">11820556</a> <a href="https://www.dreamstime.com/photos-images/clouds.html">Clouds</a> Copyright <a href="https://www.dreamstime.com/corex2001_info">Corex2001</a> <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
 book:
-  title: 'SUMMER RERUN: The Year Without Summer: 1816 and the Volcano That Darkened the World and Changed History'
+  title: 'The Year Without Summer: 1816 and the Volcano That Darkened the World and Changed History'
   author: William K. Klingaman, Nicholas P. Klingaman
   year: '2014'
   isbn: '1250042755'
