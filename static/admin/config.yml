@@ -1,0 +1,194 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+#
+# Sveltia CMS config for septimuscarr.com
+#
+# NOT covered by this config (left as manual steps for now):
+#   - data/authorSort.yaml — the surname-sort map for the /authors/ index.
+#     Adding a brand-new author still means adding one line there by hand;
+#     it's a dictionary keyed by free-text author name, which doesn't fit
+#     Sveltia's list/relation widgets cleanly. Rare enough (new author,
+#     not new post) that it didn't seem worth the extra complexity.
+#   - tl-note shortcode — inline, and its `date` must match an entry in
+#     this post's own historicalEvents list. See editor-components.js for
+#     why it isn't a toolbar button yet; it's typed by hand in Raw
+#     Markdown mode, e.g.:
+#       {{< tl-note date="2026-05-13" >}}closing night{{< /tl-note >}}
+#
+# pull-quote and section-head ARE real toolbar/insert-menu components
+# with a styled preview — see editor-components.js.
+#
+# HEADS UP — book/readDates numbering: most posts have one book, "Multi"
+# posts have two (title/title2, readDates/readDates2), and there's at
+# least one real post with THREE (title/title2/title3,
+# readDates/readDates2/readDates3 — see 2026-08-14-de-Kretser-Batuman.md).
+# This config matches that by going up to "3", but it's really a sign the
+# underlying frontmatter shape (numbered singular fields) doesn't scale —
+# a fourth book would need yet another set of fields added here AND in
+# the Hugo templates that read book.title3/readDates3/etc. The cleaner
+# long-term fix is restructuring to `books: [{title, author, ...}, ...]`
+# and `readDates: [{start, end}, ...]` as true lists — happy to help with
+# that migration separately if it's worth doing; it touches existing
+# post content and the Hugo templates, not just this config.
+#
+# Also found in the wild: this field's casing is inconsistent across
+# existing posts (readDates vs ReadDates, photocredit vs photoCredit,
+# imagealt vs imageAlt). Hugo doesn't care (frontmatter keys are
+# case-folded), but the CMS will now always write the lowercase form
+# below going forward, which quietly standardizes new posts even though
+# older files keep whatever casing they already have.
+
+backend:
+  name: github
+  repo: evenlater/septimus-carr
+  branch: main
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: posts
+    label: Essays
+    label_singular: Essay
+    folder: content/posts
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    sortable_fields: [date, title]
+    fields:
+      - { label: Title, name: title, widget: string }
+
+      - label: Date
+        name: date
+        widget: datetime
+        format: 'YYYY-MM-DD'
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        picker_utc: true
+
+      - { label: Draft, name: draft, widget: boolean, default: true }
+
+      - label: Categories
+        name: categories
+        widget: select
+        multiple: true
+        min: 1
+        options:
+          [Classics, Fiction, Drama, Essays, Nonfiction, Opera, Multi, Pulitzer, Booker, Notes]
+
+      - label: Authors
+        name: authors
+        widget: list
+        hint: >-
+          Exactly as the name should read on the site. First time using a new
+          author, also add one line to data/authorSort.yaml so the /authors/
+          index alphabetizes them correctly (ask Evan if unsure).
+
+      - { label: Subtitle, name: subtitle, widget: string, required: false }
+      - { label: Cover Image, name: image, widget: image, required: false }
+
+      - label: Image Position
+        name: imagePosition
+        widget: select
+        options: [Top, Center, Bottom]
+        default: Center
+        required: false
+
+      - { label: Image Alt Text, name: imageAlt, widget: string, required: false }
+
+      - label: Photo Credit
+        name: photocredit
+        widget: text
+        required: false
+        hint: 'Plain text is fine; raw <a href="...">HTML links</a> also work here and will render as links.'
+
+      - label: Book(s)
+        name: book
+        widget: object
+        required: false
+        collapsed: false
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - { label: Author, name: author, widget: string, required: false }
+          - { label: Year, name: year, widget: string, required: false }
+          - { label: ISBN, name: isbn, widget: string, required: false }
+          - { label: Cover Image, name: cover, widget: image, required: false }
+          - label: 'Second Book — Title'
+            name: title2
+            widget: string
+            required: false
+            hint: 'Only for Multi (two-book comparison) posts.'
+          - { label: 'Second Book — Author', name: author2, widget: string, required: false }
+          - { label: 'Second Book — Year', name: year2, widget: string, required: false }
+          - { label: 'Second Book — ISBN', name: isbn2, widget: string, required: false }
+          - { label: 'Second Book — Cover Image', name: cover2, widget: image, required: false }
+          - label: 'Third Book — Title'
+            name: title3
+            widget: string
+            required: false
+            hint: 'Rare — only for three-way comparison posts.'
+          - { label: 'Third Book — Author', name: author3, widget: string, required: false }
+          - { label: 'Third Book — Year', name: year3, widget: string, required: false }
+          - { label: 'Third Book — ISBN', name: isbn3, widget: string, required: false }
+          - { label: 'Third Book — Cover Image', name: cover3, widget: image, required: false }
+
+      - label: Links
+        name: links
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { label: Substack, name: substack, widget: string, required: false }
+          - { label: Medium, name: medium, widget: string, required: false }
+          - { label: Goodreads, name: goodreads, widget: string, required: false }
+          - { label: Reddit, name: reddit, widget: string, required: false }
+
+      - label: Read Dates
+        name: readDates
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { label: Start, name: start, widget: datetime, format: 'YYYY-MM-DD', time_format: false, required: false }
+          - { label: End, name: end, widget: datetime, format: 'YYYY-MM-DD', time_format: false, required: false }
+
+      - label: 'Read Dates — Second Book'
+        name: readDates2
+        widget: object
+        required: false
+        collapsed: true
+        hint: 'Only for Multi posts.'
+        fields:
+          - { label: Start, name: start, widget: datetime, format: 'YYYY-MM-DD', time_format: false, required: false }
+          - { label: End, name: end, widget: datetime, format: 'YYYY-MM-DD', time_format: false, required: false }
+
+      - label: 'Read Dates — Third Book'
+        name: readDates3
+        widget: object
+        required: false
+        collapsed: true
+        hint: 'Rare — only for three-way comparison posts.'
+        fields:
+          - { label: Start, name: start, widget: datetime, format: 'YYYY-MM-DD', time_format: false, required: false }
+          - { label: End, name: end, widget: datetime, format: 'YYYY-MM-DD', time_format: false, required: false }
+
+      - label: Historical Events
+        name: historicalEvents
+        widget: list
+        required: false
+        summary: '{{date}} — {{label}}'
+        hint: >-
+          Feeds both the /timeline/ page and any tl-note references in the
+          body. `date` can be a bare year ("1831") or a full date
+          ("2026-05-13") — just match however tl-note needs to reference it.
+        fields:
+          - { label: Date, name: date, widget: string }
+          - { label: Label, name: label, widget: string }
+          - label: Slug (only if two events share the same date)
+            name: slug
+            widget: string
+            required: false
+
+      - label: Body
+        name: body
+        widget: markdown
+        editor_components: [pull-quote, section-head]
+        modes: [rich_text, raw]
