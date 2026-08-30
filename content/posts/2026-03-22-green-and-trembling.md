@@ -12,7 +12,7 @@ imageAlt: "Painting of Antonio de Erauso by Juan van der Hamen."
 book:
   title: "We Are Green and Trembling"
   author: "Gabriela Cabezón Cámara"
-  year: "2012"
+  year: "2025"
   isbn: "9781787304765"
   cover: "/img/trembling-cover.jpg"
 links:
