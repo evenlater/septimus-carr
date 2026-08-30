@@ -29,7 +29,7 @@ book:
   isbn3: ''
   cover3: ''
 links:
-  substack: ''
+  substack: https://septimuscarr.substack.com/p/laying-blame-for-the-year-without
   medium: ''
   goodreads: https://www.goodreads.com/review/show/8303799455
   reddit: https://www.reddit.com/r/bookreviewers/comments/1s8lusv/mastering_the_socioecological_zoom_slider_in_the/
