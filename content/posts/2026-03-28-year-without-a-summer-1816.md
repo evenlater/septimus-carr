@@ -1,5 +1,5 @@
 ---
-title: Laying Blame for 'The Year Without Summer'
+title: "*Summer Rerun*: Laying Blame for 'The Year Without Summer'"
 date: 2026-08-30
 draft: false
 categories:
