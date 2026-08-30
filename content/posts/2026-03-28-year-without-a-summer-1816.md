@@ -1,39 +1,59 @@
-﻿---
-title: "Laying Blame for 'The Year Without Summer'"
-date: "2026-03-28"
-draft: false
-categories: ["Nonfiction"]
-authors: ["William K. Klingaman", "Nicholas P. Klingaman"]
-subtitle: "Scale problems in a study of 1816 by a historian father and his meteorologist son"
-photocredit: 'Photo credit: ID <a href="https://www.dreamstime.com/royalty-free-stock-image-volcano-image11820556">11820556</a> <a href="https://www.dreamstime.com/photos-images/clouds.html">Clouds</a> Copyright <a href="https://www.dreamstime.com/corex2001_info">Corex2001</a> <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
-image: "/img/volcano.jpg"
-imagePosition: "Bottom"
-imageAlt: "A volcanic eruption on an island" 
-book:
-  title: "The Year Without Summer: 1816 and the Volcano That Darkened the World and Changed History"
-  author: "William K. Klingaman, Nicholas P. Klingaman"
-  year: "2014"
-  isbn: "1250042755"
-  cover: ""
-links:
-  substack: ""
-  medium: ""
-  goodreads: "https://www.goodreads.com/review/show/8303799455"
-  reddit: "https://www.reddit.com/r/bookreviewers/comments/1s8lusv/mastering_the_socioecological_zoom_slider_in_the/"
-ReadDates:
-  start: "2026-03-18"
-  end: "2026-03-27"
-historicalEvents:
-  - date: "1815-04-10"
-    label: "Mount Tambora erupts on the Sumbawa Islands, Indonesia"
-  - date: "1816-05"
-    label: "Mary Shelley starts 'Frankenstein' in Geneva contest with Byron and Shelley"	
-  - date: "1816-12-03"
-    label: "President James Madison delivers the State of the Union"
 ---
-The largest known volcanic eruption in the last two millennia had massive climatological, agricultural, economic, and sociological impacts on Planet Earth, but perhaps the most lasting aftershocks have been bibliographic. Volumes about the Indonesian eruption continue to engulf nearly every section of the world’s bookstores like molten lava. In the history section, climate historian Wolfgang Behringer's *Tambora and the Year without a Summer: How a Volcano Plunged the World into Crisis* is a recent release. On the science shelf, Gillen D’Arcy Wood's *Tambora: The Eruption That Changed the World* has won numerous awards. Historical fiction, too, has erupted with offerings like Guinevere Glasfurd's *The Year Without Summer: 1816*. With that kind of topic glut, any new publication requires a clear and compelling raison d'être. 
+title: Laying Blame for 'The Year Without Summer'
+date: 2026-03-28
+draft: false
+categories:
+  - Nonfiction
+authors:
+  - William K. Klingaman
+  - Nicholas P. Klingaman
+subtitle: Scale problems in a study of 1816 by a historian father and his meteorologist son
+image: /img/volcano.jpg
+imagePosition: Bottom
+imageAlt: A volcanic eruption on an island
+photocredit: 'Photo credit: ID <a href="https://www.dreamstime.com/royalty-free-stock-image-volcano-image11820556">11820556</a> <a href="https://www.dreamstime.com/photos-images/clouds.html">Clouds</a> Copyright <a href="https://www.dreamstime.com/corex2001_info">Corex2001</a> <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
+book:
+  title: 'SUMMER RERUN: The Year Without Summer: 1816 and the Volcano That Darkened the World and Changed History'
+  author: William K. Klingaman, Nicholas P. Klingaman
+  year: '2014'
+  isbn: '1250042755'
+  cover: ''
+  title2: ''
+  author2: ''
+  year2: ''
+  isbn2: ''
+  cover2: ''
+  title3: ''
+  author3: ''
+  year3: ''
+  isbn3: ''
+  cover3: ''
+links:
+  substack: ''
+  medium: ''
+  goodreads: https://www.goodreads.com/review/show/8303799455
+  reddit: https://www.reddit.com/r/bookreviewers/comments/1s8lusv/mastering_the_socioecological_zoom_slider_in_the/
+readDates: null
+readDates2: null
+readDates3: null
+historicalEvents:
+  - date: 1815-04-10
+    label: Mount Tambora erupts on the Sumbawa Islands, Indonesia
+    slug: ''
+  - date: 1816-05
+    label: Mary Shelley starts 'Frankenstein' in Geneva contest with Byron and Shelley
+    slug: ''
+  - date: 1816-12-03
+    label: President James Madison delivers the State of the Union
+    slug: ''
+ReadDates:
+  end: 2026-03-27
+  start: 2026-03-18
+---
 
-The strongest existential rationale for the discursively titled *The Year Without Summer: 1816 and the Volcano that Darkened the World and Changed History* is its intersection of history and climate science. The authors, a history professor and his meteorologist son, spend 300 pages prospecting for the sweet spot between those two disciplines. In the process, they careen wildly between micro and macro, yanking the zoom slider back and forth from a "People's History" vantage to "Great Man" specificity with all the mastery of George Jetson on his treadmill: “Jane, stop this crazy thing!” Ultimately, however, history and science synthesize into a narrative so ineluctably fascinating that the scale problems can't spoil a solid nonfiction read.
+The largest known volcanic eruption in the last two millennia had massive climatological, agricultural, economic, and sociological impacts on Planet Earth, but perhaps the most lasting aftershocks have been bibliographic. Volumes about the Indonesian eruption continue to engulf nearly every section of the world’s bookstores like molten lava. In the history section, climate historian Wolfgang Behringer's _Tambora and the Year without a Summer: How a Volcano Plunged the World into Crisis_ is a recent release. On the science shelf, Gillen D’Arcy Wood's _Tambora: The Eruption That Changed the World_ has won numerous awards. Historical fiction, too, has erupted with offerings like Guinevere Glasfurd's _The Year Without Summer: 1816_. With that kind of topic glut, any new publication requires a clear and compelling raison d'être. 
+
+The strongest existential rationale for the discursively titled _The Year Without Summer: 1816 and the Volcano that Darkened the World and Changed History_ is its intersection of history and climate science. The authors, a history professor and his meteorologist son, spend 300 pages prospecting for the sweet spot between those two disciplines. In the process, they careen wildly between micro and macro, yanking the zoom slider back and forth from a "People's History" vantage to "Great Man" specificity with all the mastery of George Jetson on his treadmill: “Jane, stop this crazy thing!” Ultimately, however, history and science synthesize into a narrative so ineluctably fascinating that the scale problems can't spoil a solid nonfiction read.
 
 ## You Put Your History in My Science!
 
@@ -41,7 +61,7 @@ Historian William K. Klingaman’s success as a storyteller is directly proporti
 
 {{< pull-quote >}}“Great frost—we must learn to be humble.”{{< / pull-quote >}}
 
-Similarly, it makes perfect sense to relay a horror fiction contest between Lord Byron, Percy Shelley, and Mary Shelley because that competition, which prompted the novel *Frankenstein*, was a way to escape the cold. But what does the suicide of Mary’s half-sister Fanny have to do with anything? Klingaman’s insistence on reporting every mildly interesting nugget of research, from painter J.M.W Turner’s salary to Jane Austen’s disinterest in “historical romances," suggests the historian is not entirely clear on the assignment. The book often reads so much like an 1816 yearbook that I almost expected to find the margins inscribed with well wishes for life after graduation. (“Never forget that summer we cross-country skied to class! Lord Byron is low-key hot!”)
+Similarly, it makes perfect sense to relay a horror fiction contest between Lord Byron, Percy Shelley, and Mary Shelley because that competition, which prompted the novel _Frankenstein_, was a way to escape the cold. But what does the suicide of Mary’s half-sister Fanny have to do with anything? Klingaman’s insistence on reporting every mildly interesting nugget of research, from painter J.M.W Turner’s salary to Jane Austen’s disinterest in “historical romances," suggests the historian is not entirely clear on the assignment. The book often reads so much like an 1816 yearbook that I almost expected to find the margins inscribed with well wishes for life after graduation. (“Never forget that summer we cross-country skied to class! Lord Byron is low-key hot!”)
 
 ## You Put Your Science in My History!
 
