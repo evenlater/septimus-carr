@@ -8,6 +8,31 @@ imagePosition: "Bottom"
 photoCredit: 'Banner photo of Trinity University Library in Dublin. Septimus Carr was there in 2018, but he was not the photographer. ID <a href="https://www.dreamstime.com/editorial-image-old-library-bookstacks-trinity-college-dublin-ireland-image94628420">94628420</a> Copyright 
 <a href="https://www.dreamstime.com/dmbryant4_info">Dylan Bryant</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
 ---
+
+## Accomplishments
+
+Septimus Carr is an arts critic whose writings are widely allusive across literary, dramatic, and musical genres. His longform essays often blend comparative criticism with historical narrative, personal reminiscences, and a desparate, trauma-driven joke impulse. 
+
+His writings appear on Substack, Medium, Goodreads, Fable, and Reddit, where his posts score thousands of views, sometimes tens of thousands. Some of those viewers even read the articles!
+
+Carr's essays are informed by advanced training and workplace experience in the dramatic arts. They are also evinced by overflowing drawers of Broadway Playbills, storefront theater xeroxes, and opera house director’s notes. "His turn-ups are stuffed with ticket-stubs*."  
+
+In past lives, Carr was published and produced as a music and film critic, journalist, and playwright. One of his short plays was once performed in direct competition with something David Mamet scribbled on a napkin. (True story, though was it really a napkin?)
+
+Septimus continues to act as the in-house authority on Standard English Conventions for a test prep company that once serviced a large district of Chicago Public Schools.
+
+He also wrote dozens of short essays and hundreds of dangling modifier or cause-effect inference questions for the largest test prep company in South Korea, where tests are Taken Very Seriously.
+
+<span class="gloss">\* Moon in <em>The Real Inspector Hound</em> by Tom Stoppard</span>
+
+<figure class="about-performance">
+  <img src="/img/performative.png" alt="Standing ovation at the Metropolitan Opera" width="922" style="display: block; margin: 0 auto;">
+</figure><br>
+
+<span class="gloss">Opera house photo: AI-free composite by Septimus Carr using Canva. Photo from the Family Circle of the Metropolitan Opera by Septimus Carr. Photo of reader in chair: ID <a href="https://www.dreamstime.com/young-guy-seated-armchair-reading-book-isolated-white-background-image105774812">105774812</a> Copyright 
+<a href="https://www.dreamstime.com/ljupco_info">Ljupco</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a> Curtain and set credit ID <a href="https://www.dreamstime.com/royalty-free-stock-image-theater-curtain-concert-scene-image23147866">23147866</a> Copyright 
+<a href="https://www.dreamstime.com/frogtravel_info">Frogtravel</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a></span>
+
 ## Beginnings
 
 Mainstream scholarship is divided as to the precise date marking the inception of Septimus Carr’s reading career, but most point to matriculation in his local Montessori academy. 
@@ -19,31 +44,6 @@ This discovery was augmented by a detailed transcript of the May 21 parent-teach
 The existing scholarship is far more conclusive on the identity of Carr’s first completed novel, J.R.R. Tolkien’s *The Hobbit*. Secondhand accounts suggest Carr read that book at the family’s kitchen table during a church group potluck. Guests reported that Septimus deliberately drew attention to the accomplishment by punctuating a nearby adult conversation with celebratory exclamations and fist pumps, only to recede from the room in desultory embarrassment after a church elder peremptorily intoned, "That must be a pretty exciting book."
 
 Other books are believed to have followed.
-
-<figure class="about-performance">
-  <img src="/img/performative.png" alt="Standing ovation at the Metropolitan Opera" width="922" style="display: block; margin: 0 auto;">
-</figure><br>
-
-<span class="gloss">Opera house photo: AI-free composite by Septimus Carr using Canva. Photo from the Family Circle of the Metropolitan Opera by Septimus Carr. Photo of reader in chair: ID <a href="https://www.dreamstime.com/young-guy-seated-armchair-reading-book-isolated-white-background-image105774812">105774812</a> Copyright 
-<a href="https://www.dreamstime.com/ljupco_info">Ljupco</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a> Curtain and set credit ID <a href="https://www.dreamstime.com/royalty-free-stock-image-theater-curtain-concert-scene-image23147866">23147866</a> Copyright 
-<a href="https://www.dreamstime.com/frogtravel_info">Frogtravel</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a></span>
-
-## Accomplishments
-
-Septimus Carr is an arts critic whose writings are widely allusive across literary, dramatic, and musical genres. His longform essays often blend comparative criticism with historical narrative, personal reminiscences, and a desparate, trauma-driven joke impulse. 
-
-His writings appear on Substack, Medium, Goodreads, Fable, and Reddit, where his posts score thousands of views, sometimes tens of thousands. Some of those viewers even read the articles!
-
-Carr's essays are informed by advanced training and workplace experience in the dramatic arts. They are also evinced by overflowing drawers of Broadway Playbills, storefront theater xeroxes, and opera house director’s notes. "His turn-ups are stuffed with ticket-stubs." (Hat tip, Sir Tom.*)   
-
-In past lives, Carr was published and produced as a music and film critic, journalist, and playwright. One of his short plays was once performed in direct competition with something David Mamet scribbled on a napkin. (True story, though was it really a napkin?)
-
-Septimus continues to act as the in-house authority on Standard English Conventions for a test prep company that once serviced a large district of Chicago Public Schools.
-
-He also wrote dozens of short essays and hundreds of dangling modifier or cause-effect inference questions for the largest test prep company in South Korea, where tests are Taken Very Seriously.
-
-<span class="gloss">\* Moon in <em>The Real Inspector Hound</em> by Tom Stoppard</span>
-
 
 ## House AI Policy
 
@@ -69,6 +69,7 @@ We believe reading thousands of words on classic or literary fiction should be f
 Shop for literary insight by 
 <ul>
   <li><a href="http:\\septimuscarr.com\posts" target="_blank">Release Date</a></li>
+  <li>Keyword (use the magnifying glass at the top of the screen)</li>
   <li><a href="http:\\septimuscarr.com\categories" target="_blank">Genre</a></li>
   <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Structure</a> ("Multi" refers to joint reviews, a favored house form.)</li>
   <li><a href="http:\\septimuscarr.com\authors" target="_blank">Author</a> (one page for each essay subject, with notes on every reference made to them across all essays)</li>

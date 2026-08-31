@@ -92,6 +92,25 @@ collections:
         default: Center
         required: false
 
+      - label: Image Fit
+        name: imageFit
+        widget: select
+        options: ["cover", "contain"]
+        required: false
+        hint: "Leave blank for the normal cropped look. Use contain for images that should not be cropped."
+
+      - label: Mobile Image (optional override)
+        name: imageMobile
+        widget: image
+        required: false
+        hint: "Only needed if the phone version should show a different image/crop than the desktop cover. Leave blank to just reuse Cover Image."
+
+      - label: Hero Image (optional override)
+        name: imageHero
+        widget: image
+        required: false
+        hint: "Only needed if the large top-of-page image should differ from Cover Image. Leave blank to just reuse Cover Image."
+
       - { label: Image Alt Text, name: imageAlt, widget: string, required: false }
 
       - label: Photo Credit
