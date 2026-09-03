@@ -34,7 +34,7 @@ links:
   substack: https://septimuscarr.substack.com/p/the-biographers-tale-is-not-your
   medium: https://medium.com/counterarts/the-biographers-tale-is-not-your-possession-ffd2c30578ec
   goodreads: ''
-  reddit: ''
+  reddit: https://www.reddit.com/r/TrueLit/s/SVHdfm9F28
 readDates:
   start: 2026-02-14
   end: 2026-02-21
