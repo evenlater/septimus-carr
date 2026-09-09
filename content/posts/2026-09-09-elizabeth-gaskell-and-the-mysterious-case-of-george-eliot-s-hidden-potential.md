@@ -150,7 +150,7 @@ And suddenly she is capable of writing exchanges like this:
 
 ‘It would be much better if you would not be so hypocritical, Captain Wybrow. I am confident there has been some flirtation between you. Miss Sarti, in her position, would never speak to you with the petulance she did last night, if you had not given her some kind of claim on you.’<br>
 
-<cite>George Eliot, “Mr. Gilfil’s Love Story,” <em>Scenes of a Clerical Life</em></blockquote> 
+<cite>George Eliot, “Mr. Gilfil’s Love Story,” <em>Scenes of a Clerical Life</em></cite></blockquote> 
 
 In his book _The Provincial Fiction of Mitford, Gaskell, and Eliot,_ Kevin A. Morrison comes to a similar conclusion. He notes that Mary Russell Mitford’s provincial storytelling in the novel _Our Village_ was a major influence on Gaskell but not on Eliot. “Mitford was, in all likelihood, one of those writers for whom Eliot could only express, as she put it in her letter to Gaskell, a ‘vague gratitude’ for having ‘charmed’ her,” Morrison writes. “By contrast, _Cranford_ quickened her abilities as a novelist.”    
 
