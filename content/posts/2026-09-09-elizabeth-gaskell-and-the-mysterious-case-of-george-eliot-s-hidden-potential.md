@@ -1,7 +1,7 @@
 ---
 title: Elizabeth Gaskell and the Mysterious Case of George Eliot's Hidden Potential
-date: 1000-09-09
-draft: false
+date: 2026-09-09
+draft: true
 categories:
   - Classics
   - Fiction
@@ -27,7 +27,7 @@ book:
   title2: Scenes of a Clerical Life
   author2: George Eliot
   year2: '1859'
-  isbn2: '978019968019'
+  isbn2: '9780199689606'
   cover2: ''
   title3: ''
   author3: ''
