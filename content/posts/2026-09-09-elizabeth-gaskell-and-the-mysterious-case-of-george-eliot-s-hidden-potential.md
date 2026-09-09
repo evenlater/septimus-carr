@@ -2,8 +2,8 @@
 title: "Mrs Gaskell and the Mysterious Case of George Eliot’s Hidden Potential"
 date: "1000-09-09"
 draft: false
-categories: "Classics, Fiction, Multi"
-authors: "Elizabeth Gaskell, George Eliot"
+categories: ["Classics", "Fiction", "Multi"]
+authors: ["Elizabeth Gaskell", "George Eliot"]
 subtitle: "What a Concurrent Reading of \"Cranford\" and \"Scenes of a Clerical Life]\" Reveals About Artistic Growth"
 image: /img/gaskell-eliot-knutsford.png
 imagePosition: "Center"
