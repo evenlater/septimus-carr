@@ -1,7 +1,7 @@
 ---
 title: Elizabeth Gaskell and the Mysterious Case of George Eliot's Hidden Potential
-date: 2026-09-09
-draft: true
+date: 1000-09-09
+draft: false
 categories:
   - Classics
   - Fiction
