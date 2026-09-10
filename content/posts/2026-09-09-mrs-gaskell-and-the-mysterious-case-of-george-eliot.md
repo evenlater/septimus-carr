@@ -90,27 +90,7 @@ The correspondence between the two women, initiated by Gaskell, is not merely hi
 
 Elementary, my dear Watson. The dates in Eliot’s journals and letters confirm the timing. Eliot started "Gilfil" on Christmas and applied finishing touches on May 1. Between March 18, 1857, "in spite of ailing bodies," Eliot and Lewes were "reading Mrs Gaskell's pretty ‘Cranford.’" The sudden vivid animation of "Mr. Gilfil’s Love Story," its agonizingly authentic dialogue and riveting dramatic pacing, are the hurtling stars that point to a supermassive black hole. The black hole, Eliot reveals here, is *Cranford* itself.
 
-Consider the evidence, much of it laid out by Kevin A. Morrison in his book *The Provincial Fiction of Mitford, Gaskell, and Eliot*: Eliot’s own journals testify that the only component of fiction with which she felt fully "at ease" was description. Blackwood flags that technique exactly as the strength of "Amos Barton" ("the descriptions are humorous and good") while cautioning of overreliance on it. This was the very problem I had with "Amos Barton" in December 2025: its "relentlessly expository style." 
-
-Pinpointing the precise lessons Eliot learned from Gaskell is a sketchy business because she doesn’t directly cite any. But before *Cranford*, she doubted her own capacity for "dramatic power." Reading what came after *Cranford*, Gilfil’s horseback pursuit of the heartbroken Tina, I was on the edge of my seat. Before reading *Cranford*, Eliot worried about her "dialogue". A few months later, she reads lively exchanges like this:
-
-<blockquote>‘And how came Miss Matilda not to marry him?’ asked I.<br>
-‘Oh, I don’t know. She was willing enough, I think; but you know Cousin Thomas would not have been enough of a gentleman for the Rector, and Miss Jenkyns.’<br>
-‘Well! but they were not to marry him,’ said I, impatiently.<br>
-‘No; but they did not like Miss Matty to marry below her rank. You know she was the Rector’s daughter, and somehow they are related to Sir Peter Arley: Miss Jenkyns thought a deal of that.’<br>
-‘Poor Miss Matty!’ said I.<br>
-<cite>Elizabeth Gaskell, <en>Cranford</em></blockquote>
-
-And suddenly she is capable of writing exchanges like this:
-
-<blockquote>‘You seem to be on very intimate terms with Miss Sarti.’<br>
-‘With Tina? oh yes; she has always been the pet of the house, you know. We have been quite brother and sister together.’<br>
-‘Sisters don’t generally colour so very deeply when their brothers approach them.’<br>
-‘Does she colour? I never noticed it. But she’s a timid little thing.’<br>
-‘It would be much better if you would not be so hypocritical, Captain Wybrow. I am confident there has been some flirtation between you. Miss Sarti, in her position, would never speak to you with the petulance she did last night, if you had not given her some kind of claim on you.’<br>
-<cite>George Eliot, "Mr. Gilfil’s Love Story," <em>Scenes of Clerical Life</em></cite></blockquote> 
-
-I’m not arguing that there is any specific relationship between those passages. Rather, I am submitting them as Exhibit A in support of Morrison’s contention that "*Cranford* quickened her abilities as a novelist."    
+Consider the evidence, much of it laid out by Kevin A. Morrison in his book *The Provincial Fiction of Mitford, Gaskell, and Eliot*: Eliot’s own journals testify that the only component of fiction with which she felt fully "at ease" was description. Blackwood flags that technique exactly as the strength of "Amos Barton" ("the descriptions are humorous and good") while cautioning of overreliance on it. This was the very problem I had with "Amos Barton" in December 2025: its "relentlessly expository style." Pinpointing the precise lessons Eliot learned from Gaskell is a sketchy business because she doesn’t directly cite any. But before *Cranford*, she doubted her own capacity for "dramatic power." Reading what came after *Cranford*, Gilfil’s horseback pursuit of the heartbroken Tina, I was on the edge of my seat. The tighter pacing and memorable dialogue support Morrison’s contention that "*Cranford* quickened her abilities as a novelist."    
 
 ## Part 3: <em>Cranford</em> Chapters 12-16 Versus "Janet’s Repentance"
 
