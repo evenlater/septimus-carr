@@ -11,7 +11,7 @@ imageFit: ''
 imageMobile: ''
 imageHero: "/img/gaskell-eliot-knutsford.png"
 imageAlt: "Elizabeth Gaskell and George Eliot sketched in the foreground and a Knutsford (Gaskell's hometown) church photographed in the background"
-photocredit: 'Elizabeth Gaskell sketch by George Richmond (1851), Public domain. George Eliot sketch by Samuel Laurence (1860), Public domain. St Cross Church, Knutsford (Mrs. Gaskell’s childhood hometown) photo by David Dixon (2020), CC-BY-SA-2.0. All three via Wikimedia Commons.'
+photocredit: 'Elizabeth Gaskell sketch by George Richmond (1851), Public domain. George Eliot sketch by Samuel Laurence (1860), Public domain. St Cross Church, Knutsford (Mrs. Gaskell’s childhood hometown) photo by David Dixon (2020), CC-BY-SA-2.0. All via Wikimedia Commons. Composite by Septimus Carr in Canva without AI.'
 book:
   title: "Cranford"
   author: "Elizabeth Gaskell"
