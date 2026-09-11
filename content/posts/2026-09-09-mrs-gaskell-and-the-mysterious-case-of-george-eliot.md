@@ -50,14 +50,13 @@ historicalEvents:
   - date: "1857-03-19"
     label: "Eliot and Lewes read Chapter 6 of Cranford"
   - date: "1857-05-01"
-    label: "Gilfil story complete; Eliot starts Janet’s Repentance."
+    label: "Gilfil story complete; Eliot starts Janet’s Repentance"
   - date: "1857-06-08"
     label: "Isaac Evans announces split with sister George Eliot"
   - date: "1859-06-03"
     label: "Mrs. Gaskell first writes George Eliot"
   - date: "1859-11-11"
     label: "George Eliot tells Mrs. Gaskell she read Cranford"
-	
 ---
 
 Like any good detective, I started by reconstructing the sequence of events. I would have cracked the case sooner if I had read Elizabeth Gaskell’s *Cranford* and George Eliot’s *Scenes of Clerical Life* together. But in the beginning, I didn’t know there was anything to solve. 
