@@ -8,10 +8,11 @@ authors: ["Douglas Stuart"]
 image: "/img/john-of-john.png"
 imageMobile: "/img/john-of-john.png"
 imageHero: "/img/john-of-john.png"
-imageFit: ""
+imageFit: "contain"
 imagePosition: "Center"
-imageAlt: "A coastal photo from the Isle of Harris, Scotland"
-photoCredit: 'Photo of the Isle of Harris, Scotland, by <a href="https://unsplash.com/@ambasteir?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nils Leonhardt</a> on <a href="https://unsplash.com/photos/a-sandy-beach-with-grass-and-mountains-in-the-background-ppX5Jd0PhjI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+imageAlt: "Sea view from a stone window of an old ruin near the ocean in the Isle of Harris, Scotland"
+photoCredit: 'Photo of the Isle of Harris, Scotland, by ID <a href="https://www.dreamstime.com/stock-photo-sea-view-stone-window-old-ruin-near-ocean-isle-harris-scotland-uk-image42127626">42127626</a> | <a href="https://www.dreamstime.com/photos-images/scottish.html">Scottish</a> © 
+<a href="https://www.dreamstime.com/drimafilm_info">Nicola  Ferrari</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
 book:
   title: "John of John"
   author: "Douglas Stuart"
