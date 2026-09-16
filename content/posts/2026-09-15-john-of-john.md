@@ -1,7 +1,7 @@
 ---
 title: "The Mounting Cost of Staying in Douglas Stuart’s \"John of John\"" 
 subtitle: "Everyone says it’s harder to leave. But it’s much harder to stay."
-date: 1000-09-15
+date: 2026-09-15
 draft: false
 categories: ["Fiction","Booker"]
 authors: ["Douglas Stuart"]
@@ -105,6 +105,6 @@ The book opens with a painful staying, as Cal ponders exile from urban acceptanc
 
  Back home, I meet my girlfriend for a dread-inducing exchange of Christmas presents and semester stories. My firm extraction comes as a quietly expected surprise to her and a long-resisted scratch to me. The itch itself is left behind, too, in a Homeric return to the pediatrician. He scoldingly reveals that the rash is worse only because I’ve so often reapplied the body wash. The second time I used it, I was treating an infestation that was no longer present. The only reason I continued to itch was that my repeated attacks on my healthy skin conjured agonizing eczema. 
  
- Years later, after college, I will reunite with the girlfriend. And break up. And reunite and break up. Until we are in our thirties and the final break is far more painful than it ever should have been. 
+ Years later, after college, I will reunite with this girlfriend. And break up. And reunite and break up. Until we are in our thirties and the final break is far more painful than it ever should have been. 
  
  The treatment only works if you do it once.
