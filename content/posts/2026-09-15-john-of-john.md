@@ -1,5 +1,5 @@
 ---
-title: "The Mounting Cost of Staying: The Secret Infestations of Douglas Stuart’s \"John of John\"" 
+title: "The Mounting Cost of Staying in Douglas Stuart’s \"John of John\"" 
 subtitle: "Everyone says it’s harder to leave. But it’s much harder to stay."
 date: 1000-09-15
 draft: false
@@ -8,7 +8,7 @@ authors: ["Douglas Stuart"]
 image: "/img/john-of-john-coast.png"
 imageMobile: "/img/john-of-john-coast.png"
 imageHero: "/img/john-of-john-coast.png"
-imageFit: "contain"
+imageFit: ""
 imagePosition: "Center"
 imageAlt: "Sea view from a stone window of an old ruin near the ocean in the Isle of Harris, Scotland"
 photoCredit: 'Photo by <a href="https://unsplash.com/@ambasteir?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nils Leonhardt</a> on <a href="https://unsplash.com/photos/a-sandy-beach-with-grass-and-mountains-in-the-background-ppX5Jd0PhjI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
@@ -32,11 +32,11 @@ In a book of heavily shared silences, of casual lies reflexively uttered in defe
 
 ## a h-aon / one
 
-Sipping sambuca in a noisy mainland pub, the pair have made a fleeting escape from their boggy Scottish island, which remains in the late 1990s a barren sanctuary for a stagnant, best-forgotten past. Cal, a recent college graduate whose nascent lumnionsity has not yet been extinguished by his smothering surroundings, is almost impercetably flirtatious with his father's best friend. Innes, a gentle farmer in his late forties who is compromised by entropic desperation despite eyes that still seem to Cal to be "lit from behind," cagily probes which secrets can be sundered and which must be protected. 
+Sipping sambuca in a noisy mainland pub, the pair have made a fleeting escape from their boggy Scottish island, which remains in the late 1990s a barren sanctuary for a stagnant, best-forgotten past. Cal is a recent college graduate whose nascent lumnionsity has not yet been extinguished by his smothering surroundings. He is almost impercetably flirtatious with his father's best friend Innes, a gentle farmer in his late forties who is compromised by entropic desperation despite eyes that still seem to Cal to be "lit from behind." The two of them cagily probe which secrets can be sundered and which must be protected. 
 
 Innes asks Cal why he came home to the island after college. Cal’s answer is "I was scared." He’d never been so alone, so responsible for himself. By way of explanation, Cal tells a story that assaults me from the page with a memory I hadn’t examined in years.
 
-<blockquote>"I caught scabies in my second year. I came out in these itchy red sores and didn’t sleep for weeks. I finally plucked up the courage to tell my dad, to ask what it was and if I should go to hospital or not, and all my dad wanted to know was how I caught it." He chuckled sourly. "I caught it from someone in the library. Sad, right?" He took a draw and held the smoke inside before expelling it in a series of hoops. "I learnt I could never tell him about my actual life. I think that’s why I’m in so much debt. I just wish I had someone to phone, someone to ask.”<br>
+<blockquote>"I caught scabies in my second year. I came out in these itchy red sores and didn’t sleep for weeks. I finally plucked up the courage to tell my dad, to ask what it was and if I should go to hospital or not, and all my dad wanted to know was how I caught it." He chuckled sourly. "I caught it from someone in the library. Sad, right?" He took a draw and held the smoke inside before expelling it in a series of hoops. "I learnt I could never tell him about my actual life. I think that’s why I’m in so much debt. I just wish I had someone to phone, someone to ask.”<br><br>
 Innes made a small murmur of understanding. “Everyone says it’s harder to leave. But it’s much harder to stay.”</blockquote>
 
 Innes’s aphorism is a striking diagnosis of their mutal affliction. It is the core of Stuart’s bitterly pleasurable novel, a hushed and irreverent ode to emotional paralysis that is almost universally cited as a highlight of the 2026 Booker Prize longlist and almost certain to be shortlisted come September 22. Staying on the Isle of Harris is gradually killing both Cal and Innes, but it also is the most laborious of their binary options. Leaving brings agnoizing finality, but if done correctly it is a single swing of the blade. You only have to do it once.
