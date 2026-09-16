@@ -5,9 +5,9 @@ date: 2026-09-15
 draft: false
 categories: ["Fiction","Booker"]
 authors: ["Douglas Stuart"]
-image: "/img/john-of-john-coast.png"
-imageMobile: "/img/john-of-john-coast.png"
-imageHero: "/img/john-of-john-coast.png"
+image: "/img/john-of-john.png"
+imageMobile: "/img/john-of-john.png"
+imageHero: "/img/john-of-john.png"
 imageFit: ""
 imagePosition: "Center"
 imageAlt: "A coastal photo from the Isle of Harris, Scotland"
@@ -97,7 +97,7 @@ The open relationship never seems to convert to actual dating. On our first Chri
 
 The care with which Stuart creates the setting of *John of John* is impressive, but he does not rely on painterly evocation of landscape to bring the Isle of Harris to life. Instead, location is vividly rendered through the *culture* of its inhabitants, through peat-fueled stasis alleviated by flashes of modernity. A copy of the opening volume of Proust—ironically belonging to John rather than Cal—slips from a vibrating dashboard. An abortive sex scene is scored to a hushed Nick Drake sunset. A cèilidh pulsates in full-on Chumbawumba desperation. This thorough sense of place reminded me of Colm Tóibín’s evocation of enervating small-town myopia in *Long Island*. That novel devoted a similar degree of care to its peripheral characters as it dramatized a partially severed relationship caught halfway between leaving and staying. But if I’ve ever read a novel that more beautifully straddled that pained dichotomy than *John of John*, I don’t know what it is. 
 
-Like Joni Mitchell, Cal has got the urge for going, but his must be suppresssed. The funds Cal’s grandmother appropriated from the collection plate are long gone by winter and the chill invades his once buoyant spirit. "His father put all his faith in the Presbyterian penicillin," Stuart’s narrator explains. "For whatever ailed you there was only one cure: work and prayer." Cal obediently works himself into mindless submission. Now it is clear why Stuart began the book with an epigraph from George Eliot’s *Silas Marner*, who was a weaver, just like John and Cal: "Every man’s work, pursued steadily, tends in this way to become an end in itself, and so to bridge over the loveless chasms of his life." The work merely roots the pain and leaves nothing planted for spring. The longer he stays, the more John-Calum morphs inexorably into John. 
+Like Joni Mitchell, Cal has got the urge for going, but his must be suppressed. The funds Cal’s grandmother appropriated from the collection plate are long gone by winter and the chill invades his once buoyant spirit. "His father put all his faith in the Presbyterian penicillin," Stuart’s narrator explains. "For whatever ailed you there was only one cure: work and prayer." Cal obediently works himself into mindless submission. Now it is clear why Stuart began the book with an epigraph from George Eliot’s *Silas Marner*, who was a weaver, just like John and Cal: "Every man’s work, pursued steadily, tends in this way to become an end in itself, and so to bridge over the loveless chasms of his life." The work merely roots the pain and leaves nothing planted for spring. The longer he stays, the more John-Calum morphs inexorably into John. 
 
 The book opens with a painful staying, as Cal ponders exile from urban acceptance. It closes with Innes’s sudden cleaving blow, a joyous defiance of Harris’s suffocating grip. Just as Cal was beginning to surrender to a Doll-like trajectory, Innes, who diagnosed the problem tersely with his aphorism in the portside bar, proves that it is never too late to leave and that staying is still the harder option. Cal finds a phone number for his first destination and ratifies his choice in a message dictated to a clerk: you have become the hope of us all.  
 
