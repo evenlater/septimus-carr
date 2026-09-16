@@ -99,8 +99,10 @@ The funds Cal’s grandmother appropriated from the collection plate are long go
 
 The trip to the mainland with Innes takes root in Cal’s mind as the weekend he should have made a break for it. Or perhaps his only chance was lost the minute he had returned from college, which had been a challenge for Cal but a place of newly embraced queer identity. Now he lacks the resources to stage another jailbreak. But the conveyor belt trajectory toward Doll-like surrender is halted when Innes cashes in his chips. He sells his share of the farm to his brother and disappears to the mainland. Cal tracks Innes down by phone and leaves a message that implies that hiz father’s friend has become the hope of them all.
 
-## lorg leigheas / cure
+## cure / lorg leigheas
 
  Back home, I meet my girlfriend to exchange Christmas presents and semester stories. I finally end the relationship and the itch miraculously goes away. The doctor has told me that the rash is worse only because I’ve tried to get rid of it too many times. The second time I used it, I was treating an infestation that was no longer present. The only reason I continued to itch was that my repeated attacks on my healthy skin resulted in agnonizing eczema. 
  
- Years later, after college, I will reunite with the girlfriend. And break up and reunite. And break up and reunite. Until we are in our thirties and the final break is far more painful than it ever should have been. The treatment only works if you do it once.
+ Years later, after college, I will reunite with the girlfriend. And break up and reunite. And break up and reunite. Until we are in our thirties and the final break is far more painful than it ever should have been. 
+ 
+ The treatment only works if you do it once.
