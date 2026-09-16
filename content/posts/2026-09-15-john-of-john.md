@@ -21,7 +21,7 @@ book:
   cover: "/img/john-of-john-cover.jpg"
 links:
   substack: "https://septimuscarr.substack.com/p/the-mounting-cost-of-staying-in-douglas"
-  goodreads: ""
+  goodreads: "https://www.goodreads.com/review/show/8923137255"
   reddit: ""
 readDates:
    start: "2026-09-03"
@@ -63,6 +63,8 @@ The reason everyone says it’s harder to leave is that the longer you stay, the
 
 Every character in *John of John* is chronically confronted with one question: How can they escape? Cal is ostensibly there to help his father, but is he even needed? "My father makes all kinds of excuses about why he wanted me home," Cal tells Innes. "But let’s be honest, he can manage the croft by himself, he would rather manage by himself. He’s lonely, Innes. And he doesn’t know how to admit that." Cal also returned to help his ailing grandmother, but she’s stealing from the church to fund his departure. 
 
+{{< pull-quote >}}These shepherds administer brutal castrations and decapitate newborn lambs with poor survival odds. "Thy rod and thy staff" cease to be an instrument of comfort.{{< /pull-quote >}}
+
 The money circulates through their little community like a mite infestation—each character professes a desire to leave, but when the cash comes round, each finds a nobler desire to pass opportunity on to his or her neighbor. Cal gives the money to his one-time "beard" Isla, who bears the illegitimate child everyone assumes is his. She accepts but in the end she can’t pull the trigger. Her grieving mother needs her on the island. Only Doll, the cause of the mother’s grief, finds a way to escape his stultifying existence: 
 
 <blockquote>"The [official report] said Doll had the liver of a much older man, that it was all burnt and black and fatty. But he said that in the end, it wasn’t the drink that killed him. He drowned."<br>
@@ -85,7 +87,8 @@ In *John of John*, sex is seldom a shared communicative bond. More often, it is 
 
 >It seemed to Cal that [Doll] felt better about the wickedness of it all if he pretended he was doing Cal some favour. If he pretended that they were only here because of the dirty things Cal wanted and that he was a big man, a good friend, to grant it to him even though at the end of it all, Cal was the one denied the pleasure of release. He was just a collection of replacement parts. A substitution for what Doll could not get. And so there was no way to begin with kisses, or with caresses, or with tender words. No way to be seen to be enjoying their bodies.
 
-College-bound Isla’s future prospects dim with her pregnancy, a passionate concession to a mainland cad rationalized as one last fling before marrying a boring islander. Perhaps Cal’s healthiest hedges against loneliness are the "M4M" classified ads he takes out in city papers. He receives a friendly and sexy letter but spoils the opportunity by seeming too sexually desperate. "Cal," reads the second letter, "I don’t think you’re what I am looking for. Wishing you all the best and that, Billy." 
+College-bound Isla’s future prospects dim with her pregnancy, a passionate concession to a mainland cad rationalized as one last fling before marrying a boring islander. Perhaps Cal’s healthiest hedges against loneliness are the "M4M" classified ads he takes out in city papers. He receives a friendly and sexy letter but spoils the opportunity by seeming too sexually desperate. "Cal," reads the second letter, "I don’t think you’re what I am looking for. Wishing you all the best and that, Billy."
+ 
 If Cal's coping mechanism is sex, John’s is faith. "I didn’t leave him, I left home," Cal tells Innes in the bar. "And he left me first. He looked at me and he looked at Jesus and he chose Jesus." Presbyterianism is the most effective barbed wire fence the island has at its disposal. Its rigid moralism is the iron fist that keeps the island in lockstep compliance. John’s highest self-concept is steeped in his austere piety as an elder in the church. But his fevered prayers rationalize his brutal abuse of Cal and mask the book’s most intensely guarded secret, a midpoint revelation that changes everything while changing nothing.  
 
 Many of the islanders, including Cal and John, are shepherds, but rather than lying down in green pastures or leading their flock beside still waters, these shepherds administer brutal castrations and decapitate newborn lambs with poor survival odds. "Thy rod and thy staff" cease to be an instrument of comfort. The Jesus who halted a stoning has left the island. In his place is a Presbyterian minister who shrugs off Isla and her unborn child as "two souls destined for damnation" even as he seeks to marry her off to Cal.
