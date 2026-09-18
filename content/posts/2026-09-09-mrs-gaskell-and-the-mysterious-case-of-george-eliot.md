@@ -26,6 +26,8 @@ book:
 links:
   substack: "https://septimuscarr.substack.com/p/mrs-gaskell-and-the-mysterious-case"
   goodreads: "https://www.goodreads.com/review/show/8188640426"
+  medium: "https://medium.com/counterarts/mrs-gaskell-and-the-mysterious-case-of-george-eliots-sudden-genius-0839db98161c"
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1weagdd/mrs_gaskell_and_the_mysterious_case_of_george/"
 readDates:
   start: "2025-12-27"
   end: "2026-01-04"
