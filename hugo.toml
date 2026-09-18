@@ -9,7 +9,10 @@ paginate = 12
   tagline      = 'Longform Literary Intersections'
   substack     = 'https://septimuscarr.substack.com'
   goodreads    = 'https://www.goodreads.com/user/show/186362129-septimus-carr'
-  siblingcontent = 'https://stagesandscreens.blogspot.com/'
+  medium       = 'https://medium.com/@septimuscarr'
+  # Profile links below feed the Person schema on /about/ (sameAs). Leave blank to skip.
+  reddit       = ''
+  fable        = 'https://fable.co/fabler/birdboot-127099662514?tab=stats&period_type=year'
   # categoryOrder controls nav sequence; add new categories here too
   categoryOrder = ['Classics','Fiction','Drama','Essays','Nonfiction','Opera','Multi','Pulitzer','Booker','Notes']
   cusdisID = "49375ae2-0bed-45fd-a0cd-3eb99d120ffe"

@@ -1,0 +1,57 @@
+{{- /*
+  Structured data (schema.org JSON-LD).
+  - Home:  WebSite, pointing at the Person below as author
+  - About: Person, with sameAs links so search engines and AI answer engines
+           treat the Substack, Medium, Goodreads, Reddit and Fable profiles as
+           one critic (and not as the Adventist missionary of the same name)
+  - Posts: BlogPosting, each crediting that same Person @id
+  Profile URLs come from [params] in hugo.toml; blank ones are skipped.
+  Everything is built as a dict and passed through jsonify once, so titles
+  with quotes or apostrophes cannot break the JSON.
+*/ -}}
+{{- $personID := printf "%sabout/#person" .Site.BaseURL -}}
+{{- $same := slice -}}
+{{- range slice "substack" "medium" "goodreads" "reddit" "fable" -}}
+  {{- with index $.Site.Params . }}{{ $same = $same | append . }}{{ end -}}
+{{- end -}}
+{{- $opts := dict "indent" "  " -}}
+
+{{- if .IsHome -}}
+{{- $ws := dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "name" .Site.Title
+  "url" .Site.BaseURL
+  "description" .Site.Params.description
+  "author" (dict "@id" $personID) }}
+<script type="application/ld+json">{{ $ws | jsonify $opts | safeJS }}</script>
+{{- end }}
+
+{{- if eq .RelPermalink "/about/" -}}
+{{- $person := dict
+  "@context" "https://schema.org"
+  "@type" "Person"
+  "@id" $personID
+  "name" "Septimus Carr"
+  "url" .Permalink
+  "jobTitle" "Literary essayist and critic"
+  "description" "Septimus Carr is an arts critic whose writings are widely allusive across literary, dramatic, and musical genres."
+  "image" ("img/logo.png" | absURL)
+  "sameAs" $same }}
+<script type="application/ld+json">{{ $person | jsonify $opts | safeJS }}</script>
+{{- end }}
+
+{{- if and .IsPage (eq .Section "posts") (gt .Date.Year 1900) -}}
+{{- $post := dict
+  "@context" "https://schema.org"
+  "@type" "BlogPosting"
+  "headline" .Title
+  "url" .Permalink
+  "datePublished" (.Date.Format "2006-01-02")
+  "dateModified" (.Lastmod.Format "2006-01-02")
+  "description" ((or .Description .Summary) | plainify | htmlUnescape)
+  "author" (dict "@type" "Person" "@id" $personID "name" "Septimus Carr" "url" ("about/" | absURL))
+  "publisher" (dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL) }}
+{{- with .Params.image }}{{ $post = merge $post (dict "image" (. | absURL)) }}{{ end }}
+<script type="application/ld+json">{{ $post | jsonify $opts | safeJS }}</script>
+{{- end }}
