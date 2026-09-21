@@ -79,13 +79,13 @@ When Murakami is in elementary school, his father tells him a chilling tale abou
 
 Murakami’s trauma from his father’s wartime experience was secondhand and mild, but it colors his fiction. In *Killing Commendatore*, Murakami invents a pianist who slashes his gifted hands rather than commit such an offense against a Chinese prisoner. *The Wind-Up Bird Chronicle* tells the story even more harrowingly, as a zookeeper is forced to unsuccessfully bludgeon a defenseless Chinese prisoner with a baseball bat. These horrifying true events are recounted in the context of Murakami’s magical realist fiction. "Realism is a lenient tutor; it schools its own truants," wrote book critic James Wood. "Everything flows from the real, including the beautiful deformations of the real; it is realism that allows surrealism, magic realism, fantasy, dream, and so on." By trying his hand at family memoir, Murakami is not just sharing family secrets. He is revealing the hidden deck of cards sown into the sleeve of his famous magical realism.  
 
-Still, Murakami recognizes his own good fortune. "If my father’s fate had changed by even a fraction," writes Murakami in Abandoning the Cat, "the fact is I wouldn’t exist."
+Still, Murakami recognizes his own good fortune. "If my father’s fate had changed by even a fraction," writes Murakami in *Abandoning a Cat*, "the fact is I wouldn’t exist."
 
 ## PART THREE – The Sons
 
-I discovered Haruki Murakami in July 2025. Since then, I have read 11 of his books, but I had no idea how much we have in common. 
+I discovered Haruki Murakami in July 2025. Since then, I have read 11 of his books. Until now, I had no idea how much we have in common. 
 
-It goes far beyond our mutual affection for cats, which are a constant presence both in his fiction and in *Abandoning a Cat*, which opens with a story about a pet that refused to be discarded. His novel Kafka on the Shore features a character who makes a tidy side gig of chatting with friendly felines. I used to dream that mine conversed with me.
+It goes far beyond our mutual affection for cats, which are a constant presence both in Murakami’s fiction and in *Abandoning a Cat*, which opens with a story about a pet that refused to be discarded. In *Kafka on the Shore*, the adorable Mr. Nakata a tidy side gig of chatting with friendly felines. I used to dream that mine conversed with me.
 
 More substantively, Murakami and I were both underachievers in our school days. "I’m the type who eagerly pursues things I’m interested in but can’t be bothered with anything else," he writes in *Abandoning a Cat*. "That was true of me when I was a student and It is still true now." Hello, fellow traveler. I started my schooling under the Montessori principle that children learn best when they are self-directed. My mother pulled me out of the Montessori school after fourth grade because I was more interested in writing my own Choose Your Own Adventure books than I was in fractions. My modest high school grades vastly improved in college, where you get to pick a major (mine was theater), and where my interest in playwrighting started belatedly teaching me the importance of science and math. 
 
