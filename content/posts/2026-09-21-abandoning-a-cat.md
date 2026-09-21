@@ -1,5 +1,5 @@
 ---
-title: "Haruki Murakami Reveals the Reality Behind the Magic" 
+title: "Haruki Murakami Reveals the Reality Behind His Magic" 
 subtitle: "What I have in common with Haruki Murakami’s \"Abandoning a Cat\""
 date: 1000-09-20
 draft: false
