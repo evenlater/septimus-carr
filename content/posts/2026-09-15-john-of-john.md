@@ -22,7 +22,7 @@ book:
 links:
   substack: "https://septimuscarr.substack.com/p/the-mounting-cost-of-staying-in-douglas"
   goodreads: "https://www.goodreads.com/review/show/8923137255"
-  reddit: ""
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1wkkbml/the_mounting_cost_of_staying_in_douglas_stuarts/"
 readDates:
    start: "2026-09-03"
    end: "2026-09-14"
