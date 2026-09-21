@@ -1,7 +1,7 @@
 ---
 title: "Haruki Murakami Reveals the Reality Behind His Magic" 
 subtitle: "What I have in common with Haruki Murakami’s \"Abandoning a Cat\""
-date: "2026-09-22"
+date: 2026-09-21
 draft: false
 categories: ["Nonfiction","Essays"]
 authors: ["Haruki Murakami"]
