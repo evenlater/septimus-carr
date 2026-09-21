@@ -36,7 +36,7 @@ historicalEvents:
     label: "Benshiki Murakami fatally hit by a train."
 ---
 
-<b>I received an advance copy of *Abandoning a Cat* from Knopf via NetGalley.</b>
+<span class="gloss"><b>I received an advance copy of *Abandoning a Cat* from Knopf via NetGalley.</b></span>
 
 Some authors construct worlds that are strikingly close to the world you inhabit. I ordered Elif Batuman’s *The Idiot* based on a plot blurb alone because furtive emails exchanged between flirtatious undergrads at the dawn of the internet age rang Gen X bells I hadn’t heard since rotary phones. Marilynne Robinson’s *Gilead* narrator, a frocked Iowan protestantagonist from the Eisenhower era who can’t order breakfast without quoting John Calvin, felt like family to a P.K. whose dad spent the 1950s shepherding a tiny Presbyterian flock in Paris, Missouri. Anton Chekhov was so locked into the human clockwork that he makes a reader who spends his days debugging software feel like he grew up in Yalta just after the emancipation of the serfs. 
 
@@ -70,14 +70,14 @@ This tragic oversight has permanent psychological implications for Murakami’s 
 where they are headed<br>
 must be my homeland</blockquote>
 
-My own father lived a kinder reality. As a college student in the 1940s, he was runner-up in a poetry contest for a comic riff on Homer’s *Iliad*. It was glitteringly witty and rhymed with complex precision. My uncle still recites every word from memory. So does my dad, despite the kind of softly debilitating memory loss that most men in their 90s would kill for. This is just the first stanza:
+My own father lived a kinder reality. As a classics major in the 1940s, he was runner-up in a poetry contest for a comic riff on Homer’s *Iliad*. It was glitteringly witty and rhymed with complex precision. My uncle still recites every word from memory. So does my dad, despite the kind of softly debilitating memory loss that most men in their 90s would kill for. This is just the first stanza:
 
 <blockquote>Sing, epic muse, Achilles’ blues, in language such as poets use, <br>
 And tell of the Achaeans’ war to conquer valiant Troy;<br>
 Ah, ’tis a noble history of bretheren and sistery<br>
 Of kingly rank and queenly (nor were any hoi polloi)</blockquote>
 
-The contrast between my father’s words, sparkling as prettily as any that William Schwenk Gilbert ever wrote, and the pained restraint that Murakami’s father sent back from the front of the Second Sino-Japanese War speaks volumes about the accidents of history.
+The contrast between my father’s words, sparkling as prettily as any that William Schwenk Gilbert ever wrote, and the pained restraint that Murakami’s father sent back from the front of the Second Sino-Japanese War speaks volumes about the accidents of history. My father had the luxury of finding the comic potential in war. Murakami’s father was living its tragic reality.
 
 <blockquote>A soldier, yet a<br>
 priest clasping my hands in<br>
@@ -95,7 +95,7 @@ I discovered Haruki Murakami in July 2025. Since then, I have read 11 of his boo
 
 It goes far beyond our mutual affection for cats, which are a constant presence both in Murakami’s fiction and in *Abandoning a Cat*. In *Kafka on the Shore*, the adorable Mr. Nakata makes a tidy side gig of chatting with friendly felines. I used to dream that mine conversed with me. The new book opens with a true story that reads like a tall tale. Murakami and his father travel to the Japanese coast, and regretfully drop their cat from the family rolls. But when they get back to their home, the improbably tenacious feline is mewing contentedly on the steps. Streeeeeeeetch.
 
-More substantively, Murakami and I were both underachievers in our school days. "I’m the type who eagerly pursues things I’m interested in but can’t be bothered with anything else," he writes in *Abandoning a Cat*. "That was true of me when I was a student and it is still true now." Hello, fellow traveler. I started my schooling under the Montessori principle that children learn best when they are self-directed. My mother pulled me out of the Montessori school after fourth grade because I was more interested in writing my own *Choose Your Own Adventure* books than I was in fractions. My modest high school grades were exceeded substantially by the marks I received in college, where you get to pick a major (mine was theater), and where my interest in playwriting started belatedly teaching me the importance of science and math. 
+More substantively, Murakami and I were both underachievers in our school days. "I’m the type who eagerly pursues things I’m interested in but can’t be bothered with anything else," he writes in *Abandoning a Cat*. "That was true of me when I was a student and it is still true now." Hello, fellow traveler. I started my schooling under the Montessori principle that children learn best when they are self-directed. My mother pulled me out of the Montessori school after fourth grade because I was more interested in writing my own *Choose Your Own Adventure* books than I was in fractions. In other words, books that offered, in Murakami’s words, "a single, unsparing reality born from countless possibilities." My modest high school grades were exceeded substantially by the marks I received in college, where you get to pick a major (mine was theater), and where my interest in playwriting started belatedly teaching me the importance of science and math. Reading about those concepts in historical and narrative contexts in the works of Tom Stoppard and others began to influence the "things I was interested in." 
 
 Finally, I have tried in this review to reflect in my own writing Murakami’s skill as a personal essayist. Despite his astounding modesty about his capacity for big-picture analysis ("by nature I’m totally inept at abstract or conceptual thinking"), *Abandoning a Cat* is a winning application of individual events to a universal and abstract scale. This is almost exactly the opposite of the skill that has secured his fiction millions of devoted fans. There, mundane realities are blown up into events of profound extremity: a Chinese prisoner’s defiant stoniness is transformed into a war criminal with a blood-soaked Louisville Slugger, or a commanding officer painstakingly relieved of his skin. Here, international history is distilled into routine-but-eloquently-conveyed realities: a son who pays the price decades later for the cruelty of a government toward its courageous young recruits. The reason I can now locate ready commonalities with the story he tells in *Abandoning a Cat* is that, for once, he is not distancing me from reality with a whimsically surreal three-ring circus. The project of memoir is different, but he is just as skilled at this form of narrative. The proof is that I suddenly feel like the stranger who mystified me with *Kafka*-esque sleight of hand is now a friend with whom I can banter on an excursion to the vinyl store.  
 
