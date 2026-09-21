@@ -23,17 +23,17 @@ links:
   goodreads: ""
   reddit: ""
 readDates:
-   start: "2026-09-19"
+   start: "2026-09-18"
    end: "2026-09-19"
 historicalEvents:
   - date: "1864-11-30"
-  - label: "The Battle of Franklin, Tennessee"
+    label: "The Battle of Franklin, Tennessee"
   - date: "1917-12-01"
-  - label: "Haruki Murakami’s father is born."
+    label: "Haruki Murakami’s father is born."
   - date: "1937-07-07"
-  - label: "A skirmish starts the Second Sino-Japanese War."
+    label: "A skirmish starts the Second Sino-Japanese War."
   - date: "1958-08-25"
-  - label: "Benshiki Murakami fatally hit by a train."
+    label: "Benshiki Murakami fatally hit by a train."
 ---
 
 Some authors construct worlds that are strikingly close to the world you inhabit. I ordered Elif Batuman’s *The Idiot* based on a plot blurb alone because furtive emails exchanged between flirtatious undergrads at the dawn of the internet age rang Gen X bells I hadn’t heard since rotary phones. Marilynne Robinson’s *Gilead* narrator, a frocked Iowan protestantagonist from the Eisenhower era who can’t order breakfast without quoting John Calvin, felt like family to a P.K. whose dad spent the 1950s shepherding a tiny Presbyterian flock in Paris, Missouri. Anton Chekhov was so locked into the human clockwork that he makes a reader who spends his days debugging software feel like he grew up in Yalta just after the liberation of the serfs. 
