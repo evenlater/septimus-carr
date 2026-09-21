@@ -8,7 +8,7 @@ authors: ["Haruki Murakami"]
 image: "/img/abandoning-a-cat.jpg"
 imageMobile: "/img/abandoning-a-cat.jpg"
 imageHero: "/img/abandoning-a-cat.jpg"
-imageFit: ""
+imageFit: "Contain"
 imagePosition: "Top"
 imageAlt: "Close up of Male Japanese Soldiers Standing to Attention and Holding Their Bayonets Looking to the Right, 1938."
 photoCredit: 'Historical photograph of Japanese soldiers in 1938 by Heritage Image Partnership Ltd. Licensed by Alamy.'
