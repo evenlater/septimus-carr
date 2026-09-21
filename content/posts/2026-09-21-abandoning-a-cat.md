@@ -52,7 +52,7 @@ Murakami’s novel *The Wind-Up Bird Chronicle* presents a similarly improbable 
   
 ## PART TWO – The Fathers
 
-If Murakami’s grandfather and my great grandfather lived stories that are meaningfully inverted, the fates of our fathers are full of parallels. His father was born in 1917, mine in 1931. Given that Murakami has 24 years on me, it seems remarkable to me that our fathers are separated by only 14 years. Both came to fatherhood fairly late in life.
+If Murakami’s grandfather and my great grandfather lived stories that were meaningfully inverted, the fates of our fathers are full of parallels. His father was born in 1917, mine in 1931. Given that Murakami has 24 years on me, it seems remarkable to me that our fathers are separated by only 14 years. Both came to fatherhood fairly late in life.
 
 Murakami isn’t certain but he suspects that his father spent the early 1930s studying to inherit his grandfather’s Buddhist temple. As I mentioned in the introduction to this essay, my father spent the early 1950s training to be a Presbyterian minister. My father’s seminary enrollment made him ineligible for the draft during the Korean War. Murakami’s father’s studies should have afforded the same protection according to Japanese law, a four-year exemption from military service. Writes Murakami, "My father, however, forgot to take care of some administrative paperwork, and in 1938, when he was twenty, he was drafted." 
 
@@ -62,7 +62,7 @@ This tragic oversight has permanent psychological implications for Murakami’s 
 where they are headed<br>
 must be my homeland</blockquote>
 
-My own father lived a kinder reality. As a college student in the 1940s, he was runner-up in a poetry contest for a comic riff on Homer’s Odyssey. It was glitteringly witty and rhymed with complex precision. My uncle still recites every word from memory. So does my dad, despite the kind of softly debilitating memory loss that most men in their 90s would kill for. This is just the first stanza:
+My own father lived a kinder reality. As a college student in the 1940s, he was runner-up in a poetry contest for a comic riff on Homer’s *Iliad*. It was glitteringly witty and rhymed with complex precision. My uncle still recites every word from memory. So does my dad, despite the kind of softly debilitating memory loss that most men in their 90s would kill for. This is just the first stanza:
 
 <blockquote>Sing, epic muse, Achilles’ blues, in language such as poets use, <br>
 And tell of the Achaeans’ war to conquer valiant Troy;<br>
@@ -71,7 +71,7 @@ Of kingly rank and queenly (nor were any hoi polloi)</blockquote>
 
 The contrast between my father’s words, sparkling as prettily as any that William Schwenk Gilbert ever wrote, and the pained restraint that Murakami’s father sent back from the front of the Second Sino-Japanese War speaks volumes about the accidents of history.
 
-<blockquote>A soldier, yet a<br?
+<blockquote>A soldier, yet a<br>
 priest clasping my hands in<br>
 prayer toward the moon</blockquote>
 
