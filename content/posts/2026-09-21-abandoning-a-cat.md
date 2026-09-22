@@ -16,7 +16,7 @@ book:
   title: "Abandoning a Cat: A Personal Story"
   author: "Haruki Murakami"
   year:  "2026"
-  isbn: "9798217208708"
+  isbn: "9798217208692"
   cover: "/img/abandoning-a-cat-cover.jpg"
 links:
   substack: ""
@@ -36,13 +36,13 @@ historicalEvents:
     label: "Benshiki Murakami fatally hit by a train."
 ---
 
-<span class="gloss"><b>I received an advance copy of *Abandoning a Cat* from Knopf via NetGalley.</b></span>
+<div class="gloss"><b>I received an advance copy of <em>Abandoning a Cat</em> from Knopf via NetGalley.</b></div>
 
 Some authors construct worlds that are strikingly close to the world you inhabit. I ordered Elif Batuman’s *The Idiot* based on a plot blurb alone because furtive emails exchanged between flirtatious undergrads at the dawn of the internet age rang Gen X bells I hadn’t heard since rotary phones. Marilynne Robinson’s *Gilead* narrator, a frocked Iowan protestantagonist from the Eisenhower era who can’t order breakfast without quoting John Calvin, felt like family to a P.K. whose dad spent the 1950s shepherding a tiny Presbyterian flock in Paris, Missouri. Anton Chekhov was so locked into the human clockwork that he makes a reader who spends his days debugging software feel like he grew up in Yalta just after the emancipation of the serfs. 
 
 For me, Haruki Murakami has never been one of those authors. He is not the best writer I have reviewed, but he is the writer I have returned to most frequently during the last 
 year. I finished *1Q84* in January and got as far as April before I felt compelled to revisit his notoriously unfamiliar world. In April, I read *After Dark* and got as far as 
-August before I felt compelled to dive into *Killing Commendatore*. What is it about Murakami that has me tethered by an unusually short rope? I’ve grappled with that question in this space before and likely will again. Today, what is relevant is that I am *not* drawn to his remote planet out of a deep-seated desire to stare up at the sky from the bottom of a well (*The Wind-Up Bird Chronicle*). Or because I see myself reflected in metaphysical bad actors who decapitate kitties while cracking Puccini jokes (*Kafka on the Shore*). The point of Murakami is not the comfortable familiarity of his fiction. Even when Murakami zeroes in on the "realism" in "magical realism" (*Norwegian Wood*), a landlocked American like me thrills more to the novelty of his Tokyo settings than to the universality of his psychology. True, he is more likely to reference Charlie Parker than Gorō  Yamaguchi, or Woody Allen than Yasujirō Ozu, but his Western cultural fluency is all the more enjoyable in his alien contexts. 
+August before I felt compelled to dive into *Killing Commendatore*. What is it about Murakami that has me tethered by an unusually short rope? I’ve grappled with that question in this space before and likely will again. Today, what is relevant is that I am *not* drawn to his remote planet out of a deep-seated desire to stare up at the sky from the bottom of a well (*The Wind-Up Bird Chronicle*). Or because I see myself reflected in metaphysical bad actors who decapitate kitties while cracking Puccini jokes (*Kafka on the Shore*). The point of Murakami is not the comfortable familiarity of his fiction. Even when Murakami zeroes in on the "realism" in "magical realism" (*Norwegian Wood*), a landlocked American like me thrills more to the novelty of his Tokyo settings than to the universality of his psychology. True, he is more likely to reference Charlie Parker than Gorō  Yamaguchi, or John Ford than Yasujirō Ozu, but his Western cultural fluency is all the more enjoyable in his alien contexts. 
 
 I return to Murakami for his pleasurable strangeness, for the intentional dissonance that Bertolt Brecht called a *Verfremdungseffekt*. This is usually translated as "distancing effect," but the literal sum of its parts is closer to "the effect of making strange." Brecht's methods and his reasons for distancing the audience from the illusion of reality in art were quite different from Murakami’s; his hallway of unlocked doors swung out onto patios of music and montage constructed to provoke political thought. But Murakami is not the type to propound Brechtian lectures on socialism. His barriers between reality and reader are half fun-house mirror and half padded cell. Sometimes the distortion is aesthetic and is its own purpose. In other instances, the distorted reality straitjackets existential agony into a contorted smile.  
 
