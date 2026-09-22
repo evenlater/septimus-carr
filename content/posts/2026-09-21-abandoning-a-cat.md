@@ -1,6 +1,6 @@
 ---
 title: "Haruki Murakami Reveals the Reality Behind His Magic" 
-subtitle: "What I have in common with Haruki Murakami: Lessons from \"Abandoning a Cat\""
+subtitle: "What I have in common with Haruki Murakami, or Lessons from \"Abandoning a Cat\""
 date: 2026-09-21
 draft: false
 categories: ["Nonfiction","Essays"]
@@ -48,7 +48,7 @@ I return to Murakami for his pleasurable strangeness, for the intentional disson
 
 Murakami’s new book *Abandoning a Cat: A Personal Story* is a beautifully illustrated, 80-page personal essay about his father’s life. Translated by frequent Murakami collaborator Philip Gabriel, it appeared first in *The New Yorker*. Now, it does not surprise me that a family memoir would prove more relatable on a human level than, say, a 1,200-page novel about a feminist assassin fighting mysterious dwarves in an alternative version of 1984 Tokyo. I was nonetheless struck by the extent to which Murakami’s account of his father, a haiku poet from Kyoto whose training as a Buddhist priest was interrupted by his service in the {{< tl-note date="1937-07-07" >}}Second Sino-Japanese War,{{< / tl-note >}} resonated with my own family experience. It was the first time I experienced Murakami as a kindred spirit rather than a fascinating stranger.
 
-Was this new feeling of affinity on a personal level the result of a remarkable coincidence in our respective family histories? I think not. Rather, Murakami uses his family’s story to illustrate his core insight: "All we can do is breathe the air of the period we live in, carry with us the special burdens of the time, and grow up within those confines." Every reader can relate their own story to that broad principle. The book illuminates the truth that history is always a collection of indelible accidents and, in the process,  exposes the secrets behind some famous Murakami magic tricks.
+Was this new feeling of affinity on a personal level the result of a remarkable coincidence in our respective family histories? I think not. Rather, Murakami uses his family’s story to illustrate his core insight: "All we can do is breathe the air of the period we live in, carry with us the special burdens of the time, and grow up within those confines." Every reader can relate their own story to that broad principle. The book illuminates the truth that history is always a collection of indelible accidents. In the process, it exposes the secrets behind some famous Murakami magic tricks.
 
 ## PART ONE – The Grandfathers 
 
