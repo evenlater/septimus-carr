@@ -20,6 +20,7 @@ book:
   isbn: "9780802167194"
   cover: "/img/john-of-john-cover.jpg"
 links:
+  medium: "https://medium.com/counterarts/the-mounting-cost-of-staying-in-douglas-stuarts-john-of-john-12ecfd844dee"
   substack: "https://septimuscarr.substack.com/p/the-mounting-cost-of-staying-in-douglas"
   goodreads: "https://www.goodreads.com/review/show/8923137255"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1wkkbml/the_mounting_cost_of_staying_in_douglas_stuarts/"

@@ -19,9 +19,10 @@ book:
   isbn: "9798217208692"
   cover: "/img/abandoning-a-cat-cover.jpg"
 links:
-  substack: ""
-  goodreads: ""
+  substack: "https://septimuscarr.substack.com/p/haruki-murakami-reveals-the-reality"
+  goodreads: "https://www.goodreads.com/review/show/8944953131?book_show_action=false "
   reddit: ""
+  medium: ""
 readDates:
    start: "2026-09-18"
    end: "2026-09-19"
