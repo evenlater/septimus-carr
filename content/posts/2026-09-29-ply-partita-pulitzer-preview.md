@@ -1,5 +1,5 @@
 ---
-title: "Preview for  a \"Ply\" / \"Partita\" Pulitzer Rematch" 
+title: "Preview for a Potential \"Ply\" / \"Partita\" Pulitzer Rematch" 
 subtitle: "Hernan Diaz and Barbara Kingsolver, who shared the 2023 Pulitzer Prize, are back in the ring this week with new novels. NEXT WEEK, Septimus Carr will provide the play-by-play."
 date: 2026-09-29
 draft: false
