@@ -38,7 +38,7 @@ It’s far too early to predict what the 2027 Pulitzer jury will announce in the
 
 Hernan Diaz’s anxiously awaited follow up to *Trust* is titled *Ply*, and it is available wherever books are sold today, Tuesday September 29.
 
-Barbara Kingsolver enters the ring exactly one week later with a Copperhead follow-up drawn from the same filing cabinet drawer of one-word titles. *Partita* drops Tuesday October 6.  
+Barbara Kingsolver enters the ring exactly one week later with a *Copperhead* follow-up drawn from the same filing cabinet drawer of one-word titles. *Partita* drops Tuesday October 6.  
 
 I may not have all the facts regarding Diaz and Kingsolver’s shared parentage nailed down with impregnable precision, but of this I am certain: each author was deserving of his or her undiluted moment atop the 2023 Pulitzer podium. 
 
