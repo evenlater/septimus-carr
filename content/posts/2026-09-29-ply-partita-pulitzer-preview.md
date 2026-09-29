@@ -29,7 +29,7 @@ book:
 
 Since the first Pulitzer Prize for the Novel was awarded in 1918, there have been 99 prizes awarded. The inaugural year was actually 1917, but only six novelists showed up for the contest. The jury declared that five of them were beneath any reasonable standard for recognition and refused to consider them at all. The seemingly unobstructed path to victory for the last novel standing ended in a cul-de-sac as the jury found even that entry lacking in sufficient distinction. It was one of 11 years in which the Pulitzer Prize for Fiction, as it came to be known, was ripped away from covetous writers like Lucy’s football. The most common reason for this was that the jury turned up its collective nose at all comers. But one inquest ended in a hung jury, two winners were rejected in censorious admonishment, and Alex Haley’s *Roots* was declared insufficiently mendacious to receive a fiction prize. That leaves 99 juries that have dispensed laurels for the victors to rest upon. 
 
-But over the course of that century-plus-change, only one contest has ended in a tie. 
+Over the course of that century-plus-change, however, only one contest has ended in a tie. 
 
 That was 2023, when a jury that might have thrown up its hands in indecision instead employed a new rule that permitted joint custody. Based purely on the gender of the authors, I like to picture Hernan Diaz, co-winner for *Trust*, taking the Gold Medal out twice a week for baseball games and Chuck E. Cheese while Barbara Kingsolver, co-winner for *Demon Copperhead*, manages its day-to-day crises with exhausting devotion, mopping up vomit and volleying traumatizing comments at contentious parent-teacher conferences.
 
@@ -37,13 +37,13 @@ It’s far too early to predict what the 2027 Pulitzer jury will announce in the
 
 Hernan Diaz’s anxiously awaited follow up to *Trust* is titled *Ply*, and it is available wherever books are sold today, Tuesday September 29.
 
-Barbara Kingsolver enters the ring exactly one week later with a Copperhead follow-up drawn from the same filing cabinet drawer of one-word titles utilized by Diaz. *Partita* drops Tuesday October 6.  
+Barbara Kingsolver enters the ring exactly one week later with a Copperhead follow-up drawn from the same filing cabinet drawer of one-word titles. *Partita* drops Tuesday October 6.  
 
 I may not have all the facts regarding Diaz and Kingsolver’s shared parentage nailed down with impregnable precision, but of this I am certain: each author was deserving of his or her undiluted moment atop the 2023 Pulitzer podium. 
 
  <img src="/img/trust-cover.jpg" alt="Trust cover." width="300" style="display: block; margin: 0 auto;">
 
-*Trust* is dazzling in its structural audacity; its covers encompass not one but four distinct and unabridged novels by four distinct imaginary writers. Each member of the meta quartet is a variation of the same story, about a financier who gamed the global markets so artfully that profits cascaded into his coffers at the outset of the Great Depression. The names flop about like fresh recruits at a Gorton’s warehouse, but the characters are recognizable throughout. As the maestro orchestrating the richly polyphonic quartet of fictional fictionists, Diaz keeps us guessing at every turn. Which unreliable narrator is most unreliable? Which plot twists are decoys and which are hand-to-God imaginings stamped with authorial approval?
+*Trust* is dazzling in its structural audacity. Its covers encompass not one but four distinct and unabridged novels by four distinct imaginary writers. Each member of the meta quartet tells a variation of the same story, about a financier who gamed the global markets so artfully that profits cascaded into his coffers at the outset of the Great Depression. The names flop about like fresh recruits at a Gorton’s warehouse, but the characters are recognizable throughout. As the maestro orchestrating the richly polyphonic quartet of fictional fictionists, Diaz keeps us guessing at every turn. Which unreliable narrator is most unreliable? Which plot twists are decoys and which are hand-to-God imaginings stamped with authorial approval?
 
  <img src="/img/demon-copperhead-cover.jpg" alt="Demon Copperhead cover." width="300" style="display: block; margin: 0 auto;"> 
 
@@ -51,6 +51,6 @@ I may not have all the facts regarding Diaz and Kingsolver’s shared parentage 
 
 Four years ago, the complementarity of *Trust* and *Demon Copperhead* was so perfect it almost seemed planned. *Trust* seeped into your emotional bloodstream like a leaky sewer drain, but its core pleasures dwelt in its potently cerebral design. *Demon* was unflinchingly smart in its analysis of recent regional breaking news, but its formidable intellect was dwarfed by its shatteringly compassionate heart. 
 
-It will be fascinating to find out whether *Ply* and *Partita* reenact that dynamic, turn it on its head, or sandwich somewhere purgatorily in between. *Ply* is a dystopian portrait of an energy grid Robin Hood who “pinches” electricity from the rich and doles it out in batteries to the poor. It promises an audacious thematic layering of quantum mechanics and Einstein’s Theory of Relativity. *Partita* scales its supple fingers up and down some forty-ish years of the life of a virtuosic concert pianist. Its table of contents is supplemented by a “listening list” of 14 musical compositions from the likes of J.S. Bach, Maurice Ravel, and Erik Satie, and Kingsolver’s prose dares you not to play them on your hi-fi as you read.  
+It will be fascinating to find out whether *Ply* and *Partita* reenact that dynamic, turn it on its head, or sandwich somewhere purgatorily in between. *Ply* is a dystopian portrait of an energy grid Robin Hood who “pinches” electricity from the rich and doles it out in batteries to the poor. It promises an audacious thematic layering of quantum mechanics and Einstein’s Theory of Relativity. *Partita* scales its supple fingers up and down some fortyish years of the life of a virtuosic concert pianist. Its table of contents is supplemented by a “listening list” of 14 musical compositions from the likes of J.S. Bach, Maurice Ravel, and Erik Satie, and Kingsolver’s prose dares you not to play them on your hi-fi as you read.  
 
 Next week, you are invited to a detailed breakdown of the rematch by yours truly, book boffin Septimus Carr. Please hit the subscribe button to be reminded on or around Kingsolver’s debut day, October 6, for our brimming blow by blow.  
