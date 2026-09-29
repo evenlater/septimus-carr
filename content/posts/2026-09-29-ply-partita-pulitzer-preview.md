@@ -31,7 +31,7 @@ Since the first Pulitzer Prize for the Novel was awarded in 1918, there have bee
 
 But over the course of that century-plus-change, only one contest has ended in a tie. 
 
-That was 2023, when a jury that might have thrown up its hands in indecision instead employed a new rule that permitted joint custody. Based purely on the gender of the authors, I like to picture Hernan Diaz, co-winner for *Trust*, taking the Gold Medal out twice a week for baseball games and Chuck E. Cheese while Barbara Kingsolver, co-winner for Demon Copperhead, manages its day-to-day crises with exhausting devotion, mopping up vomit and volleying traumatizing comments at contentious parent-teacher conferences.
+That was 2023, when a jury that might have thrown up its hands in indecision instead employed a new rule that permitted joint custody. Based purely on the gender of the authors, I like to picture Hernan Diaz, co-winner for *Trust*, taking the Gold Medal out twice a week for baseball games and Chuck E. Cheese while Barbara Kingsolver, co-winner for *Demon Copperhead*, manages its day-to-day crises with exhausting devotion, mopping up vomit and volleying traumatizing comments at contentious parent-teacher conferences.
 
 It’s far too early to predict what the 2027 Pulitzer jury will announce in the fiction category next May 3, but it is wholly within the realm of possibility that the coming week sounds the bell on a heavyweight rematch between Diaz and Kingsolver. 
 
