@@ -21,7 +21,8 @@ book:
 links:
   substack: "https://septimuscarr.substack.com/p/haruki-murakami-reveals-the-reality"
   goodreads: "https://www.goodreads.com/review/show/8944953131?book_show_action=false "
-  reddit: ""
+  murakami: "https://www.reddit.com/r/murakami/comments/1wqmx06/haruki_murakami_reveals_the_reality_behind_his/" 
+  truelit: "https://www.reddit.com/r/TrueLit/comments/1wqms4o/haruki_murakami_reveals_the_reality_behind_his/"
   medium: ""
 readDates:
    start: "2026-09-18"

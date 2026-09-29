@@ -10,6 +10,8 @@ paginate = 12
   substack     = 'https://septimuscarr.substack.com'
   goodreads    = 'https://www.goodreads.com/user/show/186362129-septimus-carr'
   medium       = 'https://medium.com/@septimuscarr'
+  truelit      = ''
+  murakami     = ''
   # Profile links below feed the Person schema on /about/ (sameAs). Leave blank to skip.
   reddit       = ''
   fable        = 'https://fable.co/fabler/birdboot-127099662514?tab=stats&period_type=year'
