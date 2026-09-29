@@ -1,13 +1,13 @@
 ---
-title: "\"Ply\" / \"Partita\" Pulitzer Preview" 
+title: "\"Ply\" / \"Partita\" Potential Pulitzer Preview" 
 subtitle: "Hernan Diaz and Barbara Kingsolver, who shared the 2023 Pulitzer Prize, are back in the ring this week with new novels. Septimus Carr will provide the play-by-play."
 date: 2026-09-29
 draft: false
 categories: ["Note","Fiction","Multi"]
 authors: ["Hernan Diaz","Barbara Kingsolver"]
-image: "/img/diaz-kingsolver.png"
-imageMobile: "/img/diaz-kingsolver.png"
-imageHero: "/img/diaz-kingsolver.png"
+image: "/img/diaz-kingsolver-rematch.png"
+imageMobile: "/img/diaz-kingsolver-rematch.png"
+imageHero: "/img/diaz-kingsolver-rematch.png"
 imageFit: ""
 imagePosition: "Center"
 imageAlt: "Hernan Diaz with the cover of Play and Barbara Kingsolver with the cover of Partita"
