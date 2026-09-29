@@ -16,13 +16,14 @@ book:
   title: "Ply"
   author: "Hernan Diaz"
   year:  "2026"
-  isbn: "
-0593719549"
+  isbn: "0593719549"
   cover: "/img/ply-cover.jpg"
   title2: "Partita"
   author2: "Barbara Kingsolver"
   isbn2: "0063577542"
   cover2: "/img/partita-cover.jpg"
+links:
+  substack: "https://septimuscarr.substack.com/p/preview-for-a-potential-ply-partita"
 ---
 <div class="gloss"><b>I received an advance copy of <em>Ply</em> from Penguin Random House.</b></div>
 <div class="gloss"><b>I received an advance copy of <em>Partita</em> from Harper via NetGalley.</b></div>
