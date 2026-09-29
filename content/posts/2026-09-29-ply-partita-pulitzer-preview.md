@@ -22,10 +22,7 @@ book:
   title2: "Partita"
   author2: "Barbara Kingsolver"
   isbn2: "0063577542"
-  cover: "/img/partita-cover.jpg"
-links:
-  substack: ""
-  goodreads: ""
+  cover2: "/img/partita-cover.jpg"
 ---
 <div class="gloss"><b>I received an advance copy of <em>Ply</em> from Penguin Random House.</b></div>
 <div class="gloss"><b>I received an advance copy of <em>Partita</em> from Harper via NetGalley.</b></div>
