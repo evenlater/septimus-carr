@@ -1,6 +1,6 @@
 ---
 title: "Mourning the Self in \"Partita\" and \"Ply\"" 
-subtitle: "Hernan Diaz and Barbara Kingsolver, who shared the 2023 Pulitzer Prize, are back in the ring this week with new novels."
+subtitle: "Hernan Diaz and Barbara Kingsolver, who shared the 2023 Pulitzer Prize, are back this week with new novels."
 date: 1000-10-05
 draft: false
 categories: ["Fiction","Multi","Pulitzer"]
