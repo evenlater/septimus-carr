@@ -12,7 +12,7 @@ imageFit: ""
 imagePosition: "Bottom"
 imageAlt: "A pianist superimposed upon a supermassive black hole"
 photoCredit: 'Pianist photo by <a href="https://unsplash.com/@cadop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mathew Schwartz</a> on <a href="https://unsplash.com/photos/selective-focus-photography-of-woman-playing-grand-piano--bAZGsko_po?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>. Space image by ID <a href="https://www.dreamstime.com/black-hole-space-gravitational-waves-deep-center-galaxy-cluster-image100386141">100386141</a> | <a href="https://www.dreamstime.com/photos-images/black-hole.html">Black Hole</a> © 
-<a href="https://www.dreamstime.com/titoonz_info">Titoonz</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
+<a href="https://www.dreamstime.com/titoonz_info">Titoonz</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a> Composite by Septimus Carr using Canva, not AI.'
 book:  
   title: "Ply"
   author: "Hernan Diaz"
@@ -104,7 +104,7 @@ If the motion of two distant particles can become “entangled” with one anoth
 
 ## Amazing Grace
 
-Those sacred interpersonal entanglements soothe the fraught reunion with Sigurd that has loomed over Livvie’s comfortable marital partnership since the opening pages of the book. When Livvie treats Sigurd to a community recital of her country piano students, the consequent celebration of slow and steady adulthood over childhood dreams grows slightly sloppy in its Capraesque Bedford Falls benediction. But as a middle-aged reader who long ago abandoned the starry aspirations that made me sign speech team critique sheets with an exclamation point, I am squarely within Kingsolver’s target demographic. For me, it was hard to resist the healing energy she pinches off the entangled grownup power grid.  
+Those sacred interpersonal entanglements soothe the fraught reunion with Sigurd that has loomed over Livvie’s comfortable marital partnership since the opening pages of the book. When Livvie treats Sigurd to a community recital of her country piano students, the consequent celebration of slow and steady adulthood over childhood dreams grows slightly sloppy in its Capraesque Bedford Falls benediction. But as a middle-aged reader who once occupied a self that found himself wishing there was a speech team pro league (or at least a speech team farm system? I would have settled for community speech team pickup games), I am squarely within Kingsolver’s target demographic. For me, it was hard to resist the healing energy she pinches off the entangled grownup power grid.  
 
 Diaz’s exploration of human priorities fading from human society has a lot of big ideas straining for limited air in his dystopian atmosphere. But as perfunctory as the pincher is as a central character, Diaz does build a trinity of friends that wins points for Gryffindor: the Potter-like pincher, the know-it-all Pola, and a street-smart homeless child who is admittedly more Artful Dodger than Ron Weasley. They never fully trust each other, but they learn to soothe one another’s frayed nerves, and their defiant collective spirit is the best hope of the resistance. Theirs is the entangled new identity that supersedes the lost "I" of individualism. "You, I, we emerge from this interaction," Pola says, apparently referencing the emergent team. "We are this interaction."
 
