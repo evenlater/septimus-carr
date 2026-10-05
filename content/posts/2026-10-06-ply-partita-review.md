@@ -32,6 +32,7 @@ readDates2:
   end: "2026-10-03"
 links:
   substack: "https://septimuscarr.substack.com/p/the-lost-self-in-partita-and-ply"
+  goodreads: "https://www.goodreads.com/review/show/8943358986"
 historicalEvents: 
   - date: "1973-09-01"
     label: "Barbara Kingsolver enters Depauw University to study piano."
