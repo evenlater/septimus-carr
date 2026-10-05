@@ -30,12 +30,12 @@ readDates2:
   start: "2026-09-29"
   end: "2026-10-03"
 historicalEvents:
-  date: "1973-09-01"
-  label: "Barbara Kingsolver enters Depauw University to study piano."
-  date: "1990-01-13"
-  label: "Speech meet where the Dockers crack was made"
-  date: "1991-02-16"
-  label: "I win 5th place in Humorous Interpretation at the Illinois State Tournament"
+  - date: "1973-09-01"
+    label: "Barbara Kingsolver enters Depauw University to study piano."
+  - date: "1990-01-13"
+    label: "Speech meet where the Dockers crack was made"
+  - date: "1991-02-16"
+    label: "I win 5th place in Humorous Interpretation at the Illinois State Tournament"
 ---
 <div class="gloss"><b>I received an advance copy of <em>Ply</em> from Penguin Random House.</b></div>
 <div class="gloss"><b>I received an advance copy of <em>Partita</em> from Harper via NetGalley.</b></div>
