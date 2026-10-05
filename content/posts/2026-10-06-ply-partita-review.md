@@ -30,6 +30,8 @@ readDates:
 readDates2: 
   start: "2026-09-29"
   end: "2026-10-03"
+links:
+  substack: "https://septimuscarr.substack.com/p/the-lost-self-in-partita-and-ply"
 historicalEvents: 
   - date: "1973-09-01"
     label: "Barbara Kingsolver enters Depauw University to study piano."
@@ -55,7 +57,7 @@ This time out, both writers are firing on all emotional cylinders. Kingsolver ha
 
 As affecting as both stories often are, they also provide substantive nourishment for the intellect. Both feature postmortem analyses of fledgling Marxist revolutions that never arrived. And both break down the wordless transcendence of incidental music that satiates head and heart alike. Kingsolver provides a classical playlist that readers can plug into Spotify while Diaz invents his own futuristic DIY genre.
 
-If Kingsolver and Diaz do find themselves pitted against each other again next spring in a Pulitzer rematch, the results may hinge on a different dimension of the Myers-Briggs taxonomy. *Partita* has a real-world specificity that will appeal most to Sensing decision-makers, while *Ply*’s relentless demands on the reader’s facility with abstract connections are likely to be most persuasive with Intuitive types. 
+If Kingsolver and Diaz do find themselves pitted against each other again next spring in a Pulitzer rematch, the results may hinge on a different dimension of the Myers-Briggs taxonomy. *Partita* has a real-world specificity that will appeal most to Sensing decision makers, while *Ply*’s relentless demands on the reader’s facility with abstract connections are likely to be most persuasive with Intuitive types. 
 
 ## The Cherished Past
 
