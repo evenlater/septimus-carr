@@ -1,7 +1,7 @@
 ---
 title: "The Lost Self in \"Partita\" and \"Ply\"" 
 subtitle: "Hernan Diaz and Barbara Kingsolver, who shared the 2023 Pulitzer Prize, are back this week with new novels."
-date: 1000-10-05
+date: 2026-10-06
 draft: false
 categories: ["Fiction","Multi","Pulitzer"]
 authors: ["Hernan Diaz","Barbara Kingsolver"]
