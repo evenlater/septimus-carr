@@ -9,7 +9,7 @@ image: "/img/partita-ply.png"
 imageMobile: "/img/partita-ply.png"
 imageHero: "/img/partita-ply.png"
 imageFit: ""
-imagePosition: "Center"
+imagePosition: "Bottom"
 imageAlt: "A pianist superimposed upon a supermassive black hole"
 photoCredit: 'Pianist photo by <a href="https://unsplash.com/@cadop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mathew Schwartz</a> on <a href="https://unsplash.com/photos/selective-focus-photography-of-woman-playing-grand-piano--bAZGsko_po?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>. Space image by ID <a href="https://www.dreamstime.com/black-hole-space-gravitational-waves-deep-center-galaxy-cluster-image100386141">100386141</a> | <a href="https://www.dreamstime.com/photos-images/black-hole.html">Black Hole</a> © 
 <a href="https://www.dreamstime.com/titoonz_info">Titoonz</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
