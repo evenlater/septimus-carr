@@ -17,7 +17,8 @@ paginate = 12
   fable        = 'https://fable.co/fabler/birdboot-127099662514?tab=stats&period_type=year'
   # categoryOrder controls nav sequence; add new categories here too
   categoryOrder = ['Classics','Fiction','Drama','Essays','Nonfiction','Opera','Multi','Pulitzer','Booker','Notes']
-  cusdisID = "49375ae2-0bed-45fd-a0cd-3eb99d120ffe"
+  # Hyvor Talk website ID (from the Hyvor dashboard). Leave blank to hide comments.
+  hyvorID = "16290"
 
 [taxonomies]
   category = 'categories'
