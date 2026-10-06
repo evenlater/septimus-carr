@@ -25,11 +25,11 @@ book:
   isbn2: "0063577542"
   cover2: "/img/partita-cover.jpg"
 readDates:
-   start: "2026-09-12"
-   end: "2026-09-29"
-readDates2: 
   start: "2026-09-29"
   end: "2026-10-03"
+readDates2: 
+   start: "2026-09-12"
+   end: "2026-09-29"
 links:
   substack: "https://septimuscarr.substack.com/p/the-lost-self-in-partita-and-ply"
   goodreads: "https://www.goodreads.com/review/show/8943358986"
