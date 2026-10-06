@@ -495,3 +495,6 @@ blockquote cite {
 @media (max-width: 900px) {
   .search-panel { padding: 1rem; }
 }
+
+/* Comments (Hyvor Talk): align with the article column */
+.art-comments { background: #F7F3EC; max-width: 680px; margin: 0 auto; padding: 0 32px 72px; }
