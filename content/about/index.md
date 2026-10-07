@@ -11,7 +11,7 @@ photoCredit: 'Banner photo of Trinity University Library in Dublin. Septimus Car
 
 ## Accomplishments
 
-Septimus Carr is an arts critic whose writings are widely allusive across literary, dramatic, and musical genres. His longform essays often blend comparative criticism with historical narrative, personal reminiscences, and a desparate, trauma-driven joke impulse. 
+Septimus Carr is an arts critic whose writings are widely allusive across literary, dramatic, and musical genres. His longform essays often blend comparative criticism with historical narrative, personal reminiscences, and a desperate, trauma-driven joke impulse. 
 
 His writings appear on Substack, Medium, Goodreads, Fable, and Reddit, where his posts score thousands of views, sometimes tens of thousands. Some of those viewers even read the articles!
 
