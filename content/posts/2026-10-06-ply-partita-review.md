@@ -49,7 +49,7 @@ In her new novel *Partita*, Barbara Kingsolver shuttles her narrative back and f
 
 In Hernan Diaz’s *Ply*, the plummet is just as steep, but intrepid wayfarers contemplate a crossing. Centuries into the future, the state has crumbled, leaving only outsourced enforcers of corporate greed. Science has disassembled the self into clumsily bundled particles, but good riddance to bad rubbish. It’s the end of the world as we know it, and I feel fine. “Isn’t it endlessly more interesting,” asks a scientist, “to think about the wonderful combinatorial madness that makes us up rather than to lazily picture ourselves as static magical creatures?”
 
-When last we met Kingsolver and Diaz, they were the only novelists to tie for top honors in a century of Pulitzer Prizes. Their follow-ups, both coincidentally released this week, depict the painful reconstruction of a sense of self that never fully came to be, but one explores that topic with painstaking authenticity of setting while the other seldom resists the temptation to refract the theme through yet another prismatic theoretical variation. In the end, both strikingly affirm community as the mystical core of the self itself. 
+When last we met Kingsolver and Diaz, they were the only novelists to tie for top honors in a century of Pulitzer Prizes. Their follow-ups, both coincidentally released this week, depict the painful reconstruction of a sense of self, but one explores that topic with painstaking authenticity of setting while the other seldom resists the temptation to refract the theme through yet another prismatic theoretical variation. In the end, both strikingly affirm community as the mystical core of the self itself. 
 
 ## Pulitzer Rematch
 
