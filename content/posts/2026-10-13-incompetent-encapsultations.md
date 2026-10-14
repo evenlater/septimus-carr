@@ -13,7 +13,7 @@ imagePosition: "Center"
 imageAlt: "Books"
 photoCredit: 'Photo credit: ID <a href="https://www.dreamstime.com/editorial-stock-image-loads-books-barcelona-spain-january-bookshelves-street-market-january-barcelona-spain-outdoor-book-markets-common-image46236724">46236724</a> @ <a href="https://www.dreamstime.com/whpics_info">Whpics</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
 links:
-  substack: ""
+  substack: "https://septimuscarr.substack.com/p/incompetent-encapsulations"
 ---
 Prudhoe Bay, Alaska. The apex of the Pan-American Highway that runs all the way to the southernmost tip of Argentina, and, today, the scene of history’s most elaborate data visualization. Here, where snow wafts around careening caribou and sad-eyed puffins, a horseshoe-shaped conga line of roughly 270,000,000 adult American citizens huddle shoulder to shoulder, ordered by the number of books they read in 2025. At the top of the horseshoe are Omnilegent Octavia, a thickly bespectacled brainiac who read more books that year than anybody else, and Median Mitch, a gangly dudebro in Bose headphones who gamely represents the midpoint of the entire American population. Ask Mitch how many books he read, and he is momentarily confused. "Oh, *books*," he exclaims as the word settles into his fuzzy memory. "Right, stupid, sorry. I guess two."
 
