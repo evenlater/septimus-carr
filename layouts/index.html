@@ -1,17 +1,34 @@
 {{ define "main" }}
 {{ $allPosts := where .Site.RegularPages "Section" "posts" }}
 {{ $allPosts = $allPosts.ByDate.Reverse }}
-{{/* Notes are lightweight asides, not full essays — keep them out of the
-     featured hero slot and recent-essays grid. They still live in the
-     full /posts/ archive and their own /categories/notes/ page. */}}
-{{ $posts := slice }}
+{{/* Notes are lightweight asides, not full essays. They stay out of the
+     recent-essays grid and the archive pick. They still live in the full
+     /posts/ archive and their own /categories/notes/ page.
+
+     One exception: a note may take the featured hero slot, but only if it
+     has an image AND its front matter says `feature: true` (unquoted).
+     No image, no flag, or neither => a note is never promoted. A promoted
+     note competes with essays by date; once a newer essay displaces it, it
+     drops out of the homepage entirely, like any other note. */}}
+{{ $essays := slice }}
+{{ $featPool := slice }}
 {{ range $allPosts }}
   {{ if not (in .Params.categories "Notes") }}
-    {{ $posts = $posts | append . }}
+    {{ $essays = $essays | append . }}
+    {{ $featPool = $featPool | append . }}
+  {{ else if and .Params.image .Params.feature }}
+    {{ $featPool = $featPool | append . }}
   {{ end }}
 {{ end }}
 {{ $onPageCount := 7 }}
-{{ $feat := index $posts 0 }}
+{{ $feat := index $featPool 0 }}
+{{/* Everything below the hero is essays only, minus whatever is featured. */}}
+{{ $posts := slice }}
+{{ range $essays }}
+  {{ if ne .Permalink $feat.Permalink }}
+    {{ $posts = $posts | append . }}
+  {{ end }}
+{{ end }}
 
 {{/* ── FEATURED ESSAY ── */}}
 {{ with $feat }}
@@ -55,7 +72,7 @@
 </div>
 
 {{/* ── FROM THE ARCHIVE (one deterministic-per-day pick, always older than what's already on this page) ── */}}
-{{ $archivePool := after $onPageCount $posts }}
+{{ $archivePool := after (sub $onPageCount 1) $posts }}
 {{ if $archivePool }}
 {{ $archiveItems := slice }}
 {{ range $archivePool }}
@@ -89,7 +106,7 @@
     <a href="{{ "/posts/" | relURL }}" class="va">View All</a>
   </div>
   <div class="sg">
-    {{ range after 1 (first $onPageCount $posts) }}
+    {{ range first (sub $onPageCount 1) $posts }}
     {{ partial "card.html" . }}
     {{ end }}
   </div>
