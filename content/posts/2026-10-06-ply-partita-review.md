@@ -31,6 +31,7 @@ readDates2:
    start: "2026-09-12"
    end: "2026-09-29"
 links:
+  medium: "https://medium.com/counterarts/the-lost-self-in-partita-and-ply-fe05551460ad"
   substack: "https://septimuscarr.substack.com/p/the-lost-self-in-partita-and-ply"
   goodreads: "https://www.goodreads.com/review/show/8943358986"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1wyka3v/the_lost_self_in_barbara_kingsolvers_partita_and/"
