@@ -30,7 +30,7 @@ The book is split between 2025 and 2125 (and the surrounding years), giving McEw
 
 {{< pull-quote >}}McEwan’s main contribution is to ask not what I s knowable about yesterday, as did Stoppard and Byatt, but what will be knowable about today when tomorrow arrives.{{< /pull-quote >}}
 
-Biodiversity, too, is starting to recover from the mass extinctions of our Holocene epoch, although the organic food supply seems beyond renewal. Future generations are loathe to forgive ours for ignoring the climate crisis, empowering reckless artificial intelligence, and mounting nuclear conflicts that apparently have their roots in Russia’s 2022 invasion of Ukraine. They are not impressed that our cultural and artistic output dwarfs theirs, and their attitude toward studying our history can be summarized by film critic Jonathan Rosenbaum’s memorable assessment of the 1995 film *Carrington*: “Who cares about these awful people?”
+Biodiversity, too, is starting to recover from the mass extinctions of our Holocene epoch, although the organic food supply seems beyond renewal. Future generations are loath to forgive ours for ignoring the climate crisis, empowering reckless artificial intelligence, and mounting nuclear conflicts that apparently have their roots in Russia’s 2022 invasion of Ukraine. They are not impressed that our cultural and artistic output dwarfs theirs, and their attitude toward studying our history can be summarized by film critic Jonathan Rosenbaum’s memorable assessment of the 1995 film *Carrington*: “Who cares about these awful people?”
 
 {{< section-head >}}THE BIOGRAPHER’S TALE{{< /section-head >}}
 
