@@ -6,6 +6,7 @@ categories: ["Fiction","Multi"]
 authors: ["Toni Morrison"]
 subtitle: "\"God Help the Child\" as Unofficial Sequel to \"The Bluest Eye\""
 image: "/img/Pecola-and-Bride.png"
+imageHero: "/img/Pecola-and-Bride.png"
 imagePosition: "Top"
 imageFit: "Contain"
 imageAlt: "Black woman in white gown."
