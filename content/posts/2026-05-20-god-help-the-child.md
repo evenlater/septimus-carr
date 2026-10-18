@@ -8,7 +8,7 @@ subtitle: "\"God Help the Child\" as Unofficial Sequel to \"The Bluest Eye\""
 image: "/img/Pecola-and-Bride.png"
 imageHero: "/img/Pecola-and-Bride.png"
 imagePosition: "Top"
-imageFit: "Contain"
+imageFit: "contain"
 imageAlt: "Black woman in white gown."
 photoCredit: 'African American woman in wedding dress; ID <a href="https://www.dreamstime.com/stock-photo-african-american-woman-wedding-dress-young-beautiful-image40918643">40918643</a> Copyright <a href="https://www.dreamstime.com/nakonechnyy_info">Ivan Nakonechnyy </a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>.'
 
