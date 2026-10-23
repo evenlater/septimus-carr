@@ -3,7 +3,7 @@ title: "Incompetent Encapsulations"
 subtitle: "The origin story of Septimus Carr, an introduction for an emerging essay collection"
 date: 2026-10-13
 draft: false
-feature: true
+feature: false
 categories: ["Notes"]
 image: "/img/books-galore.jpg"
 imageMobile: "/img/books-galore.jpg"
