@@ -1,6 +1,6 @@
 ---
-title: "Imprecise Peculiarity and Painstaking Banality at /"The End of Everything/"" 
-subtitle: "Thumbs Down to M. John Harrison and Thumbs Up to /"The Hitchhiker’s Guide to the Galaxy/""
+title: "Imprecise Peculiarity and Painstaking Banality at \"The End of Everything\"" 
+subtitle: "Thumbs Down to M. John Harrison and Thumbs Up to \"The Hitchhiker’s Guide to the Galaxy\""
 date: 2026-10-25
 draft: false
 categories: ["Fiction","Booker"]
