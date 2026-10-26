@@ -1,5 +1,5 @@
 ---
-series; "BOOKER PRIZE COUNTDOWN - SIXTH PLACE"
+series: "BOOKER PRIZE COUNTDOWN - SIXTH PLACE"
 title: "Imprecise Peculiarity and Painstaking Banality at \"The End of Everything\"" 
 subtitle: "Thumbs Down to M. John Harrison and Thumbs Up to \"The Hitchhiker’s Guide to the Galaxy\""
 date: 2026-10-25
