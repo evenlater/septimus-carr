@@ -34,7 +34,7 @@ links:
 
 <div class="gloss"><b>I received an advance copy of <em>The End of Everything</em> from Penguin Random House via NetGalley.</b></div>
 
-From now until November 9, Septimus Carr will be counting down the Booker shortlist in ascending order of preference. My preference, that is, not that of the Booker Prize Judging Panel. I’m offering my hot takes, not predictions. 
+From now until the Booker Prize winner is announced on November 9, Septimus Carr will be counting down the Booker shortlist in ascending order of preference. My preference, that is, not that of the Booker Prize Judging Panel. I’m offering my hot takes, not predictions. 
 
 In this case, however, the two would be the same. My vote for last place among the six shortlisted novels is M. John Harrison’s *The End of Everything*, and I can’t imagine readers of the caliber of the Booker voters (a hodgepodge of publishers, authors, and artists of other stripes) failing to notice a precipitous drop in quality from any conceivable fifth place finisher and Harrison’s entry. I recognize that some readers enjoy it, but in this company it is slight (206 pages), controversial (at 2.86 it had the lowest Goodreads score even of the longlist), and far more likely to be described as experimental than successful.
 
