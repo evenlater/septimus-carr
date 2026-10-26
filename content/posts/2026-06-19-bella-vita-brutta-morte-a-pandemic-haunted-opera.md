@@ -239,6 +239,6 @@ Chastened for my indulgent distraction by a near collision with the exponentiall
 
 Tomorrow, Chris Jones in the *Chicago Tribune* will <a href="https://www.chicagotribune.com/2021/09/27/review-elixir-of-love-by-lyric-opera-of-chicago-is-a-delightfully-live-affirmation-of-life/" target="_blank">write</a> that "the building was listening to his voice along with his audience, and he was repaying its favor in rapturous kind…. It exemplified what so many people have missed during the pandemic about hearing their favorite music sung live."
 
-Beauty is back. Belllla.
+Beauty is back. Belllla.`
 
 <span class="gloss">NOTE: This essay first appeared as "Bella Vita, Brutta Morte" on June 19, 2026. It was subsequently revised into the current form with the guidance of Music for Thought on Medium, specifically their editor, Hannah’s Café. They have my thanks.</span>
