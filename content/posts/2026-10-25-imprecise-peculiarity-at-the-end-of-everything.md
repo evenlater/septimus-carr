@@ -26,7 +26,7 @@ book:
   isbn2: "1400052920"
   cover2: "/img/hitchhikers-guide-cover.jpg"
 links:
-  substack: ""
+  substack: "https://septimuscarr.substack.com/p/booker-countdown-6th-place-the-end"
   goodreads: "https://www.goodreads.com/review/show/9017473098"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1xftytp/booker_countdown_6th_place_the_end_of_everything/"
   medium: ""  
