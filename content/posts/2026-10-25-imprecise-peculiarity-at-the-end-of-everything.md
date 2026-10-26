@@ -48,7 +48,9 @@ Many readers may find *The End of Everything* forbiddingly odd. My objection is 
 
 ## A Plot That Defies Description
 
-I’m not sure I was vigilant enough in Harrison’s weeds to provide a reliable plot description, but here is my best effort at such. In a year terrifyingly imprecise in its relation to our own, accumulating paragraphs of evocatively atmospheric expository descriptions are painstakingly specific about all the wrong things. The coast of Kent, or the vast surface of Planet Earth, we’re not entirely certain which, have recently endured a disaster so traumatizing to our daily functioning that everything seems more or less unaltered. The catalysts for this take-my-word-for-it catastrophe are alien invaders unexplainedly called the iGhetti, a bewilderingly unetymological designation that conjures nothing so much as Apple-designed electronic devices marketed to inner city residents.
+I’m not sure I was vigilant enough in Harrison’s weeds to provide a reliable plot description, but here is my best effort at such. 
+
+In a year terrifyingly imprecise in its relation to our own, accumulating paragraphs of evocatively atmospheric expository descriptions are painstakingly specific about all the wrong things. The coast of Kent, or the vast surface of Planet Earth, we’re not entirely certain which, have recently endured a disaster so traumatizing to our daily functioning that everything seems more or less unaltered. The catalysts for this take-my-word-for-it catastrophe are alien invaders unexplainedly called the iGhetti, a bewilderingly unetymological designation that conjures nothing so much as Apple-designed electronic devices marketed to inner city residents.
  
 Oh, and the aliens probably aren’t aliens. They are more likely shapeshifting visitors from the astral plane. It is unclear why they have shapes to shift then, given that the astral plane is usually defined as the realm of the intangible. But basically the creatures are babies one day and adults the next, and they are both companionable road buddies and also slapdashedly gleeful at the prospect that we will eat the dead bodies of our most cherished relatives. 
 
@@ -56,12 +58,14 @@ Earth’s remaining populace, which has dwindled from the unspecified economic i
 
 ## Priorities, M. John
 
-Perhaps you are wondering what, in all this opacity, Harrison deems worthy of "painstaking" detail, and I am happy to oblige. The first half of the book "PART ONE: War in Heaven" (another title that promises undelivered drama) contains four consecutive chapters titled "The sign." The first "The sign" begins as follows:
+Perhaps you are wondering what, in all this opacity, Harrison deems worthy of "painstaking" detail, and I am happy to oblige. The first half of the book, "PART ONE: War in Heaven" (another title that promises undelivered drama), contains four consecutive chapters titled "The sign." The first "The sign" begins as follows:
 
 >On all those reliable maps of the pre-disaster period, the town assembles itself as a rough triangle, the base of which is a strip of the old coast road running along the seafront for half a mile between a roundabout in the south and a golf course in the north. From this foundation, the sides of the triangle waver up inland, rising gently until the apex penetrates the chalk to admit a river, a railway line and an elegant military canal from the Martello period.
 <cite>M. John Harrison, <em>The End of Everything</em></cite>
 
-I hope that’s enough to get across Harrison’s narrative priorities, though he continues this tangent for the duration of the chapter. His omniscient narrator drones on blandly about inns, manses, customs sheds, fish and chips bars, antique shops, piers, arcades, cakes, and ices, while apparently utterly lacking the strength to force the moment to its crisis. The only words in the entire chapter that struck me as even vaguely connected to the dystopian premise upon which the novel’s entire claim to Booker distinction rests are "pre-disaster period." But those words appear but once, hovering in fruitless isolation atop the chapter’s soon-forgotten opening sentence. I have no interest in going antiquing with you, M. John, no matter how quaint the surroundings. Elaborate on that disaster.
+I hope that’s enough to get across Harrison’s narrative priorities, though he continues this tangent for the duration of the chapter. His omniscient narrator drones on blandly about inns, manses, customs sheds, fish and chips bars, antique shops, piers, arcades, cakes, and ices, while apparently utterly lacking the strength to force the moment to its crisis. 
+
+The only words in the entire chapter that struck me as even vaguely connected to the dystopian premise upon which the novel’s entire claim to Booker distinction rests are "pre-disaster period." But those words appear only once, hovering in fruitless isolation atop the chapter’s soon-forgotten opening sentence. I have no interest in going antiquing with you, M. John, no matter how quaint the surroundings. Elaborate on that disaster.
 
 ## Psyche!
 
@@ -69,9 +73,9 @@ That’s not to say that there aren’t passages that eschew these pedestrian de
 
 ## Playing for Laughs
 
-I am not indifferent to the possibility that the juxtaposition of the author’s maddening inattention to the novel’s actual plot with his tireless captivation with the pedestrian specifics of present-day suburban England might be intended as some form of comedy. The Booker Prize website describes *The End of Everything* as "slyly satirical." I flatter myself that I am something approaching an ideal audience for that kind of bone-dry straight facedness. In my college improv days, my teammates were unable to persuade me that gesturing toward a line of empty stools and saying, "Ladies and gentlemen, the Dancing Chairs!" did not constitute the apex of American comedy. But if Harrison is concealing a giggle at his resolute defiance of traditional narrative, I wish he’d find some way to let us in on the gag. "Something happened, no it didn’t, yes it did" might make me laugh if it wasn’t wedged into pages of agonizing boredom. 
+I am not indifferent to the possibility that the juxtaposition of the author’s maddening inattention to the novel’s actual plot with his tireless captivation by the pedestrian specifics of present-day suburban England might be intended as some form of comedy. The Booker Prize website describes *The End of Everything* as "slyly satirical." I flatter myself that I am something approaching an ideal audience for that kind of bone-dry straight facedness. In my college improv days, my teammates were unable to persuade me that gesturing toward a line of empty stools and saying, "Ladies and gentlemen, the Dancing Chairs!" did not constitute the apex of American comedy. But if Harrison is concealing a giggle at his resolute defiance of traditional narrative, I wish he’d find some way to let us in on the gag. "Something happened, no it didn’t, yes it did" might make me laugh if it wasn’t wedged into pages of agonizing boredom. 
 
-What’s more, I recognize that, comedy or not, the book’s evasiveness is intentional. Harrison is reaching for a thematic statement, which the Booker website underscores when it describes the novel as "shimmering and oblique." The trouble, for me specifically, is that his execution of that idea is so off-putting that I don’t actually care what point he is trying to make.
+What’s more, I recognize that, comedy or not, the book’s evasiveness is intentional. Harrison is reaching for a thematic statement, which the Booker website underscores when it describes the novel as "shimmering and oblique." The trouble, for me specifically, is that his execution of that idea is so off-putting that I don’t actually care what point he is trying to make by writing badly.
 
 ## Living Up to the Classics
 
