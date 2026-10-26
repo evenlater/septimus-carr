@@ -38,7 +38,7 @@ From now until the Booker Prize winner is announced on November 9, Septimus Carr
 
 In this case, however, the two would be the same. My vote for last place among the six shortlisted novels is M. John Harrison’s *The End of Everything*, and I can’t imagine readers of the caliber of the Booker voters (a hodgepodge of publishers, authors, and artists of other stripes) failing to notice a precipitous drop in quality from any conceivable fifth place finisher and Harrison’s entry. I recognize that some readers enjoy it, but in this company it is slight (206 pages), controversial (at 2.86 as of this writing, it has the lowest Goodreads score even of the longlist), and far more likely to be described as experimental than successful.
 
-Just for fun, I will compare each Booker novel, at least in passing, to a classic work of literature with which it has something in common. Today’s "classic" may not meet every use of that word, but it unmistakably lives up to Merriam-Webster’s top definition: "Serving as a standard of excellence: of recognized value." The book is Douglas Adams’s 1980 comic sci-fi masterpiece, *The Hitchhiker’s Guide to the Galaxy*. 
+Just for fun, I will compare each Booker novel, at least in passing, to a classic work of literature with which it has something in common. Today’s "classic" may not meet every use of that word, but it unmistakably lives up to Merriam-Webster’s top definition: "Serving as a standard of excellence: of recognized value." The book is Douglas Adams’s 1979 comic sci-fi masterpiece, *The Hitchhiker’s Guide to the Galaxy*. 
 
 ## Ankle-biting Science Fiction
 
