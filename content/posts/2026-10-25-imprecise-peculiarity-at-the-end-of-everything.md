@@ -22,13 +22,13 @@ book:
   cover: "/img/end-of-everything-cover.jpg"
   title2: "The Hitchhiker’s Guide to the Galaxy"
   author2: "Douglas Adams"
-  year2: "1980"
+  year2: "1979"
   isbn2: "1400052920"
   cover2: "/img/hitchhikers-guide-cover.jpg"
 links:
   substack: ""
-  goodreads: ""
-  reddit: ""
+  goodreads: "https://www.goodreads.com/review/show/9017473098"
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1xftytp/booker_countdown_6th_place_the_end_of_everything/"
   medium: ""  
 ---
 
@@ -73,7 +73,11 @@ That’s not to say that there aren’t passages that eschew these pedestrian de
 
 ## Playing for Laughs
 
-I am not indifferent to the possibility that the juxtaposition of the author’s maddening inattention to the novel’s actual plot with his tireless captivation by the pedestrian specifics of present-day suburban England might be intended as some form of comedy. The Booker Prize website describes *The End of Everything* as "slyly satirical." I flatter myself that I am something approaching an ideal audience for that kind of bone-dry straight facedness. In my college improv days, my teammates were unable to persuade me that gesturing toward a line of empty stools and saying, "Ladies and gentlemen, the Dancing Chairs!" did not constitute the apex of American comedy. But if Harrison is concealing a giggle at his resolute defiance of traditional narrative, I wish he’d find some way to let us in on the gag. "Something happened, no it didn’t, yes it did" might make me laugh if it wasn’t wedged into pages of agonizing boredom. 
+I am not indifferent to the possibility that the juxtaposition of the author’s maddening inattention to the novel’s actual plot with his tireless captivation by the pedestrian specifics of present-day suburban England might be intended as some form of comedy. The Booker Prize website describes *The End of Everything* as "slyly satirical." 
+
+I flatter myself that I am something approaching an ideal audience for that kind of bone-dry straight facedness. In my college improv days, my teammates were unable to persuade me that gesturing toward a line of empty stools and saying, "Ladies and gentlemen, the Dancing Chairs!" did not constitute the apex of American comedy. 
+
+But if Harrison is concealing a giggle at his resolute defiance of traditional narrative, I wish he’d find some way to let us in on the gag. "Something happened, no it didn’t, yes it did" might make me laugh if it wasn’t wedged into pages of agonizing boredom. 
 
 What’s more, I recognize that, comedy or not, the book’s evasiveness is intentional. Harrison is reaching for a thematic statement, which the Booker website underscores when it describes the novel as "shimmering and oblique." The trouble, for me specifically, is that his execution of that idea is so off-putting that I don’t actually care what point he is trying to make by writing badly.
 
