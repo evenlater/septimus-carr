@@ -62,7 +62,7 @@ Perhaps you are wondering what, in all this opacity, Harrison deems worthy of "p
 >On all those reliable maps of the pre-disaster period, the town assembles itself as a rough triangle, the base of which is a strip of the old coast road running along the seafront for half a mile between a roundabout in the south and a golf course in the north. From this foundation, the sides of the triangle waver up inland, rising gently until the apex penetrates the chalk to admit a river, a railway line and an elegant military canal from the Martello period.
 <cite>M. John Harrison, <em>The End of Everything</em></cite>
 
-I hope that’s enough to get across Harrison’s narrative priorities, though he continues this tangent for the duration of the chapter. His omniscient narrator drones on blandly about inns, manses, customs sheds, fish and chips bars, antique shops, piers, arcades, cakes, and ices, while apparently utterly lacking the strength to force the moment to its crisis. The only words in the entire chapter that struck me as even vaguely connected to the dystopian premise upon which the novel’s entire vanishingly credible claim to Booker distinction rests are "pre-disaster period." But those words appear but once, hovering in fruitless isolation atop the chapter’s soon-forgotten opening sentence. Pre-disaster. Got it. So, this is all before anything interesting happened.
+I hope that’s enough to get across Harrison’s narrative priorities, though he continues this tangent for the duration of the chapter. His omniscient narrator drones on blandly about inns, manses, customs sheds, fish and chips bars, antique shops, piers, arcades, cakes, and ices, while apparently utterly lacking the strength to force the moment to its crisis. The only words in the entire chapter that struck me as even vaguely connected to the dystopian premise upon which the novel’s entire vanishingly credible claim to Booker distinction rests are "pre-disaster period." But those words appear but once, hovering in fruitless isolation atop the chapter’s soon-forgotten opening sentence. I have no interest in going antuiqing with you, M. John, no matter how quaint the surroundings. Elaborate on that disaster.
 
 ## Psyche!
 
@@ -97,7 +97,7 @@ The premise of the scene is that Benjy and Frankie, a pair of superintelligent a
 "No, you wouldn’t," said Frankie mouse, "you’d be programmed not to."
 <cite>Douglas Adams, <em>The Hitchhiker’s Guide to the Galaxy</em></cite>
 
-Here we have two scenes where clueless outsiders mistake the dim reflected motions of sacred humanity’s late afternoon shadow for the fleshy corporeality of the real thing. The first sketches stick figures where three-dimensional peculiaritiy is required. The second detonates with immaculate timing; it's a rimshot, yes, but the drummer is Elvin Jones.  
+Here we have two scenes where clueless outsiders mistake the dim reflected motions of sacred humanity’s late afternoon shadow for the fleshy corporeality of the real thing. The first sketches stick figures where three-dimensional peculiarity is required. The second detonates with immaculate timing; it's a rimshot, yes, but the drummer is Elvin Jones.  
 
 "I’d notice the difference," cries incredulous Arthur.
 
