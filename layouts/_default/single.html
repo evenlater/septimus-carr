@@ -39,6 +39,7 @@
       <span class="art-read">{{ math.Round (div (countwords .Content) 200.0) }} min read</span>
     </div>
 
+    {{ with .Params.series }}<p class="art-ser">{{ . }}</p>{{ end }}
     <h1 class="art-title">{{ .Title }}</h1>
     {{ with .Params.subtitle }}<p class="art-sub">{{ . }}</p>{{ end }}
     <div class="art-byline">By {{ .Site.Params.author }}</div>

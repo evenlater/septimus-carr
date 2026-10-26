@@ -1,4 +1,5 @@
 ---
+series; "BOOKER PRIZE COUNTDOWN - SIXTH PLACE"
 title: "Imprecise Peculiarity and Painstaking Banality at \"The End of Everything\"" 
 subtitle: "Thumbs Down to M. John Harrison and Thumbs Up to \"The Hitchhiker’s Guide to the Galaxy\""
 date: 2026-10-25
@@ -35,14 +36,16 @@ links:
 
 From now until November 9, Septimus Carr will be counting down the Booker shortlist in ascending order of preference. My preference, that is, not that of the Booker Prize Judging Panel. I’m offering my hot takes, not predictions. 
 
-In this case, however, the two would be the same. My vote for last place among the six shortlisted novels is M. John Harrison’s *The End of Everything*, and I can’t imagine readers of the caliber of the Booker voters (a hodgepodge of publishers, authors, and artists of other stripes) failing to notice a precipitous drop in quality from any conceivable fifth place finisher and Harrison’s entry.
+In this case, however, the two would be the same. My vote for last place among the six shortlisted novels is M. John Harrison’s *The End of Everything*, and I can’t imagine readers of the caliber of the Booker voters (a hodgepodge of publishers, authors, and artists of other stripes) failing to notice a precipitous drop in quality from any conceivable fifth place finisher and Harrison’s entry. I recognize that some readers enjoy it, but in this company it is slight (206 pages), controversial (at 2.86 it had the lowest Goodreads score even of the longlist), and far more likely to be described as experimental than successful.
 
 Just for fun, I will compare each Booker novel, at least in passing, to a classic work of literature with which it has something in common. Today’s "classic" may not meet every use of that word, but it unmistakably lives up to Merriam-Webster’s top definition: "Serving as a standard of excellence: of recognized value." The book is Douglas Adams’s 1980 comic sci-fi masterpiece,*The Hitchhiker’s Guide to the Galaxy*. 
 
 
 ## Ankle-biting Science Fiction
 
-*The End of Eveyrthing* is a tantalizingly decisive title for the determinedly ambiguous science fiction story M. John Harrison has laced fragmentarily throughout his Booker shortlisted novel. The catastrophic certainty the title promises is enough to inspire a certain degree of diligence in reading this intriguingly weird version of the apocalypse. But I had trouble staying engaged long enough even to notice the widely scattered landmines of narrative advancement Harrison has planted in the soil of his otherwise utterly mundane dystopian future. When detonated, these landmines do not rattle our foundations or jolt our nodding attention spans. They do not *boom*; they *pfffff* unnoticeably in the sand as we pass: "Oh wait, I think something odd just happened in the middle of that stultifying diatribte about beachcombing." The explosion sprays just enough dirt around our ankles that we have a fighting chance of noticing it when we’re meticulously scanning for ticks. I enjoyed Harrison’s indulgent weirdness at times. But why did he have to bury it six feet under the soil of sedative poppy fields from Oz?
+*The End of Eveyrthing* is a tantalizingly decisive title for the determinedly ambiguous science fiction story M. John Harrison has laced fragmentarily throughout his Booker shortlisted novel. The catastrophic certainty the title promises is enough to inspire a certain degree of diligence in reading this intriguingly weird version of the apocalypse. But I had trouble staying engaged long enough even to notice the widely scattered landmines of narrative advancement Harrison has planted in the soil of his otherwise utterly mundane dystopian future. When detonated, these landmines do not rattle our foundations or jolt our nodding attention spans. They do not *boom*; they *pfffff* unnoticeably in the sand as we pass: "Oh wait, I think something odd just happened in the middle of that stultifying diatribte about beachcombing." The explosion sprays just enough dirt around our ankles that we have a fighting chance of noticing it when we’re meticulously scanning for ticks.
+
+Many readers may find *The End of Everything* forbiddingly odd. My objection is the reverse. I enjoyed Harrison’s indulgent weirdness at times, but he seems agonizingly shy about letting his freak flag fly. For most of the novel, he buries that flag under sedative poppy fields from Oz. If Harrison is so weird, why must we plow thickets of brambly respectability just to catch an ephemeral glint of eccentricity? 
 
 ## A Plot That Defies Description
 
@@ -66,7 +69,7 @@ That’s not to say that there aren’t passages that eschew these pedestrian de
 
 ## Playing for Laughs
 
-I am not indifferent to the possibility that the juxtaposition of the author’s maddening inattention to the novel’s actual plot with his tireless captivation with the pedestrian specifics of present-day suburban England might be intended as some form of comedy. I flatter myself that I am something approaching an ideal audience for that kind of bone-dry straight facedness. In my college improv days, my teammates were unable to persuade me that gesturing toward a line of empty stools and saying, "Ladies and gentlemen, the Dancing Chairs!" did not constitute the apex of American comedy. But if Harrison is concealing a giggle at his resolute defiance of traditional narrative, I wish he’d find some way to let us in on the gag. "Something happened, no it didn’t, yes it did" might make me laugh if it wasn’t wedged into pages of agonizing boredom.
+I am not indifferent to the possibility that the juxtaposition of the author’s maddening inattention to the novel’s actual plot with his tireless captivation with the pedestrian specifics of present-day suburban England might be intended as some form of comedy. The Booker Prizes website describes *The End of Everything* as "slyly satirical." I flatter myself that I am something approaching an ideal audience for that kind of bone-dry straight facedness. In my college improv days, my teammates were unable to persuade me that gesturing toward a line of empty stools and saying, "Ladies and gentlemen, the Dancing Chairs!" did not constitute the apex of American comedy. But if Harrison is concealing a giggle at his resolute defiance of traditional narrative, I wish he’d find some way to let us in on the gag. "Something happened, no it didn’t, yes it did" might make me laugh if it wasn’t wedged into pages of agonizing boredom.
 
 ## Living Up to the Classics
 
@@ -79,7 +82,7 @@ To his credit, Harrison does allow the narrative in its second half to indulge i
 ‘He’s not a he. He’s an it and so are you.’
 <cite>M. John Harrison, <em>The End of Everything</em></cite>
 
-It is a striking passage, but Harrison still refuses to ground the scene in enough imagined specificity to make it land emotionally. The nature of the recreated loved one, the nature of its creators, their purpose in creating it in the first place, all remain steadfastly opaque.
+It is a striking passage. Here the poppies recede and Harrison waves in the direction of salient insight. The scene ends in a violent outburst that is pleasingly sudden and exquisitely timed. But Harrison still refuses to ground the scene in enough imagined specificity to make its abstractions decipherable. The nature of the recreated loved one, the nature of its creators, their purpose in creating it in the first place, all remain steadfastly opaque. Even when the freak is on full display, Harrison shies from full commitment.
    
 Did anyone ever tell Harrison that humor resides in specificity? The driver scene reminds me of a similar episode in a book that remains my gold standard of wry apocalyptic fiction, *The Hitchhiker’s Guide to the Galaxy* by Douglas Adams. Granted, Harrison and Adams are not striving for comparable effects. But Adams too wrote a scene in which bewilderingly alien aliens unconvincingly offered a replacement for a human’s irreplaceable humanity, and I recall it vividly to this day even though I last read the book as a tween. 
 
@@ -92,6 +95,10 @@ The premise of the scene is that Benjy and Frankie, a pair of superintelligent a
 "I’d notice the difference," said Arthur.<br>
 "No, you wouldn’t," said Frankie mouse, "you’d be programmed not to."
 <cite>Douglas Adams, <em>The Hitchhiker’s Guide to the Galaxy</em></cite>
+
+Here we have two scenes where clueless outsiders mistake the dim reflected motions of sacred humanity’s late afternoon shadow for the fleshy corporeality of the real thing. The first sketches stick figures where three dimensional peculiaritiy is required. The second has paint-by-numbers timing; it's a rimshot, yes, but the drummer is Elvin Jones.  
+
+"I’d notice the difference," cries incredulous Arthur.
 
 "Ladies and gentlemen, the Dancing Chairs!"
 

@@ -45,6 +45,7 @@
   </a>
   <div class="ft">
     <div class="el">Featured Essay</div>
+	{{ with .Params.series }}<p class="ft-ser">{{ . }}</p>{{ end }}
     <a href="{{ .Permalink }}" class="ft-title-link"><h1 class="ft-title">{{ .Title }}</h1></a>
     {{ with .Params.subtitle }}<p class="ft-sub">{{ . }}</p>{{ end }}
     <div class="ft-meta">

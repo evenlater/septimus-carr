@@ -144,6 +144,7 @@ body {
 .el      { font-size: 9.5px; letter-spacing: .28em; text-transform: uppercase; color: #9B4A6A;
            display: flex; align-items: center; gap: 12px; margin-bottom: 18px; }
 .el::before { content: ''; width: 20px; height: 1px; background: #9B4A6A; }
+.ft-ser { font-style: bold; font-size: 16px; color: #B0A8CC; line-height: 1; margin-top: 10px; } 
 .ft-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 44px; font-weight: 400;
             line-height: 1.08; color: #EAE4F4; margin-bottom: 14px; }
 .ft-sub  { font-style: italic; font-size: 16px; color: #B0A8CC; line-height: 1.5; margin-bottom: 20px; }
@@ -227,6 +228,8 @@ body {
 .art-date  { font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: #A09488; }
 .art-read  { font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: #A09488; }
 .meta-dot  { color: #D0C8BC; font-size: 12px; }
+
+.art-ser { font-style: bold; font-size: 20px; color: #5A4E44; line-height: 1; margin-top: 10px; } 
 .art-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 52px; font-weight: 400;
              line-height: 1.06; color: #1C1410; margin-bottom: 16px; }
 .art-sub   { font-style: italic; font-size: 20px; color: #5A4E44; line-height: 1.4; margin-bottom: 22px; }

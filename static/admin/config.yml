@@ -54,6 +54,7 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     sortable_fields: [date, title]
     fields:
+      - { label: Series, name: series, widget: string, required: false }    
       - { label: Title, name: title, widget: string }
 
       - label: Date
