@@ -97,7 +97,7 @@ The premise of the scene is that Benjy and Frankie, a pair of superintelligent a
 "No, you wouldn’t," said Frankie mouse, "you’d be programmed not to."
 <cite>Douglas Adams, <em>The Hitchhiker’s Guide to the Galaxy</em></cite>
 
-Here we have two scenes where clueless outsiders mistake the dim reflected motions of sacred humanity’s late afternoon shadow for the fleshy corporeality of the real thing. The first sketches stick figures where three dimensional peculiaritiy is required. The second has paint-by-numbers timing; it's a rimshot, yes, but the drummer is Elvin Jones.  
+Here we have two scenes where clueless outsiders mistake the dim reflected motions of sacred humanity’s late afternoon shadow for the fleshy corporeality of the real thing. The first sketches stick figures where three dimensional peculiaritiy is required. The second detonates with immaculate timing; it's a rimshot, yes, but the drummer is Elvin Jones.  
 
 "I’d notice the difference," cries incredulous Arthur.
 
