@@ -115,7 +115,7 @@ To say that Beeswing is stylistically cautious is not to say that it is dull. Th
 
 These are the years in which Thompson co-founded the legendary British folk-rock group {{< tl-note date="1967-05-27" >}}Fairport Convention{{< /tl-note >}}, married and divorced his famous gigging partner Linda Thompson, logged session time and awkward Tube rides with reclusive peer Nick Drake, and snuck a “reprehensible” (his word) peek inside Joni Mitchell’s songwriting notebook.
 
-A traditional chronological structure ushers Thompson from a “very shy” suburban kid who found the guitar enabled self-expression to a “socially inept” solo artist writing songs “for pleasure, but also to understand [myself] and decode life.” His thoughts are more coherently articulated then Dylan’s, but the latter’s rough musings contain more diamonds.
+A traditional chronological structure ushers Thompson from a “very shy” suburban kid who found the guitar enabled self-expression to a “socially inept” solo artist writing songs “for pleasure, but also to understand [myself] and decode life.” His thoughts are more coherently articulated than Dylan’s, but the latter’s rough musings contain more diamonds.
 
 ## <b>DYLAN:</b><br>“You Wanna Ramble”
 
