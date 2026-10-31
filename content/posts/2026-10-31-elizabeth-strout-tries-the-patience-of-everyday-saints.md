@@ -32,17 +32,17 @@ links:
 
 *In the leadup to the November 9 announcement of the Booker Prize winner, I am ranking and reviewing each of the shortlisted novels. I am also pairing each novel with a classic. So far:*
 
-<b><u>6th Place</u></b> 
-**Contestant:** *The End of Everything* by M. John Harrison
-**My Review:** <a href="https://septimuscarr.com/posts/2026-10-25-imprecise-peculiarity-at-the-end-of-everything/" target="_blank">Imprecise Peculiarity and Painstaking Banality at \"The End of Everything\"</a>
-**Summary:**  I enjoyed Harrison’s indulgent weirdness at times, but I wondered why he seemed to conceal his freak flag while rambling on *ad nauseum* about modern suburban settings.
-**Classic Pairing:** *The Hitchhiker’s Guide to the Galaxy* by Douglas Adams
-**Why:** Tonally miles apart, but both create apocolyptic futures with aliens who flippantly offer replacements for our core hummanity.
- 
-<b><u>5th Place</u></b> 
-**Contestant:** *The Things We Never Say* by Elizabeth Strout
-**Classic Pairing:** *Middlemarch* by George Eliot
-**Why:** Both present their protagonists as everyday saints and use recent political events as backdrops. Both divided readers along generational lines.
+<b><u>6th Place</u></b><br>
+**Contestant:** *The End of Everything* by M. John Harrison<br>
+**My Review:** <a href="https://septimuscarr.com/posts/2026-10-25-imprecise-peculiarity-at-the-end-of-everything/" target="_blank">Imprecise Peculiarity and Painstaking Banality at \"The End of Everything\"</a><br>
+**Summary:**  I enjoyed Harrison’s indulgent weirdness at times, but I wondered why he seemed to conceal his freak flag while rambling on *ad nauseum* about modern suburban settings.<br>
+**Classic Pairing:** *The Hitchhiker’s Guide to the Galaxy* by Douglas Adams<br>
+**Why:** Tonally miles apart, but both create apocolyptic futures with aliens who flippantly offer replacements for our core hummanity.<br>
+
+<b><u>5th Place</u></b><br> 
+**Contestant:** *The Things We Never Say* by Elizabeth Strout<br>
+**Classic Pairing:** *Middlemarch* by George Eliot<br>
+**Why:** Both present their protagonists as everyday saints and use recent political events as backdrops. Both divided readers along generational lines.<br>
 
 *This is a substantial revision of a review that I published on August 23 under the title* \"Okay, Boomer, but should ‘Genocide’ be one of ‘The Things We Never Say’?: Addressing Gen Z complaints about Elizabeth Strout’s Booker Prize contender.\" *That essay’s title projected unintended generational antipathy. Its too-clever-by-half allusion to horrific human tragedy was in poor taste. And the essay itself was structured like a game of Jenga playing a game of Twister.*
 
@@ -52,7 +52,7 @@ links:
 
 ## The Rhythm of the Saints
 
-Youth often regards the wisdom of the saints with distrust, even outright scorn. Matriculants to Generation Z (born ‘97-2012) wield a hypersensitive bullshit detector tuned to wary tintinnabulation any time sainthood is bestowed upon a public figure. In their experience, such canonizations are usually closely followed by cancellations. That societal trauma explains some of the distrust many younger readers have about Elizabeth Strout’s Booker shortlisted novel *The Things We Never Say*, but it did not deter Strout’s earnest canonization of her hero, high school history teacher Artie Dam.  
+Youth often regards the wisdom of the saints with distrust, even outright scorn. Matriculants to Generation Z (born ‘97-2012) wield a hypersensitive bullshit detector tuned to wary tintinnabulation any time sainthood is bestowed upon a public figure. In their experience, such canonizations are usually closely followed by cancellations. That societal trauma explains some of the distrust many younger readers have about Elizabeth Strout’s Booker shortlisted novel *The Things We Never Say*, but it did not deter Strout’s earnest canonization of her hero, high school history teacher Artie Dam.
 
 >Evie spoke afterward of Artie always in terms of his being a saint. He was a saint, she said this again and again as she lived the rest of her life, never marrying again. An absolute saint, she said.
 <cite>Elizabeth Strout, <em>The Things We Never Say</em></cite>.
