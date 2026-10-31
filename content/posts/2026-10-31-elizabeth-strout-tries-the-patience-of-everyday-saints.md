@@ -9,7 +9,7 @@ authors: ["Elizabeth Strout"]
 image: "/img/things-we-never-say-booker-5.png"
 imageFit: ""
 imageMobile: "/img/things-we-never-say-booker-5.png"
-imagePosition: "Bottom"
+imagePosition: "Center"
 imageAlt: "The Statue of Liberty is overtaken by clouds"
 photoCredit: 'Photo by ID <a href="https://www.dreamstime.com/stock-photos-new-york-usa-image6800523">6800523</a> @ <a href="https://www.dreamstime.com/jokerproproduction_info">Jokerproproduction</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>' 
 book:
