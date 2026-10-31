@@ -34,11 +34,23 @@ links:
 
 <div class="gloss"><b>I received an advance copy of <em>The End of Everything</em> from Penguin Random House via NetGalley.</b></div>
 
-From now until the Booker Prize winner is announced on November 9, Septimus Carr will be counting down the Booker shortlist in ascending order of preference. My preference, that is, not that of the Booker Prize Judging Panel. I’m offering my hot takes, not predictions. 
+*In the leadup to the November 9 announcement of the Booker Prize winner, I am ranking and reviewing each of the shortlisted novels. I am also pairing each novel with a classic. So far:*
 
-In this case, however, the two would be the same. My vote for last place among the six shortlisted novels is M. John Harrison’s *The End of Everything*, and I can’t imagine readers of the caliber of the Booker voters (a hodgepodge of publishers, authors, and artists of other stripes) failing to notice a precipitous drop in quality from any conceivable fifth place finisher and Harrison’s entry. I recognize that some readers enjoy it, but in this company it is slight (206 pages), controversial (at 2.86 as of this writing, it has the lowest Goodreads score even of the longlist), and far more likely to be described as experimental than successful.
+<b><u>6th Place</u></b><br>
+**Contestant:** *The End of Everything* by M. John Harrison<br>
+**My Review:** <a href="https://septimuscarr.com/posts/2026-10-25-imprecise-peculiarity-at-the-end-of-everything/" target="_blank">Imprecise Peculiarity and Painstaking Banality at \"The End of Everything\"</a><br>
+**Summary:**  I enjoyed Harrison’s indulgent weirdness at times, but I wondered why he seemed to conceal his freak flag while rambling on *ad nauseum* about modern suburban settings.<br>
+**Classic Pairing:** *The Hitchhiker’s Guide to the Galaxy* by Douglas Adams<br>
+**Why:** Tonally miles apart, but both create apocolyptic futures with aliens who flippantly offer replacements for our core hummanity.<br>
 
-Just for fun, I will compare each Booker novel, at least in passing, to a classic work of literature with which it has something in common. Today’s "classic" may not meet every use of that word, but it unmistakably lives up to Merriam-Webster’s top definition: "Serving as a standard of excellence: of recognized value." The book is Douglas Adams’s 1979 comic sci-fi masterpiece, *The Hitchhiker’s Guide to the Galaxy*. 
+<b><u>5th Place</u></b><br> 
+**Contestant:** *The Things We Never Say* by Elizabeth Strout<br>
+**Classic Pairing:** *Middlemarch* by George Eliot<br>
+**Why:** Both present their protagonists as everyday saints and use recent political events as backdrops. Both divided readers along generational lines.<br>
+
+*My vote for last place among the six shortlisted novels is M. John Harrison’s *The End of Everything*, and I can’t imagine readers of the caliber of the Booker voters (a hodgepodge of publishers, authors, and artists of other stripes) failing to notice a precipitous drop in quality from any conceivable fifth place finisher and Harrison’s entry. I recognize that some readers enjoy it, but in this company it is slight (206 pages), controversial (at 2.86 as of this writing, it has the lowest Goodreads score even of the longlist), and far more likely to be described as experimental than successful*
+
+*Just for fun, I am comparing each Booker novel, at least in passing, to a classic work of literature with which it has something in common. Today’s "classic" may not meet every use of that word, but it unmistakably lives up to Merriam-Webster’s top definition: "Serving as a standard of excellence: of recognized value." The book is Douglas Adams’s 1979 comic sci-fi masterpiece, *The Hitchhiker’s Guide to the Galaxy*.*
 
 ## Ankle-biting Science Fiction
 
