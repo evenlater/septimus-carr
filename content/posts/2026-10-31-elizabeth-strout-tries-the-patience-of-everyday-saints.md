@@ -46,7 +46,7 @@ links:
 
 *This is a substantial revision of a review that I published on August 23 under the title* \"Okay, Boomer, but should ‘Genocide’ be one of ‘The Things We Never Say’?: Addressing Gen Z complaints about Elizabeth Strout’s Booker Prize contender.\" *That essay’s title projected unintended generational antipathy. Its too-clever-by-half allusion to horrific human tragedy was in poor taste. And the essay itself was structured like a game of Jenga playing a game of Twister.*
 
-*The Booker Countdown gives me a welcome mulligan on that review. If you remember its predecesor, I encourage you not to. I hear hitting oneself in the head with a rock is a good way to bring on a welcome case of amnesia, but in this case it seems like a better way to flaggon oneself for an uncharacteristically bad essay. So pull up a comfy chair, *pretend* you have amnesia, and we never spoke of this at all.*
+*The Booker Countdown gives me a welcome mulligan on that review. If you remember its predecesor, I encourage you not to. I hear hitting oneself in the head with a rock is a good way to bring on a welcome case of amnesia, but in this case it seems like a better way to flagellate oneself for an uncharacteristically bad essay. So pull up a comfy chair, *pretend* you have amnesia, and we never spoke of this at all.*
 
 *What August 23 essay?*
 
