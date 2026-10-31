@@ -6,9 +6,9 @@ date: 2026-10-25
 draft: false
 categories: ["Fiction","Booker"]
 authors: ["M. John Harrison"]
-image: "/img/end-of-everything-kent.png"
-imageMobile: "/img/end-of-everything-kent.png"
-imageHero: "/img/end-of-everything-kent.png"
+image: "/img/end-of-everything-kent-6.png"
+imageMobile: "/img/end-of-everything-kent-6.png"
+imageHero: "/img/end-of-everything-kent-6.png"
 imageFit: ""
 imagePosition: "Center"
 imageAlt: "Sunset off Whitstable wind farm off the coast of Kent, England"

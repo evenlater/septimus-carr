@@ -2,7 +2,7 @@
 title: "\"Okay, Boomer, but should ‘Genocide’ be one of ‘The Things We Never Say’?\"" 
 subtitle: "Addressing Gen Z complaints about Elizabeth Strout’s Booker Prize contender"
 date: 2026-08-23
-draft: false
+draft: true
 categories: ["Fiction","Booker"]
 authors: ["Elizabeth Strout"]
 image: "/img/the-things-we-never-say.png"
