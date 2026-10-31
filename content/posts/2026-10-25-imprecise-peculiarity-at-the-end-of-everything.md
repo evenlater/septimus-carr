@@ -10,7 +10,7 @@ image: "/img/end-of-everything-kent-6.png"
 imageMobile: "/img/end-of-everything-kent-6.png"
 imageHero: "/img/end-of-everything-kent-6.png"
 imageFit: ""
-imagePosition: "Center"
+imagePosition: "Top"
 imageAlt: "Sunset off Whitstable wind farm off the coast of Kent, England"
 photoCredit: 'Sunset off Whitstable wind farm off the coast of Kent, England. ID <a href="https://www.dreamstime.com/kentish-flats-offshore-wind-farm-located-off-coast-kent-england-large-flat-shallow-plateau-just-outside-main-image126080901">126080901</a> | <a href="https://www.dreamstime.com/photos-images/coast-kent.html">Coast Of Kent</a> Copyright 
 <a href="https://www.dreamstime.com/iainhamer_info">Iainhamer</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>'
