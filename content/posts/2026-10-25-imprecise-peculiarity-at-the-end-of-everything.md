@@ -5,7 +5,7 @@ subtitle: "Plus: Why M. John Harrison’s shortlisted novel reminded me of Dougl
 date: 2026-10-25
 draft: false
 categories: ["Fiction","Booker"]
-authors: ["M. John Harrison"]
+authors: ["M. John Harrison","Douglas Adams"]
 image: "/img/end-of-everything-kent-6.png"
 imageMobile: "/img/end-of-everything-kent-6.png"
 imageHero: "/img/end-of-everything-kent-6.png"

@@ -5,7 +5,7 @@ subtitle: "To many in Gen Z, \"The Things We Never Say\" is unforgivably centris
 date: 2026-10-31
 draft: false
 categories: ["Fiction","Booker","Multi","Classics"]
-authors: ["Elizabeth Strout"]
+authors: ["Elizabeth Strout","George Eliot"]
 image: "/img/things-we-never-say-booker-5.png"
 imageFit: ""
 imageMobile: "/img/things-we-never-say-booker-5.png"
