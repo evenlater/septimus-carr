@@ -32,17 +32,19 @@ links:
 
 *In the leadup to the November 9 announcement of the Booker Prize winner, I am ranking and reviewing each of the shortlisted novels. I am also pairing each novel with a classic. So far:*
 
-<b><u>6th Place</u></b><br>
-**Contestant:** *The End of Everything* by M. John Harrison<br>
-**My Review:** <a href="https://septimuscarr.com/posts/2026-10-25-imprecise-peculiarity-at-the-end-of-everything/" target="_blank">Imprecise Peculiarity and Painstaking Banality at \"The End of Everything\"</a><br>
-**Summary:**  I enjoyed Harrison’s indulgent weirdness at times, but I wondered why he seemed to conceal his freak flag while rambling on *ad nauseum* about modern suburban settings.<br>
-**Classic Pairing:** *The Hitchhiker’s Guide to the Galaxy* by Douglas Adams<br>
-**Why:** Tonally miles apart, but both create apocalyptic futures with aliens who flippantly offer replacements for our core humanity.<br>
-
-<b><u>5th Place</u></b><br> 
-**Contestant:** *The Things We Never Say* by Elizabeth Strout<br>
-**Classic Pairing:** *Middlemarch* by George Eliot<br>
-**Why:** Both present their protagonists as everyday saints and use recent political events as backdrops. Both divided readers along generational lines.<br>
+<table>
+<thhead><B>Booker Countdown 2026</thead>
+<tr><th><ul><<b><u>6th Place</u></b></th></tr>
+<tr><td>**Contestant:**</td><td>*The End of Everything* by M. John Harrison</td></tr>
+<tr><td>**My Review:**</td><td><a href="https://septimuscarr.com/posts/2026-10-25-imprecise-peculiarity-at-the-end-of-everything/" target="_blank">Imprecise Peculiarity and Painstaking Banality at \"The End of Everything\"</a></td></tr>
+<tr><td>**Summary:**</td><td>I enjoyed Harrison’s indulgent weirdness at times, but I wondered why he seemed to conceal his freak flag while rambling on *ad nauseum* about modern suburban settings.</td></tr>
+<tr><td>**Classic Pairing:**</td><td>*The Hitchhiker’s Guide to the Galaxy* by Douglas Adams</td></tr>
+<tr><td>**Why:**</td><td>Tonally miles apart, but both create apocalyptic futures with aliens who flippantly offer replacements for our core humanity.</td></tr>
+<tr><th><ul><<b><u>5th Place</u></b></th></tr>
+<tr><td>**Contestant:**</td><td>*The Things We Never Say* by Elizabeth Strout</td></tr>
+<tr><td>**Classic Pairing:**</td><td>*Middlemarch* by George Eliot</td></tr>
+<tr><td>**Why:**</td><td>Both present their protagonists as everyday saints and use recent political events as backdrops. Both divided readers along generational lines.</td></tr>
+</table>
 
 *This is a substantial revision of a review that I published on August 23 under the title* \"Okay, Boomer, but should ‘Genocide’ be one of ‘The Things We Never Say’?: Addressing Gen Z complaints about Elizabeth Strout’s Booker Prize contender.\" *That essay’s title projected unintended generational antipathy. Its too-clever-by-half allusion to horrific human tragedy was in poor taste. And the essay itself was structured like a game of Jenga playing a game of Twister. The Booker Countdown gives me a welcome mulligan on that review. So pull up a comfy chair, pretend you have amnesia, and we never spoke of this.*
 
