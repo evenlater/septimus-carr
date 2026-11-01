@@ -33,14 +33,14 @@ links:
 *In the leadup to the November 9 announcement of the Booker Prize winner, I am ranking and reviewing each of the shortlisted novels. I am also pairing each novel with a classic. So far:*
 
 <table>
-<thhead><B>Booker Countdown 2026</thead>
-<tr><th><<b><u>6th Place</u></b></th></tr>
+<thhead><b>Booker Countdown 2026</b></thead>
+<tr><th><b><u>6th Place</u></b></th></tr>
 <tr><td><b>Contestant:</b></td><td>*The End of Everything* by M. John Harrison</td></tr>
 <tr><td><b>My Review:</b></td><td><a href="https://septimuscarr.com/posts/2026-10-25-imprecise-peculiarity-at-the-end-of-everything/" target="_blank">Imprecise Peculiarity and Painstaking Banality at \"The End of Everything\"</a></td></tr>
 <tr><td><b>Summary:</b></td><td>I enjoyed Harrison’s indulgent weirdness at times, but I wondered why he seemed to conceal his freak flag while rambling on *ad nauseum* about modern suburban settings.</td></tr>
 <tr><td><b>Classic Pairing:</b></td><td>*The Hitchhiker’s Guide to the Galaxy* by Douglas Adams</td></tr>
 <tr><td><b>Why:</b></td><td>Tonally miles apart, but both create apocalyptic futures with aliens who flippantly offer replacements for our core humanity.</td></tr>
-<tr><th><<b><u>5th Place</u></b></th></tr>
+<tr><th><b><u>5th Place</u></b></th></tr>
 <tr><td><b>Contestant:</b></td><td>*The Things We Never Say* by Elizabeth Strout</td></tr>
 <tr><td><b>Classic Pairing:</b></td><td>*Middlemarch* by George Eliot</td></tr>
 <tr><td><b>Why:</b></td><td>Both present their protagonists as everyday saints and use recent political events as backdrops. Both divided readers along generational lines.</td></tr>
