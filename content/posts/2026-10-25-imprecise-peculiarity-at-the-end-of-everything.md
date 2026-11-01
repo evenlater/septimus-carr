@@ -38,13 +38,13 @@ links:
 
 <b><u>6th Place</u></b><br>
 **Contestant:** *The End of Everything* by M. John Harrison<br>
-**My Review:** <a href="https://septimuscarr.com/posts/2026-10-25-imprecise-peculiarity-at-the-end-of-everything/" target="_blank">Imprecise Peculiarity and Painstaking Banality at \"The End of Everything\"</a><br>
-**Summary:**  I enjoyed Harrison’s indulgent weirdness at times, but I wondered why he seemed to conceal his freak flag while rambling on *ad nauseum* about modern suburban settings.<br>
 **Classic Pairing:** *The Hitchhiker’s Guide to the Galaxy* by Douglas Adams<br>
-**Why:** Tonally miles apart, but both create apocolyptic futures with aliens who flippantly offer replacements for our core hummanity.<br>
+**Why:** Tonally miles apart, but both create apocalyptic futures with aliens who flippantly offer replacements for our core humanity.<br>
 
 <b><u>5th Place</u></b><br> 
 **Contestant:** *The Things We Never Say* by Elizabeth Strout<br>
+**Review:** https://septimuscarr.com/posts/2026-10-31-elizabeth-strout-tries-the-patience-of-everyday-saints/ 
+**Summary:** *The Things We Never Say* is bold in its politics and mild in its artistic ambition.
 **Classic Pairing:** *Middlemarch* by George Eliot<br>
 **Why:** Both present their protagonists as everyday saints and use recent political events as backdrops. Both divided readers along generational lines.<br>
 
