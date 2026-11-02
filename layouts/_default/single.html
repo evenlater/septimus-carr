@@ -227,14 +227,30 @@
   var bar    = document.getElementById('progressBar');
   var body   = document.getElementById('articleBody');
   if (!sticky || !bar || !body) return;
-  window.addEventListener('scroll', function(){
-    var y   = window.scrollY;
-    sticky.classList.toggle('show', y > 320);
-    var top = body.offsetTop;
-    var h   = body.offsetHeight;
-    var vh  = window.innerHeight;
-    bar.style.width = Math.min(100, Math.max(0, (y - top + vh * .5) / h * 100)) + '%';
-  });
+  function update(){
+    var y = window.pageYOffset || document.documentElement.scrollTop || 0;
+    var shouldShow = y > 320;
+    if (sticky.classList.contains('show') !== shouldShow) {
+      sticky.classList.toggle('show', shouldShow);
+    }
+    // Measure against the viewport instead of body.offsetTop, which is
+    // relative to the nearest positioned ancestor and not the page.
+    var rect = body.getBoundingClientRect();
+    var vh   = window.innerHeight || document.documentElement.clientHeight;
+    var pct  = rect.height ? (vh * .5 - rect.top) / rect.height * 100 : 0;
+    bar.style.width = Math.min(100, Math.max(0, pct)) + '%';
+  }
+  // Mobile browsers can skip or delay 'scroll' during touch/momentum
+  // scrolling, so also listen for touch events and re-check on
+  // resize, load and back/forward-cache restores.
+  var opts = { passive: true };
+  window.addEventListener('scroll', update, opts);
+  window.addEventListener('touchmove', update, opts);
+  window.addEventListener('touchend', update, opts);
+  window.addEventListener('resize', update);
+  window.addEventListener('load', update);
+  window.addEventListener('pageshow', update);
+  update();
 })();
 </script>
 {{ end }}

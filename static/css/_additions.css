@@ -461,6 +461,21 @@
 /* ── Sticky reading bar: logo now links back to the homepage ── */
 .sticky-logo-link { display: flex; align-items: center; flex-shrink: 0; }
 
+/* ── Mobile: keep the reading bar and footer inside the screen ──
+   The footer link row had no phone layout, which made every page
+   ~680px wide on a phone, and the bar's title couldn't shrink, so
+   the bar was wider than the screen too. A page wider than the
+   screen makes mobile browsers misplace position:fixed elements. ── */
+@media (max-width: 640px) {
+  .sticky       { padding: 8px 16px; gap: 12px; }
+  .sticky-logo  { width: 64px; }
+  .sticky-title { font-size: 14px; }
+  .sticky-back  { font-size: 9px; letter-spacing: .1em; }
+
+  .sc-foot { flex-direction: column; align-items: flex-start; gap: 14px; padding: 20px 24px; }
+  .flinks  { flex-wrap: wrap; gap: 10px 18px; }
+}
+
 /* ── Homepage feature: cover image and title are now clickable
    links to the essay, not just the "Read Essay" button ── */
 .fi-wrap, .ft-title-link { display: block; text-decoration: none; color: inherit; }
