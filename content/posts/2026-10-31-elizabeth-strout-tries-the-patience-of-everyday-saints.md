@@ -36,7 +36,7 @@ links:
 <thhead><b>Booker Countdown 2026</b></thead>
 <tr><th><b><u>6th Place</u></b></th></tr>
 <tr><td><b>Contestant:</b></td><td><i>The End of Everything</i> by M. John Harrison</td></tr>
-<tr><td><b>My Review:</b></td><td><a href="https://septimuscarr.com/posts/2026-10-25-imprecise-peculiarity-at-the-end-of-everything/" target="_blank">Imprecise Peculiarity and Painstaking Banality at "The End of Everything"</a></td></tr>
+<tr><td><b>My Review:</b></td><td><a href="https://septimuscarr.com/posts/2026-10-25-imprecise-peculiarity-at-the-end-of-everything/" target="_blank">Imprecise Peculiarity and Painstaking Banality at The End of Everything</a></td></tr>
 <tr><td><b>Summary:</b></td><td>I enjoyed Harrison’s indulgent weirdness at times, but I wondered why he seemed to conceal his freak flag while rambling on *ad nauseum* about modern suburban settings.</td></tr>
 <tr><td><b>Classic Pairing:</b></td><td><i>The Hitchhiker’s Guide to the Galaxy</i> by Douglas Adams</td></tr>
 <tr><td><b>Why:</b></td><td>Tonally miles apart, but both create apocalyptic futures with aliens who flippantly offer replacements for our core humanity.</td></tr>
