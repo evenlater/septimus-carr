@@ -200,17 +200,23 @@ body {
 /* ── Sticky reading bar ───────────────────────────────────── */
 .sticky { position: fixed; top: 0; left: 0; right: 0; z-index: 200; background: #2A0E38;
           padding: 9px 48px; display: flex; align-items: center; gap: 20px;
-          transform: translateY(-100%); transition: transform .3s ease;
-          border-bottom: 1px solid rgba(255,255,255,.08); }
-.sticky.show    { transform: translateY(0); }
+          box-sizing: border-box; max-width: 100%;
+          -webkit-transform: translate3d(0,-100%,0); transform: translate3d(0,-100%,0);
+          transition: transform .3s ease; will-change: transform;
+          -webkit-backface-visibility: hidden; backface-visibility: hidden; }
+.sticky.show    { -webkit-transform: translate3d(0,0,0); transform: translate3d(0,0,0); }
+/* Track: a dim gold rail along the bottom edge so the bar reads as
+   "a line from 0 to 100%", with the bright gold fill running along it. */
+.sticky::before { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 3px;
+                  background: rgba(196,160,85,.3); }
 .sticky-logo    { width: 90px; height: auto; mix-blend-mode: screen; flex-shrink: 0; }
 .sticky-title   { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic;
-                  font-size: 15px; color: #D8D0EC; flex: 1; white-space: nowrap;
+                  font-size: 15px; color: #D8D0EC; flex: 1; min-width: 0; white-space: nowrap;
                   overflow: hidden; text-overflow: ellipsis; }
 .sticky-back    { font-size: 10px; letter-spacing: .16em; text-transform: uppercase; color: #B0A8CC;
                   text-decoration: none; flex-shrink: 0; transition: color .2s; }
 .sticky-back:hover { color: #EAE4F4; }
-.progress-bar   { position: absolute; bottom: 0; left: 0; height: 2px;
+.progress-bar   { position: absolute; bottom: 0; left: 0; height: 3px;
                   background: #C4A055; width: 0%; transition: width .08s linear; }
 
 /* ── Article: cover image ─────────────────────────────────── */
