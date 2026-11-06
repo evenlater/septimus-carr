@@ -24,28 +24,50 @@ book:
   isbn2: "9780192547538"
   cover2: "/img/middlemarch-cover.jpg"
 links:
-  substack: ""
+  medium: "https://medium.com/the-howling-owl/elizabeth-strout-tries-the-patience-of-everyday-saints-e41a2299cd5c"
+  substack: "https://septimuscarr.substack.com/p/booker-prize-countdown-fifth-place"
   goodreads: "https://www.goodreads.com/review/show/8880098536"
-  reddit: ""
-  medium: ""  
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1xl43xo/booker_countdown_5th_place_elizabeth_strouts_the/" 
+readDates:
+   start: "2026-08-20"
+   end: "2026-08-21"
+readDates2:
+   start: "2023-09-02"
+   end: "2023-12-28"
 ---
 
 *In the leadup to the November 9 announcement of the Booker Prize winner, I am ranking and reviewing each of the shortlisted novels. I am also pairing each novel with a classic. So far:*
 
-<table>
-<thhead><b>Booker Countdown 2026</b></thead>
-<tr><th><b><u>6th Place</u></b></th></tr>
-<tr><td><b>Contestant:</b></td><td><i>The End of Everything</i> by M. John Harrison</td></tr>
-<tr><td><b>My Review:</b></td><td><a href="https://septimuscarr.com/posts/2026-10-25-imprecise-peculiarity-at-the-end-of-everything/" target="_blank">Imprecise Peculiarity and Painstaking Banality at The End of Everything</a></td></tr>
-<tr><td><b>Summary:</b></td><td>I enjoyed Harrison’s indulgent weirdness at times, but I wondered why he seemed to conceal his freak flag while rambling on *ad nauseum* about modern suburban settings.</td></tr>
-<tr><td><b>Classic Pairing:</b></td><td><i>The Hitchhiker’s Guide to the Galaxy</i> by Douglas Adams</td></tr>
-<tr><td><b>Why:</b></td><td>Tonally miles apart, but both create apocalyptic futures with aliens who flippantly offer replacements for our core humanity.</td></tr>
-<tr><th><b><u>5th Place</u></b></th></tr>
-<tr><td><b>Contestant:</b></td><td><i>The Things We Never Say</i> by Elizabeth Strout</td></tr>
-<tr><td><b>Classic Pairing:</b></td><td><i>Middlemarch</i> by George Eliot</td></tr>
-<tr><td><b>Why:</b></td><td>Both present their protagonists as everyday saints and use recent political events as backdrops. Both divided readers along generational lines.</td></tr>
-</table>
+<table class="booker-countdown">
+  <caption>Booker Countdown 2026</caption>
 
+  <tbody>
+    <tr><th colspan="2" scope="colgroup">6th Place</th></tr>
+    <tr><th scope="row">Contestant</th><td><i>The End of Everything</i> by M. John Harrison</td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-10-25-imprecise-peculiarity-at-the-end-of-everything/" target="_blank" rel="noopener">Imprecise Peculiarity and Painstaking Banality at The End of Everything</a></td></tr>
+    <tr><th scope="row">Summary</th><td>I enjoyed Harrison’s indulgent weirdness at times, but I wondered why he seemed to conceal his freak flag while rambling on <i>ad nauseum</i> about modern suburban settings.</td></tr>
+    <tr><th scope="row">Classic Pairing</th><td><i>The Hitchhiker’s Guide to the Galaxy</i> by Douglas Adams</td></tr>
+    <tr><th scope="row">Why</th><td>Tonally miles apart, but both create apocalyptic futures with aliens who flippantly offer replacements for our core humanity.</td></tr>
+  </tbody>
+
+  <tbody>
+    <tr><th colspan="2" scope="colgroup">5th Place</th></tr>
+    <tr><th scope="row">Contestant</th><td><i>The Things We Never Say</i> by Elizabeth Strout</td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-10-31-elizabeth-strout-tries-the-patience-of-everyday-saints/" target="_blank" rel="noopener">Elizabeth Strout Tries the Patience of a Saint</a></td></tr>
+    <tr><th scope="row">Summary</th><td>Bold in its politics but mild in its artistic ambition.</td></tr>
+    <tr><th scope="row">Classic Pairing</th><td><i>Middlemarch</i> by George Eliot</td></tr>
+    <tr><th scope="row">Why</th><td>Both present their protagonists as everyday saints and use recent political events as backdrops. Both divided readers along generational lines.</td></tr>
+  </tbody>
+
+  <tbody>
+    <tr><th colspan="2" scope="colgroup">4th Place</th></tr>
+    <tr><th scope="row">Contestant</th><td><i>Black Bag</i> by Luke Kennard</td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-06-black-bag.md" target="_blank" rel="noopener">Elizabeth Strout Tries the Patience of a Saint</a></td></tr>
+    <tr><th scope="row">Summary</th><td>Every hilarious page serves its narrative throughline about bifurcated straight male identity.</td></tr>
+    <tr><th scope="row">Classic Pairing</th><td><i>The Double</i> by Fyodor Dostoevsky</td></tr>
+    <tr><th scope="row">Why</th><td>Kennard’s story begins to realize its surreal potential when Black Bag chases down his Double. The authors both cozy the reader with familiarity before things get weird.</td></tr>
+  </tbody>
+</table>
 
 This is a substantial revision of a review that I published on August 23 under the title "Okay, Boomer, but should ‘Genocide’ be one of ‘The Things We Never Say’?: Addressing Gen Z complaints about Elizabeth Strout’s Booker Prize contender." That essay’s title projected unintended generational antipathy. Its too-clever-by-half allusion to horrific human tragedy was in poor taste. And the essay itself was structured like a game of Jenga playing a game of Twister. The Booker Countdown gives me a welcome mulligan on that review. So pull up a comfy chair, pretend you have amnesia, and we never spoke of this.
 

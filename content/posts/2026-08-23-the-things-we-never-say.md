@@ -18,6 +18,7 @@ book:
   cover: "/img/the-things-we-never-say-cover.jpg"
 links:
   substack: "https://septimuscarr.substack.com/p/okay-boomer-but-should-genocide-be?r=2ry7vb&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+  medium: "https://medium.com/the-howling-owl/elizabeth-strout-tries-the-patience-of-everyday-saints-e41a2299cd5c"
   goodreads: "https://www.goodreads.com/review/show/8880098536"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1vyhb4c/okay_boomer_but_should_genocide_be_one_of_the/"
 readDates:

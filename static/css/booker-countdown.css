@@ -1,0 +1,77 @@
+<style>
+.booker-countdown {
+  --bc-ink: #2a2622;
+  --bc-muted: #7a7168;
+  --bc-accent: #8c2f39;
+  --bc-rule: #d9d1c5;
+  --bc-band: #f6f1e8;
+  width: 100%;
+  max-width: 720px;
+  margin: 2rem auto;
+  border-collapse: collapse;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--bc-ink);
+}
+@media (prefers-color-scheme: dark) {
+  .booker-countdown {
+    --bc-ink: #e8e2d8;
+    --bc-muted: #a39a8e;
+    --bc-accent: #d98a93;
+    --bc-rule: #3d3832;
+    --bc-band: #26221e;
+  }
+}
+.booker-countdown caption {
+  caption-side: top;
+  padding-bottom: 0.75rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: var(--bc-ink);
+}
+.booker-countdown tbody + tbody { border-top: 2rem solid transparent; }
+.booker-countdown thead th,
+.booker-countdown tbody th[colspan] {
+  padding: 0.6rem 1rem;
+  background: var(--bc-band);
+  border-top: 3px solid var(--bc-accent);
+  border-bottom: 1px solid var(--bc-rule);
+  text-align: left;
+  font-size: 0.85rem;
+  font-variant: small-caps;
+  letter-spacing: 0.12em;
+  text-transform: lowercase;
+  color: var(--bc-accent);
+}
+.booker-countdown tbody th[scope="row"] {
+  width: 9.5rem;
+  padding: 0.65rem 1rem;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--bc-muted);
+}
+.booker-countdown td {
+  padding: 0.65rem 1rem;
+  vertical-align: top;
+}
+.booker-countdown tbody tr + tr > * { border-top: 1px solid var(--bc-rule); }
+.booker-countdown tbody tr:nth-child(2) td { font-size: 1.08rem; }
+.booker-countdown a {
+  color: var(--bc-accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+.booker-countdown a:hover { text-decoration-thickness: 2px; }
+
+@media (max-width: 520px) {
+  .booker-countdown tbody th[scope="row"],
+  .booker-countdown td { display: block; width: auto; }
+  .booker-countdown tbody th[scope="row"] { padding-bottom: 0; border-top: 1px solid var(--bc-rule); }
+  .booker-countdown td { padding-top: 0.1rem; border-top: 0 !important; }
+}
+</style>

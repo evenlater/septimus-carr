@@ -36,17 +36,36 @@ links:
 
 *In the leadup to the November 9 announcement of the Booker Prize winner, I am ranking and reviewing each of the shortlisted novels. I am also pairing each novel with a classic. So far:*
 
-<b><u>6th Place</u></b><br>
-**Contestant:** *The End of Everything* by M. John Harrison<br>
-**Classic Pairing:** *The Hitchhiker’s Guide to the Galaxy* by Douglas Adams<br>
-**Why:** Tonally miles apart, but both create apocalyptic futures with aliens who flippantly offer replacements for our core humanity.<br>
+<table class="booker-countdown">
+  <caption>Booker Countdown 2026</caption>
 
-<b><u>5th Place</u></b><br> 
-**Contestant:** *The Things We Never Say* by Elizabeth Strout<br>
-**Review:** https://septimuscarr.com/posts/2026-10-31-elizabeth-strout-tries-the-patience-of-everyday-saints/ 
-**Summary:** *The Things We Never Say* is bold in its politics and mild in its artistic ambition.
-**Classic Pairing:** *Middlemarch* by George Eliot<br>
-**Why:** Both present their protagonists as everyday saints and use recent political events as backdrops. Both divided readers along generational lines.<br>
+  <tbody>
+    <tr><th colspan="2" scope="colgroup">6th Place</th></tr>
+    <tr><th scope="row">Contestant</th><td><i>The End of Everything</i> by M. John Harrison</td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-10-25-imprecise-peculiarity-at-the-end-of-everything/" target="_blank" rel="noopener">Imprecise Peculiarity and Painstaking Banality at The End of Everything</a></td></tr>
+    <tr><th scope="row">Summary</th><td>I enjoyed Harrison’s indulgent weirdness at times, but I wondered why he seemed to conceal his freak flag while rambling on <i>ad nauseum</i> about modern suburban settings.</td></tr>
+    <tr><th scope="row">Classic Pairing</th><td><i>The Hitchhiker’s Guide to the Galaxy</i> by Douglas Adams</td></tr>
+    <tr><th scope="row">Why</th><td>Tonally miles apart, but both create apocalyptic futures with aliens who flippantly offer replacements for our core humanity.</td></tr>
+  </tbody>
+
+  <tbody>
+    <tr><th colspan="2" scope="colgroup">5th Place</th></tr>
+    <tr><th scope="row">Contestant</th><td><i>The Things We Never Say</i> by Elizabeth Strout</td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-10-31-elizabeth-strout-tries-the-patience-of-everyday-saints/" target="_blank" rel="noopener">Elizabeth Strout Tries the Patience of a Saint</a></td></tr>
+    <tr><th scope="row">Summary</th><td>Bold in its politics but mild in its artistic ambition.</td></tr>
+    <tr><th scope="row">Classic Pairing</th><td><i>Middlemarch</i> by George Eliot</td></tr>
+    <tr><th scope="row">Why</th><td>Both present their protagonists as everyday saints and use recent political events as backdrops. Both divided readers along generational lines.</td></tr>
+  </tbody>
+
+  <tbody>
+    <tr><th colspan="2" scope="colgroup">4th Place</th></tr>
+    <tr><th scope="row">Contestant</th><td><i>Black Bag</i> by Luke Kennard</td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-06-black-bag.md" target="_blank" rel="noopener">Elizabeth Strout Tries the Patience of a Saint</a></td></tr>
+    <tr><th scope="row">Summary</th><td>Every hilarious page serves its narrative throughline about bifurcated straight male identity.</td></tr>
+    <tr><th scope="row">Classic Pairing</th><td><i>The Double</i> by Fyodor Dostoevsky</td></tr>
+    <tr><th scope="row">Why</th><td>Kennard’s story begins to realize its surreal potential when Black Bag chases down his Double. The authors both cozy the reader with familiarity before things get weird.</td></tr>
+  </tbody>
+</table>
 
 *My vote for last place among the six shortlisted novels is M. John Harrison’s *The End of Everything*, and I can’t imagine readers of the caliber of the Booker voters (a hodgepodge of publishers, authors, and artists of other stripes) failing to notice a precipitous drop in quality from any conceivable fifth place finisher and Harrison’s entry. I recognize that some readers enjoy it, but in this company it is slight (206 pages), controversial (at 2.86 as of this writing, it has the lowest Goodreads score even of the longlist), and far more likely to be described as experimental than successful*
 
