@@ -71,7 +71,7 @@ readDates2:
    <tbody>
     <tr><th colspan="2" scope="colgroup">3rd Place</th></tr>
     <tr><th scope="row">Contestant</th><td><i>May We Feed the King</i> by Rebecca Perry</td></tr>
-    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-07-may-we-feed-the-king.md/" target="_blank" rel="noopener"></a></td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-07-may-we-feed-the-king.md/" target="_blank" rel="noopener">The Poet as Novelist and the Poet as Historian in May We Feed the King</a></td></tr>
     <tr><th scope="row">Summary</th><td></td></tr>
     <tr><th scope="row">Classic Pairing</th><td><i>Memories of the Ford Administration</i> by John Updike</td></tr>
     <tr><th scope="row">Why</th><td></td></tr>
@@ -144,7 +144,7 @@ Meanwhile, Updike builds a convincing case that Buchanan’s early engagment to 
  
 ## The Arguments
 
-Perry is a newly minted novelist, which means that her prose has not been flattened by the need to resolve reality and generate authentic dialogue. As a novelist, Perry is a poet: She cares more for ornamented ambiguity than she does for realistic resolution. As a historian, Perry is also a poet. Her historiographic approach begins with accumulated data points and mounts into interpretation. In a general way that aligns her with no particular established theory, Perry’s approach is as bottom-up as that of Howard Zinn, the revered author of <i>The People’s History’</i>. Her focus on the King’s attendant recalls Zinn’s preference for everyday accounts of history over those of Great Men. 
+Perry is a newly minted novelist, which means that her prose has not been flattened by the need to resolve reality and generate authentic dialogue. As a novelist, Perry is a poet: She cares more for ornamented ambiguity than she does for realistic resolution. As a historian, Perry is also a poet. Her historiographic approach begins with accumulated data points and mounts into interpretation. In a general way that aligns her with no particular established theory. In another, Perry’s approach is as bottom-up as that of Howard Zinn, the revered author of <i>The People’s History’</i>. Her focus on the King’s attendant recalls Zinn’s preference for everyday accounts of history over those of Great Men. 
 
 Updike neologizes the Zinn mystique as "New Thinking," and his narrator claims Frank supporters are plundering slave diaries instead of probing the beliefs of the marginalized. But his main objection to Mueller roots that character in the "Dark Art" of deconstruction, an art that Updike associates with lost faith and superficial politicization.   
 
@@ -153,4 +153,4 @@ Still, Perry is not afraid to espouse her own coherent historiographic philosoph
 >His great gift to us—or at least it has been a gift to me—is the very lack of an ending, that could drive a historian mad. What a great—pardon my language—”fuck you” to everyone who tries to manhandle ambiguity into order, to knock out the air. To the people that have since pinned him down so cruelly and unambiguously on this page.
 <cite>Rebecca Perry, <i>May We Feed the King</i></cite>
 
-Collect the data but leave the charts to your opponents.
+Collect the data and eventually the graph emerges, in poetic language illuminated by meaning the author need not explain further.
