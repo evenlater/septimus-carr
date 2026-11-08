@@ -146,7 +146,7 @@ Buchanan is the picture of Victorian respectability, even across the Atlantic fr
 
 Meanwhile, Updike builds a convincing case that Buchanan’s early fiancé Ann Coleman, who passed away shortly after sending him a haughty Dear John letter that condemned his friendships with other women, was the love of his life. As usual Clayton’s analysis is suspiciously self-serving. When the horny historian meets a young woman named Ann, we realize that he himself harbors a posthumous crush on James’s girl.   
  
-## The Arguments
+## The Verdicts
 
 Perry is a newly minted novelist, which means that her prose has not yet been flattened by diligent application of craft. She casually casts off the obligation of clean plot resolutions and authentic dialogue. There is genuinely an engaging freshness to her disregard for fiction’s baseline demands. Perry gets away with it for the most part because she is a gifted poet with T.S. Eliot Prize credentials. Her emphasis on ornamented ambiguity is charming, even substantive. Her language has a musicality and a pregnant expansion of meaning that give the chapters about the King vivid resonance. 
 
