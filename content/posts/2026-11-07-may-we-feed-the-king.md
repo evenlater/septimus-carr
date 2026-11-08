@@ -6,9 +6,9 @@ date: 2026-11-07
 draft: false
 categories: ["Fiction","Booker","Multi"]
 authors: ["Rebecca Perry","John Updike"]
-image: "/img/may-we-feed-3"
+image: "/img/may-we-feed-3.png"
 imageFit: ""
-imageMobile: "/img/may-we-feed-3"
+imageMobile: "/img/may-we-feed-3.png"
 imagePosition: "Center"
 imageAlt: "A medieval palace"
 photoCredit: 'Photo: ID <a href="https://www.dreamstime.com/stock-photo-eilean-donan-castle-sunset-dornie-kyle-lochalsh-scotland-united-kingdom-most-visited-situated-image57389296">57389296</a> @ <a href="https://www.dreamstime.com/bennymarty_info">Bennymarty</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a>' 
