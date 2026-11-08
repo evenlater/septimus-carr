@@ -101,12 +101,12 @@ The data points that comprise <i>May We Feed the King</i> are plotted in strikin
 The curator needs to choose a King for her exhibitions to focus on. She considers the most reviled King, known as the "Apple King" because he lobbed fruit at his opponents. Instead, she chooses another problematic King, one with a legacy that is at once more complex and equally unpopular in his own time.
 
 <blockquote>Elsewhere, in the dark of corridors and in the shade of the gardens, whispers begin to circulate thus:<br>
-<p style="text-indent: 40px;"><i>The King is seeking to absolve himself of his duties.</i>:<br>
-<p style="text-indent: 60px;"><i>He makes inquiries to people who owe him no loyalty. Idiot man.</i><br>
-<p style="text-indent: 40px;"><i>No doubt he has designs to make off in plain sight, to great fanfare, on a horse decked in gold cloth.</i><br> 
-<i>No doubt he thinks he can get away with anything.</i><br>
-<i>By what authority? By what authority does he believe he may refuse the throne?</i>
-<cite>Rebecca Perry, <i>May We Feed the King</i></cite></blockquote>
+<p style="text-indent: 40px;">The King is seeking to absolve himself of his duties.<br>
+<p style="text-indent: 60px;">He makes inquiries to people who owe him no loyalty. Idiot man.<br>
+<p style="text-indent: 40px;">No doubt he has designs to make off in plain sight, to great fanfare, on a horse decked in gold cloth.<br> 
+No doubt he thinks he can get away with anything.<br>
+By what authority? By what authority does he believe he may refuse the throne?
+<cite>Rebecca Perry, <em>May We Feed the King</em></cite></blockquote>
 
 The King’s advisors murmur dissension. Rebel forces cluster on the horizon. Perry resists the temptation to issue statements of authorial approval or condemnation of her iconoclastic monarch, but her portrayal is endowed with implicit compassion, even admiration for the very eccentricity that threatens his regime. The King is ambivalent about his power. He would rather be tolerant than dominant, honest than safe. He becomes increasingly impatient with obligation to conceal his taste for carnal comforts. Although he ultimately leans on the priviledge of exalted position, he does so to preserve ordinary autonomy, not priviledge for its own sake. That may not be the hallmark of an exceptional leader, but it is the least we can ask of a human being.  
 
