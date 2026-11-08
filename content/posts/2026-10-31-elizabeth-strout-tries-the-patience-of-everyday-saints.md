@@ -67,6 +67,15 @@ readDates2:
     <tr><th scope="row">Classic Pairing</th><td><i>The Double</i> by Fyodor Dostoevsky</td></tr>
     <tr><th scope="row">Why</th><td>Kennard’s story begins to realize its surreal potential when Black Bag chases down his Double. The authors both cozy the reader with familiarity before things get weird.</td></tr>
   </tbody>
+
+   <tbody>
+    <tr><th colspan="2" scope="colgroup">3rd Place</th></tr>
+    <tr><th scope="row">Contestant</th><td><i>May We Feed the King</i> by Rebecca Perry</td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-07-may-we-feed-the-king.md/" target="_blank" rel="noopener">The Poet as Novelist and Historian in May We Feed the King</a></td></tr>
+    <tr><th scope="row">Summary</th><td>The first novel by an experienced poet has an evocative core but an uneven historiological frame.</td></tr>
+    <tr><th scope="row">Classic Pairing</th><td><i>Memories of the Ford Administration</i> by John Updike</td></tr>
+    <tr><th scope="row">Why</th><td>The parallels between Perry’s hated monarch and Updike’s reconstruction of James Buchanan, by consensus the worst president in U.S. history, illuminate <em>May We Feed the King</em> in numerous ways.</td></tr>
+  </tbody>
 </table>
 
 This is a substantial revision of a review that I published on August 23 under the title "Okay, Boomer, but should ‘Genocide’ be one of ‘The Things We Never Say’?: Addressing Gen Z complaints about Elizabeth Strout’s Booker Prize contender." That essay’s title projected unintended generational antipathy. Its too-clever-by-half allusion to horrific human tragedy was in poor taste. And the essay itself was structured like a game of Jenga playing a game of Twister. The Booker Countdown gives me a welcome mulligan on that review. So pull up a comfy chair, pretend you have amnesia, and we never spoke of this.

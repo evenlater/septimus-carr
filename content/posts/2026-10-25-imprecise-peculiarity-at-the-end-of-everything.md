@@ -65,6 +65,15 @@ links:
     <tr><th scope="row">Classic Pairing</th><td><i>The Double</i> by Fyodor Dostoevsky</td></tr>
     <tr><th scope="row">Why</th><td>Kennard’s story begins to realize its surreal potential when Black Bag chases down his Double. The authors both cozy the reader with familiarity before things get weird.</td></tr>
   </tbody>
+  
+   <tbody>
+    <tr><th colspan="2" scope="colgroup">3rd Place</th></tr>
+    <tr><th scope="row">Contestant</th><td><i>May We Feed the King</i> by Rebecca Perry</td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-07-may-we-feed-the-king.md/" target="_blank" rel="noopener">The Poet as Novelist and Historian in May We Feed the King</a></td></tr>
+    <tr><th scope="row">Summary</th><td>The first novel by an experienced poet has an evocative core but an uneven historiological frame.</td></tr>
+    <tr><th scope="row">Classic Pairing</th><td><i>Memories of the Ford Administration</i> by John Updike</td></tr>
+    <tr><th scope="row">Why</th><td>The parallels between Perry’s hated monarch and Updike’s reconstruction of James Buchanan, by consensus the worst president in U.S. history, illuminate <em>May We Feed the King</em> in numerous ways.</td></tr>
+  </tbody>
 </table>
 
 *My vote for last place among the six shortlisted novels is M. John Harrison’s *The End of Everything*, and I can’t imagine readers of the caliber of the Booker voters (a hodgepodge of publishers, authors, and artists of other stripes) failing to notice a precipitous drop in quality from any conceivable fifth place finisher and Harrison’s entry. I recognize that some readers enjoy it, but in this company it is slight (206 pages), controversial (at 2.86 as of this writing, it has the lowest Goodreads score even of the longlist), and far more likely to be described as experimental than successful*
