@@ -78,7 +78,7 @@ readDates2:
   </tbody>
 </table>
 
-*John Updike’s* Memories of the Ford Administration *is not a classic, it’s not his best work, and it’s not even really about the Ford Administration. But its 19th-century history parallels Rebecca Perry’s medieval history so closely that it helps illuminate her achievement.*
+*John Updike’s* Memories of the Ford Administration *is not a classic, it’s not his best work, and it’s not even really about the Ford Administration. But its 19th-century history parallels Rebecca Perry’s medieval "history" so closely that it helps illuminate her achievement.*
 
 ## The Narrators 
 
