@@ -72,13 +72,13 @@ readDates2:
     <tr><th colspan="2" scope="colgroup">3rd Place</th></tr>
     <tr><th scope="row">Contestant</th><td><i>May We Feed the King</i> by Rebecca Perry</td></tr>
     <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-07-may-we-feed-the-king.md/" target="_blank" rel="noopener">The Poet as Novelist and the Poet as Historian in May We Feed the King</a></td></tr>
-    <tr><th scope="row">Summary</th><td></td></tr>
+    <tr><th scope="row">Summary</th><td>The first novel by an experienced poet achieves a historiographical sophistication that the author need not explain further.</td></tr>
     <tr><th scope="row">Classic Pairing</th><td><i>Memories of the Ford Administration</i> by John Updike</td></tr>
     <tr><th scope="row">Why</th><td></td></tr>
   </tbody>
 </table>
 
-
+*John Updike’s *Memories of the Ford Administration* is not a classic, it’s not his best work, and it’s not even realy about the Ford Administration. But its 19th-century history parallels Rebecca Perry’s medieval history so closely that it helps illustrate what makes her book so special.*
 
 ## The Narrators 
 
