@@ -24,9 +24,9 @@ book:
   isbn2: "0679416811"
   cover2: "/img/memories-of-ford-cover.jpg"
 links:
-  substack: ""
-  goodreads: ""
-  reddit: ""
+  substack: "https://septimuscarr.substack.com/p/booker-prize-countdown-third-place"
+  goodreads: "https://www.goodreads.com/review/show/9003678929"
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1xqyef1/booker_prize_countdown_third_place_may_we_feed/"
   medium: "" 
 readDates:
    start: "2026-10-10"
@@ -130,7 +130,9 @@ President Buchanan has never lost an election, and he owes his success to his So
 
 "History loves blood," Clayton writes. "It loves the great blood-spillers. Poor Buchanan was ahead of his time, trying to bring mankind up a notch, out of the blood." The irony of this joint reading of Updike and Perry is that Clayton’s defense of Buchanan is convincing when applied to Perry’s King. Perry offers no circumstances that would mitigate the barbarity of mass violence—right up to the moment that her royal family employ violence to extricate themselves from their inherited elevation. Perry’s sudden flash of liberating bloodshed is a stunning narrative coup, and we cheer the King and Queen even as we recognize the selfishness of the act. But we recognize the personal cost of inaction and principled restraint to the royal family. 
 
-By contrast, the attempt of Updike’s hero to invoke pacifism as a Not Guilty plea on Buchanan’s behalf is implicitly rejected by Updike himself. The defense attorney, Clayton, is himself weak and morally compromised. He forgives Buchanan as readily as he forgives himself. Clayton is a callous homewrecker, and even his intellectual integrity is compromised; he condescendly critiques a feminist student on the grounds that her critique of William McKinley’s phallocentric Imperialism turns him on. After all, the scarcely postadolescent feminist is hot, and she keeps talking about dicks. Who could blame him? It’s not like this happened <i>after</i> Jimmy Carter’s evangelism doused his libido in energy-efficient cold water. By the same token, Clayton can’t exonerate Buchanan because he is humane. We know exactly how humane a victorious Confederacy would be if it were allowed to prevail. Updike the prosecutor rests his case without even rebutting Clayton. The defense, as mounted, is inadequate for serious consideration by educated readers. 
+By contrast, the attempt of Updike’s hero to invoke pacifism as a Not Guilty plea on Buchanan’s behalf is implicitly rejected by Updike himself. The defense attorney, Clayton, is himself weak and morally compromised. He forgives Buchanan as readily as he forgives himself. Clayton is a callous homewrecker, and even his intellectual integrity is compromised; he condescendingly critiques a feminist student on the grounds that her critique of William McKinley’s phallocentric Imperialism turns him on. After all, the scarcely postadolescent feminist is hot, and she keeps talking about dicks. Who could blame him? It’s not like this happened <i>after</i> Jimmy Carter’s evangelism doused his libido in energy-efficient cold water. 
+
+By the same token, Clayton can’t exonerate Buchanan because he is humane. We know exactly how humane a victorious Confederacy would be if it were allowed to prevail. Updike the prosecutor rests his case without even rebutting Clayton. The defense, as mounted, is inadequate for serious consideration by educated readers. 
 
 ## The Sexual Mysteries
 
