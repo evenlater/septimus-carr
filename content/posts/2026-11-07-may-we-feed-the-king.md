@@ -1,6 +1,6 @@
 ---
 series: "BOOKER PRIZE COUNTDOWN - THIRD PLACE"
-title: "The Poet as Novelist and the Poet as Historian in \"May We Feed the King\""
+title: "The Poet as Novelist and Historian in \"May We Feed the King\""
 subtitle: "Rebecca Perry and John Updike share memories of reviled administrations"
 date: 2026-11-07
 draft: false
@@ -71,7 +71,7 @@ readDates2:
    <tbody>
     <tr><th colspan="2" scope="colgroup">3rd Place</th></tr>
     <tr><th scope="row">Contestant</th><td><i>May We Feed the King</i> by Rebecca Perry</td></tr>
-    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-07-may-we-feed-the-king.md/" target="_blank" rel="noopener">The Poet as Novelist and the Poet as Historian in May We Feed the King</a></td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-07-may-we-feed-the-king.md/" target="_blank" rel="noopener">The Poet as Novelist and Historian in May We Feed the King</a></td></tr>
     <tr><th scope="row">Summary</th><td>The first novel by an experienced poet achieves a historiographical sophistication that the author need not explain further.</td></tr>
     <tr><th scope="row">Classic Pairing</th><td><i>Memories of the Ford Administration</i> by John Updike</td></tr>
     <tr><th scope="row">Why</th><td></td></tr>
