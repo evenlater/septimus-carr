@@ -105,7 +105,7 @@ The curator needs to choose a King for her exhibitions to focus on. She consider
 <p style="text-indent: 60px;"><i>He makes inquiries to people who owe him no loyalty. Idiot man.</i><br>
 <p style="text-indent: 40px;"><i>No doubt he has designs to make off in plain sight, to great fanfare, on a horse decked in gold cloth.</i><br> 
 <i>No doubt he thinks he can get away with anything.</i><br>
-<i>By what authority? By what authority does he believe he may refuse the throne?<i>
+<i>By what authority? By what authority does he believe he may refuse the throne?</i>
 <cite>Rebecca Perry, <i>May We Feed the King</i></cite></blockquote>
 
 The King’s advisors murmur dissension. Rebel forces cluster on the horizon. Perry resists the temptation to issue statements of authorial approval or condemnation of her iconoclastic monarch, but her portrayal is endowed with implicit compassion, even admiration for the very eccentricity that threatens his regime. The King is ambivalent about his power. He would rather be tolerant than dominant, honest than safe. He becomes increasingly impatient with obligation to conceal his taste for carnal comforts. Although he ultimately leans on the priviledge of exalted position, he does so to preserve ordinary autonomy, not priviledge for its own sake. That may not be the hallmark of an exceptional leader, but it is the least we can ask of a human being.  
