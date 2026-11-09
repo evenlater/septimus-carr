@@ -67,35 +67,21 @@
 
 {{/* ── BOOK METADATA CARD ── */}}
 {{ with .Params.book }}
-<div class="book-meta-wrapper{{ if not .isbn2 }} single{{ else if .isbn3 }} triple{{ end }}">
+{{ $b := . }}
+{{ $count := 1 }}
+{{ range seq 2 6 }}{{ if index $b (printf "isbn%d" .) }}{{ $count = . }}{{ end }}{{ end }}
+<div class="book-meta-wrapper{{ if eq $count 1 }} single{{ else if eq $count 3 }} triple{{ else if gt $count 3 }} multi{{ end }}">
+  {{ range seq 1 $count }}
+  {{ $n := cond (eq . 1) "" (printf "%d" .) }}
+  {{ $isbn := index $b (printf "isbn%s" $n) }}
+  {{ $cover := index $b (printf "cover%s" $n) }}
   <div class="book-meta">
-    <img class="book-cover" src="{{ if .cover }}{{ .cover }}{{ else }}https://covers.openlibrary.org/b/isbn/{{ .isbn }}-M.jpg{{ end }}" />
+    <img class="book-cover" src="{{ if $cover }}{{ $cover }}{{ else }}https://covers.openlibrary.org/b/isbn/{{ $isbn }}-M.jpg{{ end }}" />
     <div>
-      <div class="book-title">{{ .title }}</div>
-	  <div class="book-year">{{ .year }}</div>
-      <div class="book-author">{{ .author }}</div>
-      <div class="book-isbn">{{ .isbn }}</div>
-    </div>
-  </div>
-  {{ if .isbn2 }}
-  <div class="book-meta">
-    <img class="book-cover" src="{{ if .cover2 }}{{ .cover2 }}{{ else }}https://covers.openlibrary.org/b/isbn/{{ .isbn2 }}-M.jpg{{ end }}" />
-    <div>
-      <div class="book-title">{{ .title2 }}</div>
-	  <div class="book-year">{{ .year2 }}</div>
-      <div class="book-author">{{ .author2 }}</div>
-      <div class="book-isbn">{{ .isbn2 }}</div>
-    </div>
-  </div>
-  {{ end }}
-  {{ if .isbn3 }}
-  <div class="book-meta">
-    <img class="book-cover" src="{{ if .cover3 }}{{ .cover3 }}{{ else }}https://covers.openlibrary.org/b/isbn/{{ .isbn3 }}-M.jpg{{ end }}" />
-    <div>
-      <div class="book-title">{{ .title3 }}</div>
-	  <div class="book-year">{{ .year3 }}</div>
-      <div class="book-author">{{ .author3 }}</div>
-      <div class="book-isbn">{{ .isbn3 }}</div>
+      <div class="book-title">{{ index $b (printf "title%s" $n) }}</div>
+      <div class="book-year">{{ index $b (printf "year%s" $n) }}</div>
+      <div class="book-author">{{ index $b (printf "author%s" $n) }}</div>
+      <div class="book-isbn">{{ $isbn }}</div>
     </div>
   </div>
   {{ end }}
