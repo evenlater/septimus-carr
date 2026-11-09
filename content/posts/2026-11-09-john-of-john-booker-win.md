@@ -1,11 +1,11 @@
 ---
-series: "BOOKER PRIZE COUNTDOWN - SECOND PLACE"
+series: "BOOKER PRIZE COUNTDOWN - FIRST PLACE"
 title: "Staying is \"The Longest Journey\""
 subtitle: "A comparison of my Booker Prize favorite, Douglas Stuart’s \"John of John\" to E.M. Forster’s \"The Longest Journey\" shows its worthiness" 
 date: 2026-11-09
 draft: false
 categories: ["Fiction","Booker","Multi"]
-authors: ["Marlon James","Toni Morrison"]
+authors: ["Douglas Stuart","E.M. Forster"]
 image: "/img/john-of-john-1.png"
 imageAlt: "Sea view from a stone window of an old ruin near the ocean in the Isle of Harris, Scotland"
 photoCredit: 'Photo of the Isle of Harris, Scotland, by ID <a href="https://www.dreamstime.com/stock-photo-sea-view-stone-window-old-ruin-near-ocean-isle-harris-scotland-uk-image42127626">42127626</a> | <a href="https://www.dreamstime.com/photos-images/scottish.html">Scottish</a> © 
@@ -88,16 +88,17 @@ I ranked and reviewed each of the shortlisted novels. I also paired each novel w
     <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-09-john-of-john-booker-win/" target="_blank" rel="noopener">Staying is The Longest Journey</a></td></tr>
     <tr><th scope="row">Summary</th><td>In sheer wattage per page, Douglas Stuart’s richly textured, deeply pained, and inerrantly true novel was the most moving and wryly satisfying book of the year.</td></tr>
     <tr><th scope="row">Classic Pairing</th><td><em>The Longest Journey</em> by E.M. Forster</td></tr>
-    <tr><th scope="row">Why</th><td>The fulfilling acceptance Ricky finds at Cambridge are the stakes of Cal’s sacrificial return to the island. Ricky’s misfit marriage and sham teaching job at Sawston are the island he must leave. And in standing up for himself against Pembroke, Ansell is Innes escaping at last.</td></tr>
+    <tr><th scope="row">Why</th><td>The fulfilling acceptance Rickie finds at Cambridge are the stakes of Cal’s sacrificial return to the island. Rickie’s misfit marriage and sham teaching job at Sawston are the island he must leave. And in standing up for himself against Pembroke, Stephen is Innes escaping at last.</td></tr>
   </tbody>
 </table>
+
 I wrote an essay about <i>John of John</i> in September, and I will let that stand as my review of this exceptional book. It appears below.
 
 Here I will say that I decided to choose Douglas Stuart’s beautiful, individual expression of the gay experience over Marlon James's polyphonic, exuberant and unquestionably more comprehensive expression of that experience.
 
 I was ultimately more moved by Stuart’s quiet, atmospheric, almost impressionistic rendering of a gay youth suffocating in a place where he is not permitted to be honest about his attractions, his artistic passions, or his most deeply held beliefs. It is an almost perfect book, brought to life with remarkable restraint. I loved the theme-park ride <i>The Disappearers</i> set me on, but it was a bracingly swervey ride in which James sometimes momentarily lost control of his vessel. 
 
-My September essay is a comparative piece in its own unique way—it compares an agonizing experience of mine, one that is tied to deep personal regret, to that of John Callum, Stuart’s protagonist. So I will not do here what I did with my review of <i>The Things We Never Say</i> and rewrite it to strengthen its comparison to <i>Middlemarch</i>. Instead, I will explain here why I think the books belong on the same psychic shelf. 
+My September essay is a comparative piece in its own unique way—it compares an agonizing experience of mine, one that is tied to deep personal regret, to that of John-Calum, Stuart’s protagonist. So I will not do here what I did with my review of <i>The Things We Never Say</i> and rewrite it to strengthen its comparison to <i>Middlemarch</i>. Instead, I will explain here why I think the books belong on the same psychic shelf. 
 
 <i>John of John</i> begins with Cal on the phone to his strong-willed, devout Presbyterian father. Cal’s grandmother is ill. His father, Big John, needs help with shepherding and weaving. He demands that Cal return. It is a wrenching choice for Cal because in the big city, he has found acceptance of his gay identity. He has been able to pursue his passion as a visual artist.
 
@@ -108,7 +109,7 @@ Rickie in <i>The Longest Journey</i> is like Cal in that both had very trying ch
 
 Now that he has joined his father on a perishingly small island, Cal is losing his direction. He no longer knows what he wants to do with the rest of his life. 
 
-Rickie feels that way as he prepares to move on from Cambridge. He has fallen in love with a young woman whose father is nearly as controlling as Cal’s, Pembroke. In this scene, Pembroke addresses his aimlessness:
+Rickie feels that way as he prepares to move on from Cambridge. He has fallen in love with a young woman whose brother is nearly as controlling as Cal’s, Pembroke. In this scene, Pembroke addresses his aimlessness:
 
 <blockquote>"I have seen so many promising, brilliant lives wrecked simply on account of this—not settling soon enough. My dear boy, you must think. Consult your tastes if possible—but think. You have not a moment to lose. The Bar, like your father?"<br>
 "Oh, I wouldn’t like that at all."<br>
@@ -126,21 +127,21 @@ As Cal loses hope that he will escape the island, he throws himself into mind-nu
 Rickie gets a job working for Pembroke as a teacher, but he does not have a talent for it.
 
 >But here is a subject in which we must inevitably speak as one human being to another, not as one who has authority or the shadow of authority, and for this reason the elder school-master could suggest nothing but a few formulae. Formulae, like kindly traps, were not in Rickie’s line, so he abandoned these subjects altogether and confined himself to working hard at what was easy. In the house he did as Herbert did, and referred all doubtful subjects to him. In his form, oddly enough, he became a martinet. It is so much simpler to be severe. He grasped the school regulations, and insisted on prompt obedience to them. He adopted the doctrine of collective responsibility. When one boy was late, he punished the whole form. "I can’t help it," he would say, as if he was a power of nature. As a teacher he was rather dull. He curbed his own enthusiasms, finding that they distracted his attention, and that while he throbbed to the music of Virgil the boys in the back row were getting unruly.
-<cite>E.M. Forster, <em>The Longest Journey</em></cite></blockquote>
+<cite>E.M. Forster, <em>The Longest Journey</em></cite>
 
 Cal tries to connect to various romantic attachments. When he was younger, he hid his queerness behind a straight girlfriend. 
 
-Rickie’s marriage has become loveless, tormenting. He is far more affectionate toward his schoolmate, Stephen Ansell. 
+Rickie’s marriage has become loveless, tormenting. He is far more affectionate toward his half-brother, Stephen Wonham. 
 
 >Henceforward he deteriorates. Let those who censure him suggest what he should do. He has lost the work that he loved, his friends, and his child. He remained conscientious and decent, but the spiritual part of him proceeded towards ruin.
-<cite>E.M. Forster, <em>The Longest Journey</em></cite></blockquote>
+<cite>E.M. Forster, <em>The Longest Journey</em></cite>
 
 At the end of the book, Cal’s older friend Innes finally makes a break for it. Has he escaped the island? Will Cal follow?
 
-In the end, it is Stephen Ansell, who most resembles Innes. He stands up to Pembroke, who has been involved with Ansell's writing.
+In the end, it is Stephen Wonham, who most resembles Innes. He stands up to Pembroke, who has been involved with Rickie's writing.
 
 >"Listen to me, Pembroke. You’ve done people all your life—I think without knowing it, but that won’t comfort us. A wretched devil at your school once wrote to me, and he’d been done. Sham food, sham religion, sham straight talks—and when he broke down, you said it was the world in miniature." He snatched at him roughly. "But I’ll show you the world." He twisted him round like a baby, and through the open door they saw only the quiet valley, but in it a rivulet that would in time bring its waters to the sea. "Look even at that—and up behind where the Plain begins and you get on the solid chalk—think of us riding some night when you’re ordering your hot bottle—that’s the world, and there’s no miniature world. There’s one world, Pembroke, and you can’t tidy men out of it. They answer you back do you hear?—they answer back if you do them. If you tell a man this way that four sheep equal ten, he answers back you’re a liar."
-<cite>E.M. Forster, <em>The Longest Journey</em></cite></blockquote>
+<cite>E.M. Forster, <em>The Longest Journey</em></cite>
 
 
 <h1>The Mounting Cost of Staying in "John of John"</h1>

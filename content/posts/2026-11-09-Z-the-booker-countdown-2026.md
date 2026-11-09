@@ -108,7 +108,7 @@ I ranked and reviewed each of the shortlisted novels. I also paired each novel w
     <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-09-john-of-john-booker-win/" target="_blank" rel="noopener">Staying is The Longest Journey</a></td></tr>
     <tr><th scope="row">Summary</th><td>In sheer wattage per page, Douglas Stuart’s richly textured, deeply pained, and inerrantly true novel was the most moving and wryly satisfying book of the year.</td></tr>
     <tr><th scope="row">Classic Pairing</th><td><em>The Longest Journey</em> by E.M. Forster</td></tr>
-    <tr><th scope="row">Why</th><td>The fulfilling acceptance Ricky finds at Cambridge are the stakes of Cal’s sacrificial return to the island. Ricky’s misfit marriage and sham teaching job at Sawston are the island he must leave. And in standing up for himself against Pembroke, Ansell is Innes escaping at last.</td></tr>
+    <tr><th scope="row">Why</th><td>The fulfilling acceptance Rickie finds at Cambridge are the stakes of Cal’s sacrificial return to the island. Rickie’s misfit marriage and sham teaching job at Sawston are the island he must leave. And in standing up for himself against Pembroke, Stephen is Innes escaping at last.</td></tr>
   </tbody>
 </table>
 
