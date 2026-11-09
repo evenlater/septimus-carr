@@ -31,8 +31,14 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+.book-meta-wrapper.multi {
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0 24px;
+}
+
 @media (max-width: 720px) {
-  .book-meta-wrapper.triple {
+  .book-meta-wrapper.triple,
+  .book-meta-wrapper.multi {
     grid-template-columns: 1fr;
   }
 }
