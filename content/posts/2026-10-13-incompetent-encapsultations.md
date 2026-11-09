@@ -5,6 +5,7 @@ date: 2026-10-13
 draft: false
 feature: false
 categories: ["Notes"]
+authors: ["Septimus Carr"]
 image: "/img/books-galore.jpg"
 imageMobile: "/img/books-galore.jpg"
 imageHero: "/img/books-galore.jpg"
