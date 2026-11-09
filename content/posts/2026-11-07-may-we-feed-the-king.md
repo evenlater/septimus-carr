@@ -90,8 +90,8 @@ I ranked and reviewed each of the shortlisted novels. I also paired each novel w
     <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-09-john-of-john-booker-win/" target="_blank" rel="noopener">Staying is The Longest Journey</a></td></tr>
     <tr><th scope="row">Summary</th><td>In sheer wattage per page, Douglas Stuart’s richly textured, deeply pained, and inerrantly true novel was the most moving and wryly satisfying book of the year.</td></tr>
     <tr><th scope="row">Classic Pairing</th><td><i>The Longest Journey</i> by E.M. Forster</td></tr>
-    <tr><th scope="row">Why</th><td>The fulfilling acceptance Ricky finds at Cambridge are the stakes of Cal’s sacrificial return to the island. Ricky’s misfit marriage and sham teaching job at Sawston are the island he must leave. And in standing up for himself against Pembroke, Ansell is Innes escaping at last.</td></tr>
-  </tbody>
+	<tr><th scope="row">Why</th><td><i>Beloved</i> is as close as Morrison comes to a definitive statement on slavery, which haunts all of her works. <i>The Disappearers</i> is a comprehensive exploration of the gay experience in homophobic Jamaica. <i>Beloved</i> is the fullest realization of Toni Morrison’s life’s work and the lasting community touchstone that Marlon James is reaching for.</td></tr>  </tbody>
+    </tbody>
 </table>
 
 *John Updike’s* Memories of the Ford Administration *is not a classic, it’s not his best work, and it’s not even really about the Ford Administration. But its 19th-century history parallels Rebecca Perry’s medieval "history" so closely that it helps illuminate her achievement.*

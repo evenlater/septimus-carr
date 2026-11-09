@@ -82,8 +82,8 @@ I ranked and reviewed each of the shortlisted novels. I also paired each novel w
     <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-09-disappearers-marlon-james/" target="_blank" rel="noopener">Is The Disappearers the Beloved of the Gay Experience?</a></td></tr>
     <tr><th scope="row">Summary</th><td>Marlon James's voice is distinctively and historically queer in its quicksilver wit, its showy intellect, and its unfailingly compassionate resilience. It flies defiantly against unremitting gales of bigotry, in unflinching affirmation of a people who refuse to spend another day hiding from themselves.</td></tr>
     <tr><th scope="row">Classic Pairing</th><td><i>Beloved</i> by Toni Morrison</td></tr>
-    <tr><th scope="row">Why</th><td>.</td><i>Beloved</i> is as close as Morrison comes to a definitive statement on slavery, which haunts all of her works. <i>The Disappearers</i> is a comprehensive exploration of the gay experience in homophobic Jamaica. <i>Beloved</i> is the fullest realization of Toni Morrison’s life’s work and the lasting community touchstone that Marlon James is reaching for.</tr>
-  </tbody>
+	<tr><th scope="row">Why</th><td><i>Beloved</i> is as close as Morrison comes to a definitive statement on slavery, which haunts all of her works. <i>The Disappearers</i> is a comprehensive exploration of the gay experience in homophobic Jamaica. <i>Beloved</i> is the fullest realization of Toni Morrison’s life’s work and the lasting community touchstone that Marlon James is reaching for.</td></tr>  </tbody>
+    </tbody>
      <tbody>
     <tr><th colspan="2" scope="colgroup">1st Place</th></tr>
     <tr><th scope="row">Contestant</th><td><i>John of John</i> by Douglas Stuart</td></tr>
