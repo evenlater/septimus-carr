@@ -7,9 +7,9 @@ draft: false
 feature: true
 categories: ["Booker","Notes"]
 authors: ["Septimus Carr","Douglas Stuart","Marlon James","Rebecca Perry","Luke Kennard","Elizabeth Strout","M. John Harrison"]
-image: "/img/septimus-carr-booker-countdown.png"
+image: "/img/septimus-carr-booker-countdown-2026.png"
 imageFit: "Contain"
-imageMobile: "/img/septimus-carr-booker-countdown.png"
+imageMobile: "/img/septimus-carr-booker-countdown-2026.png"
 imagePosition: "Center"
 imageAlt: "Composite of 2026 Booker Shortlist covers and images"
 photoCredit: 'Composite by Septimus Carr' 
