@@ -54,7 +54,7 @@ readDates:
    end: "2026-11-07"
 ---
 
-<h1>Congratulations to M. John Harrison, 2026 Booker Prize winner for The End of Everything</h1>.
+<h1>Congratulations to M John Harrison, 2026 Booker Prize winner for The End of Everything</h1>.
 
 The nice thing about an award like this is that it can put a challenging book like this in front of readers who would never otherwise encounter it. I am not the sort of reader who is steeped in the traditions that he was exploring, nor did I do extensive external research into his purpose. His delightfully idiosyncratic novel demands a thorough context. But I am cheered that the jury was willing to make a daring choice.
 
@@ -117,7 +117,7 @@ I ranked and reviewed each of the shortlisted novels. I also paired each novel w
   </tbody>
 </table>
 
-My thanks to Zay Pareltheon, Viraji Ogodapola, Mario López-Goicoechea, and Sally A Mortemore at <a href="https://medium.com/@the-howling-owl/" target="_blank">The Howling Owl</a> for publishing the entire series and for their patient support of the project.
+My thanks to Zay Pareltheon, Viraji Ogodapola, Mario López-Goicoechea, and Sally A Mortemore at <a href="https://medium.com/the-howling-owl/" target="_blank">The Howling Owl</a> for publishing the entire series and for their patient support of the project.
 
 Additional thanks to Riverhead Books and NetGalley for providing early access to *The End of Everything*, to my family for reading and for understanding, to Tim and Rosemary for their flexibility, and to Gila for conceiving of the project.
 
