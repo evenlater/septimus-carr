@@ -1,6 +1,6 @@
 ---
 series: "BOOKER PRIZE COUNTDOWN"
-title: "The Booker Season Reaches Its Proud, Defiant Conclusion"
+title: "The Booker Season Reaches Its Conclusion"
 subtitle: "Enter here to celebrate today’s winner with complete reviews of the six top Booker contestants and six classic novels that share their spirit."
 date: 2026-11-09
 draft: false
@@ -28,7 +28,7 @@ book:
   author3: "Rebecca Perry"
   year3:  "2026"
   isbn3: "9798893380637"
-  cover3: "/img/may-we-feed-cover.jpg
+  cover3: "/img/may-we-feed-cover.jpg"
   title4: "Black Bag"
   author4: "Luke Kennard"
   year4:  "2026"
@@ -97,7 +97,7 @@ I ranked and reviewed each of the shortlisted novels. I also paired each novel w
   <tbody>
     <tr><th colspan="2" scope="colgroup">2nd Place</th></tr>
     <tr><th scope="row">Contestant</th><td><i>The Disappearers</i> by Marlon James</td></tr>
-    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-09-disappearers-marlon-james/" target="_blank" rel="noopener"></a></td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-09-disappearers-marlon-james/" target="_blank" rel="noopener">Is The Disappearers the Beloved of the Gay Experience?</a></td></tr>
     <tr><th scope="row">Summary</th><td>Marlon James's voice is distinctively and historically queer in its quicksilver wit, its showy intellect, and its unfailingly compassionate resilience. It flies defiantly against unremitting gales of bigotry, in unflinching affirmation of a people who refuse to spend another day hiding from themselves.</td></tr>
     <tr><th scope="row">Classic Pairing</th><td><i>Beloved</i> by Toni Morrison</td></tr>
     <tr><th scope="row">Why</th><td>.</td><i>Beloved</i> is as close as Morrison comes to a definitive statement on slavery, which haunts all of her works. <i>The Disappearers</i> is a comprehensive exploration of the gay experience in homophobic Jamaica. <i>Beloved</i> is the fullest realization of Toni Morrison’s life’s work and the lasting community touchstone that Marlon James is reaching for.</tr>
@@ -114,6 +114,6 @@ I ranked and reviewed each of the shortlisted novels. I also paired each novel w
 
 My thanks to Zay Pareltheon, Viraji Ogodapola, Mario López-Goicoechea, and Sally A Mortemore at The Howling Owl for publishing the entire series and for their patient support of the project.
 
-Additional thanks to Riverhead Books and NetGalley for providing early access to *The End of Everything*, to my family for reading and for understanding, to Tim and Rosemary for their flexibility, and to Gila Sand for conceiving of the project.
+Additional thanks to Riverhead Books and NetGalley for providing early access to *The End of Everything*, to my family for reading and for understanding, to Tim and Rosemary for their flexibility, and to Gila for conceiving of the project.
 
 Read more about the shortlisted novels and authors at https://thebookerprizes.com/.
