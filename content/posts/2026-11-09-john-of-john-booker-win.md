@@ -30,8 +30,8 @@ readDates:
    start: "2026-10-10"
    end: "2026-10-16"
 readDates2:
-   start: "2023-02-28
-   end: "2023-05-01
+   start: "2023-02-28"
+   end: "2023-05-01"
 ---
 
 I ranked and reviewed each of the shortlisted novels. I also paired each novel with a classic. The winner of the 2026 Booker Prize will be announced at 9:45 PM GMT. It will be livestreamed on <a href="https://www.youtube.com/results?search_query=The+Booker+Prizes+YouTube+Channel" target="_blank">The Booker Prizes YouTube Channel</a>.

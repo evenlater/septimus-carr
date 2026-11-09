@@ -2,7 +2,7 @@
 title: "The Mounting Cost of Staying in Douglas Stuart’s \"John of John\"" 
 subtitle: "Everyone says it’s harder to leave. But it’s much harder to stay."
 date: 2026-09-15
-draft: false
+draft: true
 categories: ["Fiction","Booker"]
 authors: ["Douglas Stuart"]
 image: "/img/john-of-john.png"
