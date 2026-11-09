@@ -143,8 +143,8 @@ In the end, it is Stephen Ansell, who most resembles Innes. He stands up to Pemb
 <cite>E.M. Forster, <em>The Longest Journey</em></cite></blockquote>
 
 
-<h1>The Mounting Cost of Staying in \"John of John\""</h1>
-<h2>"Everyone says it’s harder to leave. But it’s much harder to stay."</h2>
+<h1>The Mounting Cost of Staying in "John of John"</h1>
+<h2>Everyone says it’s harder to leave. But it’s much harder to stay.</h2>
 
 By Septimus Carr
 
