@@ -24,9 +24,9 @@ book:
   isbn2: "0452264464"
   cover2: "/img/beloved-cover.jpg"
 links:
-  substack: ""
-  goodreads: ""
-  reddit: ""
+  substack: "https://septimuscarr.substack.com/p/booker-prize-countdown-first-place"
+  goodreads: "https://www.goodreads.com/review/show/9058972417?book_show_action=false"
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1xryays/booker_prize_countdown_top_two_reviewed_the/"
   medium: ""
 readDates:
    start: "2026-10-18"

@@ -22,9 +22,9 @@ book:
   isbn2: "9798396868113"
   cover2: "/img/longest-journey-cover.jpg"
 links:
-  substack: ""
-  goodreads: ""
-  reddit: ""
+  substack: "https://septimuscarr.substack.com/p/booker-prize-countdown-first-place"
+  goodreads: "https://www.goodreads.com/review/show/8923137255"
+  reddit: "https://www.reddit.com/r/TrueLit/comments/1xryays/booker_prize_countdown_top_two_reviewed_the/"
   medium: "" 
 readDates:
   start: "2026-10-10"
