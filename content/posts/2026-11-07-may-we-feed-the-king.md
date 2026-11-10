@@ -38,7 +38,7 @@ readDates2:
 
 I ranked and reviewed each of the shortlisted novels. I also paired each novel with a classic. The winner of the 2026 Booker Prize was announced November 9, 2026 at 9:45 PM GMT. You can watch the recording of the ceremony at <a href="https://www.youtube.com/results?search_query=The+Booker+Prizes+YouTube+Channel" target="_blank">The Booker Prizes YouTube Channel</a>.
 
-*John Updike’s* Memories of the Ford Administration *is not a classic, it’s not his best work, and it’s not even really about the Ford Administration. But its 19th-century history parallels Rebecca Perry’s medieval "history" so closely that it helps illuminate her achievement.*
+*John Updike’s* Memories of the Ford Administration *is not a classic, it’s probably not his best work, and it’s not even really about the Ford Administration. But its 19th-century history parallels Rebecca Perry’s medieval "history" so closely that it helps illuminate her achievement.*
 
 ## The Narrators 
 
