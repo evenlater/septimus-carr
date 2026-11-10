@@ -84,7 +84,7 @@ I ranked and reviewed each of the shortlisted novels. I also paired each novel w
   <tbody>
     <tr><th colspan="2" scope="colgroup">4th Place</th></tr>
     <tr><th scope="row">Contestant</th><td><em>Black Bag</em> by Luke Kennard</td></tr>
-    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-06-black-bag.md" target="_blank" rel="noopener">The Alphas, Betas, and Gammas of Masculinity in Black Bag</a></td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-06-black-bag/" target="_blank" rel="noopener">The Alphas, Betas, and Gammas of Masculinity in Black Bag</a></td></tr>
     <tr><th scope="row">Summary</th><td>Every hilarious page serves its narrative throughline about what has become of straight male identity in the wake of feminist reckonings.</td></tr>
     <tr><th scope="row">Classic Pairing</th><td><em>The Double</em> by Fyodor Dostoevsky</td></tr>
     <tr><th scope="row">Why</th><td>Kennard’s story begins to realize its surreal potential when Black Bag chases down his Double. The authors both cozy the reader with familiarity before things get weird.</td></tr>
@@ -93,7 +93,7 @@ I ranked and reviewed each of the shortlisted novels. I also paired each novel w
    <tbody>
     <tr><th colspan="2" scope="colgroup">3rd Place</th></tr>
     <tr><th scope="row">Contestant</th><td><em>May We Feed the King</em> by Rebecca Perry</td></tr>
-    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-07-may-we-feed-the-king.md/" target="_blank" rel="noopener">The Poet as Novelist and Historian in May We Feed the King</a></td></tr>
+    <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-07-may-we-feed-the-king/" target="_blank" rel="noopener">The Poet as Novelist and Historian in May We Feed the King</a></td></tr>
     <tr><th scope="row">Summary</th><td>The first novel by an experienced poet has an evocative core but an uneven historiological frame.</td></tr>
     <tr><th scope="row">Classic Pairing</th><td><em>Memories of the Ford Administration</em> by John Updike</td></tr>
     <tr><th scope="row">Why</th><td>The parallels between Perry’s hated monarch and Updike’s reconstruction of James Buchanan, by consensus the worst president in U.S. history, illuminate <em>May We Feed the King</em> in numerous ways.</td></tr>
