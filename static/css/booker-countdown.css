@@ -13,15 +13,6 @@
   line-height: 1.5;
   color: var(--bc-ink);
 }
-@media (prefers-color-scheme: dark) {
-  .booker-countdown {
-    --bc-ink: #e8e2d8;
-    --bc-muted: #a39a8e;
-    --bc-accent: #d98a93;
-    --bc-rule: #3d3832;
-    --bc-band: #26221e;
-  }
-}
 .booker-countdown caption {
   caption-side: top;
   padding-bottom: 0.75rem;
