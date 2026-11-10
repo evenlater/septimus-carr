@@ -116,7 +116,7 @@ I ranked and reviewed each of the shortlisted novels. I also paired each novel w
   </tbody>
 </table>
 
-My thanks to Zay Pareltheon, Viraji Ogodapola, Mario López-Goicoechea, and Sally A Mortemore at <a href="https://medium.com/the-howling-owl/" target="_blank">The Howling Owl</a> for publishing the entire series and for their patient support of the project.
+My thanks to Zay Pareltheon, Viraji Ogodapola, Mario López-Goicoechea, Sally A Mortemore and Pablo Pereya at <a href="https://medium.com/the-howling-owl/" target="_blank">The Howling Owl</a> for publishing the entire series and for their patient support of the project.
 
 Additional thanks to Riverhead Books and NetGalley for providing early access to *The End of Everything*, to my family for reading and for understanding, to Tim and Rosemary for their flexibility, and to Gila for conceiving of the project.
 
