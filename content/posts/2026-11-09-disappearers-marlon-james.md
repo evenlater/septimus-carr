@@ -36,8 +36,7 @@ readDates2:
    end: "1991-05-01"
 ---
 
-I ranked and reviewed each of the shortlisted novels. I also paired each novel with a classic. The winner of the 2026 Booker Prize will be announced at 9:45 PM GMT. It will be livestreamed on <a href="https://www.youtube.com/results?search_query=The+Booker+Prizes+YouTube+Channel" target="_blank">The Booker Prizes YouTube Channel</a>.
-
+I ranked and reviewed each of the shortlisted novels. I also paired each novel with a classic. The winner of the 2026 Booker Prize was announced Monday November 9 at 9:45 PM GMT. It was livestreamed at <a href="https://www.youtube.com/results?search_query=The+Booker+Prizes+YouTube+Channel" target="_blank">The Booker Prizes YouTube Channel</a>. 
 
 >"To love Oscar is the beginning of a lifelong romance."
 <cite>Oscar Wilde on the 1983 Academy Awards</cite>
@@ -54,7 +53,7 @@ I doubt if I have missed a single Oscar telecast since Michael Seirton’s memor
 
 I learned a valuable lesson that year about the inevitability of Marlon James’s 2026 Booker Prize victory. It is, after all, a 613-page masterpiece on a Topic of Importance. James’s book is generally regarded as the prohibitive favorite in the exhaustive online coverage of a race that will finally end within hours of this review’s publication. The ponderous length of the book and the credulous comprehensiveness of the book’s depiction of resilient gay identity may indeed contribute to its air of inevitability. In that sense, it does seem like <i>Gandhi II: Gay Lives Matter, Too</i>.
 
-But rather than open with a funeral procession, as did Richard Attenborough’s Oscar winner, James opens with a high school anecdote about a straight boy who tells the narrator’s sister that "she needs to check out his bedroom because he have his own video player." It is not the swollen political Importance of James’s Topic but the exuberant comic energy of James’s voice that I came to love about <i>The Disappearers</i>. He revels in that style, so distinctively and historically queer in its quicksilver wit, its showy intellect, and its unfailingly compassionate resilience, flies it defiantly against unremitting gales of bigotry, in unflinching affirmation of a people who refuse to spend another day hiding from themselves.
+But rather than open with a funeral procession, as did Richard Attenborough’s Oscar winner, James opens with a high school anecdote about a straight boy who tells the narrator’s sister that "she needs to check out his bedroom because he have his own video player." It is not the swollen political Importance of James’s Topic but the exuberant comic energy of James’s voice that I came to love about <i>The Disappearers</i>. He revels in that style, so distinctively and historically queer in its quicksilver wit, its showy intellect, and its unfailingly compassionate resiliehabit. James flies that particular flag defiantly against unremitting gales of bigotry, and in unflinching affirmation of a people who refuse to spend another day hiding from themselves.
 
 ## Aspiring to the Beloved
 
@@ -76,7 +75,7 @@ If Marlon James had this conversation after 2026, they would have to discuss Mar
 
 As an AP College English student in the early 1990s, <i>Beloved</i> was the novel that first taught me that form could blow the roof off of staid realism. The epiphany came when Morrison began shapeshifting perspective and vernacular, leaving both prose sentence structure and the omniscient narrator in the Ohio dust: "I am not dead  I am not  there is a house   there is what she whispered to me." In <i>Imagining Characters: Six Conversations About Women Writers</i>, A.S. Byatt (<i>Possession</i>) says of Morrison’s narrative shifts, "It is very daring, and at first you think perhaps it doesn’t come off." Only with analysis, she suggests, does the power of the technique become clear.
 
-By 2026, I’ve read numerous books that alternate between narrators. <i>The Disappearers</i> becomes an epistolary novel in the final third, but the prose is structurally fairly conservative. What makes James’s voice so intoxicating is his effortless encapsulation of educated, sassy gay culture. I knew James had done exactly from the get-go. The first third of the book is graced by the joyful teen confidence of Eddie Porteous, at once exhibiting lustful exuberance and cerebral heft. "With this sort of homo gay is what he does, not who he is, and he was gay only an hour ago." "Sheila E. must have asked [Prince], ‘Do you want the drums like this? Or like this? Or like this? Or like that?’ and he just said yes." When Jordan Brown took over narratorial duties in the middle section, I enjoyed his defiantly caustic voice immensely, but I couldn’t help missing Eddie. By the time Eddie returns, trauma has made him more compassionate but more cautious, and a lot less fun.
+By 2026, I’ve read numerous books that alternate between narrators. <i>The Disappearers</i> becomes an epistolary novel in the final third, but the prose is structurally fairly conservative. What makes James’s voice so intoxicating is his effortless encapsulation of educated, sassy gay culture. I knew James had done that exactly that from the get-go. The first third of the book is graced by the joyful teen confidence of Eddie Porteous, at once exhibiting lustful exuberance and cerebral heft. "With this sort of homo gay is what he does, not who he is, and he was gay only an hour ago." "Sheila E. must have asked [Prince], ‘Do you want the drums like this? Or like this? Or like this? Or like that?’ and he just said yes." When Jordan Brown took over narratorial duties in the middle section, I enjoyed his defiantly caustic voice immensely, but I couldn’t help missing Eddie. By the time Eddie returns, trauma has made him more compassionate but more cautious, and a lot less fun.
 
 ## Community Superpowers
 
@@ -194,6 +193,6 @@ The victim can’t finish the verse, but its last line is, <i>"For thy sweet lov
     <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-09-john-of-john-booker-win/" target="_blank" rel="noopener">Staying is The Longest Journey</a></td></tr>
     <tr><th scope="row">Summary</th><td>In sheer wattage per page, Douglas Stuart’s richly textured, deeply pained, and inerrantly true novel was the most moving and wryly satisfying book of the year.</td></tr>
     <tr><th scope="row">Classic Pairing</th><td><em>The Longest Journey</em> by E.M. Forster</td></tr>
-    <tr><th scope="row">Why</th><td>The fulfilling acceptance Rickie finds at Cambridge are the stakes of Cal’s sacrificial return to the island. Rickie’s misfit marriage and sham teaching job at Sawston are the island he must leave. And in standing up for himself against Pembroke, Stephen is Innes escaping at last.</td></tr>
+    <tr><th scope="row">Why</th><td>The fulfilling acceptance Rickie finds at Cambridge, and his growing skill as a writer, are the stakes of Cal’s sacrificial return to the island. Rickie’s misfit marriage and sham teaching job at Sawston are the island he must leave. And in standing up for himself against Pembroke, Stephen is Innes escaping at last.</td></tr>
   </tbody>
 </table>

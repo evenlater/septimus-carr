@@ -34,11 +34,11 @@ links:
 
 <div class="gloss"><b>I received an advance copy of <em>The End of Everything</em> from Penguin Random House via NetGalley.</b></div>
 
-I ranked and reviewed each of the shortlisted novels. I also paired each novel with a classic. The winner of the 2026 Booker Prize will be announced at 9:45 PM GMT. It will be livestreamed on <a href="https://www.youtube.com/results?search_query=The+Booker+Prizes+YouTube+Channel" target="_blank">The Booker Prizes YouTube Channel</a>.
+*My vote for last place among the six shortlisted novels is M. John Harrison’s *The End of Everything*. I felt pretty strongly about this one. So did the jury; they gave M. John Harrison the Booker Prize for his challenging novel. I recognized of course that some readers enjoy it, but in this company it seemed slight (206 pages), controversial (at 2.86 as of this writing, it has the lowest Goodreads score even of the longlist), and far more likely to be described as experimental than successful.*
 
-*My vote for last place among the six shortlisted novels is M. John Harrison’s *The End of Everything*, and I can’t imagine readers of the caliber of the Booker voters (a hodgepodge of publishers, authors, and artists of other stripes) failing to notice a precipitous drop in quality from any conceivable fifth place finisher and Harrison’s entry. I recognize that some readers enjoy it, but in this company it is slight (206 pages), controversial (at 2.86 as of this writing, it has the lowest Goodreads score even of the longlist), and far more likely to be described as experimental than successful*
+*Yeah, well, shows what I know. Congratulations, M. John! You show 'em!*
 
-*Just for fun, I am comparing each Booker novel, at least in passing, to a classic work of literature with which it has something in common. Today’s "classic" may not meet every use of that word, but it unmistakably lives up to Merriam-Webster’s top definition: "Serving as a standard of excellence: of recognized value." The book is Douglas Adams’s 1979 comic sci-fi masterpiece, *The Hitchhiker’s Guide to the Galaxy*.*
+*Just for fun, I compared each Booker novel, at least in passing, to a classic work of literature with which it has something in common. Today’s "classic" may not meet every use of that word, but it unmistakably lives up to Merriam-Webster’s top definition: "Serving as a standard of excellence: of recognized value." The book is Douglas Adams’s 1979 comic sci-fi masterpiece, *The Hitchhiker’s Guide to the Galaxy*.*
 
 ## Ankle-biting Science Fiction
 
@@ -166,7 +166,7 @@ Good comedy never ages.
     <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-09-john-of-john-booker-win/" target="_blank" rel="noopener">Staying is The Longest Journey</a></td></tr>
     <tr><th scope="row">Summary</th><td>In sheer wattage per page, Douglas Stuart’s richly textured, deeply pained, and inerrantly true novel was the most moving and wryly satisfying book of the year.</td></tr>
     <tr><th scope="row">Classic Pairing</th><td><em>The Longest Journey</em> by E.M. Forster</td></tr>
-    <tr><th scope="row">Why</th><td>The fulfilling acceptance Ricky finds at Cambridge are the stakes of Cal’s sacrificial return to the island. Ricky’s misfit marriage and sham teaching job at Sawston are the island he must leave. And in standing up for himself against Pembroke, Ansell is Innes escaping at last.</td></tr>
+    <tr><th scope="row">Why</th><td>The fulfilling acceptance Rickie finds at Cambridge, and his growing skill as a writer, are the stakes of Cal’s sacrificial return to the island. Rickie’s misfit marriage and sham teaching job at Sawston are the island he must leave. And in standing up for himself against Pembroke, Stephen is Innes escaping at last.</td></tr>
   </tbody>
 </table>
 

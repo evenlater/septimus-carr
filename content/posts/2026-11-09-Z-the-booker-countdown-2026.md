@@ -1,7 +1,7 @@
 ---
 series: "BOOKER PRIZE COUNTDOWN"
 title: "The Booker Season Reaches Its Conclusion"
-subtitle: "Enter here to celebrate today’s winner with complete reviews of the six top Booker contestants and six classic novels that share their spirit."
+subtitle: I wrote complete reviews of the six top Booker contestants and paired them with  six classic novels that share their spirit."
 date: 2026-11-09
 draft: false
 feature: true
@@ -58,8 +58,7 @@ readDates:
 
 The nice thing about an award like this is that it can put a challenging book like this in front of readers who would never otherwise encounter it. I am not the sort of reader who is steeped in the traditions that he was exploring, nor did I do extensive external research into his purpose. His delightfully idiosyncratic novel demands a thorough context. But I am cheered that the jury was willing to make a daring choice.
 
-
-I ranked and reviewed each of the shortlisted novels. I also paired each novel with a classic. The winner of the 2026 Booker Prize will be announced at 9:45 PM GMT. It will be livestreamed on <a href="https://www.youtube.com/results?search_query=The+Booker+Prizes+YouTube+Channel" target="_blank">The Booker Prizes YouTube Channel</a>.
+I ranked and reviewed each of the shortlisted novels. I also paired each novel with a classic. The winner of the 2026 Booker Prize was announced November 9, 2026 at 9:45 PM GMT. You can watch the recording of the ceremony at <a href="https://www.youtube.com/results?search_query=The+Booker+Prizes+YouTube+Channel" target="_blank">The Booker Prizes YouTube Channel</a>.
 
 <table class="booker-countdown">
   <caption>Booker Countdown 2026</caption>
@@ -113,7 +112,7 @@ I ranked and reviewed each of the shortlisted novels. I also paired each novel w
     <tr><th scope="row">My Review</th><td><a href="https://septimuscarr.com/posts/2026-11-09-john-of-john-booker-win/" target="_blank" rel="noopener">Staying is The Longest Journey</a></td></tr>
     <tr><th scope="row">Summary</th><td>In sheer wattage per page, Douglas Stuart’s richly textured, deeply pained, and inerrantly true novel was the most moving and wryly satisfying book of the year.</td></tr>
     <tr><th scope="row">Classic Pairing</th><td><em>The Longest Journey</em> by E.M. Forster</td></tr>
-    <tr><th scope="row">Why</th><td>The fulfilling acceptance Rickie finds at Cambridge are the stakes of Cal’s sacrificial return to the island. Rickie’s misfit marriage and sham teaching job at Sawston are the island he must leave. And in standing up for himself against Pembroke, Stephen is Innes escaping at last.</td></tr>
+     <tr><th scope="row">Why</th><td>The fulfilling acceptance Rickie finds at Cambridge, and his growing skill as a writer, are the stakes of Cal’s sacrificial return to the island. Rickie’s misfit marriage and sham teaching job at Sawston are the island he must leave. And in standing up for himself against Pembroke, Stephen is Innes escaping at last.</td></tr>
   </tbody>
 </table>
 
