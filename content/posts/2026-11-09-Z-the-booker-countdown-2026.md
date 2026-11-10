@@ -1,7 +1,7 @@
 ---
 series: "BOOKER PRIZE COUNTDOWN"
 title: "The Booker Season Reaches Its Conclusion"
-subtitle: I wrote complete reviews of the six top Booker contestants and paired them with  six classic novels that share their spirit."
+subtitle: I wrote reviews of the six top Booker contestants and paired them with six classic novels
 date: 2026-11-09
 draft: false
 feature: true
