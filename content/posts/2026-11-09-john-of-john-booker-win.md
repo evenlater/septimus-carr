@@ -1,6 +1,6 @@
 ---
 series: "BOOKER PRIZE COUNTDOWN - FIRST PLACE"
-title: "Staying is \"The Longest Journey\""
+title: "Staying is \"The Longest Journey\" in \"John of John\""
 subtitle: "A comparison of my Booker Prize favorite, Douglas Stuart’s \"John of John\" to E.M. Forster’s \"The Longest Journey\" shows its worthiness" 
 date: 2026-11-09
 draft: false
