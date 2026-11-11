@@ -118,6 +118,8 @@ I ranked and reviewed each of the shortlisted novels. I also paired each novel w
 
 My thanks to Zay Pareltheon, Viraji Ogodapola, Mario López-Goicoechea, Sally A Mortemore and Pablo Pereya at <a href="https://medium.com/the-howling-owl/" target="_blank">The Howling Owl</a> for publishing the entire series and for their patient support of the project.
 
+Thanks also to Sadie Seroxcat of Counter Arts for giving the "John of John" review a place worth staying and for being such a generous supporter of the work.	
+
 Additional thanks to Riverhead Books and NetGalley for providing early access to *The End of Everything*, to my family for reading and for understanding, to Tim and Rosemary for their flexibility, and to Gila for conceiving of the project.
 
 Read more about the shortlisted novels and authors at https://thebookerprizes.com/.
