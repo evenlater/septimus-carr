@@ -90,7 +90,7 @@ James’s distinctively gay equivalent of Morrison’s African American superpow
 
 "124 was spiteful," are the first three words of <i>Beloved</i>. "Full of a baby’s venom."
 
-"I think that’s a brilliant beginning technically," says Byatt, "It says this is a novel about spite. Which is a strange thing for a novel to be about. Not love, not hate, but spite. Which is a strange thing for a novel to be about." It is righteous spite that leads Sethe to <i>Beloved</i>’s horrifying act of defiance, murdering her baby to protect it from slavery.
+"I think that’s a brilliant beginning technically," says Byatt, "It says this is a novel about spite. Not love, not hate, but spite. Which is a strange thing for a novel to be about." It is righteous spite that leads Sethe to <i>Beloved</i>’s horrifying act of defiance, murdering her baby to protect it from slavery.
 
 Spite defines James’s second narrator, Jordan Brown. He is a badass homosexual who bests a crowd of gay-bashers in a 1988 attack on a gay theater company in Kingston that is the defining horrifying act of <i>The Disappearers</i>. (The gay bashing is based on widespread rumor.)
 Jordan makes it his business to track down self-hating gays involved in the incident and lead them down a path of destruction through seduction. Jordan is so spiteful that he has anal sex in front of the hospital bed of his immobile father, a virulently abusive homophobe who has suffered a stroke.
