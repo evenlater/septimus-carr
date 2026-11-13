@@ -5,7 +5,7 @@
 [build.environment]
   HUGO_VERSION  = "0.161.1"
   HUGO_EXTENDED = "true"
-  # PLAUSIBLE_SITE_ID is just the public domain, which appears throughout the site.
-  # Without this, Netlify secrets scanning flags every page and fails the build.
+  # PLAUSIBLE_SITE_ID (the public domain) and PLAUSIBLE_EXCLUDE_CITY (a city name) are not secrets,
+  # but their values appear in site files. Without this, Netlify secrets scanning fails the build.
   # PLAUSIBLE_API_KEY is deliberately NOT listed, so it stays scanned.
-  SECRETS_SCAN_OMIT_KEYS = "PLAUSIBLE_SITE_ID"
+  SECRETS_SCAN_OMIT_KEYS = "PLAUSIBLE_SITE_ID,PLAUSIBLE_EXCLUDE_CITY"

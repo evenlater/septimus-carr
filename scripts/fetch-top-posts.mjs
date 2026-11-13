@@ -11,7 +11,7 @@
 //   PLAUSIBLE_HOST                optional  default https://plausible.io
 //   TOP_POSTS_DAYS                optional  rolling window, default 90
 //   TOP_POSTS_MIN_VISITORS        optional  floor to be listed, default 3
-//   PLAUSIBLE_EXCLUDE_CITY        optional  e.g. "Cicero" to leave out your own visits
+//   PLAUSIBLE_EXCLUDE_CITY        optional  a city name, to leave your own visits out
 
 import { writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
