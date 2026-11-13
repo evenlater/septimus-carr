@@ -464,6 +464,28 @@
   .feat-tl, .arch-pick { padding-left: 20px; padding-right: 20px; }
 }
 
+/* ── Homepage: From the Archive + Most Read Lately, side by side ──
+   auto-fit means a lone box (e.g. no Plausible data yet) goes full width,
+   and two boxes sit as a pair that stacks on narrow screens. While the
+   archive pick is still hidden (it is filled in by JS) its slot is held
+   with visibility so the Most Read box doesn't jump when it appears. ── */
+.home-pair { background: #F7F3EC; padding: 4px 48px 28px; display: grid;
+             grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 24px; }
+.home-pair .arch-pick { padding: 0; display: flex; flex-direction: column; min-width: 0; }
+.home-pair .arch-pick[hidden] { display: flex; visibility: hidden; }
+.home-pair .arch-pick-link { flex: 1; }
+.most-read { min-width: 0; display: flex; flex-direction: column; }
+.most-read-list { flex: 1; border: 1px solid #E2D9CC; padding: 2px 14px; display: flex; flex-direction: column; justify-content: center; }
+.most-read-item { display: flex; align-items: center; gap: 16px; text-decoration: none; color: inherit;
+                  padding: 8px 0; border-top: 1px solid #EFE8DD; }
+.most-read-item:first-child { border-top: 0; }
+.most-read-item .arch-pick-img-wrap { width: 44px; height: 44px; }
+.most-read-item:hover .arch-pick-title { color: #8B1A28; }
+@media (max-width: 640px) {
+  .home-pair { padding-left: 20px; padding-right: 20px; grid-template-columns: 1fr; }
+}
+
+
 /* ── Sticky reading bar: logo now links back to the homepage ── */
 .sticky-logo-link { display: flex; align-items: center; flex-shrink: 0; }
 

@@ -30,6 +30,28 @@
   {{ end }}
 {{ end }}
 
+{{/* ── MOST READ LATELY: data/topposts.json is written at build time by
+     scripts/fetch-top-posts.mjs (Plausible, rolling 90 days, ranked by visitors).
+     Only paths that match a real essay here survive, which drops retired slugs,
+     stray URLs, Notes, and the featured hero. If the file is empty or missing,
+     the box simply doesn't render. ── */}}
+{{ $byPath := dict }}
+{{ range $posts }}
+  {{ $byPath = merge $byPath (dict .RelPermalink .) }}
+{{ end }}
+{{ $mostRead := slice }}
+{{ $mostReadURLs := slice }}
+{{ with site.Data.topposts }}
+  {{ range .posts }}
+    {{ if lt (len $mostRead) 3 }}
+      {{ with index $byPath .path }}
+        {{ $mostRead = $mostRead | append . }}
+        {{ $mostReadURLs = $mostReadURLs | append .Permalink }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
 {{/* ── FEATURED ESSAY ── */}}
 {{ with $feat }}
 <div class="sc-feat">
@@ -73,7 +95,14 @@
 </div>
 
 {{/* ── FROM THE ARCHIVE (one deterministic-per-day pick, always older than what's already on this page) ── */}}
-{{ $archivePool := after (sub $onPageCount 1) $posts }}
+{{ $archivePool := slice }}
+{{ range after (sub $onPageCount 1) $posts }}
+  {{ if not (in $mostReadURLs .Permalink) }}
+    {{ $archivePool = $archivePool | append . }}
+  {{ end }}
+{{ end }}
+{{ if or $archivePool $mostRead }}
+<div class="home-pair">
 {{ if $archivePool }}
 {{ $archiveItems := slice }}
 {{ range $archivePool }}
@@ -96,6 +125,24 @@
       <span id="archPickDate" class="arch-pick-date"></span>
     </span>
   </a>
+</div>
+{{ end }}
+{{ if $mostRead }}
+<div class="most-read">
+  <span class="arch-pick-eyebrow">Most Read Lately</span>
+  <div class="most-read-list">
+    {{ range $mostRead }}
+    <a href="{{ .Permalink }}" class="most-read-item">
+      {{ with .Params.image }}<span class="arch-pick-img-wrap"><img class="arch-pick-img" src="{{ . }}" alt="" loading="lazy"></span>{{ end }}
+      <span class="arch-pick-text">
+        <span class="arch-pick-title">{{ .Title }}</span>
+        <span class="arch-pick-date">{{ .Date.Format "January 2, 2006" }}</span>
+      </span>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
 </div>
 {{ end }}
 

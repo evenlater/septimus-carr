@@ -1,0 +1,24 @@
+# Triggers a Netlify build once a day so the "Most Read Lately" box (90-day window)
+# stays current even on days with no new post.
+# Needs a repository secret named NETLIFY_BUILD_HOOK containing the build hook URL
+# (Settings > Secrets and variables > Actions > New repository secret).
+name: Daily rebuild
+
+on:
+  schedule:
+    - cron: '23 10 * * *'
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Netlify build hook
+        env:
+          HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "::warning::NETLIFY_BUILD_HOOK secret is not set; nothing triggered."
+            exit 0
+          fi
+          curl -fsS -X POST -d '{}' "$HOOK"
