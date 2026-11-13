@@ -39,9 +39,11 @@
 {{ range $posts }}
   {{ $byPath = merge $byPath (dict .RelPermalink .) }}
 {{ end }}
+{{ $showComing := false }}
+{{ with hugo.Data.comingsoon }}{{ if .show }}{{ $showComing = true }}{{ end }}{{ end }}
 {{ $mostRead := slice }}
 {{ $mostReadURLs := slice }}
-{{ with site.Data.topposts }}
+{{ with hugo.Data.topposts }}
   {{ range .posts }}
     {{ if lt (len $mostRead) 3 }}
       {{ with index $byPath .path }}
@@ -101,8 +103,9 @@
     {{ $archivePool = $archivePool | append . }}
   {{ end }}
 {{ end }}
-{{ if or $archivePool $mostRead }}
+{{ if or $archivePool $mostRead $showComing }}
 <div class="home-pair">
+{{ if or $archivePool $showComing }}<div class="home-col">{{ end }}
 {{ if $archivePool }}
 {{ $archiveItems := slice }}
 {{ range $archivePool }}
@@ -127,6 +130,23 @@
   </a>
 </div>
 {{ end }}
+{{/* ── COMING SOON: copy and images live in data/comingsoon.yaml ── */}}
+{{ if $showComing }}
+{{ with hugo.Data.comingsoon }}
+<div class="coming-soon">
+  <span class="arch-pick-eyebrow">Coming Soon</span>
+  <div class="coming-soon-body">
+    {{ with .images }}
+    <div class="coming-soon-imgs">
+      {{ range . }}<img src="{{ .src }}" alt="{{ .alt }}" loading="lazy">{{ end }}
+    </div>
+    {{ end }}
+    {{ with .text }}<p class="coming-soon-text">{{ . | safeHTML }}</p>{{ end }}
+  </div>
+</div>
+{{ end }}
+{{ end }}
+{{ if or $archivePool $showComing }}</div>{{ end }}
 {{ if $mostRead }}
 <div class="most-read">
   <span class="arch-pick-eyebrow">Most Read Lately</span>

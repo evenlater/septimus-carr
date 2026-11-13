@@ -1,0 +1,18 @@
+# The "Coming Soon" box on the homepage (sits under From the Archive).
+#
+# To change it, edit this file and push. No template work needed.
+#   show:    set to false to hide the whole box.
+#   images:  shown two per row, in this order (paths under static/).
+#   text:    your copy. HTML is fine here (<b>, <i>, <br>, <a href="...">).
+show: true
+images:
+  - src: /img/miss-lambert-steps-aboard-danger-cover.jpg
+    alt: Cover of Miss Lambert Steps Aboard Danger
+  - src: /img/ishiguro.jpg
+    alt: Kazuo Ishiguro
+  - src: /img/cash-out-cover.jpg
+    alt: Cover of Nick Hornby's new book
+  - src: /img/hornby-headshot.jpg
+    alt: Nick Hornby
+text: |
+  In the coming weeks, Septimus will review new books by <b>Kazuo Ishiguro</b> (<i>The Remains of the Day</i>, <i>Never Let Me Go</i>) and <b>Nick Hornby</b> (<i>High Fidelity</i>, <i>About a Boy</i>).<br>Hornby’s <i>Cash Out</i> takes him back to the soccer pitch and features his first gay lead. It's in stores January 12.<br>Ishiguro’s <i>Miss Lambert Steps Aboard Danger</i> is billed as "a disarming caper" set in 1938. It drops March 9.<br>Subscribe for details!
