@@ -68,13 +68,13 @@ We believe reading thousands of words on classic or literary fiction should be f
 
 Shop for literary insight by 
 <ul>
-  <li><a href="http:\\septimuscarr.com\posts" target="_blank">Release Date</a></li>
+  <li><a href="/posts/" target="_blank">Release Date</a></li>
   <li>Keyword (use the magnifying glass at the top of the screen)</li>
-  <li><a href="http:\\septimuscarr.com\categories" target="_blank">Genre</a></li>
-  <li><a href="http:\\septimuscarr.com\categories\multi" target="_blank">Structure</a> ("Multi" refers to joint reviews, a favored house form.)</li>
-  <li><a href="http:\\septimuscarr.com\authors" target="_blank">Author</a> (one page for each essay subject, with notes on every reference made to them across all essays)</li>
-  <li><a href="http:\\septimuscarr.com\calendar" target="_blank">Day / Week / Month</a> (publication dates, reading start and end dates, personal history pertinent to the work, like every play Septimus saw in his January 1995 trip to London.)</li>
-  <li><a href="http:\\septimuscarr.com\timeline" target="_blank">Year / Decade / Century</a> (Napoleon Bonaparte takes over France! The opening performance of the Bellini opera <i>I Puritani</i>! The Flash’s heroic demise in the crisis on infinite earths!)</li>
+  <li><a href="/categories/" target="_blank">Genre</a></li>
+  <li><a href="/categories/multi/" target="_blank">Structure</a> ("Multi" refers to joint reviews, a favored house form.)</li>
+  <li><a href="/authors/" target="_blank">Author</a> (one page for each essay subject, with notes on every reference made to them across all essays)</li>
+  <li><a href="/calendar/" target="_blank">Day / Week / Month</a> (publication dates, reading start and end dates, personal history pertinent to the work, like every play Septimus saw in his January 1995 trip to London.)</li>
+  <li><a href="/timeline/" target="_blank">Year / Decade / Century</a> (Napoleon Bonaparte takes over France! The opening performance of the Bellini opera <i>I Puritani</i>! The Flash’s heroic demise in the crisis on infinite earths!)</li>
 </ul><br>                
   
 The idea is to underscore intertextual interactions. Have fun! Filter! Play! Ignore! 
