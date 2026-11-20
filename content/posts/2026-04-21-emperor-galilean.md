@@ -5,8 +5,11 @@ draft: false
 categories: ["Drama","Classics"]
 authors: ["Henrik Ibsen"]
 subtitle: "Grappling with irreconcilable tensions between \"Emperor and Galilean\""
-image: "/img/ibsen.jpg"
+image: "/img/two-christianities.png"
 imagePosition: "Center"
+imageFit: ""
+photoCredit: 'Priest of Sarapis wearing the pallium and a sacerdotal crown, formerly thought to be a representation of Julian the Apostate, public domain. ID <a href="https://www.dreamstime.com/henrik-ibsen-was-norwegian-playwright-theatre-director-old-book-history-essays-v-m-friche-moscow-image239435108">239435108</a> | <a href="https://www.dreamstime.com/photos-images/henrik-ibsen.html">Henrik Ibsen</a> © 
+<a href="https://www.dreamstime.com/wowinside_info">Volodymyr Polotovskyi</a> | <a href="https://www.dreamstime.com/">Dreamstime.com</a> '
 book:
   title: "Emperor and Galilean"
   author: "Henrik Ibsen"
@@ -15,6 +18,7 @@ book:
   cover: "/img/emperor-galilean-cover.jpg"
 links:
   substack: "https://septimuscarr.substack.com/p/henrik-ibsen-and-the-two-christianities"
+  medium: ""
   goodreads: "https://www.goodreads.com/review/show/8357573946"
   reddit: "https://www.reddit.com/r/TrueLit/comments/1sjjv94/henrik_ibsen_and_the_two_christianities/"
 readDates:
@@ -32,7 +36,7 @@ When I read multiple books at once, I usually try to keep them firmly segregated
 The next morning, essayist John Jeremiah Sullivan's collection Pulphead jumped its boundaries to directly reply to Julian’s Christ-haunted tirade.
 
 >[Jesus] was the most beautiful dude. Forget the Epistles, forget all the bullying stuff that came later. Look at what He said…. There’s your man. His breakthrough was the aestheticization of weakness. Not in what conquers, not in glory, but in what’s fragile, and what suffers—there lies sanity. And salvation. “Let anyone who has power renounce it,” he said. “Your father is compassionate to all, as you should be.” That’s how He talked, to those who knew Him. Why should he vex a person? Why is His ghost not friendlier? Why can’t I just be a good child of the Enlightenment and see in His life a sustaining example of what we can be, as a species? Once you’ve known Him as a god, it’s hard to find comfort in the man. 
-><cite>John Jeremiah Sullivan, <em>Pulphead: Essays</em>></cite>
+><cite>John Jeremiah Sullivan, <em>Pulphead: Essays</em></cite>
 
 How could the omnipotent judge vexing Julian be the same man as Sullivan’s power-averse humanitarian? Ibsen and Sullivan were both grappling with the inherent tension between the two Christianities, one focused on the tolerant humility of the “Carpenter’s son,” as Julian calls him, and the other fixated on his elevation to the strata of ultimate power. The historical Emperor Julian (331- 363) tried to halt the growth of this second Christianity by restoring the polytheistic paganism of his forefathers. In Ibsen’s telling, however, Julian’s only alternative to the oxymoronic concept of a “Christian Empire” is to place his own conflicted, vacillating self at the head of another bullying theocracy.
 
