@@ -19,7 +19,7 @@ book:
   isbn: "9781101462430"
   cover: "/img/madame-bovary-cover.jpg"
 links:
-  substack: ""
+  substack: "https://septimuscarr.substack.com/p/three-madames-bovary-who-failed-to"
   goodreads: ""
   reddit: ""
   medium: ""
@@ -105,7 +105,7 @@ Of course, any <i>Madame Bovary</i> falls flat without a convincing diva in the 
 
 Chabrol picked one of my favorite actresses for the role. I first saw Isabelle Huppert at the Barbican Cinema in London in 1995, and I was amazed by her ability to speak volumes without lifting an eyebrow. In Hal Hartley’s <i>Amateur</i>, she smokes placidly in a diner, whispering filthy erotica to herself thoughtfully as she types in her booth. <i>"SETTLE DOWN, LADY!"</i> screams the proprietor, a gag that only works because Huppert is so unimpeachably understated.
 
-But Huppert’s singular gift seems ill-suited to this role. She’d make a desolating Masha in Anton Chekhov’s <i>The Seagull</i> (the one who always wears black because she is "in mourning for her life"), but Madame Bovary isn’t Masha. She’s Madame Arkadina, the stage star who abases herself to keep her man and blows on her fingernails in confident celebration when it works. Chekhov’s running gag is that the superstar is embarrassingly tightfisted, tossing a coin to a group of servants and warmly encourages them to split it. Flaubert inverts that joke in <i>Madame Bovary</i>:
+But Huppert’s singular gift seems ill-suited to this role. She’d make a desolating Masha in Anton Chekhov’s <i>The Seagull</i> (the one who always wears black because she is "in mourning for her life"), but Madame Bovary isn’t Masha. She’s Madame Arkadina, the stage star who abases herself to keep her man and blows on her fingernails in confident celebration when it works. Chekhov’s running gag is that the superstar is embarrassingly tightfisted, tossing a coin to a group of servants and warmly encouraging them to split it. Flaubert inverts that joke in <i>Madame Bovary</i>:
 
 >Emma Bovary, after being turned away by her bankers and abandoned by Léon, climbs into a coach. At its open door a beggar "emitted a sort of muffled howl." She instantly "flung him a five-franc coin over her shoulder. It was her whole fortune. She thought it quite fine, tossing the coin like that." It really was her whole fortune. She was coming to the end. But the last sentence … reveals what Flaubert saw very well but Emma was unaware of: she did not merely make a generous gesture; she was pleased with herself for making it … innocently, wishing to look fine for her own sake. A gleam of tender irony will never leave her, even as she progresses toward the death that is already so near.
 <cite>Milan Kundera, <em>The Curtain: An Essay in Seven Parts</em></cite>
