@@ -527,4 +527,20 @@
     padding-top: 32px;
   }
 }
+
+/* ── Select Bibliography (end of essay; data/books/*.yaml via `sources:`) ── */
+.post-bibliography { margin: 56px 0 0; }
+.post-bibliography .rel-head { margin-bottom: 20px; }
+.bib-list { list-style: none; margin: 0; padding: 0; }
+.bib-item {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 15.5px; line-height: 1.55; color: #4A3F36;
+  padding: 0 0 0 2em; text-indent: -2em;   /* hanging indent */
+  margin: 0 0 12px;
+}
+.bib-item:last-child { margin-bottom: 0; }
+.bib-item em { color: #2A0E38; }
+.bib-item a { color: #2A0E38; text-decoration-color: #C4A055; }
+@media (max-width: 640px) {
+  .bib-item { font-size: 14.5px; padding-left: 1.5em; text-indent: -1.5em; }
 }

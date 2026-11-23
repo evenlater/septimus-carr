@@ -207,8 +207,53 @@ collections:
             widget: string
             required: false
 
+      - label: Bibliography Sources
+        name: sources
+        widget: relation
+        collection: books
+        value_field: '{{slug}}'
+        search_fields: [author, title]
+        display_fields: ['{{author}} — {{title}}']
+        multiple: true
+        required: false
+        hint: >-
+          Type part of an author or title to find a book. Not in the list
+          yet? Click "Add" to create it here; it is copied to the other
+          sites' bibliographies automatically.
+
       - label: Body
         name: body
         widget: markdown
         editor_components: [pull-quote, section-head]
         modes: [rich_text, raw]
+
+  - name: books
+    label: Bibliography
+    label_singular: Book
+    folder: data/books
+    extension: yaml
+    format: yaml
+    create: true
+    delete: false
+    identifier_field: title
+    slug: '{{author}}-{{title}}'
+    summary: '{{author}} — {{title}}'
+    sortable_fields: [author, title, year]
+    fields:
+      - label: Author
+        name: author
+        widget: string
+        hint: 'Last name first, e.g. "Kundera, Milan" or "Jacobs, Alphonse, ed."'
+
+      - { label: Title, name: title, widget: string }
+
+      - { label: Year, name: year, widget: number, value_type: int, required: false }
+
+      - label: Citation
+        name: citation
+        widget: string
+        required: false
+        hint: >-
+          The entry exactly as it should appear on the page. Put *asterisks*
+          around the title for italics, e.g.
+          Kundera, Milan. *The Curtain: An Essay in Seven Parts.* New York: Harper Perennial, 2007.

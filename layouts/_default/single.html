@@ -95,6 +95,36 @@
 
     <div class="art-end">&#9670; &#9670; &#9670;</div>
 
+    {{/* ── BIBLIOGRAPHY ──
+         Front matter `sources:` lists book keys = file names in data/books/
+         (without .yaml), in the order they should appear. Same data and
+         apparatus as Stages & Screens and Ideational Evolution; book files
+         are synced across the sites by .github/workflows/sync-books.yml. */}}
+    {{ with .Params.sources }}
+    <footer class="post-bibliography">
+      <div class="rel-head">
+        <span>Select Bibliography</span>
+        <div class="rel-rule"></div>
+      </div>
+      <ul class="bib-list">
+        {{ range . }}
+        {{ $bookID := . }}
+        {{ with index hugo.Data.books $bookID }}
+        <li class="bib-item">
+          {{ with .citation }}
+            {{ . | markdownify }}
+          {{ else }}
+            {{ .author }}. <em>{{ .title }}</em>{{ with .edition }}, {{ . }}{{ end }}.{{ with .city }} {{ . }}:{{ end }} {{ .publisher }}, {{ .year }}.
+          {{ end }}
+        </li>
+        {{ else }}
+        {{ warnf "%s: bibliography source %q not found in data/books/" $.File.Path $bookID }}
+        {{ end }}
+        {{ end }}
+      </ul>
+    </footer>
+    {{ end }}
+
   </div>
 </div>
 

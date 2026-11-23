@@ -26,6 +26,13 @@ links:
 readDates:
    start: "2026-09-14"
    end: "2026-09-26"
+sources:
+  - flaubert_madame_bovary
+  - kundera_the_curtain
+  - jacobs_flaubert_sand_the_correspondence
+  - hall_exposed_by_the_mask
+  - barnes_flaubert’s_parrot
+  - wood_the_broken_estate
 historicalEvents:
   - date: "1821-12-12"
     label: "Gustave Flaubert born"
