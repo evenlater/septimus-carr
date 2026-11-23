@@ -8,7 +8,7 @@ authors: ["Gustave Flaubert"]
 image: "/img/three-bovaries.png"
 imageMobile: "/img/three-bovaries.png"
 imageHero: "/img/three-bovaries.png"
-imageFit: ""
+imageFit: "Contain"
 imagePosition: "Top"
 imageAlt: "Frances O’Connor, Mia Wasikowska, and Isabelle Huppert as Madame Bovary"
 photoCredit: 'Photos: Frances O’Connor in the 2000 BBC version, Mia Wasikowska in the 2014 film (Radiant Films International), Isabelle Huppert in the 1991 film. Composite by Septimus Carr in Canva.'
