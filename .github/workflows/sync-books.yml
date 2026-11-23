@@ -1,0 +1,28 @@
+# Copies new/changed bibliography files to the other sites.
+# Script and repo list: .github/scripts/sync-books.sh (identical in all four repos).
+name: Sync bibliography
+
+on:
+  push:
+    branches: [main]
+    paths: ['data/books/**']
+  workflow_dispatch:   # "Run workflow" button on the Actions tab = full sync
+
+concurrency:
+  group: book-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    # Skip commits that are themselves the result of a sync (prevents ping-pong).
+    if: ${{ !startsWith(github.event.head_commit.message, '[book-sync]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Copy book files to the other repos
+        run: bash .github/scripts/sync-books.sh
+        env:
+          GH_TOKEN: ${{ secrets.BOOK_SYNC_TOKEN }}
+          BEFORE: ${{ github.event.before }}
