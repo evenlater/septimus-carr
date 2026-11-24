@@ -31,12 +31,12 @@ sources:
   - barthes_madame_bovary
   - chabrol_madame_bovary
   - chekhov_the_seagull
-  - fywell_madame_bovary
   - flaubert_madame_bovary
+  - fywell_madame_bovary
   - goldsmith_henson’s_place
+  - hall_exposed_by_the_mask
   - hartley_amateur
   - kundera_the_curtain
-  - hall_exposed_by_the_mask
   - sand_flaubert_sand-flaubert_letters
   - wood_the_broken_estate
 historicalEvents:
