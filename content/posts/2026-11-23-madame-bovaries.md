@@ -30,8 +30,10 @@ sources:
   - barnes_flaubert’s_parrot
   - barthes_madame_bovary
   - chabrol_madame_bovary
+  - chekhov_the_seagull
   - fywell_madame_bovary
   - flaubert_madame_bovary
+  - goldsmith_henson’s_place
   - kundera_the_curtain
   - hall_exposed_by_the_mask
   - sand_flaubert_sand-flaubert_letters
