@@ -34,6 +34,7 @@ sources:
   - fywell_madame_bovary
   - flaubert_madame_bovary
   - goldsmith_henson’s_place
+  - hartley_amateur
   - kundera_the_curtain
   - hall_exposed_by_the_mask
   - sand_flaubert_sand-flaubert_letters
