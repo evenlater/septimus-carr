@@ -5,7 +5,7 @@ date: 2026-11-23
 draft: false
 categories: ["Classics","Fiction"]
 authors: ["Gustave Flaubert"]
-image: "/img/three-bovaries.png"
+image: "/img/three-bovaries-and-a-flaubert.png"
 imageMobile: "/img/three-bovaries-and-a-flaubert.png"
 imageFit: ""
 imageHero: "/img/three-bovaries-and-a-flaubert.png"
