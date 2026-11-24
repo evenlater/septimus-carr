@@ -7,9 +7,9 @@ categories: ["Classics","Fiction"]
 authors: ["Gustave Flaubert"]
 image: "/img/three-bovaries.png"
 imageMobile: "/img/three-bovaries.png"
-imageFit: ""
+imageFit: "contain"
 imageHero: "/img/three-bovaries.png"
-imagePosition: "Top 5%"
+imagePosition: "Top"
 imageAlt: "Frances O’Connor, Mia Wasikowska, and Isabelle Huppert as Madame Bovary"
 photoCredit: 'Photos: Frances O’Connor in the 2000 BBC version, Mia Wasikowska in the 2014 film (Radiant Films International), Isabelle Huppert in the 1991 film. Composite by Septimus Carr in Canva.'
 book:  
@@ -27,11 +27,14 @@ readDates:
    start: "2026-09-14"
    end: "2026-09-26"
 sources:
+  - barnes_flaubert’s_parrot
+  - barthes_madame_bovary
+  - chabrol_madame_bovary
+  - fywell_madame_bovary
   - flaubert_madame_bovary
   - kundera_the_curtain
-  - jacobs_flaubert_sand_the_correspondence
   - hall_exposed_by_the_mask
-  - barnes_flaubert’s_parrot
+  - sand_flaubert_sand-flaubert_letters
   - wood_the_broken_estate
 historicalEvents:
   - date: "1821-12-12"
