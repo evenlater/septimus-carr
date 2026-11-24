@@ -147,7 +147,7 @@ He even added a grand phrase, the only one he had ever spoken:<br>
 "Fate is to blame!"<br>
 <cite>Gustave Flaubert, <em>Madame Bovary</em></cite></blockquote>
 
-Sophocles or Homer might have allowed that diagnosis to let Rodolphe off the hook for his caddish seduction and abandonment, but Flaubert is having none of that. "Rodolphe, who had determined the course of that fate, found him very good-natured for a man in his situation, comical even, and rather low." The gloriously nuanced psychology of that exchange allows Flaubert to pass judgment on Rodolphe over the head of his passive narrator, simultaneously establishing Charles’s goodhearted weakness and Rodolphe’s wicked strength. 
+Sophocles or Homer might have allowed that diagnosis to let Rodolphe off the hook for his caddish seduction and abandonment, but Flaubert is having none of that. "Rodolphe, who had determined the course of that fate, found him very good-natured for a man in his situation, comical even, and rather low." The gloriously nuanced psychology of that exchange allows Flaubert to pass judgment on Rodolphe over the head of his passive narrator, simultaneously establishing Charles’s goodhearted weakness and Rodolphe’s wicked strength. Charles arraigns the gods because that is *easier* than apprehending the culprit, Rodolphe, who is *right there*, literally laughing at Charles for performing his own acquittal. "Oh, *Charles*," the reader chuckles in pained compassion—at the same instant we are sharing a laugh at his expense, yes, laughing in derision with the poor fool’s very tormenter. All in a sentence. This is Flaubert in a nutshell.   
 
 Barthes skips the scene entirely; who cares about the men? Emma drinks poison, runs into the woods, and dies a solitary victim of the patriarchy. The BBC concludes with a solemn funeral procession that includes Emma’s three sorrowful exes. They mourn but never interact. Chabrol is in the right neighborhood—Charles does tearfully utter "Fate’s to blame!" as he leaves her deathbed—but Rodolphe is not among the crowd of expressionistically stony-faced men addressed by Charles. Chabrol gestures at comedy, but, in reality, he doesn’t trust Flaubert’s wit any more than the others.
 
@@ -156,7 +156,7 @@ And I suspect that is the real cause, the cause, my soul, of cinema’s tongue-o
 >No, it is untrue that "goodness is too much absent" in Madame Bovary; the hitch is something else: that stupidity is too much present. This is the reason Charles cannot be used as the "uplifting picture" Sainte-Beuve would have liked to see. But … in the soul of all things human, everywhere, [Flaubert] sees it dancing, the sweet fairy of stupidity.
 <cite>Milan Kundera, <em>The Curtain: An Essay in Seven Parts</em></cite>
 
-The filmmakers run from Flaubert because he takes such unsparing aim at stupidity. Nobody wants to spend hundreds of thousands of dollars on a motion picture that calls its audience stupid.
+The filmmakers run from Flaubert because he takes such unsparing aim at stupidity. Nobody wants to spend millions of dollars on a motion picture that calls its audience stupid.
 
 So Fywell the Brit defangs the novel’s satiric bite and replaces it with transported Victorian reticence. <i>"Did he say ‘stupid’? Heavens no, he really meant ‘shy.’"</i> 
 
