@@ -10,8 +10,8 @@ imageMobile: "/img/three-bovaries-and-a-flaubert.png"
 imageFit: ""
 imageHero: "/img/three-bovaries-and-a-flaubert.png"
 imagePosition: "Center"
-imageAlt: 'Frances O’Connor, Mia Wasikowska, and Isabelle Huppert as Madame Bovary"
-photoCredit: 'Photos: Frances O’Connor in the 2000 BBC adaptation; Mia Wasikowska in Sophie Barthes’s 2014 film (photo: Radiant Films International/Alamy Stock Photo); Isabelle Huppert in Claude Chabrol’s 1991 film. Composite by Septimus Carr using Canva.'
+imageAlt: 'Frances O’Connor, Mia Wasikowska, and Isabelle Huppert as Madame Bovary; Gustave Flaubert looks on."
+photoCredit: 'Photos of Frances O’Connor (2000); Mia Wasikowska (Radiant Films International|Alamy Stock Photo, 2014); Isabelle Huppert (1991). Painting of Gustave Flaubert by Eugène Giraud. Composite by Septimus Carr using Canva.'
 book:  
   title: "Madame Bovary"
   author: "Gustave Flaubert"
