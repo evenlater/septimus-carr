@@ -38,7 +38,7 @@ sources:
   - wood_the_broken_estate
 historicalEvents:
   - date: "1821-12-12"
-    label: "Gustave Flaubert born"
+    label: "Gustave Flaubert born."
   - date: "1851-09-20"
     label: "Flaubert starts writing Madame Bovary"
   - date: "1857-01-01"
