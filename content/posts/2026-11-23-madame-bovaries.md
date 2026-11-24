@@ -7,7 +7,7 @@ categories: ["Classics","Fiction"]
 authors: ["Gustave Flaubert"]
 image: "/img/three-bovaries.png"
 imageMobile: "/img/three-bovaries.png"
-imageFit: "contain"
+imageFit: ""
 imageHero: "/img/three-bovaries.png"
 imagePosition: "Top"
 imageAlt: "Frances O’Connor, Mia Wasikowska, and Isabelle Huppert as Madame Bovary"
