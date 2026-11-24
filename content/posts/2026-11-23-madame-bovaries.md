@@ -171,6 +171,8 @@ It’s worth noting, however, that Sand was already considering a retraction of 
 
 We should recognize Davis’s implication that Flaubert wept <i>at multiple points in</i> the writing process, and not just in the ending Wood admired. Flaubert grudgingly confessed of his creations that "I am in their skin." It is easy to miss the self-indictment implicit in Flaubert’s caustic portrayal of our species. "He could not shave, for instance," writes Davis, "without laughing at the stupidity of it." 
 
-That’s the compassionate core of Flaubert’s comedy that I felt instinctively in Charles’s helpless love for a woman who loathes him and Emma’s helpless contempt for a man who adores her. Flaubert’s interest in stupidity is not merely derisive; it is taxonomic. It classifies the lot of us. Perhaps Guarded Gustave desired the immolation of his masterpiece not because it made him feel like a One Hit Wonder but for Oz’s reason: inhabiting Madame Bovary exposed the soft, feminine kernel beneath his bristly, masculine pique. In the end, for literary purposes, the pained compassion and the comic bite are the same mechanism. "Get hurt, cover the hurt, and make it funny." 
+That’s the compassionate core of Flaubert’s comedy that I felt instinctively in Charles’s helpless love for a woman who loathes him and Emma’s helpless contempt for a man who adores her. Flaubert’s interest in stupidity is not merely derisive; it is taxonomic. It classifies the lot of us. 
+
+Perhaps—just *perhaps*—Guarded Gustave desired the immolation of his masterpiece not because it made him feel like a One Hit Wonder but for Oz’s reason: inhabiting Madame Bovary’s skin exposed the soft, feminine kernel beneath his bristly, masculine pique. In the end, for literary purposes, the pained compassion and the comic bite are the same mechanism. "Get hurt, cover the hurt, and make it funny." 
 
 I’m still waiting for that movie.           
