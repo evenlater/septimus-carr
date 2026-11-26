@@ -21,7 +21,8 @@ book:
 links:
   substack: "https://septimuscarr.substack.com/p/three-madames-bovary-who-failed-to"
   goodreads: "https://www.goodreads.com/review/show/8946375351"
-  reddit: ""
+  truelit: "https://www.reddit.com/r/TrueLit/comments/1y4b7yl/three_madames_bovary_who_failed_to_read_the/"
+  classicliterature: "https://www.reddit.com/r/classicliterature/comments/1y4baf8/three_madames_bovary_who_failed_to_read_the/"
   medium: ""
 readDates:
    start: "2026-09-14"
@@ -84,7 +85,7 @@ The consummation of Charles’s and Emma’s marriage provides a useful metric f
 
 Chabrol plays the scene more or less by the book. Jean-François Balmer as Charles is decidedly unglamorous and appropriately unctuous and uxorious. He bursts out of their bedchambers the morning after, euphorically demanding breakfast from the servants. It is accurate but dull, just like the movie. 
 
-The bizarrely stately BBC version casts the talented Hugh Bonneville (<i>Downton Abbey</i>’s Earl of Grantham) as a quietly longsuffering Charles. He is a little too intelligent and not nearly funny enough. Telewriter Heidi Thomas invents noncanonical scene after noncanonical, and the consummation scene is a doozy. Bonneville thrusts away Emma’s virginity in oblivious ecstasy. "I never knew, Emma!" he cries. She lies prone in pained, philosophical ennui: "Is this passion, Charles? Is this passion?" Thomas gets the relationship dynamic right, but the ponderous tone is more Brontë than Flaubert. 
+The bizarrely stately BBC version casts the talented Hugh Bonneville (<i>Downton Abbey</i>’s Earl of Grantham) as a quietly longsuffering Charles. He is a little too intelligent and not nearly funny enough. Telewriter Heidi Thomas invents noncanonical scene after noncanonical scene, and the consummation scene is a doozy. Bonneville thrusts away Emma’s virginity in oblivious ecstasy. "I never knew, Emma!" he cries. She lies prone in pained, philosophical ennui: "Is this passion, Charles? Is this passion?" Thomas gets the relationship dynamic right, but the ponderous tone is more Brontë than Flaubert. 
 
 The 2014 Sophie Barthes version burdens the narrative with an unsmiling feminist agenda. Flaubert’s Charles is too nice to accommodate her piercing thesis that Man Bad Woman Good. In the consummation scene, the handsome Henry Lloyd-Hughes is not just oblivious to her feelings, he is almost sinister in his onanistic lack of interest. He plows her, grunts, rolls over, and falls asleep. 
 
