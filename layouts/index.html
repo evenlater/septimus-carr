@@ -33,10 +33,11 @@
 {{/* ── MOST READ LATELY: data/topposts.json is written at build time by
      scripts/fetch-top-posts.mjs (Plausible, rolling 90 days, ranked by visitors).
      Only paths that match a real essay here survive, which drops retired slugs,
-     stray URLs, Notes, and the featured hero. If the file is empty or missing,
+     stray URLs, and Notes. The featured hero is deliberately allowed: if the
+     current essay is among the most read, it shows here too. If the file is empty or missing,
      the box simply doesn't render. ── */}}
 {{ $byPath := dict }}
-{{ range $posts }}
+{{ range $essays }}
   {{ $byPath = merge $byPath (dict .RelPermalink .) }}
 {{ end }}
 {{ $showComing := false }}
